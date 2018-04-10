@@ -1,4 +1,11 @@
 
+// case insensitive contains
+$.extend($.expr[":"], {
+"containsNC": function(elem, i, match, array) {
+return (elem.textContent || elem.innerText || "").toLowerCase().indexOf((match[3] || "").toLowerCase()) >= 0;
+}
+});
+
 function set_default_item(lochash, name, cur) {
     var val = lochash.substr(lochash.indexOf(name+'='))
       .split('&')[0]
@@ -12,6 +19,7 @@ function set_default() {
     list = set_default_item(lochash, 'list', list);
     loc = set_default_item(lochash, 'loc', loc);
     tag = set_default_item(lochash, 'tag', tag);
+    query = '';
 }
 
 function update_btn_item(name, cur) {
@@ -35,6 +43,12 @@ function hide_titles_with_no_items() {
     });
 }
 
+function hide_items_not_matching_query(query) {
+    if (query.length > 0) {
+        obj = $('.media-item').find(".item-title:not(:containsNC('" + query + "'))").parent().parent('.media-item').hide();
+    }
+}
+
 function show_filter_status() {
     var comment = '';
     list_str = list === 'all' ? 'all entries' : list;
@@ -51,11 +65,14 @@ function show_filter_status() {
         year_str = year === 'all' ? '' : ' in ' + year;
         comment = 'Showing ' + list_str + ' ' + comment + year_str + clear_btn;        
     }
+    // if (query.length > 0) {
+    //     comment += ' Ignoring items without the phrase "' + query + '"';
+    // }
     $('#filter_status').html(comment);
     $('.btn-clear').click(clear_filters);
 }
 
-function update(list, year, tag, loc) {
+function update(list, year, tag, loc, query) {
     update_btn_item('list', list);
     update_btn_item('year', year);
     update_btn_item('tag', tag);
@@ -79,5 +96,6 @@ function update(list, year, tag, loc) {
     hide_items_not_matching_attr('tag', tag);
     hide_items_not_matching_attr('loc', loc);
     hide_titles_with_no_items();
+    hide_items_not_matching_query(query);
     show_filter_status();
 }

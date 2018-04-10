@@ -7,8 +7,10 @@ var year = 'all'; // '2016';
 var list = DEFAULT_LIST;
 var tag = DEFAULT_TAG;
 var loc = DEFAULT_LOC;
+var query = '';
 
 function init() {
+    $('#search-box').on('input propertychange paste', update_textbox);
     $('.btn-list').click(update_list);
     $('.btn-tag').click(update_tag);
     $('.btn-clear').click(clear_filters);
@@ -18,7 +20,7 @@ function init() {
         "moreText"  : "[+]",
         "lessText"  : "[-]",
     });
-    update(list, year, tag, loc);
+    update(list, year, tag, loc, query);
 }
 
 function makeUpdateUrl(list, year, tag, loc) {
@@ -33,8 +35,9 @@ function clear_filters() {
     list = DEFAULT_LIST;
     tag = DEFAULT_TAG;
     loc = DEFAULT_LOC;
+    query = '';
     window.location.href = makeUpdateUrl(list, year, tag, loc);
-    update(list, year, tag, loc);
+    update(list, year, tag, loc, query);
     console.log('resetting.');
     console.log(makeUpdateUrl(list, year, tag, loc));
 }
@@ -47,7 +50,7 @@ function update_tag() {
         tag = lasttag;
     }
     window.location.href = makeUpdateUrl(list, year, tag, loc);
-    update(list, year, tag, loc);
+    update(list, year, tag, loc, query);
 }
 
 function update_list() {
@@ -58,7 +61,12 @@ function update_list() {
         list = lastlist;
     }
     window.location.href = makeUpdateUrl(list, year, tag, loc);
-    update(list, year, tag, loc);
+    update(list, year, tag, loc, query);
+}
+
+function update_textbox() {
+    query = $('#search-box').val();
+    update(list, year, tag, loc, query);
 }
 
 $(document).ready(init);
