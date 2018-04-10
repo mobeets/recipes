@@ -21,6 +21,9 @@
   text-align: center;
   margin-right: 0.3em;
 }
+.menu-tags {
+  line-height: 2;
+}
 .btn-list-item {
     font-size: 90%;
     -webkit-border-radius: 20;

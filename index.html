@@ -8,7 +8,7 @@ layout: post
         {% assign tags = site.data.dinners | map: 'tags' | uniq | sort %}
         <div class="menu-tags">
             {% for tag in tags %}
-                <div class="btn btn-list-item btn-tag" data-tag="{{ tag }}">{{ tag }}</div>
+                <div class="btn btn-list-item btn-tag btn-menu-tag" data-tag="{{ tag }}">{{ tag }}</div>
             {% endfor %}
         </div>
     </div>

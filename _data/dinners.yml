@@ -20,7 +20,7 @@
   comments: "amazingly delicious, and so amazingly simple"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: ['soup', 'chicken']
+  tags: ['soup', 'chicken', 'slow-cooker']
   recipe_urls: []
 - name: "Hazan's bean soup"
   type: "soup"
@@ -28,7 +28,7 @@
   comments: "with a side of grilled toast; also we use beef broth for the first time because we finally have some; with chickpeas only, and it's still pretty good; incredible: garlic, olive oil, cannelini beans, chicken broth...and that's it, plus salt and pepper and we add cheese as well"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: ['beans']
+  tags: ['soup', 'beans']
   recipe_urls: []
 - name: "red lentil curry"
   type: "curry"
@@ -44,7 +44,7 @@
   comments: "bacon lettuce avocado tomato"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['sandwich', 'bacon']
   recipe_urls: []
 - name: "tuna steak with kale and rice"
   type: ""
@@ -52,7 +52,7 @@
   comments: "delicious. cook tuna 3 minutes per side on high heat on sesame oil; should be pink inside! also way better fresh off the grill rather than as leftovers. after removing tuna, add 6T rice wine and 3T soy sauce to hot pan, cook for a minute until thick."
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['protein']
   recipe_urls: []
 - name: "burrito bowl"
   type: ""
@@ -68,7 +68,7 @@
   comments: "amazing. for the potatoes: chopped, boiled until tender, then pan fried in butter with equal parts sage, rosemary, thyme"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['beef']
   recipe_urls: []
 - name: "bacon and mushroom cheese pizza"
   type: "pizza"
@@ -76,7 +76,7 @@
   comments: "Best (and most pizza-like) pizza we've ever made. Mel's kitchen dough (single serving) makes enough for one pie on the large silver tray; we use 1c of hazan's tomato sauce (one recipe makes ~3c), about 2c of three-cheese mexican shredded cheese, about 6oz mushrooms (sliced, placed both under and on top of cheese), a bit more than 1/2lb of bacon (6 strips of 11, where 11 was 1/2lb), and listen to yourself about how much cheese and not to Jess; we cook it right on the tray, 475F, lower oven, after pre-heating the big tray. it did stick just a little bit--we forgot to add some flour. we use 3oz prosciutto, 6oz mushrooms, and for cheese, some garlic chevre and mozzarella (both from Aldi). turned out delicious!"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['pizza', 'bacon']
   recipe_urls: []
 - name: "fetteh"
   type: ""
@@ -84,7 +84,7 @@
   comments: "see last notes; Make sure not to burn the almonds! Also, maybe we should be cooking the chickpeas in the spices like in the chickpea curry, and the oil could just be the garlic fried in oil. and add the almonds last, or toast separately so they don't burn; 1.5 times the recipe gave us 5 servings again. don't multiply the oil, though, and infuse the garlic in the oil a la Hazan rather than just dicing it up. also, cook spices in butter and then add chickpeas--add TONS of spices because it's not that flavorful. still add spices to the oil. greek yogurt for sure and not traditional. when you eat, top with brown sugar.; pretty good! added a bit more tahini than suggested, I think; also, probably needs more spices; and a thicker yogurt, too. and don't forget to flip the pita bread triangles in the oven! made 5 servings"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['beans']
   recipe_urls: []
 - name: "Chicken curry"
   type: "curry"
@@ -92,7 +92,7 @@
   comments: "used 3 jalapenos and it is VERY spicy"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['curry', 'chicken']
   recipe_urls: []
 - name: "beef and bean chili"
   type: ""
@@ -100,7 +100,7 @@
   comments: "same recipe as before; used 3T-4T cocoa, and instead of beer, half a ginger beer and the other 6oz were OJ; simmered for 3 hrs; I skip the tabasco and sugar, and instead add cocoa, and cook for about 5 hours on low"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['beef', 'beans']
   recipe_urls: []
 - name: "Lamb korma"
   type: "curry"
@@ -108,7 +108,7 @@
   comments: ""
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['curry', 'lamb']
   recipe_urls: []
 - name: "pork tenderloin, mashed potatoes, kale from garden"
   type: ""
@@ -116,7 +116,7 @@
   comments: ""
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['pork']
   recipe_urls: []
 - name: "zucchini pasta"
   type: "pasta"
@@ -124,7 +124,7 @@
   comments: "shredded zucchini sauteed with one bell pepper, one serrano pepper, served with angel hair pasta and parmesan cheese...surprisingly delicious"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['pasta']
   recipe_urls: []
 - name: "chevre-stuffed chicken breast with lemon-butter sauce and pasta"
   type: ""
@@ -133,14 +133,14 @@
   last_suggested_date: "2017-08-27"
   dates_eaten: []
   tags: []
-  recipe_urls: []
+  recipe_urls: ['chicken']
 - name: "Hazan's pasta carbonara"
   type: "pasta"
   protein: "bacon"
   comments: "Jess aimed for 1/2 lb. of pasta and this was our best yet!; 1 lb of pasta is a little much--try 2/3 lb. also, we cooked the bacon, then removed it, drained a bit of grease, then added the olive oil and garlic, and then added the bacon back in once chopped up."
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['pasta', 'bacon']
   recipe_urls: []
 - name: "Chickpea curry with rice and yogurt"
   type: "curry"
@@ -148,7 +148,7 @@
   comments: ""
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['curry', 'beans', 'veggie']
   recipe_urls: []
 - name: "red beans and rice"
   type: ""
@@ -156,7 +156,7 @@
   comments: ""
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['beans', 'veggie']
   recipe_urls: []
 - name: "shakshouka"
   type: ""
@@ -164,7 +164,7 @@
   comments: "not mexican--w/e; don't overcook eggs! lots of paprika is key, all tomatoes and no sauce would be nice too"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['eggs', 'veggie']
   recipe_urls: []
 - name: "Fried catfish po boy"
   type: ""
@@ -172,7 +172,7 @@
   comments: ""
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['seafood']
   recipe_urls: []
 - name: "spicy miso ramen"
   type: "soup"
@@ -180,7 +180,7 @@
   comments: "with spinach, green onions, pork, fried egg, fish sauce, tamarind paste, chili flakes"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['soup', 'pork']
   recipe_urls: []
 - name: "Portabella pesto mushroom burgers"
   type: "sandwich"
@@ -188,7 +188,7 @@
   comments: ""
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['sandwich', 'veggie']
   recipe_urls: []
 - name: "almond sausage couscous"
   type: ""
@@ -196,7 +196,7 @@
   comments: "via vegie num num"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['sausage']
   recipe_urls: []
 - name: "sweet potato curry"
   type: "curry"
@@ -204,7 +204,7 @@
   comments: "coconut milk, red onions, lentils, brown sugar, curry powder, chili powder, cayenne, paprika"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['curry', 'veggie']
   recipe_urls: []
 - name: "roast veggies, quinoa, yogurt"
   type: ""
@@ -212,7 +212,7 @@
   comments: "beets, carrots, sweet potatoes, garlic; beets, carrots, sweet potatoes, garlic, for ~30 mins at 425F"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['veggie']
   recipe_urls: []
 - name: "chicken waterzooi"
   type: ""
@@ -220,7 +220,7 @@
   comments: "good! very simple, and tasty"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['chicken']
   recipe_urls: []
 - name: "gyudon on rice with miso soup"
   type: ""
@@ -228,7 +228,7 @@
   comments: ""
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['beef']
   recipe_urls: []
 - name: "mac and cheese"
   type: "pasta"
@@ -236,7 +236,7 @@
   comments: "equal parts mac, evaporated milk, and cheddar cheese (12 oz each); cook mac in just enough water to cover it; prepare cheese BEFOREHAND and do NOT use vitamix; Jess cooks. It made SO MUCH. Like 8 servings; more time consuming than expected, but it turned out delicious! we added bacon bits and mushrooms, and we have SO much left over"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['pasta', 'bacon']
   recipe_urls: []
 - name: "Hazan's pea, ricotta, and bacon pasta"
   type: "pasta"
@@ -244,7 +244,7 @@
   comments: "needs fewer peas, way more bacon (I'd suggest half a pound of bacon for a 1.5 times recipe.)"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['pasta', 'bacon']
   recipe_urls: []
 - name: "falafel"
   type: ""
@@ -252,7 +252,7 @@
   comments: "Just double it. It barely makes 4 servings, really. Also don't let Jess make the yogurt sauce!!; the recipe makes about five servings, if Jess has one patty and I have two; they're very good! maybe try panko next time? served with yogurt, spinach, and cucumber in a pita pocket; delicious! oil your hands to make the patties, fine if they be sticky"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['veggie']
   recipe_urls: []
 - name: "goulash"
   type: "pasta"
@@ -260,7 +260,7 @@
   comments: "we cook mac separately in chicken broth, just enough to cover, so that you don't drain it; also, jess adds lawry's and chili flakes to the stew part, and also we use two big cans of whole tomatoes instead of sauce and diced tomatoes"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['pasta', 'beef']
   recipe_urls: []
 - name: "strip steaks with sauce"
   type: ""
@@ -268,7 +268,7 @@
   comments: "from Martha: after steaks are done and removed from pan, add 1/3c liquid (wine, vinegar, broth, etc.) to pan to deglaze; let it boil off a bit, and then add 2T of thickener (butter, mustard, brown sugar, etc.)"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['beef']
   recipe_urls: []
 - name: "Sausages with curry ketchup"
   type: ""
@@ -276,7 +276,7 @@
   comments: ""
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['sausage']
   recipe_urls: []
 - name: "baked ziti"
   type: "pasta"
@@ -284,7 +284,7 @@
   comments: ""
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['pasta', 'veggie']
   recipe_urls: []
 - name: "beef stroganoff"
   type: "pasta"
@@ -292,7 +292,7 @@
   comments: "we use 2 lbs. ground beef, and 20oz mushrooms; made about 8 servings"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['beef', 'pasta']
   recipe_urls: []
 - name: "alabama white sauce chicken thighs"
   type: ""
@@ -300,7 +300,7 @@
   comments: "bake in oven at 375F on convection, starting skin side down for 15, then flipping and cooking 15 more, coating skin with sauce, then cooking 15 more or so. they were oiled, and sitting on an oiled rack over a cookie tray"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['chicken']
   recipe_urls: []
 - name: "banh mis"
   type: ""
@@ -308,7 +308,7 @@
   comments: ""
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['sandwich']
   recipe_urls: []
 - name: "coq au vin blanc"
   type: ""
@@ -316,7 +316,7 @@
   comments: "in the slow-cooker; 1.7 lbs of bone-in chicken thighs, with 3 pieces cooked bacon, 1 onion (these 3 things all pan-fried beforehand), 1c of some cheap chardonnay, 1c of broth, and 1t each of dried tarragon, sage, thyme, and rosemary; only vaguely inspired by the recipe in the link"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['chicken', 'slow-cooker']
   recipe_urls: []
 - name: "Hazan's butter and sage pasta"
   type: "pasta"
@@ -324,7 +324,7 @@
   comments: "macaroni noodles, with a strip of bacon each and parmesan, salt/pepper added as well"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['pasta']
   recipe_urls: []
 - name: "salmon with kale and red potatoes"
   type: ""
@@ -332,7 +332,7 @@
   comments: ""
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['seafood']
   recipe_urls: []
 - name: "lasagna"
   type: ""
@@ -340,7 +340,7 @@
   comments: "Jess does it!"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['pasta']
   recipe_urls: []
 - name: "pork ribs"
   type: ""
@@ -348,7 +348,7 @@
   comments: "These were delicious and amazing. St Louis style, 3 lbs. @$5/lb."
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['pork']
   recipe_urls: []
 - name: "Cheeseburgers"
   type: "sandwich"
@@ -356,7 +356,7 @@
   comments: "pesto, parmesan cheese, burger, toasted bolillos, mayo = maybe the best burger I think I've ever had, definitely the best one I've ever made; let the pan get nice and hot, then put loosely balled burgers on (break up beef entirely before balling), then smash."
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['sandwich', 'beef']
   recipe_urls: []
 - name: "Chicken salad with grapes, pecans"
   type: ""
@@ -364,7 +364,7 @@
   comments: "highest taste-to-ease ratio ever!"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['chicken']
   recipe_urls: []
 - name: "Marcella Hazan's chickpea soup"
   type: "soup"
@@ -372,7 +372,7 @@
   comments: "Jess cooks it herself while I'm at basketball; yeah, okay, so use almost all of one those big cans of roma tomatoes, and then two cans of chickpeas, two cups of broth, and then at least 1/3c of olive oil but no more than 1/2c; double or triple it; but you don't have to double the oil; double or triple it; maybe the greatest, simplest soup ever; fucking amazingly rich and delicious"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['soup', 'veggie']
   recipe_urls: []
 - name: "Marcella Hazan's tomato sauce with pasta and ground pork"
   type: "pasta"
@@ -380,7 +380,7 @@
   comments: "we use 5 lbs. of blanched garden tomatoes, and it turns out soupy but still delicious; also we add three garlic cloves, and puree when it was done cooking"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['pasta', 'pork']
   recipe_urls: []
 - name: "roast chicken"
   type: ""
@@ -388,7 +388,7 @@
   comments: "nothing simpler; half a stick of butter, rosemary, a lemon, some paprika maybe; 35 minutes at 450F"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['chicken']
   recipe_urls: []
 - name: "white bean, sausage and kale soup"
   type: "soup"
@@ -396,7 +396,7 @@
   comments: ""
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['soup']
   recipe_urls: []
 - name: "ham, pesto, cheese, salt/pepper angel hair pasta"
   type: "pasta"
@@ -404,7 +404,7 @@
   comments: ""
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['pasta']
   recipe_urls: []
 - name: "chicken sandwiches with avocado, sundried tomatoes, peppers; side of fried okra"
   type: "sandwich"
@@ -412,7 +412,7 @@
   comments: ""
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['sandwich']
   recipe_urls: []
 - name: "pulled pork sandwiches"
   type: "sandwich"
@@ -420,7 +420,7 @@
   comments: "slow-cook some pork shoulder using mom's recipe, then just add bbq sauce"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['sandwich', 'pork', 'slow-cooker']
   recipe_urls: []
 - name: "butternut squash soup"
   type: "soup"
@@ -428,7 +428,7 @@
   comments: "I baked them a few nights ago, and that took forever, but the soup turned out really good actually; Jess loved it"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['soup', 'veggie']
   recipe_urls: []
 - name: "pan-fried chicken breast with lentils and arugula salad"
   type: "salad"
@@ -436,7 +436,7 @@
   comments: "second Blue Apron meal. Always use chicken breast with the skin still on! It's so much better this way."
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['salad', 'chicken']
   recipe_urls: []
 - name: "Harrison's Bon Appetit chicken thighs"
   type: ""
@@ -444,7 +444,7 @@
   comments: "Harrison's recipe, and this shit is GOOD and (critically:) simple"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['chicken']
   recipe_urls: []
 - name: "slow-cooked beef sandwiches"
   type: "sandwich"
@@ -452,7 +452,7 @@
   comments: ""
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['sandwich', 'slow-cooker']
   recipe_urls: []
 - name: "Hazan's potato minestrone soup"
   type: "soup"
@@ -460,7 +460,7 @@
   comments: "without carrots, with crostini; I cook because Jess is sick."
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['soup']
   recipe_urls: []
 - name: "breaded chicken tacos"
   type: "tacos"
@@ -468,7 +468,7 @@
   comments: "one (cubed) chicken breast made enough for six tacos; lightly breaded in panko crumbs, served with refried black beans, fresh garden tomato, cheddar cheese, and avocado"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['tacos', 'chicken']
   recipe_urls: []
 - name: "Chicken and peach burger"
   type: "sandwich"
@@ -476,7 +476,7 @@
   comments: ""
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['sandwich', 'chicken']
   recipe_urls: []
 - name: "fish burger"
   type: "sandwich"
@@ -484,7 +484,7 @@
   comments: "in imitation of Hooked's: panko crumbs on tilapia filet, mayo sprinkled in dill on a toasted HEB bolillo; dotted with sweet chili sauce (rooster chili sauce + white sugar); delicious!"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['sandwich', 'seafood']
   recipe_urls: []
 - name: "thai beef with basil and rice"
   type: ""
@@ -492,7 +492,7 @@
   comments: "doubled it and it made 5 servings; need to make 1.25 cups rice though; maybe make 1.5x or 2x next time"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['beef']
   recipe_urls: []
 - name: "slow-cooker chicken tikka masala"
   type: "curry"
@@ -500,7 +500,7 @@
   comments: "nothing like tikka masala but fucking delicious"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['curry', 'chicken', 'slow-cooker']
   recipe_urls: []
 - name: "tom kha gai soup"
   type: "soup"
@@ -508,7 +508,7 @@
   comments: "Whenever I'm sick, this is the soup I want. -Jess; soooo good"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['soup', 'chicken']
   recipe_urls: []
 - name: "ribeye steak, steamed kale, baked sweet potato"
   type: ""
@@ -516,7 +516,7 @@
   comments: ""
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['beef']
   recipe_urls: []
 - name: "salmon chowder"
   type: "soup"
@@ -524,7 +524,7 @@
   comments: "Serious Eats recipe; gets waaaay better after a night in the fridge, so worth making it advance if you were gonna serve it to someone; also, a single recipe makes us seven servings"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['soup', 'seafood']
   recipe_urls: []
 - name: "chicken pot pie"
   type: ""
@@ -532,7 +532,7 @@
   comments: "used corn starch to thicken at the end; baked in 9-inch square pan; to measure chicken we just diced breasts and filled up a little over 3 cups, then pan-fried it"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['chicken']
   recipe_urls: []
 - name: "Green bean, pecan, sundried tomatoes, mushroom pasta"
   type: "pasta"
@@ -540,7 +540,7 @@
   comments: ""
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['pasta']
   recipe_urls: []
 - name: "beer bread"
   type: "bread"
@@ -548,7 +548,7 @@
   comments: "use bottom oven!; use the bottom oven so the top doesn't get too dark"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['bread']
   recipe_urls: []
 - name: "miso burgers and sweet potatoes"
   type: "sandwich"
@@ -556,7 +556,7 @@
   comments: ""
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['sandwich', 'beef']
   recipe_urls: []
 - name: "mushroom, spinach, cheese quesadillas with sour cream and home-made salsa"
   type: ""
@@ -564,7 +564,7 @@
   comments: ""
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['veggie']
   recipe_urls: []
 - name: "spaghetti bolognese"
   type: "pasta"
@@ -572,7 +572,7 @@
   comments: ""
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['pasta', 'beef']
   recipe_urls: []
 - name: "butter chicken"
   type: "curry"
@@ -580,7 +580,7 @@
   comments: "we don't puree, and we broil the chicken cut in slices but never chop it further"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['chicken', 'curry']
   recipe_urls: []
 - name: "chicken caesar salad"
   type: "salad"
@@ -588,7 +588,7 @@
   comments: "for thighs, use about 5 (2 lbs ?); chicken thighs and croutons...so good"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['salad', 'chicken']
   recipe_urls: []
 - name: "alfredo pasta with mushrooms and chicken"
   type: "pasta"
@@ -596,7 +596,7 @@
   comments: "using Mom's recipe, then just adding mushrooms and chicken (cooked separately, combined at the end)"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['pasta', 'chicken']
   recipe_urls: []
 - name: "Chicken katsu don"
   type: ""
@@ -604,7 +604,7 @@
   comments: "pretty good! but maybe use miso without the seaweed"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['chicken']
   recipe_urls: []
 - name: "Hazan potato minestrone soup"
   type: "soup"
@@ -612,7 +612,7 @@
   comments: "It's okay."
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['soup', 'veggie']
   recipe_urls: []
 - name: "pork carnitas tacos"
   type: "tacos"
@@ -620,7 +620,7 @@
   comments: "so good..."
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['tacos', 'pork']
   recipe_urls: []
 - name: "slow-cooker beef chuck roast cubed, potatoes, baby carrots, onions, garlic, chicken broth"
   type: ""
@@ -628,7 +628,7 @@
   comments: "from the slow-cooker recipe book; used 1.6 lbs. of protein and that was still plenty"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['chicken', 'slow-cooker']
   recipe_urls: []
 - name: "shiitake mushroom burger, baked sweet potato fries"
   type: "sandwich"
@@ -636,7 +636,7 @@
   comments: "first Blue Apron meal, and it's delicious: the miso mayo is key"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['sandwich', 'veggie']
   recipe_urls: []
 - name: "pork chops"
   type: ""
@@ -644,7 +644,7 @@
   comments: "Delicious! 1-inch thick, cooked at 400F for 10 mins or so, after a 30 min salt brine and then searing in an oven-hot cast iron."
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['pork']
   recipe_urls: []
 - name: "Hazan's all'amatriciana sauce"
   type: "pasta"
@@ -652,7 +652,7 @@
   comments: "we make a double recipe, and it's a good amount; this time with bucatini, but Jess, please don't cook the whole pound of pasta...Though we should definitely make double the sauce next time; we cook 10oz. bacon (from bacon butt bits), add a diced medium onion, then a full large can of whole plum tomatoes (no oil, no butter), and then chili flakes; delicious!"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['pasta', 'bacon']
   recipe_urls: []
 - name: "slow-cooked BBQ brisket"
   type: ""
@@ -660,5 +660,5 @@
   comments: "too easy, and just fine and delicious"
   last_suggested_date: "2017-08-27"
   dates_eaten: []
-  tags: []
+  tags: ['beef', 'slow-cooker']
   recipe_urls: []
