@@ -1,0 +1,58 @@
+---
+layout: post
+---
+<!-- https://help.shopify.com/themes/liquid/filters/array-filters -->
+<!-- https://github.com/Shopify/liquid/wiki/Liquid-for-Designers -->
+<div class="everything">
+    <div class="btn-menu">
+        {% assign tags = site.data.dinners | map: 'tags' | uniq | sort %}
+        <div class="menu-tags">
+            {% for tag in tags %}
+                <div class="btn btn-list-item btn-tag" data-tag="{{ tag }}">{{ tag }}</div>
+            {% endfor %}
+        </div>
+    </div>
+    <br><br>
+    <span id="filter_status"></span>
+
+<!-- 
+- name: "scallops, oyster mushrooms"
+  type: "" # ignore; will be a tag
+  protein: "seafood" # ignore; will be a tag
+  comments: "scallops via Julia Child cookbook, mushrooms via mushroom kit!"
+  last_suggested_date: "2017-08-27"
+  dates_eaten: []
+  tags: []
+  recipe_urls: []
+-->
+
+    <div id="recipes" class="recipes all list-group">
+    {% for item in site.data.dinners %}
+        <div class="media-item">
+            <div class="item-head">
+                <span class="item-title">{{ item.name | capitalize }}</span>
+                {% if item.recipe_urls and item.recipe_urls != empty %}[{% for url in item.recipe_urls %}<a href="{{ url }}">{{forloop.index}}</a>{% unless forloop.last %},{% endunless %}{% endfor %}]{% endif %}
+            </div>
+            <div class="item-opinion">
+                {% if item.tags and item.tags != empty %}
+                {% assign curtags = item.tags | join:' btn-tag-' | prepend: 'btn-tag-' %}                
+                <div class="tags {{ curtags }}">
+                    <span class="item-label">tags:</span> 
+                    {% for tag in item.tags %}
+                    <div class="btn btn-list-item btn-tag" data-tag="{{ tag }}">{{ tag }}</div>
+                    {% endfor %}
+                </div>
+                {% else %}
+                    <div class="btn-tag" style="display: hidden;" data-tag="(none)"></div>
+                {% endif %}
+                {% if item.comments != empty %}
+                <div class="comments">
+                    <span class="item-label">comments:</span> {{ item.comments }}
+                </div>
+                {% endif %}
+            </div>
+        </div>
+    {% endfor %}
+    </div>
+
+</div>

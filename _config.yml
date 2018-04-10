@@ -1,0 +1,15 @@
+# Site settings
+title: Recipes
+email: mobeets@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Recipes and notes
+# baseurl: ""
+baseurl: "/recipes" # the subpath of your site, e.g. /blog/
+url: "https://mobeets.github.io" # the base hostname & protocol for your site
+author_name: mobeets
+twitter_username: jehosafet
+github_username:  mobeets
+github_projectname: recipes
+
+# Build settings
+markdown: kramdown
