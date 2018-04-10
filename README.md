@@ -5,12 +5,8 @@ This is a Jekyll-based web log for displaying recipes.
 Create a .yml file to `_data/` with a similar structure:
 
 ````
-- name: "scallops, oyster mushrooms"
-  type: ""
-  protein: "seafood"
-  comments: "scallops via Julia Child cookbook, mushrooms via mushroom kit!"
-  last_suggested_date: "2017-08-27"
-  dates_eaten: []
-  tags: []
+- name: "Baked penne pasta with roasted vegetables"
+  comments: "bake at 450F for 10 mins, then 425F for 10-12 mins"
+  tags: ['pasta', 'veggie']
   recipe_urls: []
 ````
