@@ -3,9 +3,14 @@ layout: post
 ---
 <!-- https://help.shopify.com/themes/liquid/filters/array-filters -->
 <!-- https://github.com/Shopify/liquid/wiki/Liquid-for-Designers -->
+
+{% assign popularcount = site.data.settings.popular_count %}
+{% assign populartag = 'popular' | split: ' ' %}
+{% assign thisweektag = 'this-week' | split: ' ' %}
+{% assign max_date = site.data.recipes | map:'last_suggested_date' | uniq | sort | last %}
 <div class="everything">
     <div class="btn-menu">
-        {% assign tags = site.data.recipes | map: 'tags' | uniq | sort %}
+        {% assign tags = site.data.recipes | map: 'tags' | uniq | sort | concat: thisweektag | concat: populartag %}
         <div class="menu-tags">
             {% for tag in tags %}
                 <div class="btn btn-list-item btn-tag btn-menu-tag" data-tag="{{ tag }}">{{ tag }}</div>
@@ -32,11 +37,18 @@ layout: post
         <div class="media-item">
             <div class="item-head">
                 <span class="item-title">{{ item.name | capitalize }}</span>
-                {% if item.recipe_urls and item.recipe_urls != empty %}[{% for url in item.recipe_urls %}<a href="{{ url }}">{{forloop.index}}</a>{% unless forloop.last %},{% endunless %}{% endfor %}]{% endif %}
+                {% if item.recipe_urls and item.recipe_urls != empty %}[{% for url in item.recipe_urls %}<a href="{{ url }}">recipe</a>{% unless forloop.last %}, {% endunless %}{% endfor %}]{% endif %}
             </div>
             <div class="item-opinion">
                 {% if item.tags and item.tags != empty %}
-                {% assign curtags = item.tags | join:' btn-tag-' | prepend: 'btn-tag-' %}                
+                {% assign curtagnames = item.tags %}
+                {% if item.count and item.count > popularcount %}
+                    {% assign curtagnames = curtagnames | concat: populartag %}
+                {% endif %}
+                {% if item.last_suggested_date and item.last_suggested_date == max_date %}
+                    {% assign curtagnames = curtagnames | concat: thisweektag %}
+                {% endif %}
+                {% assign curtags = curtagnames | join:' btn-tag-' | prepend: 'btn-tag-' %}
                 <div class="tags {{ curtags }}">
                     <span class="item-label">tags:</span> 
                     {% for tag in item.tags %}
@@ -46,9 +58,14 @@ layout: post
                 {% else %}
                     <div class="btn-tag" style="display: hidden;" data-tag="(none)"></div>
                 {% endif %}
+                <!-- {% if item.count %}
+                <div class="count">
+                    <span class="item-label"># times:</span> {{ item.count }}
+                </div>
+                {% endif %} -->
                 {% if item.comments != empty %}
                 <div class="comments">
-                    <span class="item-label">comments:</span> {{ item.comments }}
+                    <span class="item-label">comments:</span> {{ item.comments | join: '; ' }}
                 </div>
                 {% endif %}
             </div>

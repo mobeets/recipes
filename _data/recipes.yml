@@ -110,8 +110,18 @@
   name: "pork tenderloin, mashed potatoes, kale from garden"
   tags:
   - "pork"
-  last_suggested_date: '2018-04-11'
+  last_suggested_date: '2016-01-01'
   recipe_urls: []
+  comments: []
+- count: 1
+  index: 135
+  nickname: ""
+  name: "gyudon on rice with miso soup"
+  tags:
+  - "soup"
+  last_suggested_date: '2016-01-01'
+  recipe_urls:
+  - "http://www.seriouseats.com/recipes/2016/07/gyudon-japanese-simmered-beef-and-rice-bowl-recipe.html, http://www.hikarimiso.com/recipes/miso_soup/basic_miso/"
   comments: []
 - count: 3
   index: 134
@@ -227,6 +237,17 @@
   - "http://www.seriouseats.com/recipes/2015/01/moist-and-tender-brown-butter-cornbread-recipe.html"
   comments:
   - "fucking delicious"
+- count: 3
+  index: 123
+  nickname: ""
+  name: "beef stroganoff"
+  tags:
+  - "beef"
+  last_suggested_date: '2016-01-01'
+  recipe_urls:
+  - "http://www.bonappetit.com/recipe/adams-beef-stroganoff"
+  comments:
+  - "we use 2 lbs. ground beef, and 20oz mushrooms; made about 8 servings"
 - count: 4
   index: 122
   nickname: ""
@@ -235,6 +256,27 @@
   - "pasta"
   last_suggested_date: '2016-01-01'
   recipe_urls: []
+  comments: []
+- count: 1
+  index: 121
+  nickname: ""
+  name: "alfredo pasta with mushrooms and chicken"
+  tags:
+  - "pasta"
+  - "chicken"
+  last_suggested_date: '2016-01-01'
+  recipe_urls: []
+  comments:
+  - "using Mom's recipe, then just adding mushrooms and chicken (cooked separately, combined at the end)"
+- count: 1
+  index: 120
+  nickname: ""
+  name: "white bean, sausage and kale soup"
+  tags:
+  - "soup"
+  last_suggested_date: '2016-01-01'
+  recipe_urls:
+  - "http://www.bonappetit.com/columns/cooking-without-recipes/article/easy-sausage-white-bean-kale-dinner"
   comments: []
 - count: 3
   index: 119
@@ -257,6 +299,16 @@
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments: []
+- count: 1
+  index: 117
+  nickname: ""
+  name: "hazan's chickpea soup with rice"
+  tags:
+  - "soup"
+  last_suggested_date: '2016-01-01'
+  recipe_urls: []
+  comments:
+  - "It's alright for a change, and it made a ton, but I'm pretty sure I like it better without the rice"
 - count: 3
   index: 116
   nickname: ""
@@ -269,6 +321,19 @@
   comments:
   - "used corn starch to thicken at the end; baked in 9\" square pan; to measure chicken we just diced breasts and filled up a little over 3 cups, then pan-fried it"
   - "just the crust top (not bottom), in the 2.2qt rectangular pyrex"
+- count: 5
+  index: 115
+  nickname: ""
+  name: "beef and bean chili"
+  tags:
+  - "beef"
+  last_suggested_date: '2016-01-01'
+  recipe_urls:
+  - "http://www.food.com/recipe/the-best-bowl-of-chili-ive-ever-had-178865"
+  comments:
+  - "I skip the tabasco and sugar, and instead add cocoa, and cook for about 5 hours on low"
+  - "same recipe as before; used 3T-4T cocoa, and instead of beer, half a ginger beer and the other 6oz were OJ; simmered for 3 hrs"
+  - "on fritos"
 - count: 2
   index: 114
   nickname: ""
@@ -419,6 +484,34 @@
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments: []
+- count: 3
+  index: 99
+  nickname: ""
+  name: "burrito bowl"
+  tags: []
+  last_suggested_date: '2016-01-01'
+  recipe_urls: []
+  comments:
+  - "so good with avocado and sour cream...also, Jess has mastered cooking rice"
+  - "marinade sliced round steak in worcestire, brown sugar, lime juice for an hour prior to cooking (don't cook in all of liquid! maybe just use some of it)"
+- count: 1
+  index: 98
+  nickname: ""
+  name: "banh mis"
+  tags: []
+  last_suggested_date: '2016-01-01'
+  recipe_urls: []
+  comments: []
+- count: 8
+  index: 97
+  nickname: ""
+  name: "pork carnitas tacos"
+  tags:
+  - "pork"
+  last_suggested_date: '2016-01-01'
+  recipe_urls: []
+  comments:
+  - "so good..."
 - count: 2
   index: 96
   nickname: ""
@@ -557,6 +650,18 @@
   - "chicken thighs and croutons...so good"
   - "for thighs, use about 5 (2 lbs ?)"
 - count: 3
+  index: 82
+  nickname: ""
+  name: "butternut squash soup"
+  tags:
+  - "soup"
+  last_suggested_date: '2016-01-01'
+  recipe_urls:
+  - "http://www.foodnetwork.com/recipes/food-network-kitchens/butternut-squash-soup-recipe1.html"
+  - "http://www.seriouseats.com/recipes/2016/11/classic-butternut-squash-soup-recipe.html"
+  comments:
+  - "I baked them a few nights ago, and that took forever, but the soup turned out really good actually; Jess loved it"
+- count: 3
   index: 81
   nickname: ""
   name: "chicken thighs"
@@ -660,7 +765,7 @@
   name: "breaded chicken tacos"
   tags:
   - "chicken"
-  last_suggested_date: '2018-04-11'
+  last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments:
   - "one (cubed) chicken breast made enough for six tacos; lightly breaded in panko crumbs, served with refried black beans, fresh garden tomato, cheddar cheese, and avocado"
@@ -691,7 +796,7 @@
   name: "fish burger"
   tags:
   - "burger"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-04-11'
   recipe_urls: []
   comments:
   - "in imitation of Hooked's: panko crumbs on tilapia filet, mayo sprinkled in dill on a toasted HEB bolillo; dotted with sweet chili sauce (rooster chili sauce + white sugar); delicious!"
@@ -743,10 +848,21 @@
   nickname: ""
   name: "spicy miso ramen"
   tags: []
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-04-11'
   recipe_urls: []
   comments:
   - "we double the actual ramen recipe and it makes plenty"
+- count: 1
+  index: 63
+  nickname: ""
+  name: "steak au poivre with roasted potatoes"
+  tags:
+  - "beef"
+  last_suggested_date: '2016-01-01'
+  recipe_urls:
+  - "http://www.foodnetwork.com/recipes/alton-brown/steak-au-poivre-recipe.html"
+  comments:
+  - "amazing. for the potatoes: chopped, boiled until tender, then pan fried in butter with equal parts sage, rosemary, thyme"
 - count: 1
   index: 62
   nickname: ""
@@ -895,6 +1011,15 @@
   comments:
   - "from the slow-cooker recipe book; used 1.6 lbs. of meat and that was still plenty"
 - count: 1
+  index: 48
+  nickname: ""
+  name: "blat"
+  tags: []
+  last_suggested_date: '2016-01-01'
+  recipe_urls: []
+  comments:
+  - "bacon lettuce avocado tomato"
+- count: 1
   index: 47
   nickname: ""
   name: "chicken tacos with corn salsa"
@@ -947,7 +1072,7 @@
   name: "steak fajitas with onions, bell peppers, avocado, yogurt, beer"
   tags:
   - "beef"
-  last_suggested_date: '2018-04-11'
+  last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments:
   - "ahh, gas grills make it so easy. grills and beer and summer too good"
@@ -991,17 +1116,8 @@
   recipe_urls: []
   comments:
   - "scallops via Julia Child cookbook, mushrooms via mushroom kit!"
-- count: 2
-  index: 37
-  nickname: ""
-  name: "ckm1"
-  tags: []
-  last_suggested_date: '2016-01-01'
-  recipe_urls: []
-  comments:
-  - "I realize I like these if I just don't eat the skin"
 - count: 1
-  index: 36
+  index: 37
   nickname: ""
   name: "hummus, roasted veggies"
   tags: []
@@ -1009,7 +1125,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 35
+  index: 36
   nickname: ""
   name: "slow-cooked bbq brisket"
   tags: []
@@ -1018,7 +1134,16 @@
   comments:
   - "too easy, and just fine and delicious"
 - count: 1
-  index: 33
+  index: 35
+  nickname: ""
+  name: "chicken tacos"
+  tags:
+  - "chicken"
+  last_suggested_date: '2016-01-01'
+  recipe_urls: []
+  comments: []
+- count: 1
+  index: 34
   nickname: ""
   name: "peas and zucchini pasta"
   tags:
@@ -1028,7 +1153,7 @@
   comments:
   - "too lemony"
 - count: 5
-  index: 32
+  index: 33
   nickname: "CkR4"
   name: "chicken curry"
   tags:
@@ -1044,7 +1169,7 @@
   - "lime is seriously CRITICAL; yogurt not necessary"
   - "we also add an onion and diced tomatoes; super liquidy so if you add the tomatoes maybe skip the broth"
 - count: 1
-  index: 31
+  index: 32
   nickname: ""
   name: "turkey blt with avocado sandwiches, french fries"
   tags:
@@ -1053,7 +1178,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 30
+  index: 31
   nickname: ""
   name: "chicken thighs, green beans with bacon, baked sweet potato"
   tags:
@@ -1064,7 +1189,7 @@
   comments:
   - "somehow even better than yesterday"
 - count: 1
-  index: 29
+  index: 30
   nickname: ""
   name: "ribeye steak, steamed kale, baked sweet potato"
   tags:
@@ -1073,7 +1198,7 @@
   recipe_urls: []
   comments: []
 - count: 2
-  index: 28
+  index: 29
   nickname: "CkR3"
   name: "lamb korma"
   tags:
@@ -1084,7 +1209,7 @@
   comments:
   - "made in slow-cooker, barely fits but turns out great"
 - count: 1
-  index: 27
+  index: 28
   nickname: ""
   name: "baked tempeh sandwich with sundried tomato pesto, avocado, and spinach"
   tags:
@@ -1094,7 +1219,7 @@
   comments:
   - "soooo filling and pretty good"
 - count: 1
-  index: 26
+  index: 27
   nickname: "CkSd2"
   name: "french fries"
   tags: []
@@ -1103,21 +1228,8 @@
   - "http://thepioneerwoman.com/cooking/2012/01/perfect-french-fries/"
   comments:
   - "unbelievable...need a better scooper though"
-- count: 6
-  index: 25
-  nickname: ""
-  name: "ckm6"
-  tags: []
-  last_suggested_date: '2016-01-01'
-  recipe_urls: []
-  comments:
-  - "with red bell peppers! doubled walnuts, which was good, but needed to double cashews as well"
-  - "definitely double both"
-  - "Jess does it alone"
-  - "double everything but maybe not the lemon; also, use less soy sauce in the walnuts (too salty!); also, maybe use pecans and not walnuts since they tend to be a bit cheaper"
-  - "used pecans instead of walnuts; Jess says do 1.5 times soy sauce instead of 2 times"
 - count: 1
-  index: 24
+  index: 26
   nickname: ""
   name: "smoked chicken"
   tags:
@@ -1127,23 +1239,47 @@
   comments:
   - "first smoking! 5 lb. chicken over 2 hrs--quicker than expected but turned out good"
 - count: 5
-  index: 23
-  nickname: ""
-  name: "ckp3"
+  index: 25
+  nickname: "CkP3"
+  name: "spaghetti and meatballs"
   tags: []
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments: []
 - count: 1
-  index: 22
+  index: 24
   nickname: ""
   name: "omelettes"
   tags: []
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments: []
+- count: 5
+  index: 23
+  nickname: "CkS7"
+  name: "cheeseburgers"
+  tags:
+  - "burger"
+  last_suggested_date: '2016-01-01'
+  recipe_urls: []
+  comments:
+  - "on charcoal grill; roll up newspaper into coils, starting from corner, three rolls, and coil into chimney, leaving air in the center--works perfectly! we drink wine and beer and sit outside in chairs listening to Can and Pink Floyd's \"Animals\", catching fireflies and talking about gun control and revolution"
+  - "Tonight I made 7 burgers from 1.5 lbs of beef, breaking up the beef into the little strands as much as possible, and then lightly (as lightly as possible) clumping them back together into patties. Seasoning with salt, pepper, and Lawry's salt, and then cooking in the cast iron and flipping once, smashing, and keeping all the lovely grease around. They were delicious, and I ate mine on a so-fresh-they-were-hot Fiesta bolillo with the last beautiful tomato from the garden and a slice of cheddar cheese."
+- count: 7
+  index: 22
+  nickname: "CkM6"
+  name: "raw tacos with cashews and walnuts"
+  tags: []
+  last_suggested_date: '2016-01-01'
+  recipe_urls: []
+  comments:
+  - "with red bell peppers! doubled walnuts, which was good, but needed to double cashews as well"
+  - "definitely double both"
+  - "Jess does it alone"
+  - "double everything but maybe not the lemon; also, use less soy sauce in the walnuts (too salty!); also, maybe use pecans and not walnuts since they tend to be a bit cheaper"
+  - "used pecans instead of walnuts; Jess says do 1.5 times soy sauce instead of 2 times"
 - count: 2
-  index: 20
+  index: 21
   nickname: "CkD5"
   name: "oven-roasted chicken"
   tags:
@@ -1154,7 +1290,7 @@
   - "surprisingly easy: rub butter and other stuff on it, and bake it for an hour"
   - "one stick of butter is plenty"
 - count: 4
-  index: 19
+  index: 20
   nickname: "CkS6"
   name: "fried catfish po boy"
   tags: []
@@ -1164,18 +1300,8 @@
   - "fried catfish with tartar sauce and pickles on buns--catfish dipped in egg, then in breadcrumbs and flour and salt and pepper, then fried in good amount of veggie oil; jess makes delicious tartar sauce with mayo, lemon juice, salt and pepper, and pickles"
   - "huge-ass probably sad catfish from Fiesta--good though"
   - "dip in flour, then in egg, then in panko. the perfect crust! eat with bread-and-butter pickles and mayo on toasted bolillos"
-- count: 4
-  index: 18
-  nickname: ""
-  name: "ckp2"
-  tags: []
-  last_suggested_date: '2016-01-01'
-  recipe_urls: []
-  comments:
-  - "with chicken, cherry tomatoes, mushrooms"
-  - "with ham and mushrooms, with fresh basil from the garden"
 - count: 1
-  index: 17
+  index: 19
   nickname: ""
   name: "pasta with beef and sauteed veggies"
   tags:
@@ -1184,22 +1310,43 @@
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments: []
-- count: 1
-  index: 16
-  nickname: ""
-  name: "ckr2"
-  tags: []
-  last_suggested_date: '2016-01-01'
-  recipe_urls:
-  - "http://www.veggienumnum.com/2010/11/masoor-dal/"
-  comments: []
-- count: 1
-  index: 15
-  nickname: "CkSd1"
-  name: "ravioli with tomato-sauce and mushrooms"
+- count: 4
+  index: 18
+  nickname: "CkM1"
+  name: "red chili bean and sweet potato burritos"
   tags: []
   last_suggested_date: '2016-01-01'
   recipe_urls: []
+  comments:
+  - "I realize I like these if I just don't eat the skin"
+- count: 5
+  index: 17
+  nickname: "CkP2"
+  name: "pesto pasta"
+  tags:
+  - "pasta"
+  last_suggested_date: '2016-01-01'
+  recipe_urls: []
+  comments:
+  - "with chicken, cherry tomatoes, mushrooms"
+  - "with ham and mushrooms, with fresh basil from the garden"
+- count: 1
+  index: 16
+  nickname: "CkSd1"
+  name: "ravioli with tomato-sauce and mushrooms"
+  tags: []
+  last_suggested_date: '2018-04-11'
+  recipe_urls: []
+  comments: []
+- count: 2
+  index: 15
+  nickname: "CkR2"
+  name: "lentil curry"
+  tags:
+  - "curry"
+  last_suggested_date: '2016-01-01'
+  recipe_urls:
+  - "http://www.veggienumnum.com/2010/11/masoor-dal/"
   comments: []
 - count: 8
   index: 14
@@ -1213,7 +1360,7 @@
   comments:
   - "using two zucchini, one green bell pepper, lots of brown mushrooms, and one small onion as the only vegetables--and it's the perfect amount"
   - "2 zucchini, 1 green bell pepper, <1 cup of peas, 2 cups of cheese (mozarrella and parma) for in the pasta, Hazan's pasta sauce (1 28 oz can), cook pasta ~ almost done, like 8 minutes, bake the pasta at 450 for like...10 minutes and then reduce heat to 400 or 425 for last 15 mins"
-  - "one zucchini and it's perfect. also do globs of mozzarella on top so it gets all gooey and pretty."
+  - "one zucchini and it's perfect. also do globs of mozzarella on top so it gets all gooey and pretty. Aiiii."
 - count: 7
   index: 13
   nickname: "CkS2"
@@ -1269,7 +1416,7 @@
   name: "lentil spinach pecan feta carrot salad"
   tags:
   - "salad"
-  last_suggested_date: '2018-04-11'
+  last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments: []
 - count: 7
@@ -1308,7 +1455,7 @@
   nickname: ""
   name: "mushroom, spinach, cheese quesadillas with sour cream and home-made salsa"
   tags: []
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-04-11'
   recipe_urls: []
   comments: []
 - count: 1
@@ -1319,6 +1466,16 @@
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments: []
+- count: 5
+  index: 2
+  nickname: ""
+  name: "red lentil curry"
+  tags:
+  - "curry"
+  last_suggested_date: '2016-01-01'
+  recipe_urls: []
+  comments:
+  - "recipe from Sophie (fwd from Jess) in my email"
 - count: 1
   index: 1
   nickname: ""
@@ -1328,158 +1485,3 @@
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments: []
-- count: 1
-  index: 135
-  nickname: ""
-  name: "gyudon on rice with miso soup"
-  tags:
-  - "soup"
-  last_suggested_date: '2018-04-11'
-  recipe_urls:
-  - "http://www.seriouseats.com/recipes/2016/07/gyudon-japanese-simmered-beef-and-rice-bowl-recipe.html, http://www.hikarimiso.com/recipes/miso_soup/basic_miso/"
-  comments: []
-- count: 5
-  index: 115
-  nickname: ""
-  name: "beef and bean chili"
-  tags:
-  - "beef"
-  last_suggested_date: '2018-04-11'
-  recipe_urls:
-  - "http://www.food.com/recipe/the-best-bowl-of-chili-ive-ever-had-178865"
-  comments:
-  - "I skip the tabasco and sugar, and instead add cocoa, and cook for about 5 hours on low"
-  - "same recipe as before; used 3T-4T cocoa, and instead of beer, half a ginger beer and the other 6oz were OJ; simmered for 3 hrs"
-  - "on fritos"
-- count: 3
-  index: 99
-  nickname: ""
-  name: "burrito bowl"
-  tags: []
-  last_suggested_date: '2018-04-11'
-  recipe_urls: []
-  comments:
-  - "so good with avocado and sour cream...also, Jess has mastered cooking rice"
-  - "marinade sliced round steak in worcestire, brown sugar, lime juice for an hour prior to cooking (don't cook in all of liquid! maybe just use some of it)"
-- count: 1
-  index: 98
-  nickname: ""
-  name: "banh mis"
-  tags: []
-  last_suggested_date: '2018-04-11'
-  recipe_urls: []
-  comments: []
-- count: 1
-  index: 34
-  nickname: ""
-  name: "chicken tacos"
-  tags:
-  - "chicken"
-  last_suggested_date: '2018-04-11'
-  recipe_urls: []
-  comments: []
-- count: 1
-  index: 120
-  nickname: ""
-  name: "white bean, sausage and kale soup"
-  tags:
-  - "soup"
-  last_suggested_date: '2018-04-11'
-  recipe_urls:
-  - "http://www.bonappetit.com/columns/cooking-without-recipes/article/easy-sausage-white-bean-kale-dinner"
-  comments: []
-- count: 8
-  index: 97
-  nickname: ""
-  name: "pork carnitas tacos"
-  tags:
-  - "pork"
-  last_suggested_date: '2018-04-11'
-  recipe_urls: []
-  comments:
-  - "so good..."
-- count: 3
-  index: 82
-  nickname: ""
-  name: "butternut squash soup"
-  tags:
-  - "soup"
-  last_suggested_date: '2018-04-11'
-  recipe_urls:
-  - "http://www.foodnetwork.com/recipes/food-network-kitchens/butternut-squash-soup-recipe1.html"
-  - "http://www.seriouseats.com/recipes/2016/11/classic-butternut-squash-soup-recipe.html"
-  comments:
-  - "I baked them a few nights ago, and that took forever, but the soup turned out really good actually; Jess loved it"
-- count: 1
-  index: 63
-  nickname: ""
-  name: "steak au poivre with roasted potatoes"
-  tags:
-  - "beef"
-  last_suggested_date: '2018-04-11'
-  recipe_urls:
-  - "http://www.foodnetwork.com/recipes/alton-brown/steak-au-poivre-recipe.html"
-  comments:
-  - "amazing. for the potatoes: chopped, boiled until tender, then pan fried in butter with equal parts sage, rosemary, thyme"
-- count: 5
-  index: 2
-  nickname: ""
-  name: "red lentil curry"
-  tags:
-  - "curry"
-  last_suggested_date: '2018-04-11'
-  recipe_urls: []
-  comments:
-  - "recipe from Sophie (fwd from Jess) in my email"
-- count: 3
-  index: 123
-  nickname: ""
-  name: "beef stroganoff"
-  tags:
-  - "beef"
-  last_suggested_date: '2018-04-11'
-  recipe_urls:
-  - "http://www.bonappetit.com/recipe/adams-beef-stroganoff"
-  comments:
-  - "we use 2 lbs. ground beef, and 20oz mushrooms; made about 8 servings"
-- count: 1
-  index: 121
-  nickname: ""
-  name: "alfredo pasta with mushrooms and chicken"
-  tags:
-  - "pasta"
-  - "chicken"
-  last_suggested_date: '2018-04-11'
-  recipe_urls: []
-  comments:
-  - "using Mom's recipe, then just adding mushrooms and chicken (cooked separately, combined at the end)"
-- count: 1
-  index: 117
-  nickname: ""
-  name: "hazan's chickpea soup with rice"
-  tags:
-  - "soup"
-  last_suggested_date: '2018-04-11'
-  recipe_urls: []
-  comments:
-  - "It's alright for a change, and it made a ton, but I'm pretty sure I like it better without the rice"
-- count: 1
-  index: 48
-  nickname: ""
-  name: "blat"
-  tags: []
-  last_suggested_date: '2018-04-11'
-  recipe_urls: []
-  comments:
-  - "bacon lettuce avocado tomato"
-- count: 5
-  index: 21
-  nickname: "CkS7"
-  name: "cheeseburgers"
-  tags:
-  - "burger"
-  last_suggested_date: '2018-04-11'
-  recipe_urls: []
-  comments:
-  - "on charcoal grill; roll up newspaper into coils, starting from corner, three rolls, and coil into chimney, leaving air in the center--works perfectly! we drink wine and beer and sit outside in chairs listening to Can and Pink Floyd's \"Animals\", catching fireflies and talking about gun control and revolution"
-  - "Tonight I made 7 burgers from 1.5 lbs of beef, breaking up the beef into the little strands as much as possible, and then lightly (as lightly as possible) clumping them back together into patties. Seasoning with salt, pepper, and Lawry's salt, and then cooking in the cast iron and flipping once, smashing, and keeping all the lovely grease around. They were delicious, and I ate mine on a so-fresh-they-were-hot Fiesta bolillo with the last beautiful tomato from the garden and a slice of cheddar cheese."
