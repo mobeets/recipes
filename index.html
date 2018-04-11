@@ -5,7 +5,7 @@ layout: post
 <!-- https://github.com/Shopify/liquid/wiki/Liquid-for-Designers -->
 <div class="everything">
     <div class="btn-menu">
-        {% assign tags = site.data.dinners | map: 'tags' | uniq | sort %}
+        {% assign tags = site.data.recipes | map: 'tags' | uniq | sort %}
         <div class="menu-tags">
             {% for tag in tags %}
                 <div class="btn btn-list-item btn-tag btn-menu-tag" data-tag="{{ tag }}">{{ tag }}</div>
@@ -28,7 +28,7 @@ layout: post
 -->
 
     <div id="recipes" class="recipes all list-group">
-    {% for item in site.data.dinners %}
+    {% for item in site.data.recipes %}
         <div class="media-item">
             <div class="item-head">
                 <span class="item-title">{{ item.name | capitalize }}</span>
