@@ -59,8 +59,7 @@
   index: 141
   nickname: ""
   name: "tuna steaks with rice and broccoli"
-  tags:
-  - "beef"
+  tags: []
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments: []
@@ -99,8 +98,7 @@
   index: 137
   nickname: ""
   name: "tuna steaks with rice and asparagus"
-  tags:
-  - "beef"
+  tags: []
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments: []
@@ -222,7 +220,7 @@
   nickname: ""
   name: "goulash"
   tags: []
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-04-14'
   recipe_urls:
   - "http://www.pipandebby.com/pip-ebby/best-ever-goulash"
   comments:
@@ -243,7 +241,7 @@
   name: "beef stroganoff"
   tags:
   - "beef"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-04-14'
   recipe_urls:
   - "http://www.bonappetit.com/recipe/adams-beef-stroganoff"
   comments:
@@ -359,6 +357,7 @@
   nickname: ""
   name: "slow-cooker chicken tikka masala"
   tags:
+  - "slow-cooker"
   - "chicken"
   last_suggested_date: '2016-01-01'
   recipe_urls:
@@ -398,8 +397,7 @@
   index: 108
   nickname: ""
   name: "strip steaks with sauce"
-  tags:
-  - "beef"
+  tags: []
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments:
@@ -507,6 +505,7 @@
   nickname: ""
   name: "pork carnitas tacos"
   tags:
+  - "tacos"
   - "pork"
   last_suggested_date: '2016-01-01'
   recipe_urls: []
@@ -537,8 +536,7 @@
   index: 94
   nickname: ""
   name: "steak in wine, cream, and mushroom sauce; baked red potatoes; focaccia bread"
-  tags:
-  - "beef"
+  tags: []
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments:
@@ -667,7 +665,7 @@
   name: "chicken thighs"
   tags:
   - "chicken"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-04-14'
   recipe_urls:
   - "http://www.bonappetit.com/recipe/perfect-pan-roasted-chicken-thighs"
   comments:
@@ -764,6 +762,7 @@
   nickname: ""
   name: "breaded chicken tacos"
   tags:
+  - "tacos"
   - "chicken"
   last_suggested_date: '2016-01-01'
   recipe_urls: []
@@ -847,7 +846,8 @@
   index: 64
   nickname: ""
   name: "spicy miso ramen"
-  tags: []
+  tags:
+  - "soup"
   last_suggested_date: '2018-04-11'
   recipe_urls: []
   comments:
@@ -856,8 +856,7 @@
   index: 63
   nickname: ""
   name: "steak au poivre with roasted potatoes"
-  tags:
-  - "beef"
+  tags: []
   last_suggested_date: '2016-01-01'
   recipe_urls:
   - "http://www.foodnetwork.com/recipes/alton-brown/steak-au-poivre-recipe.html"
@@ -868,6 +867,7 @@
   nickname: ""
   name: "garlic and togarashi oil, spicy miso paste; pork ramen"
   tags:
+  - "soup"
   - "pork"
   last_suggested_date: '2016-01-01'
   recipe_urls:
@@ -880,6 +880,7 @@
   name: "slow-cooked beef sandwiches"
   tags:
   - "sandwich"
+  - "slow-cooker"
   - "beef"
   last_suggested_date: '2016-01-01'
   recipe_urls:
@@ -926,7 +927,8 @@
   index: 57
   nickname: ""
   name: "ramen"
-  tags: []
+  tags:
+  - "soup"
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments:
@@ -956,6 +958,7 @@
   name: "slow-cooker chicken tortilla soup"
   tags:
   - "soup"
+  - "slow-cooker"
   - "chicken"
   last_suggested_date: '2016-01-01'
   recipe_urls:
@@ -985,7 +988,8 @@
   index: 51
   nickname: ""
   name: "slow-cooker chili"
-  tags: []
+  tags:
+  - "slow-cooker"
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments: []
@@ -1004,6 +1008,7 @@
   nickname: ""
   name: "slow-cooker beef chuck roast cubed, potatoes, baby carrots, onions, garlic, chicken broth"
   tags:
+  - "slow-cooker"
   - "chicken"
   - "beef"
   last_suggested_date: '2016-01-01'
@@ -1024,6 +1029,7 @@
   nickname: ""
   name: "chicken tacos with corn salsa"
   tags:
+  - "tacos"
   - "chicken"
   last_suggested_date: '2016-01-01'
   recipe_urls: []
@@ -1061,8 +1067,7 @@
   index: 43
   nickname: ""
   name: "rib eye steak, mashed potatoes"
-  tags:
-  - "beef"
+  tags: []
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments: []
@@ -1070,8 +1075,7 @@
   index: 42
   nickname: ""
   name: "steak fajitas with onions, bell peppers, avocado, yogurt, beer"
-  tags:
-  - "beef"
+  tags: []
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments:
@@ -1128,7 +1132,8 @@
   index: 36
   nickname: ""
   name: "slow-cooked bbq brisket"
-  tags: []
+  tags:
+  - "slow-cooker"
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments:
@@ -1138,6 +1143,7 @@
   nickname: ""
   name: "chicken tacos"
   tags:
+  - "tacos"
   - "chicken"
   last_suggested_date: '2016-01-01'
   recipe_urls: []
@@ -1192,8 +1198,7 @@
   index: 30
   nickname: ""
   name: "ribeye steak, steamed kale, baked sweet potato"
-  tags:
-  - "beef"
+  tags: []
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments: []
@@ -1269,8 +1274,9 @@
   index: 22
   nickname: "CkM6"
   name: "raw tacos with cashews and walnuts"
-  tags: []
-  last_suggested_date: '2016-01-01'
+  tags:
+  - "tacos"
+  last_suggested_date: '2018-04-14'
   recipe_urls: []
   comments:
   - "with red bell peppers! doubled walnuts, which was good, but needed to double cashews as well"
@@ -1294,7 +1300,7 @@
   nickname: "CkS6"
   name: "fried catfish po boy"
   tags: []
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-04-14'
   recipe_urls: []
   comments:
   - "fried catfish with tartar sauce and pickles on buns--catfish dipped in egg, then in breadcrumbs and flour and salt and pepper, then fried in good amount of veggie oil; jess makes delicious tartar sauce with mayo, lemon juice, salt and pepper, and pickles"
