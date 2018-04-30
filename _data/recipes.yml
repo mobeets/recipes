@@ -235,7 +235,7 @@
   - "http://www.seriouseats.com/recipes/2015/01/moist-and-tender-brown-butter-cornbread-recipe.html"
   comments:
   - "fucking delicious"
-- count: 3
+- count: 4
   index: 123
   nickname: ""
   name: "beef stroganoff"
@@ -246,6 +246,7 @@
   - "http://www.bonappetit.com/recipe/adams-beef-stroganoff"
   comments:
   - "we use 2 lbs. ground beef, and 20oz mushrooms; made about 8 servings"
+  - "takes a little more than an hour to make, and we added corn starch to finally get it to thicken"
 - count: 4
   index: 122
   nickname: ""
@@ -262,7 +263,7 @@
   tags:
   - "pasta"
   - "chicken"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-04-28'
   recipe_urls: []
   comments:
   - "using Mom's recipe, then just adding mushrooms and chicken (cooked separately, combined at the end)"
@@ -272,7 +273,7 @@
   name: "white bean, sausage and kale soup"
   tags:
   - "soup"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-04-21'
   recipe_urls:
   - "http://www.bonappetit.com/columns/cooking-without-recipes/article/easy-sausage-white-bean-kale-dinner"
   comments: []
@@ -471,7 +472,7 @@
   tags:
   - "pasta"
   - "pork"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-04-28'
   recipe_urls: []
   comments: []
 - count: 1
@@ -487,7 +488,7 @@
   nickname: ""
   name: "burrito bowl"
   tags: []
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-04-21'
   recipe_urls: []
   comments:
   - "so good with avocado and sour cream...also, Jess has mastered cooking rice"
@@ -726,7 +727,7 @@
   - "http://www.easy-french-food.com/coq-au-vin-recipe.html"
   comments:
   - "in the slow-cooker; 1.7 lbs of bone-in chicken thighs, with 3 pieces cooked bacon, 1 onion (these 3 things all pan-fried beforehand), 1c of some cheap chardonnay, 1c of broth, and 1t each of dried tarragon, sage, thyme, and rosemary; only vaguely inspired by the recipe in the link"
-- count: 6
+- count: 7
   index: 75
   nickname: ""
   name: "pork ribs"
@@ -737,6 +738,7 @@
   - "http://www.marthastewart.com/318389/oven-roasted-ribs-with-barbecue-sauce"
   comments:
   - "These were delicious and amazing. St Louis style, 3 lbs. @$5/lb."
+  - "baked for 50min at 350F, then 10 at 425F with bbq sauce"
 - count: 1
   index: 74
   nickname: ""
@@ -902,7 +904,7 @@
   name: "marcella hazan's chickpea soup"
   tags:
   - "soup"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-04-28'
   recipe_urls:
   - "http://stylishcuisine.com/?p=87"
   comments:
@@ -939,7 +941,7 @@
   name: "tuna pasta with garlic, spinach, parmesan"
   tags:
   - "pasta"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-04-28'
   recipe_urls: []
   comments: []
 - count: 1
@@ -1165,7 +1167,7 @@
   tags:
   - "curry"
   - "chicken"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-04-28'
   recipe_urls:
   - "http://www.amateurgourmet.com/2010/04/bombay_chicken_curry.html"
   - "https://www.budgetbytes.com/2016/05/thai-coconut-curry-braised-chicken-thighs/"
@@ -1248,7 +1250,7 @@
   nickname: "CkP3"
   name: "spaghetti and meatballs"
   tags: []
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-04-21'
   recipe_urls: []
   comments: []
 - count: 1
@@ -1270,20 +1272,22 @@
   comments:
   - "on charcoal grill; roll up newspaper into coils, starting from corner, three rolls, and coil into chimney, leaving air in the center--works perfectly! we drink wine and beer and sit outside in chairs listening to Can and Pink Floyd's \"Animals\", catching fireflies and talking about gun control and revolution"
   - "Tonight I made 7 burgers from 1.5 lbs of beef, breaking up the beef into the little strands as much as possible, and then lightly (as lightly as possible) clumping them back together into patties. Seasoning with salt, pepper, and Lawry's salt, and then cooking in the cast iron and flipping once, smashing, and keeping all the lovely grease around. They were delicious, and I ate mine on a so-fresh-they-were-hot Fiesta bolillo with the last beautiful tomato from the garden and a slice of cheddar cheese."
-- count: 7
+- count: 8
   index: 22
   nickname: "CkM6"
   name: "raw tacos with cashews and walnuts"
   tags:
   - "tacos"
   last_suggested_date: '2018-04-14'
-  recipe_urls: []
+  recipe_urls:
+  - "https://www.mynewroots.org/site/2011/07/raw-taco-fiesta-2/"
   comments:
   - "with red bell peppers! doubled walnuts, which was good, but needed to double cashews as well"
   - "definitely double both"
   - "Jess does it alone"
   - "double everything but maybe not the lemon; also, use less soy sauce in the walnuts (too salty!); also, maybe use pecans and not walnuts since they tend to be a bit cheaper"
   - "used pecans instead of walnuts; Jess says do 1.5 times soy sauce instead of 2 times"
+  - "Made with half almonds, half pecans. Defrost nuts first or else the almonds never quite blended. Or blend the pecans and almonds in separate batches, either way."
 - count: 2
   index: 21
   nickname: "CkD5"
@@ -1412,7 +1416,7 @@
   name: "green bean, pecan, sundried tomatoes, mushroom pasta"
   tags:
   - "pasta"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-04-21'
   recipe_urls: []
   comments:
   - "if pecan is crumbed it will thicken up the sauce real nice"
@@ -1488,6 +1492,6 @@
   name: "ham, pesto, cheese, salt/pepper angel hair pasta"
   tags:
   - "pasta"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-04-21'
   recipe_urls: []
   comments: []
