@@ -1,4 +1,4 @@
-- count: 1
+- count: 2
   index: 147
   nickname: ""
   name: "togarashi popcorn chicken with cabbage slaw"
@@ -9,6 +9,7 @@
   - "https://www.blueapron.com/recipes/togarashi-popcorn-chicken-with-sweet-chili-cabbage-slaw"
   comments:
   - "delicious! used sriracha instead of tonkatsu sauce"
+  - "doubled recipe. sweet chili sauce = spicy chili paste + sugar + soy sauce. use big cast iron so you can fry it all at once"
 - count: 1
   index: 146
   nickname: ""
@@ -52,7 +53,7 @@
   name: "miso burgers with asparagus"
   tags:
   - "burger"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-05-05'
   recipe_urls: []
   comments: []
 - count: 1
@@ -69,7 +70,7 @@
   name: "chicken katsudon"
   tags:
   - "chicken"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-05-05'
   recipe_urls:
   - "http://www.seriouseats.com/recipes/2017/04/katsudon-japanese-leftover-cutlet-rice-egg-bowl-recipe.html"
   comments:
@@ -277,7 +278,7 @@
   recipe_urls:
   - "http://www.bonappetit.com/columns/cooking-without-recipes/article/easy-sausage-white-bean-kale-dinner"
   comments: []
-- count: 3
+- count: 4
   index: 119
   nickname: ""
   name: "thai beef with basil and rice"
@@ -295,7 +296,7 @@
   name: "pork tenderloin, mashed potatoes, green beans"
   tags:
   - "pork"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-05-05'
   recipe_urls: []
   comments: []
 - count: 1
@@ -399,7 +400,7 @@
   nickname: ""
   name: "strip steaks with sauce"
   tags: []
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-05-05'
   recipe_urls: []
   comments:
   - "from Martha: after steaks are done and removed from pan, add 1/3c liquid (wine, vinegar, broth, etc.) to pan to deglaze; let it boil off a bit, and then add 2T of thickener (butter, mustard, brown sugar, etc.)"
@@ -676,7 +677,7 @@
   nickname: ""
   name: "mac and cheese"
   tags: []
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-05-05'
   recipe_urls:
   - "http://www.foodnetwork.com/recipes/ree-drummond/macaroni-and-cheese-recipe.html"
   - "http://thepioneerwoman.com/cooking/fancy-macaroni/"
@@ -777,7 +778,7 @@
   tags:
   - "pasta"
   - "pork"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-05-05'
   recipe_urls: []
   comments:
   - "we use 5 lbs. of blanched garden tomatoes, and it turns out soupy but still delicious; also we add three garlic cloves, and puree when it was done cooking"
@@ -992,7 +993,7 @@
   name: "slow-cooker chili"
   tags:
   - "slow-cooker"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-05-05'
   recipe_urls: []
   comments: []
 - count: 3
@@ -1089,7 +1090,7 @@
   tags:
   - "curry"
   - "lamb"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-05-05'
   recipe_urls: []
   comments: []
 - count: 2
@@ -1118,7 +1119,7 @@
   nickname: ""
   name: "scallops, oyster mushrooms"
   tags: []
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-05-05'
   recipe_urls: []
   comments:
   - "scallops via Julia Child cookbook, mushrooms via mushroom kit!"
@@ -1364,7 +1365,7 @@
   name: "baked penne pasta with roasted vegetables"
   tags:
   - "pasta"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-05-05'
   recipe_urls:
   - "http://www.foodnetwork.com/recipes/giada-de-laurentiis/baked-penne-with-roasted-vegetables-recipe.html"
   comments:
