@@ -21,7 +21,7 @@
   - "https://www.seriouseats.com/recipes/2013/05/red-curry-with-shrimp-zucchini-and-carrot.html"
   comments:
   - "make with chicken thighs which we bake with some chili paste rubbed on, at 425F for about 25 minutes. also, only one small zucchini, and 1c of carrots. really delicious!"
-- count: 1
+- count: 2
   index: 145
   nickname: ""
   name: "miso burgers"
@@ -35,7 +35,7 @@
   nickname: ""
   name: "gyudon on rice"
   tags: []
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-06-02'
   recipe_urls: []
   comments: []
 - count: 1
@@ -64,7 +64,7 @@
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments: []
-- count: 2
+- count: 3
   index: 140
   nickname: ""
   name: "chicken katsudon"
@@ -76,6 +76,7 @@
   comments:
   - "I would triple the sauce for two servings. Don't be afraid to let the onions cook forever because they are delicious...also, do try adding the chicken to the broth. And make sure you use panko along with a flour-egg dip."
   - "we used two onions, and 6x the broth, just skipping the sake because we had none. we made the chicken cutlets using thin breasts and flour, egg, panko. this recipe takes a bit if you make the cutlets and the broth, mostly just because of the cutlets. we cooked the onions for quite a while, maybe 15 minutes. for the dashi, we used one packet with 3 cups of water, and boilet it along with the sugar and other liquids like mirin. it turned out so delicious..."
+  - "to confirm the last note, we did 3x the broth (not 6x). for chicken, we did a dry salt brine (1/4c salt + 1t baking poweder on 1.5 lbs thin breasts) for 2 hours, and rinsed off salt afterward, and still _plenty_ salty"
 - count: 1
   index: 139
   nickname: ""
@@ -118,7 +119,7 @@
   name: "gyudon on rice with miso soup"
   tags:
   - "soup"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-05-19'
   recipe_urls:
   - "http://www.seriouseats.com/recipes/2016/07/gyudon-japanese-simmered-beef-and-rice-bowl-recipe.html, http://www.hikarimiso.com/recipes/miso_soup/basic_miso/"
   comments: []
@@ -150,7 +151,7 @@
   name: "miso burgers and sweet potatoes"
   tags:
   - "burger"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-05-26'
   recipe_urls: []
   comments: []
 - count: 1
@@ -190,7 +191,7 @@
   name: "shiitake mushroom burger, baked sweet potato fries"
   tags:
   - "burger"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-05-12'
   recipe_urls: []
   comments:
   - "first Blue Apron meal, and it's delicious: the miso mayo is key"
@@ -248,7 +249,7 @@
   comments:
   - "we use 2 lbs. ground beef, and 20oz mushrooms; made about 8 servings"
   - "takes a little more than an hour to make, and we added corn starch to finally get it to thicken"
-- count: 4
+- count: 5
   index: 122
   nickname: ""
   name: "pasta carbonara"
@@ -315,7 +316,7 @@
   name: "chicken pot pie"
   tags:
   - "chicken"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-06-02'
   recipe_urls:
   - "http://thepioneerwoman.com/cooking/pot-pie/"
   comments:
@@ -350,7 +351,7 @@
   nickname: ""
   name: "pizza"
   tags: []
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-05-19'
   recipe_urls: []
   comments:
   - "we cook it right on the tray, 475F, lower oven, after pre-heating the big tray. it did stick just a little bit--we forgot to add some flour. we use 3oz prosciutto, 6oz mushrooms, and for cheese, some garlic chevre and mozzarella (both from Aldi). turned out delicious!"
@@ -391,7 +392,7 @@
   nickname: ""
   name: "roast duck"
   tags: []
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-05-12'
   recipe_urls: []
   comments:
   - "so bad that we might just throw it away--very rubbery and chewy"
@@ -518,7 +519,7 @@
   nickname: ""
   name: "baked ziti"
   tags: []
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-06-02'
   recipe_urls:
   - "http://www.bonappetit.com/recipe/bas-best-baked-ziti"
   comments: []
@@ -767,7 +768,7 @@
   tags:
   - "tacos"
   - "chicken"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-05-12'
   recipe_urls: []
   comments:
   - "one (cubed) chicken breast made enough for six tacos; lightly breaded in panko crumbs, served with refried black beans, fresh garden tomato, cheddar cheese, and avocado"
@@ -860,7 +861,7 @@
   nickname: ""
   name: "steak au poivre with roasted potatoes"
   tags: []
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-05-26'
   recipe_urls:
   - "http://www.foodnetwork.com/recipes/alton-brown/steak-au-poivre-recipe.html"
   comments:
@@ -932,7 +933,7 @@
   name: "ramen"
   tags:
   - "soup"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-05-12'
   recipe_urls: []
   comments:
   - "with spinach, green onions, pork, fried egg, fish sauce, tamarind paste, chili flakes"
@@ -983,7 +984,7 @@
   name: "sweet potato curry"
   tags:
   - "curry"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-05-26'
   recipe_urls: []
   comments:
   - "coconut milk, red onions, lentils, brown sugar, curry powder, chili powder, cayenne, paprika"
@@ -1023,7 +1024,7 @@
   nickname: ""
   name: "blat"
   tags: []
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-06-02'
   recipe_urls: []
   comments:
   - "bacon lettuce avocado tomato"
@@ -1062,7 +1063,7 @@
   name: "zucchini pasta"
   tags:
   - "pasta"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-06-02'
   recipe_urls: []
   comments:
   - "shredded zucchini sauteed with one bell pepper, one serrano pepper, served with angel hair pasta and parmesan cheese...surprisingly delicious"
@@ -1128,7 +1129,7 @@
   nickname: ""
   name: "hummus, roasted veggies"
   tags: []
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-05-19'
   recipe_urls: []
   comments: []
 - count: 1
@@ -1222,7 +1223,7 @@
   name: "baked tempeh sandwich with sundried tomato pesto, avocado, and spinach"
   tags:
   - "sandwich"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-05-12'
   recipe_urls: []
   comments:
   - "soooo filling and pretty good"
@@ -1259,7 +1260,7 @@
   nickname: ""
   name: "omelettes"
   tags: []
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-05-26'
   recipe_urls: []
   comments: []
 - count: 5
@@ -1318,7 +1319,7 @@
   tags:
   - "pasta"
   - "beef"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-05-19'
   recipe_urls: []
   comments: []
 - count: 4
@@ -1355,7 +1356,7 @@
   name: "lentil curry"
   tags:
   - "curry"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-05-19'
   recipe_urls:
   - "http://www.veggienumnum.com/2010/11/masoor-dal/"
   comments: []
@@ -1430,7 +1431,7 @@
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments: []
-- count: 7
+- count: 8
   index: 7
   nickname: "CkS4"
   name: "chicken salad with grapes, pecans"
@@ -1458,7 +1459,7 @@
   name: "portabella pesto mushroom burgers"
   tags:
   - "burger"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-05-26'
   recipe_urls: []
   comments: []
 - count: 1
