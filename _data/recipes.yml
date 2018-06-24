@@ -1,3 +1,23 @@
+- count: 1
+  index: 149
+  nickname: ""
+  name: "grilled chicken winglets"
+  tags:
+  - "chicken"
+  last_suggested_date: '2016-01-01'
+  recipe_urls: []
+  comments:
+  - "lit about 25-30 briquettes by piling up in pyramid, covering in lighter fluid, then burning. It was just barely enough coal to cook all the chicken, and it took a while. But other than that, it went well!"
+- count: 1
+  index: 148
+  nickname: ""
+  name: "ham and bean soup"
+  tags:
+  - "soup"
+  last_suggested_date: '2016-01-01'
+  recipe_urls: []
+  comments:
+  - "ham was smoked ham hock from Whole Foods for $10, and also some dried (navy?) beans that Cindy sent us."
 - count: 2
   index: 147
   nickname: ""
@@ -101,7 +121,7 @@
   nickname: ""
   name: "tuna steaks with rice and asparagus"
   tags: []
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-06-23'
   recipe_urls: []
   comments: []
 - count: 1
@@ -310,7 +330,7 @@
   recipe_urls: []
   comments:
   - "It's alright for a change, and it made a ton, but I'm pretty sure I like it better without the rice"
-- count: 3
+- count: 4
   index: 116
   nickname: ""
   name: "chicken pot pie"
@@ -319,9 +339,11 @@
   last_suggested_date: '2018-06-02'
   recipe_urls:
   - "http://thepioneerwoman.com/cooking/pot-pie/"
+  - "https://www.allrecipes.com/recipe/18427/easy-pie-crust/"
   comments:
   - "used corn starch to thicken at the end; baked in 9\" square pan; to measure chicken we just diced breasts and filled up a little over 3 cups, then pan-fried it"
   - "just the crust top (not bottom), in the 2.2qt rectangular pyrex"
+  - "use only 1.5c broth, and then between 1/4-1/2c cream, so it barely takes any time to thicken. made a simple crust that took no time at all to bake--just covered with foil for first 15 minutes of baking, then took it off for about 12 more minutes, at 375F."
 - count: 5
   index: 115
   nickname: ""
@@ -411,7 +433,7 @@
   name: "bacon and mushroom cheese pizza"
   tags:
   - "bacon"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-06-16'
   recipe_urls: []
   comments:
   - "Best (and most pizza-like) pizza we've ever made. Mel's kitchen dough (single serving) makes enough for one pie on the large silver tray; we use 1c of hazan's tomato sauce (one recipe makes ~3c), about 2c of three-cheese mexican shredded cheese, about 6oz mushrooms (sliced, placed both under and on top of cheese), a bit more than 1/2lb of bacon (6 strips of 11, where 11 was 1/2lb), and listen to yourself about how much cheese and not to Jess"
@@ -482,7 +504,7 @@
   nickname: ""
   name: "turkey chili and cornbread"
   tags: []
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-06-10'
   recipe_urls: []
   comments: []
 - count: 3
@@ -500,7 +522,7 @@
   nickname: ""
   name: "banh mis"
   tags: []
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-06-23'
   recipe_urls: []
   comments: []
 - count: 8
@@ -529,7 +551,7 @@
   name: "tom kha gai soup"
   tags:
   - "soup"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-06-16'
   recipe_urls:
   - "http://www.bonappetit.com/recipe/tom-kha-gai-chicken-coconut-soup"
   comments:
@@ -603,7 +625,7 @@
   name: "hazan's bean soup"
   tags:
   - "soup"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-06-23'
   recipe_urls: []
   comments:
   - "incredible: garlic, olive oil, cannelini beans, chicken broth...and that's it, plus salt and pepper and we add cheese as well"
@@ -624,7 +646,7 @@
   nickname: ""
   name: "mashed sweet potatoes"
   tags: []
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-06-10'
   recipe_urls:
   - "http://www.seriouseats.com/recipes/2014/11/the-best-mashed-sweet-potatoes-recipe.html"
   comments: []
@@ -757,7 +779,7 @@
   nickname: ""
   name: "marcella hazan's tomato sauce"
   tags: []
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-06-16'
   recipe_urls: []
   comments:
   - "We blanch 5 lbs, and end up with 3.25 lbs because a lot of those guys were pretty nasty."
@@ -1002,7 +1024,7 @@
   nickname: "CkM7"
   name: "shakshouka"
   tags: []
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-06-16'
   recipe_urls: []
   comments:
   - "not mexican--w/e; don't overcook eggs! lots of paprika is key, all tomatoes and no sauce would be nice too"
@@ -1072,7 +1094,7 @@
   nickname: ""
   name: "rib eye steak, mashed potatoes"
   tags: []
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-06-10'
   recipe_urls: []
   comments: []
 - count: 1
@@ -1080,7 +1102,7 @@
   nickname: ""
   name: "steak fajitas with onions, bell peppers, avocado, yogurt, beer"
   tags: []
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-06-23'
   recipe_urls: []
   comments:
   - "ahh, gas grills make it so easy. grills and beer and summer too good"
@@ -1100,7 +1122,7 @@
   name: "chicken katsu don"
   tags:
   - "chicken"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-06-16'
   recipe_urls:
   - "http://www.justonecookbook.com/recipes/chicken-katsu-don/"
   comments:
@@ -1138,7 +1160,7 @@
   name: "slow-cooked bbq brisket"
   tags:
   - "slow-cooker"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-06-10'
   recipe_urls: []
   comments:
   - "too easy, and just fine and delicious"
@@ -1296,7 +1318,7 @@
   name: "oven-roasted chicken"
   tags:
   - "chicken"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-06-23'
   recipe_urls: []
   comments:
   - "surprisingly easy: rub butter and other stuff on it, and bake it for an hour"
@@ -1389,7 +1411,7 @@
   nickname: ""
   name: "mushroom noodles"
   tags: []
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-06-10'
   recipe_urls: []
   comments: []
 - count: 1
