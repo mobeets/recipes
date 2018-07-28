@@ -8,7 +8,7 @@
   recipe_urls: []
   comments:
   - "lit about 25-30 briquettes by piling up in pyramid, covering in lighter fluid, then burning. It was just barely enough coal to cook all the chicken, and it took a while. But other than that, it went well!"
-- count: 1
+- count: 2
   index: 148
   nickname: ""
   name: "ham and bean soup"
@@ -18,7 +18,7 @@
   recipe_urls: []
   comments:
   - "ham was smoked ham hock from Whole Foods for $10, and also some dried (navy?) beans that Cindy sent us."
-- count: 2
+- count: 3
   index: 147
   nickname: ""
   name: "togarashi popcorn chicken with cabbage slaw"
@@ -30,6 +30,7 @@
   comments:
   - "delicious! used sriracha instead of tonkatsu sauce"
   - "doubled recipe. sweet chili sauce = spicy chili paste + sugar + soy sauce. use big cast iron so you can fry it all at once"
+  - "1.25 lbs chicken is about perfect for cooking in the big cast iron, but it's not that much food. just about 4 servings total."
 - count: 1
   index: 146
   nickname: ""
@@ -47,7 +48,7 @@
   name: "miso burgers"
   tags:
   - "burger"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-07-28'
   recipe_urls: []
   comments: []
 - count: 1
@@ -159,7 +160,7 @@
   name: "alabama white sauce chicken thighs"
   tags:
   - "chicken"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-07-28'
   recipe_urls:
   - "http://www.foodnetwork.com/recipes/jeff-mauro/grilled-chicken-with-alabama-white-bbq-sauce-2810701"
   comments:
@@ -181,7 +182,7 @@
   tags:
   - "sandwich"
   - "pork"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-07-21'
   recipe_urls: []
   comments:
   - "slow-cook some pork shoulder using mom's recipe, then just add bbq sauce"
@@ -233,7 +234,7 @@
   nickname: ""
   name: "salmon chowder"
   tags: []
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-07-14'
   recipe_urls: []
   comments:
   - "Serious Eats recipe; gets waaaay better after a night in the fridge, so worth making it advance if you were gonna serve it to someone; also, a single recipe makes us seven servings"
@@ -269,7 +270,7 @@
   comments:
   - "we use 2 lbs. ground beef, and 20oz mushrooms; made about 8 servings"
   - "takes a little more than an hour to make, and we added corn starch to finally get it to thicken"
-- count: 5
+- count: 6
   index: 122
   nickname: ""
   name: "pasta carbonara"
@@ -299,13 +300,13 @@
   recipe_urls:
   - "http://www.bonappetit.com/columns/cooking-without-recipes/article/easy-sausage-white-bean-kale-dinner"
   comments: []
-- count: 4
+- count: 5
   index: 119
   nickname: ""
   name: "thai beef with basil and rice"
   tags:
   - "beef"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-07-07'
   recipe_urls:
   - "http://www.bonappetit.com/recipe/thai-beef-with-basil"
   comments:
@@ -377,14 +378,14 @@
   recipe_urls: []
   comments:
   - "we cook it right on the tray, 475F, lower oven, after pre-heating the big tray. it did stick just a little bit--we forgot to add some flour. we use 3oz prosciutto, 6oz mushrooms, and for cheese, some garlic chevre and mozzarella (both from Aldi). turned out delicious!"
-- count: 1
+- count: 2
   index: 112
   nickname: ""
   name: "slow-cooker chicken tikka masala"
   tags:
   - "slow-cooker"
   - "chicken"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-07-14'
   recipe_urls:
   - "http://www.thekitchn.com/recipe-slow-cooker-chicken-tikka-masala-recipes-from-the-kitchn-211284"
   comments:
@@ -394,11 +395,11 @@
   nickname: ""
   name: "tuna with kale and rice"
   tags: []
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-07-28'
   recipe_urls: []
   comments:
   - "delicious. cook tuna 3 minutes per side on high heat on sesame oil; should be pink inside! also way better fresh off the grill rather than as leftovers. after removing tuna, add 6T rice wine and 3T soy sauce to hot pan, cook for a minute until thick."
-- count: 5
+- count: 6
   index: 110
   nickname: ""
   name: "hazan's all'amatriciana sauce"
@@ -409,6 +410,7 @@
   - "we cook 10oz. bacon (from bacon butt bits), add a diced medium onion, then a full large can of whole plum tomatoes (no oil, no butter), and then chili flakes; delicious!"
   - "this time with bucatini, but Jess, please don't cook the whole pound of pasta...Though we should definitely make double the sauce next time"
   - "we make a double recipe, and it's a good amount"
+  - "doubled recipe using 1 lb of ground pork total, and 1/2T of red chili flakes"
 - count: 1
   index: 109
   nickname: ""
@@ -444,7 +446,7 @@
   tags:
   - "pasta"
   - "chicken"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-06-30'
   recipe_urls: []
   comments:
   - "pretty time-intensive meal, but delicious"
@@ -575,7 +577,7 @@
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments: []
-- count: 1
+- count: 2
   index: 92
   nickname: ""
   name: "pork tenderloin"
@@ -583,7 +585,8 @@
   - "pork"
   last_suggested_date: '2016-01-01'
   recipe_urls: []
-  comments: []
+  comments:
+  - "with roaster potatoes: 450F, olive oil s&p and garlic, just put in for 15-20 minutes BUT DO NOT STIR--they get crispier that way"
 - count: 2
   index: 91
   nickname: ""
@@ -616,7 +619,7 @@
   nickname: ""
   name: "salmon with kale and red potatoes"
   tags: []
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-07-28'
   recipe_urls: []
   comments: []
 - count: 8
@@ -667,7 +670,7 @@
   tags:
   - "salad"
   - "chicken"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-06-30'
   recipe_urls: []
   comments:
   - "chicken thighs and croutons...so good"
@@ -678,13 +681,13 @@
   name: "butternut squash soup"
   tags:
   - "soup"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-07-28'
   recipe_urls:
   - "http://www.foodnetwork.com/recipes/food-network-kitchens/butternut-squash-soup-recipe1.html"
   - "http://www.seriouseats.com/recipes/2016/11/classic-butternut-squash-soup-recipe.html"
   comments:
   - "I baked them a few nights ago, and that took forever, but the soup turned out really good actually; Jess loved it"
-- count: 3
+- count: 4
   index: 81
   nickname: ""
   name: "chicken thighs"
@@ -695,6 +698,7 @@
   - "http://www.bonappetit.com/recipe/perfect-pan-roasted-chicken-thighs"
   comments:
   - "Harrison's recipe, and this shit is GOOD and (critically:) simple"
+  - "we drain some liquid before putting in the oven, and then again when flipping, which I think helped reduce the splatter."
 - count: 6
   index: 80
   nickname: ""
@@ -715,7 +719,7 @@
   name: "meatball soup"
   tags:
   - "soup"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-07-21'
   recipe_urls: []
   comments:
   - "delicious--Mom's recipe"
@@ -725,7 +729,7 @@
   name: "hazan's pasta carbonara"
   tags:
   - "pasta"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-07-07'
   recipe_urls: []
   comments:
   - "1 lb of pasta is a little much--try 2/3 lb. also, we cooked the bacon, then removed it, drained a bit of grease, then added the olive oil and garlic, and then added the bacon back in once chopped up."
@@ -736,7 +740,7 @@
   name: "roast pork loin with brussels sprouts"
   tags:
   - "pork"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-07-21'
   recipe_urls:
   - "http://www.marthastewart.com/852118/pork-roast-caramelized-parsnips"
   comments:
@@ -769,7 +773,7 @@
   name: "pork chops"
   tags:
   - "pork"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-07-14'
   recipe_urls:
   - "http://www.thekitchn.com/how-to-cook-perfect-pork-chops-in-the-oven-cooking-lessons-from-the-kitchn-194257"
   comments:
@@ -895,7 +899,7 @@
   tags:
   - "soup"
   - "pork"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-07-14'
   recipe_urls:
   - "http://ladyandpups.com/2014/01/04/spicy-miso-ramen-express-eng/"
   comments:
@@ -908,7 +912,7 @@
   - "sandwich"
   - "slow-cooker"
   - "beef"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-07-21'
   recipe_urls:
   - "http://eatathomecooks.com/2012/05/african-pulled-beef-sandwiches-in-the-slow-cooker-with-yogurt-mint-sauce.html"
   comments: []
@@ -978,7 +982,7 @@
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments: []
-- count: 1
+- count: 2
   index: 54
   nickname: ""
   name: "slow-cooker chicken tortilla soup"
@@ -991,6 +995,7 @@
   - "http://www.bakedbyrachel.com/slow-cooker-chicken-tortilla-soup/"
   comments:
   - "amazingly delicious, and so amazingly simple"
+  - "I used 4c of broth instead of 5c."
 - count: 1
   index: 53
   nickname: ""
@@ -1037,7 +1042,7 @@
   - "slow-cooker"
   - "chicken"
   - "beef"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-06-30'
   recipe_urls: []
   comments:
   - "from the slow-cooker recipe book; used 1.6 lbs. of meat and that was still plenty"
@@ -1075,7 +1080,7 @@
   nickname: "CkSd3"
   name: "tri-color quinoa with kidney beans"
   tags: []
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-06-30'
   recipe_urls: []
   comments:
   - "as tacos, only with refried black beans instead of kidney beans, and yogurt, and valentina, and avocado"
@@ -1171,7 +1176,7 @@
   tags:
   - "tacos"
   - "chicken"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-07-07'
   recipe_urls: []
   comments: []
 - count: 1
@@ -1216,7 +1221,7 @@
   tags:
   - "chicken"
   - "bacon"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-06-30'
   recipe_urls: []
   comments:
   - "somehow even better than yesterday"
@@ -1291,7 +1296,7 @@
   name: "cheeseburgers"
   tags:
   - "burger"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-07-14'
   recipe_urls: []
   comments:
   - "on charcoal grill; roll up newspaper into coils, starting from corner, three rolls, and coil into chimney, leaving air in the center--works perfectly! we drink wine and beer and sit outside in chairs listening to Can and Pink Floyd's \"Animals\", catching fireflies and talking about gun control and revolution"
@@ -1359,7 +1364,7 @@
   name: "pesto pasta"
   tags:
   - "pasta"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-07-07'
   recipe_urls: []
   comments:
   - "with chicken, cherry tomatoes, mushrooms"
@@ -1420,7 +1425,7 @@
   name: "sausages with curry ketchup"
   tags:
   - "curry"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-07-21'
   recipe_urls: []
   comments: []
 - count: 4
@@ -1497,7 +1502,7 @@
   nickname: ""
   name: "spaghetti & meatballs"
   tags: []
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-07-07'
   recipe_urls: []
   comments: []
 - count: 5
