@@ -4,7 +4,7 @@
   name: "chicken parmesan"
   tags:
   - "chicken"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-10-13'
   recipe_urls:
   - "https://cupofjo.com/2017/09/easiest-skillet-chicken-parmesan/, https://smittenkitchen.com/2015/02/spaghetti-pangrattato-with-fried-eggs/"
   comments:
@@ -16,7 +16,7 @@
   name: "chicken enchiladas"
   tags:
   - "chicken"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-10-13'
   recipe_urls:
   - "https://cooking.nytimes.com/recipes/1018153-chicken-enchiladas-with-salsa-verde, https://www.epicurious.com/recipes/food/views/roasted-tomatillo-salsa-102586"
   comments:
@@ -28,7 +28,7 @@
   tags:
   - "sandwich"
   - "chicken"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-10-20'
   recipe_urls: []
   comments:
   - "fried as in the togarashi chicken; also pickles and mayo on brioche buns"
@@ -227,7 +227,7 @@
   nickname: ""
   name: "kale and cheddar quesadillas with a fried egg"
   tags: []
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-10-20'
   recipe_urls: []
   comments:
   - "third and final Blue Apron meal"
@@ -258,7 +258,7 @@
   name: "butter chicken"
   tags:
   - "chicken"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-10-13'
   recipe_urls:
   - "http://www.bonappetit.com/recipe/butter-chicken"
   - "http://allrecipes.com/recipe/141169/easy-indian-butter-chicken/"
@@ -572,7 +572,7 @@
   tags:
   - "tacos"
   - "pork"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-10-20'
   recipe_urls: []
   comments:
   - "so good..."
@@ -1223,7 +1223,7 @@
   name: "peas and zucchini pasta"
   tags:
   - "pasta"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-10-20'
   recipe_urls: []
   comments:
   - "too lemony"
@@ -1277,7 +1277,7 @@
   name: "lamb korma"
   tags:
   - "lamb"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-10-20'
   recipe_urls:
   - "http://www.thekitchn.com/recipe-lamb-korma-recipes-from-the-kitchn-196350"
   comments:
@@ -1308,7 +1308,7 @@
   name: "smoked chicken"
   tags:
   - "chicken"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-10-13'
   recipe_urls: []
   comments:
   - "first smoking! 5 lb. chicken over 2 hrs--quicker than expected but turned out good"
@@ -1543,17 +1543,18 @@
   last_suggested_date: '2018-07-07'
   recipe_urls: []
   comments: []
-- count: 6
+- count: 7
   index: 2
   nickname: ""
   name: "red lentil curry"
   tags:
   - "curry"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-10-13'
   recipe_urls: []
   comments:
   - "recipe from Sophie (fwd from Jess) in my email"
   - "use 1/2 can of coconut milk."
+  - "make without lentils, instead adding an extra can of chickpeas (2 cans total), and stewed tomatoes instead of diced, and it turns out delicious. we added chickpeas where we added lentils--right after the onions."
 - count: 1
   index: 1
   nickname: ""
