@@ -53,7 +53,7 @@
   comments:
   - "ham was smoked ham hock from Whole Foods for $10, and also some dried (navy?) beans that Cindy sent us."
   - "Jess makes it while I'm gone"
-- count: 3
+- count: 4
   index: 147
   nickname: ""
   name: "togarashi popcorn chicken with cabbage slaw"
@@ -280,7 +280,7 @@
   nickname: ""
   name: "goulash"
   tags: []
-  last_suggested_date: '2018-04-14'
+  last_suggested_date: '2018-11-03'
   recipe_urls:
   - "http://www.pipandebby.com/pip-ebby/best-ever-goulash"
   comments:
@@ -302,7 +302,7 @@
   name: "beef stroganoff"
   tags:
   - "beef"
-  last_suggested_date: '2018-04-14'
+  last_suggested_date: '2018-11-03'
   recipe_urls:
   - "http://www.bonappetit.com/recipe/adams-beef-stroganoff"
   comments:
@@ -334,7 +334,7 @@
   name: "white bean, sausage and kale soup"
   tags:
   - "soup"
-  last_suggested_date: '2018-04-21'
+  last_suggested_date: '2018-11-10'
   recipe_urls:
   - "http://www.bonappetit.com/columns/cooking-without-recipes/article/easy-sausage-white-bean-kale-dinner"
   comments: []
@@ -552,7 +552,7 @@
   nickname: ""
   name: "burrito bowl"
   tags: []
-  last_suggested_date: '2018-04-21'
+  last_suggested_date: '2018-11-10'
   recipe_urls: []
   comments:
   - "so good with avocado and sour cream...also, Jess has mastered cooking rice"
@@ -621,7 +621,7 @@
   name: "pork tenderloin"
   tags:
   - "pork"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-10-27'
   recipe_urls: []
   comments:
   - "with roaster potatoes: 450F, olive oil s&p and garlic, just put in for 15-20 minutes BUT DO NOT STIR--they get crispier that way"
@@ -660,7 +660,7 @@
   last_suggested_date: '2018-07-28'
   recipe_urls: []
   comments: []
-- count: 8
+- count: 9
   index: 87
   nickname: ""
   name: "hazan's bean soup"
@@ -678,7 +678,7 @@
   name: "hazan's butter and sage pasta"
   tags:
   - "pasta"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-10-27'
   recipe_urls: []
   comments:
   - "macaroni noodles, with a strip of bacon each and parmesan, salt/pepper added as well"
@@ -731,7 +731,7 @@
   name: "chicken thighs"
   tags:
   - "chicken"
-  last_suggested_date: '2018-04-14'
+  last_suggested_date: '2018-11-03'
   recipe_urls:
   - "http://www.bonappetit.com/recipe/perfect-pan-roasted-chicken-thighs"
   comments:
@@ -751,7 +751,7 @@
   - "more time consuming than expected, but it turned out delicious! we added bacon bits and mushrooms, and we have SO much left over"
   - "Jess cooks. It made SO MUCH. Like 8 servings"
   - "equal parts mac, evaporated milk, and cheddar cheese (12 oz each); cook mac in just enough water to cover it; prepare cheese BEFOREHAND and do NOT use vitamix"
-- count: 9
+- count: 10
   index: 79
   nickname: ""
   name: "meatball soup"
@@ -863,7 +863,7 @@
   name: "fish burger"
   tags:
   - "burger"
-  last_suggested_date: '2018-04-11'
+  last_suggested_date: '2018-10-27'
   recipe_urls: []
   comments:
   - "in imitation of Hooked's: panko crumbs on tilapia filet, mayo sprinkled in dill on a toasted HEB bolillo; dotted with sweet chili sauce (rooster chili sauce + white sugar); delicious!"
@@ -916,7 +916,7 @@
   name: "spicy miso ramen"
   tags:
   - "soup"
-  last_suggested_date: '2018-04-11'
+  last_suggested_date: '2018-10-27'
   recipe_urls: []
   comments:
   - "we double the actual ramen recipe and it makes plenty"
@@ -1109,7 +1109,7 @@
   nickname: ""
   name: "lasagna"
   tags: []
-  last_suggested_date: '2018-04-11'
+  last_suggested_date: '2018-10-27'
   recipe_urls: []
   comments:
   - "Jess does it!"
@@ -1317,7 +1317,7 @@
   nickname: "CkP3"
   name: "spaghetti and meatballs"
   tags: []
-  last_suggested_date: '2018-04-21'
+  last_suggested_date: '2018-11-10'
   recipe_urls: []
   comments: []
 - count: 1
@@ -1345,7 +1345,7 @@
   name: "raw tacos with cashews and walnuts"
   tags:
   - "tacos"
-  last_suggested_date: '2018-04-14'
+  last_suggested_date: '2018-11-03'
   recipe_urls:
   - "https://www.mynewroots.org/site/2011/07/raw-taco-fiesta-2/"
   comments:
@@ -1371,7 +1371,7 @@
   nickname: "CkS6"
   name: "fried catfish po boy"
   tags: []
-  last_suggested_date: '2018-04-14'
+  last_suggested_date: '2018-11-03'
   recipe_urls: []
   comments:
   - "fried catfish with tartar sauce and pickles on buns--catfish dipped in egg, then in breadcrumbs and flour and salt and pepper, then fried in good amount of veggie oil; jess makes delicious tartar sauce with mayo, lemon juice, salt and pepper, and pickles"
@@ -1412,7 +1412,7 @@
   nickname: "CkSd1"
   name: "ravioli with tomato-sauce and mushrooms"
   tags: []
-  last_suggested_date: '2018-04-11'
+  last_suggested_date: '2018-10-27'
   recipe_urls: []
   comments: []
 - count: 2
@@ -1483,7 +1483,7 @@
   name: "green bean, pecan, sundried tomatoes, mushroom pasta"
   tags:
   - "pasta"
-  last_suggested_date: '2018-04-21'
+  last_suggested_date: '2018-11-10'
   recipe_urls: []
   comments:
   - "if pecan is crumbed it will thicken up the sauce real nice"
@@ -1532,7 +1532,7 @@
   nickname: ""
   name: "mushroom, spinach, cheese quesadillas with sour cream and home-made salsa"
   tags: []
-  last_suggested_date: '2018-04-11'
+  last_suggested_date: '2018-10-27'
   recipe_urls: []
   comments: []
 - count: 1
@@ -1543,7 +1543,7 @@
   last_suggested_date: '2018-07-07'
   recipe_urls: []
   comments: []
-- count: 7
+- count: 8
   index: 2
   nickname: ""
   name: "red lentil curry"
@@ -1555,12 +1555,13 @@
   - "recipe from Sophie (fwd from Jess) in my email"
   - "use 1/2 can of coconut milk."
   - "make without lentils, instead adding an extra can of chickpeas (2 cans total), and stewed tomatoes instead of diced, and it turns out delicious. we added chickpeas where we added lentils--right after the onions."
+  - "jess says don't use all chicken broth for the lentils because it's too salty, so maybe do half broth half water"
 - count: 1
   index: 1
   nickname: ""
   name: "ham, pesto, cheese, salt/pepper angel hair pasta"
   tags:
   - "pasta"
-  last_suggested_date: '2018-04-21'
+  last_suggested_date: '2018-11-10'
   recipe_urls: []
   comments: []
