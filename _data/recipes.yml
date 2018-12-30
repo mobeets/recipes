@@ -1,9 +1,29 @@
 - count: 1
+  index: 155
+  nickname: ""
+  name: "pot roast| jess says: we did 3lbs of meet. i'd say do half of the broth -- only deglaze the onions with like 1/2 a cup of broth at most. and then add a little less than a cup to the actual meat. we also added carrots"
+  tags: []
+  last_suggested_date: '2016-01-01'
+  recipe_urls:
+  - "https://www.seriouseats.com/recipes/2009/10/perfect-pot-roast-recipe-pioneer-woman.html"
+  comments: []
+- count: 1
+  index: 154
+  nickname: ""
+  name: "slow-cooker bolognese"
+  tags:
+  - "slow-cooker"
+  last_suggested_date: '2016-01-01'
+  recipe_urls:
+  - "https://natashaskitchen.com/slow-cooker-bolognese-sauce-recipe/"
+  comments:
+  - "Jess says she did 1/2c milk, 1/2c white wine, 1.5 cans of 28oz crushed tomatoes, 2T tomato paste, and sage instead of parsley"
+- count: 1
   index: 153
   nickname: ""
   name: "turkey chili"
   tags: []
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2018-12-15'
   recipe_urls:
   - "https://cooking.nytimes.com/recipes/7985-turkey-chili"
   comments:
@@ -185,7 +205,7 @@
   name: "gyudon on rice with miso soup"
   tags:
   - "soup"
-  last_suggested_date: '2018-05-19'
+  last_suggested_date: '2018-12-22'
   recipe_urls:
   - "http://www.seriouseats.com/recipes/2016/07/gyudon-japanese-simmered-beef-and-rice-bowl-recipe.html, http://www.hikarimiso.com/recipes/miso_soup/basic_miso/"
   comments: []
@@ -218,7 +238,7 @@
   name: "miso burgers and sweet potatoes"
   tags:
   - "burger"
-  last_suggested_date: '2018-05-26'
+  last_suggested_date: '2018-12-29'
   recipe_urls: []
   comments: []
 - count: 1
@@ -379,7 +399,7 @@
   recipe_urls: []
   comments:
   - "It's alright for a change, and it made a ton, but I'm pretty sure I like it better without the rice"
-- count: 4
+- count: 5
   index: 116
   nickname: ""
   name: "chicken pot pie"
@@ -393,6 +413,7 @@
   - "used corn starch to thicken at the end; baked in 9\" square pan; to measure chicken we just diced breasts and filled up a little over 3 cups, then pan-fried it"
   - "just the crust top (not bottom), in the 2.2qt rectangular pyrex"
   - "use only 1.5c broth, and then between 1/4-1/2c cream, so it barely takes any time to thicken. made a simple crust that took no time at all to bake--just covered with foil for first 15 minutes of baking, then took it off for about 12 more minutes, at 375F."
+  - "use 2.5 lbs. chicken (makes about 4 cups), and make it in the biggest rectangle pyrex. the dough was tricky to roll because it was so brittle, so it ended up going on in small pieces. servings:9"
 - count: 6
   index: 115
   nickname: ""
@@ -422,7 +443,7 @@
   nickname: ""
   name: "pizza"
   tags: []
-  last_suggested_date: '2018-05-19'
+  last_suggested_date: '2018-12-22'
   recipe_urls: []
   comments:
   - "we cook it right on the tray, 475F, lower oven, after pre-heating the big tray. it did stick just a little bit--we forgot to add some flour. we use 3oz prosciutto, 6oz mushrooms, and for cheese, some garlic chevre and mozzarella (both from Aldi). turned out delicious!"
@@ -936,7 +957,7 @@
   nickname: ""
   name: "steak au poivre with roasted potatoes"
   tags: []
-  last_suggested_date: '2018-05-26'
+  last_suggested_date: '2018-12-29'
   recipe_urls:
   - "http://www.foodnetwork.com/recipes/alton-brown/steak-au-poivre-recipe.html"
   comments:
@@ -1060,7 +1081,7 @@
   name: "sweet potato curry"
   tags:
   - "curry"
-  last_suggested_date: '2018-05-26'
+  last_suggested_date: '2018-12-29'
   recipe_urls: []
   comments:
   - "coconut milk, red onions, lentils, brown sugar, curry powder, chili powder, cayenne, paprika"
@@ -1115,7 +1136,7 @@
   recipe_urls: []
   comments:
   - "talk about people doing jobs they hate, and dumb people who click Edit to copy/paste"
-- count: 2
+- count: 3
   index: 46
   nickname: ""
   name: "lasagna"
@@ -1207,7 +1228,7 @@
   nickname: ""
   name: "hummus, roasted veggies"
   tags: []
-  last_suggested_date: '2018-05-19'
+  last_suggested_date: '2018-12-22'
   recipe_urls: []
   comments: []
 - count: 1
@@ -1240,7 +1261,7 @@
   recipe_urls: []
   comments:
   - "too lemony"
-- count: 5
+- count: 6
   index: 33
   nickname: "CkR4"
   name: "chicken curry"
@@ -1256,6 +1277,7 @@
   - "goddamn delicious. perfect. 2 jalapenos is perfect"
   - "lime is seriously CRITICAL; yogurt not necessary"
   - "we also add an onion and diced tomatoes; super liquidy so if you add the tomatoes maybe skip the broth"
+  - "Doubled the recipe with 10 thighs at about 3 lbs. We did not double the liquid, just did one can coconut milk, 1c chicken broth. Added a bit of tomatoes again but I wish we hadn't."
 - count: 1
   index: 32
   nickname: ""
@@ -1338,7 +1360,7 @@
   nickname: ""
   name: "omelettes"
   tags: []
-  last_suggested_date: '2018-05-26'
+  last_suggested_date: '2018-12-29'
   recipe_urls: []
   comments: []
 - count: 5
@@ -1397,7 +1419,7 @@
   tags:
   - "pasta"
   - "beef"
-  last_suggested_date: '2018-05-19'
+  last_suggested_date: '2018-12-22'
   recipe_urls: []
   comments: []
 - count: 4
@@ -1434,7 +1456,7 @@
   name: "lentil curry"
   tags:
   - "curry"
-  last_suggested_date: '2018-05-19'
+  last_suggested_date: '2018-12-22'
   recipe_urls:
   - "http://www.veggienumnum.com/2010/11/masoor-dal/"
   comments: []
@@ -1537,7 +1559,7 @@
   name: "portabella pesto mushroom burgers"
   tags:
   - "burger"
-  last_suggested_date: '2018-05-26'
+  last_suggested_date: '2018-12-29'
   recipe_urls: []
   comments: []
 - count: 1
