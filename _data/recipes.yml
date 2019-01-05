@@ -1,19 +1,20 @@
 - count: 1
   index: 155
   nickname: ""
-  name: "pot roast| jess says: we did 3lbs of meet. i'd say do half of the broth -- only deglaze the onions with like 1/2 a cup of broth at most. and then add a little less than a cup to the actual meat. we also added carrots"
+  name: "pot roast"
   tags: []
   last_suggested_date: '2016-01-01'
   recipe_urls:
   - "https://www.seriouseats.com/recipes/2009/10/perfect-pot-roast-recipe-pioneer-woman.html"
-  comments: []
+  comments:
+  - "Jess says: We did 3lbs of meet. I'd say do half of the broth -- only deglaze the onions with like 1/2 a cup of broth at most. And then add a little less than a cup to the actual meat. We also added carrots"
 - count: 1
   index: 154
   nickname: ""
   name: "slow-cooker bolognese"
   tags:
   - "slow-cooker"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2019-01-05'
   recipe_urls:
   - "https://natashaskitchen.com/slow-cooker-bolognese-sauce-recipe/"
   comments:
@@ -40,7 +41,7 @@
   comments:
   - "this was so delicious! used about 2 lbs chicken breast. the pangrattato was critical. served on angel hair."
   - "should use 28oz crushed tomatoes (not diced, otherwise too watery), and 8oz of mozzarella was fine, with 2 lbs. of chicken. also for the breadcrumbs, made 1/3c and that was plenty."
-- count: 1
+- count: 2
   index: 151
   nickname: ""
   name: "chicken enchiladas"
@@ -48,9 +49,10 @@
   - "chicken"
   last_suggested_date: '2018-10-13'
   recipe_urls:
-  - "https://cooking.nytimes.com/recipes/1018153-chicken-enchiladas-with-salsa-verde, https://www.epicurious.com/recipes/food/views/roasted-tomatillo-salsa-102586"
+  - "https://cooking.nytimes.com/recipes/1018153-chicken-enchiladas-with-salsa-verde"
   comments:
-  - "these were amazing. used tomatillo salsa from other recipe. cooked 1 lb. chicken in big red cast iron as instructed, for only about 15 minutes at boiling. microwaved corn tortillas instead of frying because the first one stuck the pot. wrapped each tortilla with shredded chicken, a spoonful of salsa, and shredded monterrey jack cheese. covered the tops in salsa, more cheese, and about 6oz of sour cream."
+  - "these were amazing. used tomatillo salsa verde from other recipe. cooked 1 lb. chicken in big red cast iron as instructed, for only about 15 minutes at boiling. microwaved corn tortillas instead of frying because the first one stuck the pot. wrapped each tortilla with shredded chicken, a spoonful of salsa, and shredded monterrey jack cheese. covered the tops in salsa, more cheese, and about 6oz of sour cream."
+  - "we double recipe (we cooked 3 lbs, but I think 2 would have been fine), and use 15oz ricotta (inside enchiladas), 8oz sour cream (dotted on top before baking), and a jar of salsa verde (could've used a bit more...). they taste great, but shredded cheese would've been easier than ricotta I think."
 - count: 1
   index: 150
   nickname: ""
