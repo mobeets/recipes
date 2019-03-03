@@ -1,13 +1,13 @@
 - count: 1
-  index: 153
+  index: 152
   nickname: ""
   name: "baked potatoes and mac and cheese"
   tags: []
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2019-02-16'
   recipe_urls: []
   comments: []
 - count: 1
-  index: 152
+  index: 151
   nickname: ""
   name: "pot roast"
   tags: []
@@ -17,7 +17,7 @@
   comments:
   - "Jess says: We did 3lbs of meet. I'd say do half of the broth -- only deglaze the onions with like 1/2 a cup of broth at most. And then add a little less than a cup to the actual meat. We also added carrots"
 - count: 1
-  index: 151
+  index: 150
   nickname: ""
   name: "slow-cooker bolognese"
   tags:
@@ -28,7 +28,7 @@
   comments:
   - "Jess says she did 1/2c milk, 1/2c white wine, 1.5 cans of 28oz crushed tomatoes, 2T tomato paste, and sage instead of parsley"
 - count: 2
-  index: 150
+  index: 149
   nickname: ""
   name: "turkey chili"
   tags: []
@@ -38,7 +38,7 @@
   comments:
   - "delicious. made cornbread on the side. (jess says to halve the broth, but it made a good amount as is so maybe let's not.) servings:9"
 - count: 2
-  index: 149
+  index: 148
   nickname: ""
   name: "chicken parmesan"
   tags:
@@ -50,7 +50,7 @@
   - "this was so delicious! used about 2 lbs chicken breast. the pangrattato was critical. served on angel hair."
   - "should use 28oz crushed tomatoes (not diced, otherwise too watery), and 8oz of mozzarella was fine, with 2 lbs. of chicken. also for the breadcrumbs, made 1/3c and that was plenty."
 - count: 2
-  index: 148
+  index: 147
   nickname: ""
   name: "chicken enchiladas"
   tags:
@@ -62,7 +62,7 @@
   - "these were amazing. used tomatillo salsa verde from other recipe. cooked 1 lb. chicken in big red cast iron as instructed, for only about 15 minutes at boiling. microwaved corn tortillas instead of frying because the first one stuck the pot. wrapped each tortilla with shredded chicken, a spoonful of salsa, and shredded monterrey jack cheese. covered the tops in salsa, more cheese, and about 6oz of sour cream."
   - "we double recipe (we cooked 3 lbs, but I think 2 would have been fine), and use 15oz ricotta (inside enchiladas), 8oz sour cream (dotted on top before baking), and a jar of salsa verde (could've used a bit more...). they taste great, but shredded cheese would've been easier than ricotta I think. servings:9"
 - count: 1
-  index: 147
+  index: 146
   nickname: ""
   name: "fried chicken sandwiches"
   tags:
@@ -73,7 +73,7 @@
   comments:
   - "fried as in the togarashi chicken; also pickles and mayo on brioche buns"
 - count: 1
-  index: 146
+  index: 145
   nickname: ""
   name: "grilled chicken winglets"
   tags:
@@ -82,8 +82,8 @@
   recipe_urls: []
   comments:
   - "lit about 25-30 briquettes by piling up in pyramid, covering in lighter fluid, then burning. It was just barely enough coal to cook all the chicken, and it took a while. But other than that, it went well!"
-- count: 3
-  index: 145
+- count: 4
+  index: 144
   nickname: ""
   name: "ham and bean soup"
   tags:
@@ -94,7 +94,7 @@
   - "ham was smoked ham hock from Whole Foods for $10, and also some dried (navy?) beans that Cindy sent us."
   - "Jess makes it while I'm gone"
 - count: 4
-  index: 144
+  index: 143
   nickname: ""
   name: "togarashi popcorn chicken with cabbage slaw"
   tags:
@@ -107,7 +107,7 @@
   - "doubled recipe. sweet chili sauce = spicy chili paste + sugar + soy sauce. use big cast iron so you can fry it all at once"
   - "1.25 lbs chicken is about perfect for cooking in the big cast iron, but it's not that much food. just about 4 servings total."
 - count: 1
-  index: 143
+  index: 142
   nickname: ""
   name: "red curry"
   tags:
@@ -118,7 +118,7 @@
   comments:
   - "make with chicken thighs which we bake with some chili paste rubbed on, at 425F for about 25 minutes. also, only one small zucchini, and 1c of carrots. really delicious!"
 - count: 1
-  index: 142
+  index: 141
   nickname: ""
   name: "gyudon on rice"
   tags: []
@@ -126,7 +126,7 @@
   recipe_urls: []
   comments: []
 - count: 2
-  index: 141
+  index: 140
   nickname: ""
   name: "mac and cheese with bacon"
   tags:
@@ -135,7 +135,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 140
+  index: 139
   nickname: ""
   name: "tuna steaks with rice and broccoli"
   tags: []
@@ -143,7 +143,7 @@
   recipe_urls: []
   comments: []
 - count: 3
-  index: 139
+  index: 138
   nickname: ""
   name: "chicken katsudon"
   tags:
@@ -156,7 +156,7 @@
   - "we used two onions, and 6x the broth, just skipping the sake because we had none. we made the chicken cutlets using thin breasts and flour, egg, panko. this recipe takes a bit if you make the cutlets and the broth, mostly just because of the cutlets. we cooked the onions for quite a while, maybe 15 minutes. for the dashi, we used one packet with 3 cups of water, and boilet it along with the sugar and other liquids like mirin. it turned out so delicious..."
   - "to confirm the last note, we did 3x the broth (not 6x). for chicken, we did a dry salt brine (1/4c salt + 1t baking poweder on 1.5 lbs thin breasts) for 2 hours, and rinsed off salt afterward, and still _plenty_ salty"
 - count: 1
-  index: 138
+  index: 137
   nickname: ""
   name: "vegetarian lasagna"
   tags: []
@@ -165,7 +165,7 @@
   comments:
   - "the top layer curled up a lot when it baked--maybe top with more bechamel? also we ended up not dipping the partially cooked lasagna sheets in cold water because it made them curl up. we just use paramesan as the only cheese. also a 15oz can of tomatoes works fine but a little more would be nice"
 - count: 1
-  index: 137
+  index: 136
   nickname: ""
   name: "butter sage pasta with bacon"
   tags:
@@ -175,7 +175,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 136
+  index: 135
   nickname: ""
   name: "tuna steaks with rice and asparagus"
   tags: []
@@ -183,7 +183,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 135
+  index: 134
   nickname: ""
   name: "pork tenderloin, mashed potatoes, kale from garden"
   tags:
@@ -192,7 +192,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 134
+  index: 133
   nickname: ""
   name: "gyudon on rice with miso soup"
   tags:
@@ -202,7 +202,7 @@
   - "http://www.seriouseats.com/recipes/2016/07/gyudon-japanese-simmered-beef-and-rice-bowl-recipe.html, http://www.hikarimiso.com/recipes/miso_soup/basic_miso/"
   comments: []
 - count: 4
-  index: 133
+  index: 132
   nickname: ""
   name: "red beans and rice"
   tags: []
@@ -213,7 +213,7 @@
   - "delicious. we use 3 cans of kidney beans."
   - "don't add too much water or it takes forever to thicken. we did five cups and it was way too much. maybe do 4."
 - count: 3
-  index: 132
+  index: 131
   nickname: ""
   name: "alabama white sauce chicken thighs"
   tags:
@@ -225,7 +225,7 @@
   - "bake in oven at 375F on convection, starting skin side down for 15, then flipping and cooking 15 more, coating skin with sauce, then cooking 15 more or so. they were oiled, and sitting on an oiled rack over a cookie tray"
   - "We have it with baked asparagus on the side. We baked the chicken the same as last time. We ended up brining for two hours with the second hour being out of the fridge, and then after drying the chicken with paper towels, just let it sit out for like 15 minutes before putting it in the oven. (The recipe says to dry it for an hour.) It turned out great! Also, to the sauce we added paprika and a squirt of sriracha. Delicious."
 - count: 1
-  index: 131
+  index: 130
   nickname: ""
   name: "pulled pork sandwiches"
   tags:
@@ -236,7 +236,7 @@
   comments:
   - "slow-cook some pork shoulder using mom's recipe, then just add bbq sauce"
 - count: 1
-  index: 130
+  index: 129
   nickname: ""
   name: "kale and cheddar quesadillas with a fried egg"
   tags: []
@@ -245,7 +245,7 @@
   comments:
   - "third and final Blue Apron meal"
 - count: 1
-  index: 129
+  index: 128
   nickname: ""
   name: "pan-fried chicken breast with lentils and arugula salad"
   tags:
@@ -256,7 +256,7 @@
   comments:
   - "second Blue Apron meal. Always use chicken breast with the skin still on! It's so much better this way. Lentil spice mix has thyme, bay leaf, mustard seeds, black pepper"
 - count: 6
-  index: 128
+  index: 127
   nickname: ""
   name: "miso burgers"
   tags:
@@ -270,7 +270,7 @@
   - "with asparagus"
   - "buy 2.5 lbs beef, serve with baked sweet potatoes (cook them without stirring for maximum crispy! 425F for 30 mins or so total) and steamed broccoli. servings:8"
 - count: 4
-  index: 127
+  index: 126
   nickname: ""
   name: "butter chicken"
   tags:
@@ -284,7 +284,7 @@
   - "combine recipe with bon appetit one"
   - "very tasty. mostly just followed the bon appetit one this time, but added one 15oz can of whole tomatoes, and after 10 minutes of simmering added about 1.5 cups of cream and simmered another 20 or so. started broiling the chicken (already sliced) when adding the cream"
 - count: 1
-  index: 126
+  index: 125
   nickname: ""
   name: "salmon chowder"
   tags: []
@@ -293,7 +293,7 @@
   comments:
   - "Serious Eats recipe; gets waaaay better after a night in the fridge, so worth making it advance if you were gonna serve it to someone; also, a single recipe makes us seven servings"
 - count: 2
-  index: 125
+  index: 124
   nickname: ""
   name: "goulash"
   tags: []
@@ -304,7 +304,7 @@
   - "we cook mac separately in chicken broth, just enough to cover, so that you don't drain it; also, jess adds lawry's and chili flakes to the stew part, and also we use two big cans of whole tomatoes instead of sauce and diced tomatoes"
   - "this makes a SHIT ton. make half. also, don't add the macaroni until you're serving it, that way you can freeze it if there's too much..."
 - count: 1
-  index: 124
+  index: 123
   nickname: ""
   name: "cornbread"
   tags: []
@@ -314,7 +314,7 @@
   comments:
   - "fucking delicious"
 - count: 4
-  index: 123
+  index: 122
   nickname: ""
   name: "beef stroganoff"
   tags:
@@ -326,7 +326,7 @@
   - "we use 2 lbs. ground beef, and 20oz mushrooms; made about 8 servings"
   - "takes a little more than an hour to make, and we added corn starch to finally get it to thicken"
 - count: 7
-  index: 122
+  index: 121
   nickname: ""
   name: "pasta carbonara"
   tags:
@@ -334,19 +334,19 @@
   last_suggested_date: '2018-10-06'
   recipe_urls: []
   comments: []
-- count: 1
-  index: 121
+- count: 2
+  index: 120
   nickname: ""
-  name: "alfredo pasta with mushrooms and chicken"
+  name: "alfredo pasta"
   tags:
   - "pasta"
-  - "chicken"
-  last_suggested_date: '2018-11-17'
+  last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments:
-  - "using Mom's recipe, then just adding mushrooms and chicken (cooked separately, combined at the end)"
+  - "with mushrooms and chicken, using Mom's recipe, then just adding mushrooms and chicken (cooked separately, combined at the end)"
+  - "sooooo good: with mushrooms, spinach, and bacon! doubled the recipe. don't be afraid to use tons of mushrooms. Jess says 6-7 strips of bacon was good."
 - count: 1
-  index: 120
+  index: 119
   nickname: ""
   name: "white bean, sausage and kale soup"
   tags:
@@ -356,19 +356,19 @@
   - "http://www.bonappetit.com/columns/cooking-without-recipes/article/easy-sausage-white-bean-kale-dinner"
   comments: []
 - count: 5
-  index: 119
+  index: 118
   nickname: ""
   name: "thai beef with basil and rice"
   tags:
   - "beef"
-  last_suggested_date: '2018-07-07'
+  last_suggested_date: '2019-03-02'
   recipe_urls:
   - "http://www.bonappetit.com/recipe/thai-beef-with-basil"
   comments:
   - "maybe make 1.5x or 2x next time"
   - "doubled it and it made 5 servings; need to make 1.25 cups rice though"
 - count: 2
-  index: 118
+  index: 117
   nickname: ""
   name: "pork tenderloin, mashed potatoes, green beans"
   tags:
@@ -377,7 +377,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 117
+  index: 116
   nickname: ""
   name: "hazan's chickpea soup with rice"
   tags:
@@ -387,7 +387,7 @@
   comments:
   - "It's alright for a change, and it made a ton, but I'm pretty sure I like it better without the rice"
 - count: 5
-  index: 116
+  index: 115
   nickname: ""
   name: "chicken pot pie"
   tags:
@@ -402,7 +402,7 @@
   - "use only 1.5c broth, and then between 1/4-1/2c cream, so it barely takes any time to thicken. made a simple crust that took no time at all to bake--just covered with foil for first 15 minutes of baking, then took it off for about 12 more minutes, at 375F."
   - "use 2.5 lbs. chicken (makes about 4 cups), and make it in the biggest rectangle pyrex. the dough was tricky to roll because it was so brittle, so it ended up going on in small pieces. servings:9"
 - count: 6
-  index: 115
+  index: 114
   nickname: ""
   name: "beef and bean chili"
   tags:
@@ -415,7 +415,7 @@
   - "same recipe as before; used 3T-4T cocoa, and instead of beer, half a ginger beer and the other 6oz were OJ; simmered for 3 hrs"
   - "on fritos"
 - count: 2
-  index: 114
+  index: 113
   nickname: ""
   name: "beer bread"
   tags: []
@@ -426,7 +426,7 @@
   - "use the bottom oven so the top doesn't get too dark"
   - "use bottom oven!"
 - count: 1
-  index: 113
+  index: 112
   nickname: ""
   name: "pizza"
   tags: []
@@ -435,7 +435,7 @@
   comments:
   - "we cook it right on the tray, 475F, lower oven, after pre-heating the big tray. it did stick just a little bit--we forgot to add some flour. we use 3oz prosciutto, 6oz mushrooms, and for cheese, some garlic chevre and mozzarella (both from Aldi). turned out delicious!"
 - count: 2
-  index: 112
+  index: 111
   nickname: ""
   name: "slow-cooker chicken tikka masala"
   tags:
@@ -447,7 +447,7 @@
   comments:
   - "nothing like tikka masala but fucking delicious"
 - count: 1
-  index: 111
+  index: 110
   nickname: ""
   name: "tuna with kale and rice"
   tags: []
@@ -456,7 +456,7 @@
   comments:
   - "delicious. cook tuna 3 minutes per side on high heat on sesame oil; should be pink inside! also way better fresh off the grill rather than as leftovers. after removing tuna, add 6T rice wine and 3T soy sauce to hot pan, cook for a minute until thick."
 - count: 6
-  index: 110
+  index: 109
   nickname: ""
   name: "hazan's all'amatriciana sauce"
   tags: []
@@ -468,7 +468,7 @@
   - "we make a double recipe, and it's a good amount"
   - "doubled recipe using 1 lb of ground pork total, and 1/2T of red chili flakes"
 - count: 1
-  index: 109
+  index: 108
   nickname: ""
   name: "roast duck"
   tags: []
@@ -477,7 +477,7 @@
   comments:
   - "so bad that we might just throw it away--very rubbery and chewy"
 - count: 1
-  index: 108
+  index: 107
   nickname: ""
   name: "strip steaks with sauce"
   tags: []
@@ -486,7 +486,7 @@
   comments:
   - "from Martha: after steaks are done and removed from pan, add 1/3c liquid (wine, vinegar, broth, etc.) to pan to deglaze; let it boil off a bit, and then add 2T of thickener (butter, mustard, brown sugar, etc.)"
 - count: 1
-  index: 107
+  index: 106
   nickname: ""
   name: "bacon and mushroom cheese pizza"
   tags:
@@ -496,18 +496,18 @@
   comments:
   - "Best (and most pizza-like) pizza we've ever made. Mel's kitchen dough (single serving) makes enough for one pie on the large silver tray; we use 1c of hazan's tomato sauce (one recipe makes ~3c), about 2c of three-cheese mexican shredded cheese, about 6oz mushrooms (sliced, placed both under and on top of cheese), a bit more than 1/2lb of bacon (6 strips of 11, where 11 was 1/2lb), and listen to yourself about how much cheese and not to Jess"
 - count: 3
-  index: 106
+  index: 105
   nickname: ""
   name: "chevre-stuffed chicken breast with mushroom-butter sauce and pasta"
   tags:
   - "pasta"
   - "chicken"
-  last_suggested_date: '2018-06-30'
+  last_suggested_date: '2019-02-23'
   recipe_urls: []
   comments:
   - "pretty time-intensive meal, but delicious"
 - count: 1
-  index: 105
+  index: 104
   nickname: ""
   name: "hazan potato minestrone soup"
   tags:
@@ -517,7 +517,7 @@
   comments:
   - "It's okay."
 - count: 1
-  index: 104
+  index: 103
   nickname: ""
   name: "hazan's eggplant and ricotta pasta"
   tags:
@@ -526,7 +526,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 103
+  index: 102
   nickname: ""
   name: "hazan's pea, ricotta, and bacon pasta"
   tags:
@@ -537,7 +537,7 @@
   comments:
   - "needs fewer peas, way more bacon (I'd suggest half a pound of bacon for a 1.5 times recipe.)"
 - count: 1
-  index: 102
+  index: 101
   nickname: ""
   name: "chevre-stuffed chicken breast with lemon-butter sauce and pasta"
   tags:
@@ -548,7 +548,7 @@
   - "http://www.ostrommushrooms.com/recipes/sides/item/93-chevre-and-basil-filled-chicken-breasts"
   comments: []
 - count: 1
-  index: 101
+  index: 100
   nickname: ""
   name: "pork ribs and butter sage pasta"
   tags:
@@ -558,7 +558,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 100
+  index: 99
   nickname: ""
   name: "turkey chili and cornbread"
   tags: []
@@ -566,7 +566,7 @@
   recipe_urls: []
   comments: []
 - count: 3
-  index: 99
+  index: 98
   nickname: ""
   name: "burrito bowl"
   tags: []
@@ -576,7 +576,7 @@
   - "so good with avocado and sour cream...also, Jess has mastered cooking rice"
   - "marinade sliced round steak in worcestire, brown sugar, lime juice for an hour prior to cooking (don't cook in all of liquid! maybe just use some of it)"
 - count: 1
-  index: 98
+  index: 97
   nickname: ""
   name: "banh mis"
   tags: []
@@ -584,7 +584,7 @@
   recipe_urls: []
   comments: []
 - count: 8
-  index: 97
+  index: 96
   nickname: ""
   name: "pork carnitas tacos"
   tags:
@@ -596,7 +596,7 @@
   comments:
   - "so good..."
 - count: 2
-  index: 96
+  index: 95
   nickname: ""
   name: "baked ziti"
   tags: []
@@ -605,7 +605,7 @@
   - "http://www.bonappetit.com/recipe/bas-best-baked-ziti"
   comments: []
 - count: 6
-  index: 95
+  index: 94
   nickname: ""
   name: "tom kha gai soup"
   tags:
@@ -617,7 +617,7 @@
   - "soooo good"
   - "\"Whenever I'm sick, this is the soup I want.\" -Jess"
 - count: 1
-  index: 94
+  index: 93
   nickname: ""
   name: "steak in wine, cream, and mushroom sauce; baked red potatoes; focaccia bread"
   tags: []
@@ -626,7 +626,7 @@
   comments:
   - "focaccia bread wasn't so great, for some reason--I think I rolled it out too flat"
 - count: 1
-  index: 93
+  index: 92
   nickname: ""
   name: "hazan's bean soup, dinner rolls"
   tags:
@@ -635,7 +635,7 @@
   recipe_urls: []
   comments: []
 - count: 2
-  index: 92
+  index: 91
   nickname: ""
   name: "pork tenderloin"
   tags:
@@ -645,7 +645,7 @@
   comments:
   - "with roaster potatoes: 450F, olive oil s&p and garlic, just put in for 15-20 minutes BUT DO NOT STIR--they get crispier that way"
 - count: 2
-  index: 91
+  index: 90
   nickname: ""
   name: "meatball soup, cornbread"
   tags:
@@ -654,7 +654,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 90
+  index: 89
   nickname: ""
   name: "gnocchi with vodka sauce"
   tags: []
@@ -662,7 +662,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 89
+  index: 88
   nickname: ""
   name: "hazan's potato minestrone soup"
   tags:
@@ -672,7 +672,7 @@
   comments:
   - "without carrots, with crostini; I cook because Jess is sick."
 - count: 1
-  index: 88
+  index: 87
   nickname: ""
   name: "salmon with kale and red potatoes"
   tags: []
@@ -680,7 +680,7 @@
   recipe_urls: []
   comments: []
 - count: 9
-  index: 87
+  index: 86
   nickname: ""
   name: "hazan's bean soup"
   tags:
@@ -692,7 +692,7 @@
   - "with chickpeas only, and it's still pretty good"
   - "with a side of grilled toast; also we use beef broth for the first time because we finally have some"
 - count: 1
-  index: 86
+  index: 85
   nickname: ""
   name: "hazan's butter and sage pasta"
   tags:
@@ -702,7 +702,7 @@
   comments:
   - "macaroni noodles, with a strip of bacon each and parmesan, salt/pepper added as well"
 - count: 1
-  index: 85
+  index: 84
   nickname: ""
   name: "mashed sweet potatoes"
   tags: []
@@ -711,7 +711,7 @@
   - "http://www.seriouseats.com/recipes/2014/11/the-best-mashed-sweet-potatoes-recipe.html"
   comments: []
 - count: 1
-  index: 84
+  index: 83
   nickname: ""
   name: "brussel sprout salad"
   tags:
@@ -721,19 +721,19 @@
   - "http://www.loveandlemons.com/2014/11/03/shredded-brussels-sprout-apple-salad/"
   comments: []
 - count: 4
-  index: 83
+  index: 82
   nickname: ""
   name: "chicken caesar salad"
   tags:
   - "salad"
   - "chicken"
-  last_suggested_date: '2018-06-30'
+  last_suggested_date: '2019-02-23'
   recipe_urls: []
   comments:
   - "chicken thighs and croutons...so good"
   - "for thighs, use about 5 (2 lbs ?)"
 - count: 3
-  index: 82
+  index: 81
   nickname: ""
   name: "butternut squash soup"
   tags:
@@ -745,7 +745,7 @@
   comments:
   - "I baked them a few nights ago, and that took forever, but the soup turned out really good actually; Jess loved it"
 - count: 4
-  index: 81
+  index: 80
   nickname: ""
   name: "chicken thighs"
   tags:
@@ -757,7 +757,7 @@
   - "Harrison's recipe, and this shit is GOOD and (critically:) simple"
   - "we drain some liquid before putting in the oven, and then again when flipping, which I think helped reduce the splatter."
 - count: 6
-  index: 80
+  index: 79
   nickname: ""
   name: "mac and cheese"
   tags: []
@@ -771,7 +771,7 @@
   - "Jess cooks. It made SO MUCH. Like 8 servings"
   - "equal parts mac, evaporated milk, and cheddar cheese (12 oz each); cook mac in just enough water to cover it; prepare cheese BEFOREHAND and do NOT use vitamix"
 - count: 10
-  index: 79
+  index: 78
   nickname: ""
   name: "meatball soup"
   tags:
@@ -781,18 +781,18 @@
   comments:
   - "delicious--Mom's recipe"
 - count: 7
-  index: 78
+  index: 77
   nickname: ""
   name: "hazan's pasta carbonara"
   tags:
   - "pasta"
-  last_suggested_date: '2018-07-07'
+  last_suggested_date: '2019-03-02'
   recipe_urls: []
   comments:
   - "1 lb of pasta is a little much--try 2/3 lb. also, we cooked the bacon, then removed it, drained a bit of grease, then added the olive oil and garlic, and then added the bacon back in once chopped up."
   - "Jess aimed for 1/2 lb. of pasta and this was our best yet!"
 - count: 2
-  index: 77
+  index: 76
   nickname: ""
   name: "roast pork loin with brussels sprouts"
   tags:
@@ -803,7 +803,7 @@
   comments:
   - "delicious! and extremely easy"
 - count: 1
-  index: 76
+  index: 75
   nickname: ""
   name: "coq au vin blanc"
   tags: []
@@ -813,7 +813,7 @@
   comments:
   - "in the slow-cooker; 1.7 lbs of bone-in chicken thighs, with 3 pieces cooked bacon, 1 onion (these 3 things all pan-fried beforehand), 1c of some cheap chardonnay, 1c of broth, and 1t each of dried tarragon, sage, thyme, and rosemary; only vaguely inspired by the recipe in the link"
 - count: 8
-  index: 75
+  index: 74
   nickname: ""
   name: "pork ribs"
   tags:
@@ -826,7 +826,7 @@
   - "baked for 50min at 350F, then 10 at 425F with bbq sauce"
   - "one 3.5 lb. rack, servings: 6"
 - count: 1
-  index: 74
+  index: 73
   nickname: ""
   name: "pork chops"
   tags:
@@ -837,7 +837,7 @@
   comments:
   - "Delicious! 1-inch thick, cooked at 400F for 10 mins or so, after a 30 min salt brine and then searing in an oven-hot cast iron."
 - count: 3
-  index: 73
+  index: 72
   nickname: ""
   name: "marcella hazan's tomato sauce"
   tags: []
@@ -846,7 +846,7 @@
   comments:
   - "We blanch 5 lbs, and end up with 3.25 lbs because a lot of those guys were pretty nasty."
 - count: 1
-  index: 72
+  index: 71
   nickname: ""
   name: "breaded chicken tacos"
   tags:
@@ -856,17 +856,6 @@
   recipe_urls: []
   comments:
   - "one (cubed) chicken breast made enough for six tacos; lightly breaded in panko crumbs, served with refried black beans, fresh garden tomato, cheddar cheese, and avocado"
-- count: 2
-  index: 71
-  nickname: ""
-  name: "marcella hazan's tomato sauce with pasta and ground pork"
-  tags:
-  - "pasta"
-  - "pork"
-  last_suggested_date: '2018-12-01'
-  recipe_urls: []
-  comments:
-  - "we use 5 lbs. of blanched garden tomatoes, and it turns out soupy but still delicious; also we add three garlic cloves, and puree when it was done cooking"
 - count: 1
   index: 70
   nickname: ""
@@ -887,17 +876,18 @@
   recipe_urls: []
   comments:
   - "in imitation of Hooked's: panko crumbs on tilapia filet, mayo sprinkled in dill on a toasted HEB bolillo; dotted with sweet chili sauce (rooster chili sauce + white sugar); delicious!"
-- count: 2
+- count: 4
   index: 68
   nickname: ""
-  name: "marcella hazan's tomato sauce with pasta and ground pork sausage"
+  name: "marcella hazan's tomato sauce with pasta and ground pork"
   tags:
   - "pasta"
   - "pork"
-  last_suggested_date: '2018-08-18'
+  last_suggested_date: '2018-12-01'
   recipe_urls: []
   comments:
   - "unbelievable; so simple! delicious, and the ground sausage was an awesome combo; this actually tasted like italian food--the first time I've ever cooked such a thing"
+  - "we use 5 lbs. of blanched garden tomatoes, and it turns out soupy but still delicious; also we add three garlic cloves, and puree when it was done cooking"
 - count: 4
   index: 67
   nickname: ""
@@ -1063,16 +1053,18 @@
   recipe_urls: []
   comments:
   - "via vegie num num"
-- count: 1
+- count: 2
   index: 52
   nickname: ""
   name: "sweet potato curry"
   tags:
   - "curry"
   last_suggested_date: '2018-12-29'
-  recipe_urls: []
+  recipe_urls:
+  - "https://pinchofyum.com/creamy-thai-sweet-potato-curry"
   comments:
   - "coconut milk, red onions, lentils, brown sugar, curry powder, chili powder, cayenne, paprika"
+  - "needs some lime. also, we doubled recipe and used 1.5c broth, but probably should have done just 1c"
 - count: 2
   index: 51
   nickname: ""
@@ -1100,7 +1092,7 @@
   - "slow-cooker"
   - "chicken"
   - "beef"
-  last_suggested_date: '2018-06-30'
+  last_suggested_date: '2019-02-23'
   recipe_urls: []
   comments:
   - "from the slow-cooker recipe book; used 1.6 lbs. of meat and that was still plenty"
@@ -1140,7 +1132,7 @@
   nickname: "CkSd3"
   name: "tri-color quinoa with kidney beans"
   tags: []
-  last_suggested_date: '2018-06-30'
+  last_suggested_date: '2019-02-23'
   recipe_urls: []
   comments:
   - "as tacos, only with refried black beans instead of kidney beans, and yogurt, and valentina, and avocado"
@@ -1236,7 +1228,7 @@
   tags:
   - "tacos"
   - "chicken"
-  last_suggested_date: '2018-07-07'
+  last_suggested_date: '2019-03-02'
   recipe_urls: []
   comments: []
 - count: 1
@@ -1282,7 +1274,7 @@
   tags:
   - "chicken"
   - "bacon"
-  last_suggested_date: '2018-06-30'
+  last_suggested_date: '2019-02-23'
   recipe_urls: []
   comments:
   - "somehow even better than yesterday"
@@ -1425,7 +1417,7 @@
   name: "pesto pasta"
   tags:
   - "pasta"
-  last_suggested_date: '2018-07-07'
+  last_suggested_date: '2019-03-02'
   recipe_urls: []
   comments:
   - "with chicken, cherry tomatoes, mushrooms"
@@ -1563,7 +1555,7 @@
   nickname: ""
   name: "spaghetti & meatballs"
   tags: []
-  last_suggested_date: '2018-07-07'
+  last_suggested_date: '2019-03-02'
   recipe_urls: []
   comments: []
 - count: 10
