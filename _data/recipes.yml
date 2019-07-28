@@ -1,5 +1,73 @@
 - count: 1
+  index: 158
+  nickname: ""
+  name: "chicken tinga"
+  tags:
+  - "chicken"
+  last_suggested_date: '2016-01-01'
+  recipe_urls: []
+  comments:
+  - "freezer instant pot meal; really tasty! we have with tortillas, shredded cheddar cheese, sour cream, and valentina"
+- count: 1
+  index: 157
+  nickname: ""
+  name: "beef ragu"
+  tags:
+  - "beef"
+  last_suggested_date: '2016-01-01'
+  recipe_urls: []
+  comments:
+  - "freezer instant pot meal. really tasty, though a bit watery. Took nearly thirty minutes to get to pressure, plus 45+10 for cook+vent time, so make sure to account for that when you start. servings:8"
+- count: 1
+  index: 156
+  nickname: ""
+  name: "tandoori chicken"
+  tags:
+  - "chicken"
+  last_suggested_date: '2016-01-01'
+  recipe_urls: []
+  comments:
+  - "freezer instant pot meal. we eat with rice and naan. it's very tasty! very spicy but it was enjoyable. servings:6"
+- count: 2
+  index: 155
+  nickname: ""
+  name: "beef stew"
+  tags:
+  - "beef"
+  last_suggested_date: '2016-01-01'
+  recipe_urls: []
+  comments:
+  - "freezer instant pot meal. Based on the side of the Instant pot, I'd say we could easily have doubled (though would need two storage bags instead of one). servings:5"
+  - "next time, let's add some potatoes. like a lot of them."
+- count: 1
+  index: 154
+  nickname: ""
+  name: "instant pot rice"
+  tags: []
+  last_suggested_date: '2016-01-01'
+  recipe_urls: []
+  comments:
+  - "make sure to rinse rice really well, then 1:1 rice and water, and add a splash of vegetable oil, and press rice button"
+- count: 1
+  index: 153
+  nickname: ""
+  name: "fried rice"
+  tags: []
+  last_suggested_date: '2016-01-01'
+  recipe_urls:
+  - "https://www.seriouseats.com/recipes/2016/02/easy-vegetable-fried-rice-recipe.html"
+  comments:
+  - "turned out good, but actually a good amount of work. used 1.5c rice, 1.5 lbs chicken thighs, fried in big cast iron. cooked jasmine rice. followed recipe other than that basically (cooked in large cast iron). servings:5"
+- count: 1
   index: 152
+  nickname: ""
+  name: "bolognese"
+  tags: []
+  last_suggested_date: '2016-01-01'
+  recipe_urls: []
+  comments: []
+- count: 1
+  index: 151
   nickname: ""
   name: "baked potatoes and mac and cheese"
   tags: []
@@ -7,7 +75,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 151
+  index: 150
   nickname: ""
   name: "pot roast"
   tags: []
@@ -17,7 +85,7 @@
   comments:
   - "Jess says: We did 3lbs of meet. I'd say do half of the broth -- only deglaze the onions with like 1/2 a cup of broth at most. And then add a little less than a cup to the actual meat. We also added carrots"
 - count: 1
-  index: 150
+  index: 149
   nickname: ""
   name: "slow-cooker bolognese"
   tags:
@@ -28,7 +96,7 @@
   comments:
   - "Jess says she did 1/2c milk, 1/2c white wine, 1.5 cans of 28oz crushed tomatoes, 2T tomato paste, and sage instead of parsley"
 - count: 2
-  index: 149
+  index: 148
   nickname: ""
   name: "turkey chili"
   tags: []
@@ -37,69 +105,71 @@
   - "https://cooking.nytimes.com/recipes/7985-turkey-chili"
   comments:
   - "delicious. made cornbread on the side. (jess says to halve the broth, but it made a good amount as is so maybe let's not.) servings:9"
-- count: 2
-  index: 148
+- count: 3
+  index: 147
   nickname: ""
   name: "chicken parmesan"
   tags:
   - "chicken"
-  last_suggested_date: '2018-10-13'
+  last_suggested_date: '2019-06-15'
   recipe_urls:
-  - "https://cupofjo.com/2017/09/easiest-skillet-chicken-parmesan/, https://smittenkitchen.com/2015/02/spaghetti-pangrattato-with-fried-eggs/"
+  - "https://cupofjo.com/2017/09/easiest-skillet-chicken-parmesan/"
+  - "https://smittenkitchen.com/2015/02/spaghetti-pangrattato-with-fried-eggs/"
   comments:
   - "this was so delicious! used about 2 lbs chicken breast. the pangrattato was critical. served on angel hair."
   - "should use 28oz crushed tomatoes (not diced, otherwise too watery), and 8oz of mozzarella was fine, with 2 lbs. of chicken. also for the breadcrumbs, made 1/3c and that was plenty."
+  - "really, this is such a simple, low-stress, delicious meal. and by the way, doubling means 2 lbs. chicken, 2 28oz tomatoes, and 12oz mozzarella. also if you don't have olive oil for the breadcrumb part, just use butter"
 - count: 2
-  index: 147
+  index: 146
   nickname: ""
   name: "chicken enchiladas"
   tags:
   - "chicken"
-  last_suggested_date: '2018-10-13'
+  last_suggested_date: '2019-06-15'
   recipe_urls:
   - "https://cooking.nytimes.com/recipes/1018153-chicken-enchiladas-with-salsa-verde"
   comments:
   - "these were amazing. used tomatillo salsa verde from other recipe. cooked 1 lb. chicken in big red cast iron as instructed, for only about 15 minutes at boiling. microwaved corn tortillas instead of frying because the first one stuck the pot. wrapped each tortilla with shredded chicken, a spoonful of salsa, and shredded monterrey jack cheese. covered the tops in salsa, more cheese, and about 6oz of sour cream."
   - "we double recipe (we cooked 3 lbs, but I think 2 would have been fine), and use 15oz ricotta (inside enchiladas), 8oz sour cream (dotted on top before baking), and a jar of salsa verde (could've used a bit more...). they taste great, but shredded cheese would've been easier than ricotta I think. servings:9"
 - count: 1
-  index: 146
+  index: 145
   nickname: ""
   name: "fried chicken sandwiches"
   tags:
   - "sandwich"
   - "chicken"
-  last_suggested_date: '2018-10-20'
+  last_suggested_date: '2019-06-22'
   recipe_urls: []
   comments:
   - "fried as in the togarashi chicken; also pickles and mayo on brioche buns"
 - count: 1
-  index: 145
+  index: 144
   nickname: ""
   name: "grilled chicken winglets"
   tags:
   - "chicken"
-  last_suggested_date: '2018-08-11'
+  last_suggested_date: '2019-04-13'
   recipe_urls: []
   comments:
   - "lit about 25-30 briquettes by piling up in pyramid, covering in lighter fluid, then burning. It was just barely enough coal to cook all the chicken, and it took a while. But other than that, it went well!"
 - count: 4
-  index: 144
+  index: 143
   nickname: ""
   name: "ham and bean soup"
   tags:
   - "soup"
-  last_suggested_date: '2018-09-08'
+  last_suggested_date: '2019-05-11'
   recipe_urls: []
   comments:
   - "ham was smoked ham hock from Whole Foods for $10, and also some dried (navy?) beans that Cindy sent us."
   - "Jess makes it while I'm gone"
 - count: 4
-  index: 143
+  index: 142
   nickname: ""
   name: "togarashi popcorn chicken with cabbage slaw"
   tags:
   - "chicken"
-  last_suggested_date: '2018-09-22'
+  last_suggested_date: '2019-05-25'
   recipe_urls:
   - "https://www.blueapron.com/recipes/togarashi-popcorn-chicken-with-sweet-chili-cabbage-slaw"
   comments:
@@ -107,31 +177,22 @@
   - "doubled recipe. sweet chili sauce = spicy chili paste + sugar + soy sauce. use big cast iron so you can fry it all at once"
   - "1.25 lbs chicken is about perfect for cooking in the big cast iron, but it's not that much food. just about 4 servings total."
 - count: 1
-  index: 142
+  index: 141
   nickname: ""
   name: "red curry"
   tags:
   - "curry"
-  last_suggested_date: '2018-08-11'
+  last_suggested_date: '2019-04-13'
   recipe_urls:
   - "https://www.seriouseats.com/recipes/2013/05/red-curry-with-shrimp-zucchini-and-carrot.html"
   comments:
   - "make with chicken thighs which we bake with some chili paste rubbed on, at 425F for about 25 minutes. also, only one small zucchini, and 1c of carrots. really delicious!"
 - count: 1
-  index: 141
+  index: 140
   nickname: ""
   name: "gyudon on rice"
   tags: []
   last_suggested_date: '2019-01-19'
-  recipe_urls: []
-  comments: []
-- count: 2
-  index: 140
-  nickname: ""
-  name: "mac and cheese with bacon"
-  tags:
-  - "bacon"
-  last_suggested_date: '2018-10-06'
   recipe_urls: []
   comments: []
 - count: 1
@@ -139,7 +200,7 @@
   nickname: ""
   name: "tuna steaks with rice and broccoli"
   tags: []
-  last_suggested_date: '2018-09-08'
+  last_suggested_date: '2019-05-11'
   recipe_urls: []
   comments: []
 - count: 3
@@ -160,7 +221,7 @@
   nickname: ""
   name: "vegetarian lasagna"
   tags: []
-  last_suggested_date: '2018-08-04'
+  last_suggested_date: '2019-04-06'
   recipe_urls: []
   comments:
   - "the top layer curled up a lot when it baked--maybe top with more bechamel? also we ended up not dipping the partially cooked lasagna sheets in cold water because it made them curl up. we just use paramesan as the only cheese. also a 15oz can of tomatoes works fine but a little more would be nice"
@@ -171,7 +232,7 @@
   tags:
   - "pasta"
   - "bacon"
-  last_suggested_date: '2018-09-29'
+  last_suggested_date: '2019-06-01'
   recipe_urls: []
   comments: []
 - count: 1
@@ -188,7 +249,7 @@
   name: "pork tenderloin, mashed potatoes, kale from garden"
   tags:
   - "pork"
-  last_suggested_date: '2018-09-29'
+  last_suggested_date: '2019-06-01'
   recipe_urls: []
   comments: []
 - count: 1
@@ -201,24 +262,25 @@
   recipe_urls:
   - "http://www.seriouseats.com/recipes/2016/07/gyudon-japanese-simmered-beef-and-rice-bowl-recipe.html, http://www.hikarimiso.com/recipes/miso_soup/basic_miso/"
   comments: []
-- count: 4
+- count: 5
   index: 132
   nickname: ""
   name: "red beans and rice"
   tags: []
-  last_suggested_date: '2018-08-25'
+  last_suggested_date: '2019-04-27'
   recipe_urls:
   - "http://www.seriouseats.com/recipes/2017/05/new-orleans-style-red-beans-rice-recipe.html"
   comments:
   - "delicious. we use 3 cans of kidney beans."
   - "don't add too much water or it takes forever to thicken. we did five cups and it was way too much. maybe do 4."
+  - "4 cups and it still takes a while, but it's fine. we add a ham hock and it is SOOO good, please never not add a ham hock."
 - count: 3
   index: 131
   nickname: ""
   name: "alabama white sauce chicken thighs"
   tags:
   - "chicken"
-  last_suggested_date: '2018-07-28'
+  last_suggested_date: '2019-03-30'
   recipe_urls:
   - "http://www.foodnetwork.com/recipes/jeff-mauro/grilled-chicken-with-alabama-white-bbq-sauce-2810701"
   comments:
@@ -231,7 +293,7 @@
   tags:
   - "sandwich"
   - "pork"
-  last_suggested_date: '2018-07-21'
+  last_suggested_date: '2019-03-23'
   recipe_urls: []
   comments:
   - "slow-cook some pork shoulder using mom's recipe, then just add bbq sauce"
@@ -240,7 +302,7 @@
   nickname: ""
   name: "kale and cheddar quesadillas with a fried egg"
   tags: []
-  last_suggested_date: '2018-10-20'
+  last_suggested_date: '2019-06-22'
   recipe_urls: []
   comments:
   - "third and final Blue Apron meal"
@@ -251,7 +313,7 @@
   tags:
   - "salad"
   - "chicken"
-  last_suggested_date: '2018-09-01'
+  last_suggested_date: '2019-05-04'
   recipe_urls: []
   comments:
   - "second Blue Apron meal. Always use chicken breast with the skin still on! It's so much better this way. Lentil spice mix has thyme, bay leaf, mustard seeds, black pepper"
@@ -261,7 +323,7 @@
   name: "miso burgers"
   tags:
   - "burger"
-  last_suggested_date: '2018-07-28'
+  last_suggested_date: '2019-03-30'
   recipe_urls:
   - "https://www.blueapron.com/recipes/hoisin-shiitake-burgers-with-miso-mayonnaise-roasted-sweet-potato-wedges"
   comments:
@@ -275,7 +337,7 @@
   name: "butter chicken"
   tags:
   - "chicken"
-  last_suggested_date: '2018-10-13'
+  last_suggested_date: '2019-06-15'
   recipe_urls:
   - "http://www.bonappetit.com/recipe/butter-chicken"
   - "http://allrecipes.com/recipe/141169/easy-indian-butter-chicken/"
@@ -288,7 +350,7 @@
   nickname: ""
   name: "salmon chowder"
   tags: []
-  last_suggested_date: '2018-07-14'
+  last_suggested_date: '2019-03-16'
   recipe_urls: []
   comments:
   - "Serious Eats recipe; gets waaaay better after a night in the fridge, so worth making it advance if you were gonna serve it to someone; also, a single recipe makes us seven servings"
@@ -297,7 +359,7 @@
   nickname: ""
   name: "goulash"
   tags: []
-  last_suggested_date: '2018-11-03'
+  last_suggested_date: '2019-07-13'
   recipe_urls:
   - "http://www.pipandebby.com/pip-ebby/best-ever-goulash"
   comments:
@@ -308,7 +370,7 @@
   nickname: ""
   name: "cornbread"
   tags: []
-  last_suggested_date: '2018-09-22'
+  last_suggested_date: '2019-05-25'
   recipe_urls:
   - "http://www.seriouseats.com/recipes/2015/01/moist-and-tender-brown-butter-cornbread-recipe.html"
   comments:
@@ -319,7 +381,7 @@
   name: "beef stroganoff"
   tags:
   - "beef"
-  last_suggested_date: '2018-11-03'
+  last_suggested_date: '2019-07-13'
   recipe_urls:
   - "http://www.bonappetit.com/recipe/adams-beef-stroganoff"
   comments:
@@ -331,27 +393,28 @@
   name: "pasta carbonara"
   tags:
   - "pasta"
-  last_suggested_date: '2018-10-06'
+  last_suggested_date: '2019-06-08'
   recipe_urls: []
   comments: []
-- count: 2
+- count: 3
   index: 120
   nickname: ""
   name: "alfredo pasta"
   tags:
   - "pasta"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2019-03-09'
   recipe_urls: []
   comments:
   - "with mushrooms and chicken, using Mom's recipe, then just adding mushrooms and chicken (cooked separately, combined at the end)"
   - "sooooo good: with mushrooms, spinach, and bacon! doubled the recipe. don't be afraid to use tons of mushrooms. Jess says 6-7 strips of bacon was good."
+  - "doubled recipe, but needed tons more mushrooms, and probably 12 slices of bacon would be better. cook bacon first, then shrooms in the bacon grease, and then use that same pan (the big red cast iron) for the alfredo."
 - count: 1
   index: 119
   nickname: ""
   name: "white bean, sausage and kale soup"
   tags:
   - "soup"
-  last_suggested_date: '2018-11-10'
+  last_suggested_date: '2019-07-20'
   recipe_urls:
   - "http://www.bonappetit.com/columns/cooking-without-recipes/article/easy-sausage-white-bean-kale-dinner"
   comments: []
@@ -382,11 +445,11 @@
   name: "hazan's chickpea soup with rice"
   tags:
   - "soup"
-  last_suggested_date: '2018-09-15'
+  last_suggested_date: '2019-05-18'
   recipe_urls: []
   comments:
   - "It's alright for a change, and it made a ton, but I'm pretty sure I like it better without the rice"
-- count: 5
+- count: 6
   index: 115
   nickname: ""
   name: "chicken pot pie"
@@ -407,7 +470,7 @@
   name: "beef and bean chili"
   tags:
   - "beef"
-  last_suggested_date: '2018-09-08'
+  last_suggested_date: '2019-05-11'
   recipe_urls:
   - "http://www.food.com/recipe/the-best-bowl-of-chili-ive-ever-had-178865"
   comments:
@@ -419,7 +482,7 @@
   nickname: ""
   name: "beer bread"
   tags: []
-  last_suggested_date: '2018-08-18'
+  last_suggested_date: '2019-04-20'
   recipe_urls:
   - "http://www.food.com/recipe/beer-bread-73440"
   comments:
@@ -441,7 +504,7 @@
   tags:
   - "slow-cooker"
   - "chicken"
-  last_suggested_date: '2018-07-14'
+  last_suggested_date: '2019-03-16'
   recipe_urls:
   - "http://www.thekitchn.com/recipe-slow-cooker-chicken-tikka-masala-recipes-from-the-kitchn-211284"
   comments:
@@ -451,7 +514,7 @@
   nickname: ""
   name: "tuna with kale and rice"
   tags: []
-  last_suggested_date: '2018-07-28'
+  last_suggested_date: '2019-03-30'
   recipe_urls: []
   comments:
   - "delicious. cook tuna 3 minutes per side on high heat on sesame oil; should be pink inside! also way better fresh off the grill rather than as leftovers. after removing tuna, add 6T rice wine and 3T soy sauce to hot pan, cook for a minute until thick."
@@ -460,7 +523,7 @@
   nickname: ""
   name: "hazan's all'amatriciana sauce"
   tags: []
-  last_suggested_date: '2018-08-04'
+  last_suggested_date: '2019-04-06'
   recipe_urls: []
   comments:
   - "we cook 10oz. bacon (from bacon butt bits), add a diced medium onion, then a full large can of whole plum tomatoes (no oil, no butter), and then chili flakes; delicious!"
@@ -512,7 +575,7 @@
   name: "hazan potato minestrone soup"
   tags:
   - "soup"
-  last_suggested_date: '2018-09-01'
+  last_suggested_date: '2019-05-04'
   recipe_urls: []
   comments:
   - "It's okay."
@@ -522,7 +585,7 @@
   name: "hazan's eggplant and ricotta pasta"
   tags:
   - "pasta"
-  last_suggested_date: '2018-09-01'
+  last_suggested_date: '2019-05-04'
   recipe_urls: []
   comments: []
 - count: 1
@@ -532,7 +595,7 @@
   tags:
   - "pasta"
   - "bacon"
-  last_suggested_date: '2018-08-18'
+  last_suggested_date: '2019-04-20'
   recipe_urls: []
   comments:
   - "needs fewer peas, way more bacon (I'd suggest half a pound of bacon for a 1.5 times recipe.)"
@@ -543,7 +606,7 @@
   tags:
   - "pasta"
   - "chicken"
-  last_suggested_date: '2018-08-11'
+  last_suggested_date: '2019-04-13'
   recipe_urls:
   - "http://www.ostrommushrooms.com/recipes/sides/item/93-chevre-and-basil-filled-chicken-breasts"
   comments: []
@@ -554,7 +617,7 @@
   tags:
   - "pasta"
   - "pork"
-  last_suggested_date: '2018-11-17'
+  last_suggested_date: '2019-07-27'
   recipe_urls: []
   comments: []
 - count: 1
@@ -565,16 +628,17 @@
   last_suggested_date: '2019-01-26'
   recipe_urls: []
   comments: []
-- count: 3
+- count: 4
   index: 98
   nickname: ""
   name: "burrito bowl"
   tags: []
-  last_suggested_date: '2018-11-10'
+  last_suggested_date: '2019-07-20'
   recipe_urls: []
   comments:
   - "so good with avocado and sour cream...also, Jess has mastered cooking rice"
   - "marinade sliced round steak in worcestire, brown sugar, lime juice for an hour prior to cooking (don't cook in all of liquid! maybe just use some of it)"
+  - "jess says for beans and peppers: caramelize 2 onions, then add 2 bell peppers, then add 2 cans of pinto beans, 2-3 garlic cloves, chili powder, tiny bit of cumin, and oregano, salt and pepper. then remove them and add in 3 chicken breasts (1.5 lbs.) cubed and seasoned with lawry's, salt, pepper, chili powder, and cook in butter."
 - count: 1
   index: 97
   nickname: ""
@@ -590,7 +654,7 @@
   tags:
   - "tacos"
   - "pork"
-  last_suggested_date: '2018-10-20'
+  last_suggested_date: '2019-06-22'
   recipe_urls:
   - "https://pinchofyum.com/easy-crockpot-carnitas"
   comments:
@@ -621,7 +685,7 @@
   nickname: ""
   name: "steak in wine, cream, and mushroom sauce; baked red potatoes; focaccia bread"
   tags: []
-  last_suggested_date: '2018-08-11'
+  last_suggested_date: '2019-04-13'
   recipe_urls: []
   comments:
   - "focaccia bread wasn't so great, for some reason--I think I rolled it out too flat"
@@ -631,7 +695,7 @@
   name: "hazan's bean soup, dinner rolls"
   tags:
   - "soup"
-  last_suggested_date: '2018-09-22'
+  last_suggested_date: '2019-05-25'
   recipe_urls: []
   comments: []
 - count: 2
@@ -640,7 +704,7 @@
   name: "pork tenderloin"
   tags:
   - "pork"
-  last_suggested_date: '2018-10-27'
+  last_suggested_date: '2019-06-29'
   recipe_urls: []
   comments:
   - "with roaster potatoes: 450F, olive oil s&p and garlic, just put in for 15-20 minutes BUT DO NOT STIR--they get crispier that way"
@@ -650,7 +714,7 @@
   name: "meatball soup, cornbread"
   tags:
   - "soup"
-  last_suggested_date: '2018-08-25'
+  last_suggested_date: '2019-04-27'
   recipe_urls: []
   comments: []
 - count: 1
@@ -658,7 +722,7 @@
   nickname: ""
   name: "gnocchi with vodka sauce"
   tags: []
-  last_suggested_date: '2018-09-15'
+  last_suggested_date: '2019-05-18'
   recipe_urls: []
   comments: []
 - count: 1
@@ -667,7 +731,7 @@
   name: "hazan's potato minestrone soup"
   tags:
   - "soup"
-  last_suggested_date: '2018-08-18'
+  last_suggested_date: '2019-04-20'
   recipe_urls: []
   comments:
   - "without carrots, with crostini; I cook because Jess is sick."
@@ -676,7 +740,7 @@
   nickname: ""
   name: "salmon with kale and red potatoes"
   tags: []
-  last_suggested_date: '2018-07-28'
+  last_suggested_date: '2019-03-30'
   recipe_urls: []
   comments: []
 - count: 9
@@ -697,7 +761,7 @@
   name: "hazan's butter and sage pasta"
   tags:
   - "pasta"
-  last_suggested_date: '2018-10-27'
+  last_suggested_date: '2019-07-06'
   recipe_urls: []
   comments:
   - "macaroni noodles, with a strip of bacon each and parmesan, salt/pepper added as well"
@@ -716,7 +780,7 @@
   name: "brussel sprout salad"
   tags:
   - "salad"
-  last_suggested_date: '2018-09-29'
+  last_suggested_date: '2019-06-01'
   recipe_urls:
   - "http://www.loveandlemons.com/2014/11/03/shredded-brussels-sprout-apple-salad/"
   comments: []
@@ -738,7 +802,7 @@
   name: "butternut squash soup"
   tags:
   - "soup"
-  last_suggested_date: '2018-07-28'
+  last_suggested_date: '2019-03-30'
   recipe_urls:
   - "http://www.foodnetwork.com/recipes/food-network-kitchens/butternut-squash-soup-recipe1.html"
   - "http://www.seriouseats.com/recipes/2016/11/classic-butternut-squash-soup-recipe.html"
@@ -750,13 +814,13 @@
   name: "chicken thighs"
   tags:
   - "chicken"
-  last_suggested_date: '2018-11-03'
+  last_suggested_date: '2019-07-13'
   recipe_urls:
   - "http://www.bonappetit.com/recipe/perfect-pan-roasted-chicken-thighs"
   comments:
   - "Harrison's recipe, and this shit is GOOD and (critically:) simple"
   - "we drain some liquid before putting in the oven, and then again when flipping, which I think helped reduce the splatter."
-- count: 6
+- count: 9
   index: 79
   nickname: ""
   name: "mac and cheese"
@@ -770,13 +834,14 @@
   - "more time consuming than expected, but it turned out delicious! we added bacon bits and mushrooms, and we have SO much left over"
   - "Jess cooks. It made SO MUCH. Like 8 servings"
   - "equal parts mac, evaporated milk, and cheddar cheese (12 oz each); cook mac in just enough water to cover it; prepare cheese BEFOREHAND and do NOT use vitamix"
+  - "add mushrooms and bacon, and have roasted broccoli on the side (475F for 15 minutes) which is delicious. mac recipe doubled = servings:8"
 - count: 10
   index: 78
   nickname: ""
   name: "meatball soup"
   tags:
   - "soup"
-  last_suggested_date: '2018-07-21'
+  last_suggested_date: '2019-03-23'
   recipe_urls: []
   comments:
   - "delicious--Mom's recipe"
@@ -797,7 +862,7 @@
   name: "roast pork loin with brussels sprouts"
   tags:
   - "pork"
-  last_suggested_date: '2018-07-21'
+  last_suggested_date: '2019-03-23'
   recipe_urls:
   - "http://www.marthastewart.com/852118/pork-roast-caramelized-parsnips"
   comments:
@@ -807,7 +872,7 @@
   nickname: ""
   name: "coq au vin blanc"
   tags: []
-  last_suggested_date: '2018-08-25'
+  last_suggested_date: '2019-04-27'
   recipe_urls:
   - "http://www.easy-french-food.com/coq-au-vin-recipe.html"
   comments:
@@ -818,7 +883,7 @@
   name: "pork ribs"
   tags:
   - "pork"
-  last_suggested_date: '2018-09-29'
+  last_suggested_date: '2019-06-01'
   recipe_urls:
   - "http://www.marthastewart.com/318389/oven-roasted-ribs-with-barbecue-sauce"
   comments:
@@ -831,7 +896,7 @@
   name: "pork chops"
   tags:
   - "pork"
-  last_suggested_date: '2018-07-14'
+  last_suggested_date: '2019-03-16'
   recipe_urls:
   - "http://www.thekitchn.com/how-to-cook-perfect-pork-chops-in-the-oven-cooking-lessons-from-the-kitchn-194257"
   comments:
@@ -862,7 +927,7 @@
   name: "roast chicken"
   tags:
   - "chicken"
-  last_suggested_date: '2018-09-01'
+  last_suggested_date: '2019-05-04'
   recipe_urls: []
   comments:
   - "nothing simpler; half a stick of butter, rosemary, a lemon, some paprika maybe; 35 minutes at 450F"
@@ -872,7 +937,7 @@
   name: "fish burger"
   tags:
   - "burger"
-  last_suggested_date: '2018-10-27'
+  last_suggested_date: '2019-06-29'
   recipe_urls: []
   comments:
   - "in imitation of Hooked's: panko crumbs on tilapia filet, mayo sprinkled in dill on a toasted HEB bolillo; dotted with sweet chili sauce (rooster chili sauce + white sugar); delicious!"
@@ -893,7 +958,7 @@
   nickname: ""
   name: "fetteh"
   tags: []
-  last_suggested_date: '2018-09-15'
+  last_suggested_date: '2019-05-18'
   recipe_urls: []
   comments:
   - "pretty good! added a bit more tahini than suggested, I think; also, probably needs more spices; and a thicker yogurt, too. and don't forget to flip the pita bread triangles in the oven! made 5 servings"
@@ -906,7 +971,7 @@
   name: "pesto cheeseburgers"
   tags:
   - "burger"
-  last_suggested_date: '2018-09-15'
+  last_suggested_date: '2019-05-18'
   recipe_urls: []
   comments:
   - "pesto, parmesan cheese, burger, toasted bolillos, mayo = maybe the best burger I think I've ever had, definitely the best one I've ever made; let the pan get nice and hot, then put loosely balled burgers on (break up beef entirely before balling), then smash."
@@ -915,7 +980,7 @@
   nickname: ""
   name: "ham and mushroom cheese pizza"
   tags: []
-  last_suggested_date: '2018-09-22'
+  last_suggested_date: '2019-05-25'
   recipe_urls: []
   comments:
   - "made two doughs, resulting in tons of pizza; probably 4 servings each. it turned out so well! shit. pre-heat the cookie sheet."
@@ -926,7 +991,7 @@
   name: "spicy miso ramen"
   tags:
   - "soup"
-  last_suggested_date: '2018-10-27'
+  last_suggested_date: '2019-07-06'
   recipe_urls: []
   comments:
   - "we double the actual ramen recipe and it makes plenty"
@@ -947,7 +1012,7 @@
   tags:
   - "soup"
   - "pork"
-  last_suggested_date: '2018-07-14'
+  last_suggested_date: '2019-03-16'
   recipe_urls:
   - "http://ladyandpups.com/2014/01/04/spicy-miso-ramen-express-eng/"
   comments:
@@ -960,7 +1025,7 @@
   - "sandwich"
   - "slow-cooker"
   - "beef"
-  last_suggested_date: '2018-07-21'
+  last_suggested_date: '2019-03-23'
   recipe_urls:
   - "http://eatathomecooks.com/2012/05/african-pulled-beef-sandwiches-in-the-slow-cooker-with-yogurt-mint-sauce.html"
   comments: []
@@ -969,7 +1034,7 @@
   nickname: ""
   name: "roast veggies, quinoa, yogurt"
   tags: []
-  last_suggested_date: '2018-08-25'
+  last_suggested_date: '2019-04-27'
   recipe_urls: []
   comments:
   - "beets, carrots, sweet potatoes, garlic, for ~30 mins at 425F"
@@ -980,7 +1045,7 @@
   name: "marcella hazan's chickpea soup"
   tags:
   - "soup"
-  last_suggested_date: '2018-11-17'
+  last_suggested_date: '2019-07-27'
   recipe_urls:
   - "http://stylishcuisine.com/?p=87"
   comments:
@@ -994,7 +1059,7 @@
   nickname: ""
   name: "falafel"
   tags: []
-  last_suggested_date: '2018-09-29'
+  last_suggested_date: '2019-06-01'
   recipe_urls:
   - "http://www.vegetariantimes.com/recipe/homemade-falafel/"
   comments:
@@ -1017,7 +1082,7 @@
   name: "tuna pasta with garlic, spinach, parmesan"
   tags:
   - "pasta"
-  last_suggested_date: '2018-11-17'
+  last_suggested_date: '2019-07-27'
   recipe_urls: []
   comments: []
 - count: 1
@@ -1027,7 +1092,7 @@
   tags:
   - "sandwich"
   - "chicken"
-  last_suggested_date: '2018-10-06'
+  last_suggested_date: '2019-06-08'
   recipe_urls: []
   comments: []
 - count: 2
@@ -1038,7 +1103,7 @@
   - "soup"
   - "slow-cooker"
   - "chicken"
-  last_suggested_date: '2018-08-25'
+  last_suggested_date: '2019-04-27'
   recipe_urls:
   - "http://www.bakedbyrachel.com/slow-cooker-chicken-tortilla-soup/"
   comments:
@@ -1049,7 +1114,7 @@
   nickname: ""
   name: "almond sausage couscous"
   tags: []
-  last_suggested_date: '2018-09-22'
+  last_suggested_date: '2019-05-25'
   recipe_urls: []
   comments:
   - "via vegie num num"
@@ -1112,16 +1177,16 @@
   tags:
   - "tacos"
   - "chicken"
-  last_suggested_date: '2018-08-04'
+  last_suggested_date: '2019-04-06'
   recipe_urls: []
   comments:
   - "talk about people doing jobs they hate, and dumb people who click Edit to copy/paste"
-- count: 3
+- count: 4
   index: 46
   nickname: ""
   name: "lasagna"
   tags: []
-  last_suggested_date: '2018-10-27'
+  last_suggested_date: '2019-06-29'
   recipe_urls:
   - "https://www.myrecipes.com/recipe/extra-easy-lasagna"
   comments:
@@ -1190,7 +1255,7 @@
   name: "chicken waterzooi"
   tags:
   - "chicken"
-  last_suggested_date: '2018-09-08'
+  last_suggested_date: '2019-05-11'
   recipe_urls: []
   comments:
   - "good! very simple, and tasty"
@@ -1237,7 +1302,7 @@
   name: "peas and zucchini pasta"
   tags:
   - "pasta"
-  last_suggested_date: '2018-10-20'
+  last_suggested_date: '2019-06-22'
   recipe_urls: []
   comments:
   - "too lemony"
@@ -1248,7 +1313,7 @@
   tags:
   - "curry"
   - "chicken"
-  last_suggested_date: '2018-11-17'
+  last_suggested_date: '2019-07-27'
   recipe_urls:
   - "http://www.amateurgourmet.com/2010/04/bombay_chicken_curry.html"
   - "https://www.budgetbytes.com/2016/05/thai-coconut-curry-braised-chicken-thighs/"
@@ -1264,7 +1329,7 @@
   name: "turkey blt with avocado sandwiches, french fries"
   tags:
   - "sandwich"
-  last_suggested_date: '2018-08-04'
+  last_suggested_date: '2019-04-06'
   recipe_urls: []
   comments: []
 - count: 1
@@ -1283,7 +1348,7 @@
   nickname: ""
   name: "ribeye steak, steamed kale, baked sweet potato"
   tags: []
-  last_suggested_date: '2018-10-06'
+  last_suggested_date: '2019-06-08'
   recipe_urls: []
   comments: []
 - count: 2
@@ -1292,7 +1357,7 @@
   name: "lamb korma"
   tags:
   - "lamb"
-  last_suggested_date: '2018-10-20'
+  last_suggested_date: '2019-06-22'
   recipe_urls:
   - "http://www.thekitchn.com/recipe-lamb-korma-recipes-from-the-kitchn-196350"
   comments:
@@ -1312,7 +1377,7 @@
   nickname: "CkSd2"
   name: "french fries"
   tags: []
-  last_suggested_date: '2018-08-18'
+  last_suggested_date: '2019-04-20'
   recipe_urls:
   - "http://thepioneerwoman.com/cooking/2012/01/perfect-french-fries/"
   comments:
@@ -1323,7 +1388,7 @@
   name: "smoked chicken"
   tags:
   - "chicken"
-  last_suggested_date: '2018-10-13'
+  last_suggested_date: '2019-06-15'
   recipe_urls: []
   comments:
   - "first smoking! 5 lb. chicken over 2 hrs--quicker than expected but turned out good"
@@ -1332,7 +1397,7 @@
   nickname: "CkP3"
   name: "spaghetti and meatballs"
   tags: []
-  last_suggested_date: '2018-11-10'
+  last_suggested_date: '2019-07-20'
   recipe_urls: []
   comments: []
 - count: 1
@@ -1349,7 +1414,7 @@
   name: "cheeseburgers"
   tags:
   - "burger"
-  last_suggested_date: '2018-07-14'
+  last_suggested_date: '2019-03-16'
   recipe_urls: []
   comments:
   - "on charcoal grill; roll up newspaper into coils, starting from corner, three rolls, and coil into chimney, leaving air in the center--works perfectly! we drink wine and beer and sit outside in chairs listening to Can and Pink Floyd's \"Animals\", catching fireflies and talking about gun control and revolution"
@@ -1360,7 +1425,7 @@
   name: "raw tacos with cashews and walnuts"
   tags:
   - "tacos"
-  last_suggested_date: '2018-11-03'
+  last_suggested_date: '2019-07-13'
   recipe_urls:
   - "https://www.mynewroots.org/site/2011/07/raw-taco-fiesta-2/"
   comments:
@@ -1386,7 +1451,7 @@
   nickname: "CkS6"
   name: "fried catfish po boy"
   tags: []
-  last_suggested_date: '2018-11-03'
+  last_suggested_date: '2019-07-13'
   recipe_urls: []
   comments:
   - "fried catfish with tartar sauce and pickles on buns--catfish dipped in egg, then in breadcrumbs and flour and salt and pepper, then fried in good amount of veggie oil; jess makes delicious tartar sauce with mayo, lemon juice, salt and pepper, and pickles"
@@ -1407,7 +1472,7 @@
   nickname: "CkM1"
   name: "red chili bean and sweet potato burritos"
   tags: []
-  last_suggested_date: '2018-10-06'
+  last_suggested_date: '2019-06-08'
   recipe_urls: []
   comments:
   - "I realize I like these if I just don't eat the skin"
@@ -1427,7 +1492,7 @@
   nickname: "CkSd1"
   name: "ravioli with tomato-sauce and mushrooms"
   tags: []
-  last_suggested_date: '2018-10-27'
+  last_suggested_date: '2019-06-29'
   recipe_urls: []
   comments: []
 - count: 2
@@ -1440,7 +1505,7 @@
   recipe_urls:
   - "http://www.veggienumnum.com/2010/11/masoor-dal/"
   comments: []
-- count: 9
+- count: 10
   index: 14
   nickname: "CkP4"
   name: "baked penne pasta with roasted vegetables"
@@ -1460,7 +1525,7 @@
   tags:
   - "burger"
   - "chicken"
-  last_suggested_date: '2018-09-08'
+  last_suggested_date: '2019-05-11'
   recipe_urls: []
   comments:
   - "so good; followed by Ben n Jerry's ice cream"
@@ -1478,7 +1543,7 @@
   name: "sausages with curry ketchup"
   tags:
   - "curry"
-  last_suggested_date: '2018-07-21'
+  last_suggested_date: '2019-03-23'
   recipe_urls: []
   comments: []
 - count: 4
@@ -1487,7 +1552,7 @@
   name: "chickpea curry with rice and yogurt"
   tags:
   - "curry"
-  last_suggested_date: '2018-09-15'
+  last_suggested_date: '2019-05-18'
   recipe_urls: []
   comments:
   - "Jess does it all"
@@ -1498,7 +1563,7 @@
   name: "green bean, pecan, sundried tomatoes, mushroom pasta"
   tags:
   - "pasta"
-  last_suggested_date: '2018-11-10'
+  last_suggested_date: '2019-07-20'
   recipe_urls: []
   comments:
   - "if pecan is crumbed it will thicken up the sauce real nice"
@@ -1508,7 +1573,7 @@
   name: "lentil spinach pecan feta carrot salad"
   tags:
   - "salad"
-  last_suggested_date: '2018-08-04'
+  last_suggested_date: '2019-04-06'
   recipe_urls: []
   comments: []
 - count: 8
@@ -1518,7 +1583,7 @@
   tags:
   - "salad"
   - "chicken"
-  last_suggested_date: '2018-08-11'
+  last_suggested_date: '2019-04-13'
   recipe_urls: []
   comments:
   - "highest taste-to-ease ratio ever!"
@@ -1530,7 +1595,7 @@
   nickname: ""
   name: "nachos with homemade salsa and guacamole, and \"corn mayonnaise,\" as jess calls it"
   tags: []
-  last_suggested_date: '2018-09-01'
+  last_suggested_date: '2019-05-04'
   recipe_urls: []
   comments: []
 - count: 2
@@ -1547,7 +1612,7 @@
   nickname: ""
   name: "mushroom, spinach, cheese quesadillas with sour cream and home-made salsa"
   tags: []
-  last_suggested_date: '2018-10-27'
+  last_suggested_date: '2019-06-29'
   recipe_urls: []
   comments: []
 - count: 1
@@ -1564,7 +1629,7 @@
   name: "red lentil curry"
   tags:
   - "curry"
-  last_suggested_date: '2018-10-13'
+  last_suggested_date: '2019-06-15'
   recipe_urls: []
   comments:
   - "recipe from Sophie (fwd from Jess) in my email"
@@ -1577,6 +1642,6 @@
   name: "ham, pesto, cheese, salt/pepper angel hair pasta"
   tags:
   - "pasta"
-  last_suggested_date: '2018-11-10'
+  last_suggested_date: '2019-07-20'
   recipe_urls: []
   comments: []
