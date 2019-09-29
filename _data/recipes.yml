@@ -1,30 +1,40 @@
-- count: 1
+- count: 2
+  index: 159
+  nickname: ""
+  name: "sheet pan bruschetta chicken"
+  tags:
+  - "chicken"
+  last_suggested_date: '2016-01-01'
+  recipe_urls:
+  - "https://damndelicious.net/2016/09/24/sheet-pan-bruschetta-chicken/print/"
+  comments: []
+- count: 2
   index: 158
   nickname: ""
   name: "chicken tinga"
   tags:
   - "chicken"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2019-08-03'
   recipe_urls: []
   comments:
   - "freezer instant pot meal; really tasty! we have with tortillas, shredded cheddar cheese, sour cream, and valentina"
-- count: 1
+- count: 2
   index: 157
   nickname: ""
   name: "beef ragu"
   tags:
   - "beef"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2019-08-10'
   recipe_urls: []
   comments:
   - "freezer instant pot meal. really tasty, though a bit watery. Took nearly thirty minutes to get to pressure, plus 45+10 for cook+vent time, so make sure to account for that when you start. servings:8"
-- count: 1
+- count: 2
   index: 156
   nickname: ""
   name: "tandoori chicken"
   tags:
   - "chicken"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2019-08-03'
   recipe_urls: []
   comments:
   - "freezer instant pot meal. we eat with rice and naan. it's very tasty! very spicy but it was enjoyable. servings:6"
@@ -34,7 +44,7 @@
   name: "beef stew"
   tags:
   - "beef"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2019-08-03'
   recipe_urls: []
   comments:
   - "freezer instant pot meal. Based on the side of the Instant pot, I'd say we could easily have doubled (though would need two storage bags instead of one). servings:5"
@@ -44,16 +54,16 @@
   nickname: ""
   name: "instant pot rice"
   tags: []
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2019-08-03'
   recipe_urls: []
   comments:
   - "make sure to rinse rice really well, then 1:1 rice and water, and add a splash of vegetable oil, and press rice button"
-- count: 1
+- count: 2
   index: 153
   nickname: ""
   name: "fried rice"
   tags: []
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2019-08-03'
   recipe_urls:
   - "https://www.seriouseats.com/recipes/2016/02/easy-vegetable-fried-rice-recipe.html"
   comments:
@@ -63,7 +73,7 @@
   nickname: ""
   name: "bolognese"
   tags: []
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2019-08-10'
   recipe_urls: []
   comments: []
 - count: 1
@@ -90,7 +100,7 @@
   name: "slow-cooker bolognese"
   tags:
   - "slow-cooker"
-  last_suggested_date: '2019-01-05'
+  last_suggested_date: '2019-09-28'
   recipe_urls:
   - "https://natashaskitchen.com/slow-cooker-bolognese-sauce-recipe/"
   comments:
@@ -100,7 +110,7 @@
   nickname: ""
   name: "turkey chili"
   tags: []
-  last_suggested_date: '2018-12-15'
+  last_suggested_date: '2019-09-07'
   recipe_urls:
   - "https://cooking.nytimes.com/recipes/7985-turkey-chili"
   comments:
@@ -176,7 +186,7 @@
   - "delicious! used sriracha instead of tonkatsu sauce"
   - "doubled recipe. sweet chili sauce = spicy chili paste + sugar + soy sauce. use big cast iron so you can fry it all at once"
   - "1.25 lbs chicken is about perfect for cooking in the big cast iron, but it's not that much food. just about 4 servings total."
-- count: 1
+- count: 2
   index: 141
   nickname: ""
   name: "red curry"
@@ -209,7 +219,7 @@
   name: "chicken katsudon"
   tags:
   - "chicken"
-  last_suggested_date: '2018-12-01'
+  last_suggested_date: '2019-08-24'
   recipe_urls:
   - "http://www.seriouseats.com/recipes/2017/04/katsudon-japanese-leftover-cutlet-rice-egg-bowl-recipe.html"
   comments:
@@ -258,7 +268,7 @@
   name: "gyudon on rice with miso soup"
   tags:
   - "soup"
-  last_suggested_date: '2018-12-22'
+  last_suggested_date: '2019-09-14'
   recipe_urls:
   - "http://www.seriouseats.com/recipes/2016/07/gyudon-japanese-simmered-beef-and-rice-bowl-recipe.html, http://www.hikarimiso.com/recipes/miso_soup/basic_miso/"
   comments: []
@@ -387,7 +397,7 @@
   comments:
   - "we use 2 lbs. ground beef, and 20oz mushrooms; made about 8 servings"
   - "takes a little more than an hour to make, and we added corn starch to finally get it to thicken"
-- count: 7
+- count: 8
   index: 121
   nickname: ""
   name: "pasta carbonara"
@@ -436,7 +446,7 @@
   name: "pork tenderloin, mashed potatoes, green beans"
   tags:
   - "pork"
-  last_suggested_date: '2018-12-01'
+  last_suggested_date: '2019-08-24'
   recipe_urls: []
   comments: []
 - count: 1
@@ -493,7 +503,7 @@
   nickname: ""
   name: "pizza"
   tags: []
-  last_suggested_date: '2018-12-22'
+  last_suggested_date: '2019-09-14'
   recipe_urls: []
   comments:
   - "we cook it right on the tray, 475F, lower oven, after pre-heating the big tray. it did stick just a little bit--we forgot to add some flour. we use 3oz prosciutto, 6oz mushrooms, and for cheese, some garlic chevre and mozzarella (both from Aldi). turned out delicious!"
@@ -535,7 +545,7 @@
   nickname: ""
   name: "roast duck"
   tags: []
-  last_suggested_date: '2018-12-08'
+  last_suggested_date: '2019-08-31'
   recipe_urls: []
   comments:
   - "so bad that we might just throw it away--very rubbery and chewy"
@@ -544,7 +554,7 @@
   nickname: ""
   name: "strip steaks with sauce"
   tags: []
-  last_suggested_date: '2018-11-24'
+  last_suggested_date: '2019-08-17'
   recipe_urls: []
   comments:
   - "from Martha: after steaks are done and removed from pan, add 1/3c liquid (wine, vinegar, broth, etc.) to pan to deglaze; let it boil off a bit, and then add 2T of thickener (butter, mustard, brown sugar, etc.)"
@@ -825,7 +835,7 @@
   nickname: ""
   name: "mac and cheese"
   tags: []
-  last_suggested_date: '2018-11-24'
+  last_suggested_date: '2019-08-17'
   recipe_urls:
   - "http://www.foodnetwork.com/recipes/ree-drummond/macaroni-and-cheese-recipe.html"
   - "http://thepioneerwoman.com/cooking/fancy-macaroni/"
@@ -917,7 +927,7 @@
   tags:
   - "tacos"
   - "chicken"
-  last_suggested_date: '2018-12-08'
+  last_suggested_date: '2019-08-31'
   recipe_urls: []
   comments:
   - "one (cubed) chicken breast made enough for six tacos; lightly breaded in panko crumbs, served with refried black beans, fresh garden tomato, cheddar cheese, and avocado"
@@ -948,7 +958,7 @@
   tags:
   - "pasta"
   - "pork"
-  last_suggested_date: '2018-12-01'
+  last_suggested_date: '2019-08-24'
   recipe_urls: []
   comments:
   - "unbelievable; so simple! delicious, and the ground sausage was an awesome combo; this actually tasted like italian food--the first time I've ever cooked such a thing"
@@ -1000,7 +1010,7 @@
   nickname: ""
   name: "steak au poivre with roasted potatoes"
   tags: []
-  last_suggested_date: '2018-12-29'
+  last_suggested_date: '2019-09-21'
   recipe_urls:
   - "http://www.foodnetwork.com/recipes/alton-brown/steak-au-poivre-recipe.html"
   comments:
@@ -1072,7 +1082,7 @@
   name: "ramen"
   tags:
   - "soup"
-  last_suggested_date: '2018-12-08'
+  last_suggested_date: '2019-08-31'
   recipe_urls: []
   comments:
   - "with spinach, green onions, pork, fried egg, fish sauce, tamarind paste, chili flakes"
@@ -1124,7 +1134,7 @@
   name: "sweet potato curry"
   tags:
   - "curry"
-  last_suggested_date: '2018-12-29'
+  last_suggested_date: '2019-09-21'
   recipe_urls:
   - "https://pinchofyum.com/creamy-thai-sweet-potato-curry"
   comments:
@@ -1136,7 +1146,7 @@
   name: "slow-cooker chili"
   tags:
   - "slow-cooker"
-  last_suggested_date: '2018-11-24'
+  last_suggested_date: '2019-08-17'
   recipe_urls: []
   comments: []
 - count: 3
@@ -1235,7 +1245,7 @@
   tags:
   - "curry"
   - "lamb"
-  last_suggested_date: '2018-11-24'
+  last_suggested_date: '2019-08-17'
   recipe_urls: []
   comments: []
 - count: 2
@@ -1264,7 +1274,7 @@
   nickname: ""
   name: "scallops, oyster mushrooms"
   tags: []
-  last_suggested_date: '2018-12-01'
+  last_suggested_date: '2019-08-24'
   recipe_urls: []
   comments:
   - "scallops via Julia Child cookbook, mushrooms via mushroom kit!"
@@ -1273,7 +1283,7 @@
   nickname: ""
   name: "hummus, roasted veggies"
   tags: []
-  last_suggested_date: '2018-12-22'
+  last_suggested_date: '2019-09-14'
   recipe_urls: []
   comments: []
 - count: 1
@@ -1368,7 +1378,7 @@
   name: "baked tempeh sandwich with sundried tomato pesto, avocado, and spinach"
   tags:
   - "sandwich"
-  last_suggested_date: '2018-12-08'
+  last_suggested_date: '2019-08-31'
   recipe_urls: []
   comments:
   - "soooo filling and pretty good"
@@ -1405,7 +1415,7 @@
   nickname: ""
   name: "omelettes"
   tags: []
-  last_suggested_date: '2018-12-29'
+  last_suggested_date: '2019-09-21'
   recipe_urls: []
   comments: []
 - count: 5
@@ -1464,7 +1474,7 @@
   tags:
   - "pasta"
   - "beef"
-  last_suggested_date: '2018-12-22'
+  last_suggested_date: '2019-09-14'
   recipe_urls: []
   comments: []
 - count: 4
@@ -1501,17 +1511,17 @@
   name: "lentil curry"
   tags:
   - "curry"
-  last_suggested_date: '2018-12-22'
+  last_suggested_date: '2019-09-14'
   recipe_urls:
   - "http://www.veggienumnum.com/2010/11/masoor-dal/"
   comments: []
-- count: 10
+- count: 11
   index: 14
   nickname: "CkP4"
   name: "baked penne pasta with roasted vegetables"
   tags:
   - "pasta"
-  last_suggested_date: '2018-11-24'
+  last_suggested_date: '2019-08-17'
   recipe_urls:
   - "http://www.foodnetwork.com/recipes/giada-de-laurentiis/baked-penne-with-roasted-vegetables-recipe.html"
   comments:
@@ -1604,7 +1614,7 @@
   name: "portabella pesto mushroom burgers"
   tags:
   - "burger"
-  last_suggested_date: '2018-12-29'
+  last_suggested_date: '2019-09-21'
   recipe_urls: []
   comments: []
 - count: 1
