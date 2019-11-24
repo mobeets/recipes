@@ -1,3 +1,13 @@
+- count: 1
+  index: 160
+  nickname: ""
+  name: "pork ragu"
+  tags:
+  - "pork"
+  last_suggested_date: '2016-01-01'
+  recipe_urls: []
+  comments:
+  - "blue apron meal"
 - count: 2
   index: 159
   nickname: ""
@@ -81,7 +91,7 @@
   nickname: ""
   name: "baked potatoes and mac and cheese"
   tags: []
-  last_suggested_date: '2019-02-16'
+  last_suggested_date: '2019-11-23'
   recipe_urls: []
   comments: []
 - count: 1
@@ -162,7 +172,7 @@
   recipe_urls: []
   comments:
   - "lit about 25-30 briquettes by piling up in pyramid, covering in lighter fluid, then burning. It was just barely enough coal to cook all the chicken, and it took a while. But other than that, it went well!"
-- count: 4
+- count: 5
   index: 143
   nickname: ""
   name: "ham and bean soup"
@@ -173,6 +183,7 @@
   comments:
   - "ham was smoked ham hock from Whole Foods for $10, and also some dried (navy?) beans that Cindy sent us."
   - "Jess makes it while I'm gone"
+  - "2 lbs of ham hock is plenty (2.5 is too much!)"
 - count: 4
   index: 142
   nickname: ""
@@ -202,7 +213,7 @@
   nickname: ""
   name: "gyudon on rice"
   tags: []
-  last_suggested_date: '2019-01-19'
+  last_suggested_date: '2019-10-19'
   recipe_urls: []
   comments: []
 - count: 1
@@ -250,7 +261,7 @@
   nickname: ""
   name: "tuna steaks with rice and asparagus"
   tags: []
-  last_suggested_date: '2019-02-09'
+  last_suggested_date: '2019-11-16'
   recipe_urls: []
   comments: []
 - count: 1
@@ -272,7 +283,7 @@
   recipe_urls:
   - "http://www.seriouseats.com/recipes/2016/07/gyudon-japanese-simmered-beef-and-rice-bowl-recipe.html, http://www.hikarimiso.com/recipes/miso_soup/basic_miso/"
   comments: []
-- count: 5
+- count: 6
   index: 132
   nickname: ""
   name: "red beans and rice"
@@ -284,6 +295,7 @@
   - "delicious. we use 3 cans of kidney beans."
   - "don't add too much water or it takes forever to thicken. we did five cups and it was way too much. maybe do 4."
   - "4 cups and it still takes a while, but it's fine. we add a ham hock and it is SOOO good, please never not add a ham hock."
+  - "Jess cooks it herself. It turns out delicious! She says she used 3.25 cups of water. Also 12 oz andouilli sausage, a 1.6 lb or so ham hock, and 2 cans of kidney beans."
 - count: 3
   index: 131
   nickname: ""
@@ -406,7 +418,7 @@
   last_suggested_date: '2019-06-08'
   recipe_urls: []
   comments: []
-- count: 3
+- count: 4
   index: 120
   nickname: ""
   name: "alfredo pasta"
@@ -418,6 +430,7 @@
   - "with mushrooms and chicken, using Mom's recipe, then just adding mushrooms and chicken (cooked separately, combined at the end)"
   - "sooooo good: with mushrooms, spinach, and bacon! doubled the recipe. don't be afraid to use tons of mushrooms. Jess says 6-7 strips of bacon was good."
   - "doubled recipe, but needed tons more mushrooms, and probably 12 slices of bacon would be better. cook bacon first, then shrooms in the bacon grease, and then use that same pan (the big red cast iron) for the alfredo."
+  - "with chicken, which Jess pan-fries according to that last Blue Apron meal, and it's delicious."
 - count: 1
   index: 119
   nickname: ""
@@ -465,7 +478,7 @@
   name: "chicken pot pie"
   tags:
   - "chicken"
-  last_suggested_date: '2019-01-19'
+  last_suggested_date: '2019-10-19'
   recipe_urls:
   - "http://thepioneerwoman.com/cooking/pot-pie/"
   - "https://www.allrecipes.com/recipe/18427/easy-pie-crust/"
@@ -564,7 +577,7 @@
   name: "bacon and mushroom cheese pizza"
   tags:
   - "bacon"
-  last_suggested_date: '2019-02-02'
+  last_suggested_date: '2019-11-09'
   recipe_urls: []
   comments:
   - "Best (and most pizza-like) pizza we've ever made. Mel's kitchen dough (single serving) makes enough for one pie on the large silver tray; we use 1c of hazan's tomato sauce (one recipe makes ~3c), about 2c of three-cheese mexican shredded cheese, about 6oz mushrooms (sliced, placed both under and on top of cheese), a bit more than 1/2lb of bacon (6 strips of 11, where 11 was 1/2lb), and listen to yourself about how much cheese and not to Jess"
@@ -635,7 +648,7 @@
   nickname: ""
   name: "turkey chili and cornbread"
   tags: []
-  last_suggested_date: '2019-01-26'
+  last_suggested_date: '2019-11-02'
   recipe_urls: []
   comments: []
 - count: 4
@@ -654,7 +667,7 @@
   nickname: ""
   name: "banh mis"
   tags: []
-  last_suggested_date: '2019-02-09'
+  last_suggested_date: '2019-11-16'
   recipe_urls: []
   comments: []
 - count: 8
@@ -674,7 +687,7 @@
   nickname: ""
   name: "baked ziti"
   tags: []
-  last_suggested_date: '2019-01-19'
+  last_suggested_date: '2019-10-19'
   recipe_urls:
   - "http://www.bonappetit.com/recipe/bas-best-baked-ziti"
   comments: []
@@ -684,7 +697,7 @@
   name: "tom kha gai soup"
   tags:
   - "soup"
-  last_suggested_date: '2019-02-02'
+  last_suggested_date: '2019-11-09'
   recipe_urls:
   - "http://www.bonappetit.com/recipe/tom-kha-gai-chicken-coconut-soup"
   comments:
@@ -759,7 +772,7 @@
   name: "hazan's bean soup"
   tags:
   - "soup"
-  last_suggested_date: '2019-02-09'
+  last_suggested_date: '2019-11-16'
   recipe_urls: []
   comments:
   - "incredible: garlic, olive oil, cannelini beans, chicken broth...and that's it, plus salt and pepper and we add cheese as well"
@@ -780,7 +793,7 @@
   nickname: ""
   name: "mashed sweet potatoes"
   tags: []
-  last_suggested_date: '2019-01-26'
+  last_suggested_date: '2019-11-02'
   recipe_urls:
   - "http://www.seriouseats.com/recipes/2014/11/the-best-mashed-sweet-potatoes-recipe.html"
   comments: []
@@ -916,7 +929,7 @@
   nickname: ""
   name: "marcella hazan's tomato sauce"
   tags: []
-  last_suggested_date: '2019-02-02'
+  last_suggested_date: '2019-11-09'
   recipe_urls: []
   comments:
   - "We blanch 5 lbs, and end up with 3.25 lbs because a lot of those guys were pretty nasty."
@@ -1154,7 +1167,7 @@
   nickname: "CkM7"
   name: "shakshouka"
   tags: []
-  last_suggested_date: '2019-02-02'
+  last_suggested_date: '2019-11-09'
   recipe_urls: []
   comments:
   - "not mexican--w/e; don't overcook eggs! lots of paprika is key, all tomatoes and no sauce would be nice too"
@@ -1176,7 +1189,7 @@
   nickname: ""
   name: "blat"
   tags: []
-  last_suggested_date: '2019-01-19'
+  last_suggested_date: '2019-10-19'
   recipe_urls: []
   comments:
   - "bacon lettuce avocado tomato"
@@ -1218,7 +1231,7 @@
   name: "zucchini pasta"
   tags:
   - "pasta"
-  last_suggested_date: '2019-01-19'
+  last_suggested_date: '2019-10-19'
   recipe_urls: []
   comments:
   - "shredded zucchini sauteed with one bell pepper, one serrano pepper, served with angel hair pasta and parmesan cheese...surprisingly delicious"
@@ -1227,7 +1240,7 @@
   nickname: ""
   name: "rib eye steak, mashed potatoes"
   tags: []
-  last_suggested_date: '2019-01-26'
+  last_suggested_date: '2019-11-02'
   recipe_urls: []
   comments: []
 - count: 1
@@ -1235,7 +1248,7 @@
   nickname: ""
   name: "steak fajitas with onions, bell peppers, avocado, yogurt, beer"
   tags: []
-  last_suggested_date: '2019-02-09'
+  last_suggested_date: '2019-11-16'
   recipe_urls: []
   comments:
   - "ahh, gas grills make it so easy. grills and beer and summer too good"
@@ -1255,7 +1268,7 @@
   name: "chicken katsu don"
   tags:
   - "chicken"
-  last_suggested_date: '2019-02-02'
+  last_suggested_date: '2019-11-09'
   recipe_urls:
   - "http://www.justonecookbook.com/recipes/chicken-katsu-don/"
   comments:
@@ -1293,7 +1306,7 @@
   name: "slow-cooked bbq brisket"
   tags:
   - "slow-cooker"
-  last_suggested_date: '2019-01-26'
+  last_suggested_date: '2019-11-02'
   recipe_urls: []
   comments:
   - "too easy, and just fine and delicious"
@@ -1452,7 +1465,7 @@
   name: "oven-roasted chicken"
   tags:
   - "chicken"
-  last_suggested_date: '2019-02-09'
+  last_suggested_date: '2019-11-16'
   recipe_urls: []
   comments:
   - "surprisingly easy: rub butter and other stuff on it, and bake it for an hour"
@@ -1545,7 +1558,7 @@
   nickname: ""
   name: "mushroom noodles"
   tags: []
-  last_suggested_date: '2019-01-26'
+  last_suggested_date: '2019-11-02'
   recipe_urls: []
   comments: []
 - count: 1
