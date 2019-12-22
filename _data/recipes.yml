@@ -4,7 +4,7 @@
   name: "pork ragu"
   tags:
   - "pork"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2019-11-30'
   recipe_urls: []
   comments:
   - "blue apron meal"
@@ -28,7 +28,7 @@
   recipe_urls: []
   comments:
   - "freezer instant pot meal; really tasty! we have with tortillas, shredded cheddar cheese, sour cream, and valentina"
-- count: 2
+- count: 3
   index: 157
   nickname: ""
   name: "beef ragu"
@@ -38,7 +38,8 @@
   recipe_urls: []
   comments:
   - "freezer instant pot meal. really tasty, though a bit watery. Took nearly thirty minutes to get to pressure, plus 45+10 for cook+vent time, so make sure to account for that when you start. servings:8"
-- count: 2
+  - "a little watery. try reducing the liquid next time, maybe also subbing in more tomatoes."
+- count: 3
   index: 156
   nickname: ""
   name: "tandoori chicken"
@@ -48,7 +49,8 @@
   recipe_urls: []
   comments:
   - "freezer instant pot meal. we eat with rice and naan. it's very tasty! very spicy but it was enjoyable. servings:6"
-- count: 2
+  - "need to make sure to mix the chickens in with the sauce before freezing maybe? this meal and the beef stew didn't cook at all the first time through because the meat was stuck together and so stayed a bit raw. We did it 8 minutes more and it was fine. but still, very annoying."
+- count: 3
   index: 155
   nickname: ""
   name: "beef stew"
@@ -59,6 +61,7 @@
   comments:
   - "freezer instant pot meal. Based on the side of the Instant pot, I'd say we could easily have doubled (though would need two storage bags instead of one). servings:5"
   - "next time, let's add some potatoes. like a lot of them."
+  - "could use more broth, fewer carrots."
 - count: 1
   index: 154
   nickname: ""
@@ -424,7 +427,7 @@
   name: "alfredo pasta"
   tags:
   - "pasta"
-  last_suggested_date: '2019-03-09'
+  last_suggested_date: '2019-12-21'
   recipe_urls: []
   comments:
   - "with mushrooms and chicken, using Mom's recipe, then just adding mushrooms and chicken (cooked separately, combined at the end)"
@@ -447,7 +450,7 @@
   name: "thai beef with basil and rice"
   tags:
   - "beef"
-  last_suggested_date: '2019-03-02'
+  last_suggested_date: '2019-12-14'
   recipe_urls:
   - "http://www.bonappetit.com/recipe/thai-beef-with-basil"
   comments:
@@ -588,7 +591,7 @@
   tags:
   - "pasta"
   - "chicken"
-  last_suggested_date: '2019-02-23'
+  last_suggested_date: '2019-12-07'
   recipe_urls: []
   comments:
   - "pretty time-intensive meal, but delicious"
@@ -766,7 +769,7 @@
   last_suggested_date: '2019-03-30'
   recipe_urls: []
   comments: []
-- count: 9
+- count: 10
   index: 86
   nickname: ""
   name: "hazan's bean soup"
@@ -778,6 +781,7 @@
   - "incredible: garlic, olive oil, cannelini beans, chicken broth...and that's it, plus salt and pepper and we add cheese as well"
   - "with chickpeas only, and it's still pretty good"
   - "with a side of grilled toast; also we use beef broth for the first time because we finally have some"
+  - "we use four cans of various beans servings:4"
 - count: 1
   index: 85
   nickname: ""
@@ -814,7 +818,7 @@
   tags:
   - "salad"
   - "chicken"
-  last_suggested_date: '2019-02-23'
+  last_suggested_date: '2019-12-07'
   recipe_urls: []
   comments:
   - "chicken thighs and croutons...so good"
@@ -858,7 +862,7 @@
   - "Jess cooks. It made SO MUCH. Like 8 servings"
   - "equal parts mac, evaporated milk, and cheddar cheese (12 oz each); cook mac in just enough water to cover it; prepare cheese BEFOREHAND and do NOT use vitamix"
   - "add mushrooms and bacon, and have roasted broccoli on the side (475F for 15 minutes) which is delicious. mac recipe doubled = servings:8"
-- count: 10
+- count: 11
   index: 78
   nickname: ""
   name: "meatball soup"
@@ -868,13 +872,14 @@
   recipe_urls: []
   comments:
   - "delicious--Mom's recipe"
+  - "needs more broth--it all disappears if you put 1.25c of noodles in there! add like two more cups probably (just like mom says, go figure)."
 - count: 7
   index: 77
   nickname: ""
   name: "hazan's pasta carbonara"
   tags:
   - "pasta"
-  last_suggested_date: '2019-03-02'
+  last_suggested_date: '2019-12-14'
   recipe_urls: []
   comments:
   - "1 lb of pasta is a little much--try 2/3 lb. also, we cooked the bacon, then removed it, drained a bit of grease, then added the olive oil and garlic, and then added the bacon back in once chopped up."
@@ -1180,7 +1185,7 @@
   - "slow-cooker"
   - "chicken"
   - "beef"
-  last_suggested_date: '2019-02-23'
+  last_suggested_date: '2019-12-07'
   recipe_urls: []
   comments:
   - "from the slow-cooker recipe book; used 1.6 lbs. of meat and that was still plenty"
@@ -1221,7 +1226,7 @@
   nickname: "CkSd3"
   name: "tri-color quinoa with kidney beans"
   tags: []
-  last_suggested_date: '2019-02-23'
+  last_suggested_date: '2019-12-07'
   recipe_urls: []
   comments:
   - "as tacos, only with refried black beans instead of kidney beans, and yogurt, and valentina, and avocado"
@@ -1317,7 +1322,7 @@
   tags:
   - "tacos"
   - "chicken"
-  last_suggested_date: '2019-03-02'
+  last_suggested_date: '2019-12-14'
   recipe_urls: []
   comments: []
 - count: 1
@@ -1363,7 +1368,7 @@
   tags:
   - "chicken"
   - "bacon"
-  last_suggested_date: '2019-02-23'
+  last_suggested_date: '2019-12-07'
   recipe_urls: []
   comments:
   - "somehow even better than yesterday"
@@ -1506,7 +1511,7 @@
   name: "pesto pasta"
   tags:
   - "pasta"
-  last_suggested_date: '2019-03-02'
+  last_suggested_date: '2019-12-14'
   recipe_urls: []
   comments:
   - "with chicken, cherry tomatoes, mushrooms"
@@ -1644,7 +1649,7 @@
   nickname: ""
   name: "spaghetti & meatballs"
   tags: []
-  last_suggested_date: '2019-03-02'
+  last_suggested_date: '2019-12-14'
   recipe_urls: []
   comments: []
 - count: 10
