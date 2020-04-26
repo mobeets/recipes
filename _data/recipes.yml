@@ -15,7 +15,7 @@
   name: "iced coffee"
   tags:
   - "drink"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-04-26'
   recipe_urls: []
   comments:
   - "1:5 coffee:water ratio, 12 hours (grams), with nut milk bag"
@@ -1799,7 +1799,7 @@
   last_suggested_date: '2019-09-21'
   recipe_urls: []
   comments: []
-- count: 5
+- count: 6
   index: 23
   nickname: "CkS7"
   name: "cheeseburgers"
@@ -1809,6 +1809,7 @@
   last_suggested_date: '2019-12-28'
   recipe_urls: []
   comments:
+  - "dent in the middle, grill til 160F, but coals weren't really hot enough! took too long, it seemed"
   - "on charcoal grill; roll up newspaper into coils, starting from corner, three rolls, and coil into chimney, leaving air in the center--works perfectly! we drink wine and beer and sit outside in chairs listening to Can and Pink Floyd's \"Animals\", catching fireflies and talking about gun control and revolution"
   - "Tonight I made 7 burgers from 1.5 lbs of beef, breaking up the beef into the little strands as much as possible, and then lightly (as lightly as possible) clumping them back together into patties. Seasoning with salt, pepper, and Lawry's salt, and then cooking in the cast iron and flipping once, smashing, and keeping all the lovely grease around. They were delicious, and I ate mine on a so-fresh-they-were-hot Fiesta bolillo with the last beautiful tomato from the garden and a slice of cheddar cheese."
 - count: 8
@@ -2061,7 +2062,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 78
+  index: 76
   nickname: ""
   name: "flourless chocolate cake"
   tags:
@@ -2072,7 +2073,7 @@
   comments:
   - "this turns out amazing. the oiled pan and parchment paper was key for it not sticking. for icing, I melt 3T butter, 3T baking chocolate, and then pour it over (drizzling) straight from the pot onto the cake (maybe an hour after it came out of the oven)."
 - count: 1
-  index: 77
+  index: 75
   nickname: ""
   name: "pb oatmeal chocolate chip cookies"
   tags:
@@ -2082,7 +2083,7 @@
   - "https://sallysbakingaddiction.com/peanut-butter-oatmeal-chocolate-chip-cookies/"
   comments: []
 - count: 1
-  index: 76
+  index: 74
   nickname: ""
   name: "chocolate cake with pb icing"
   tags:
@@ -2093,7 +2094,7 @@
   comments:
   - "icing was 2 sticks of butter, 1c peanut butter, and about 1c of powdered sugar"
 - count: 4
-  index: 75
+  index: 73
   nickname: ""
   name: "blueberry muffins"
   tags:
@@ -2104,7 +2105,7 @@
   comments:
   - "Jess says: rotate after 15 minutes for another 5 mins. 75% were cooked through, the the remaining 25% needed another 2-5 minutes."
 - count: 2
-  index: 74
+  index: 72
   nickname: ""
   name: "sourdough pancakes"
   tags:
@@ -2114,7 +2115,7 @@
   comments:
   - "Turns out I accidentally forgot to halve the flour last night, but then made what ended up being an even worse mistake by trying to compensate for the extra flour by keeping it in our room overnight, where it is very hot. That just made the sourdough angry and alcoholic tasting. They were fine, but not as good as last time. But a half-recipe is basically the right amount, by the way."
 - count: 1
-  index: 73
+  index: 71
   nickname: ""
   name: "two-tier chocolate cake"
   tags:
@@ -2124,7 +2125,7 @@
   comments:
   - "Jess makes it all herself"
 - count: 1
-  index: 72
+  index: 70
   nickname: ""
   name: "ice cream cake"
   tags:
@@ -2135,7 +2136,7 @@
   comments:
   - "12 ice cream sandwiches, whipped cream (made from a pint of cream), and homemade chocolate fudge (1/2 cocoa, 1/2c water, 1/2c sugar)"
 - count: 4
-  index: 71
+  index: 69
   nickname: ""
   name: "dutch apple pie"
   tags:
@@ -2148,7 +2149,7 @@
   - "5 1/2 cups was five apples exactly"
   - "with apples from the farm last weekend"
 - count: 1
-  index: 70
+  index: 68
   nickname: ""
   name: "oat balls"
   tags:
@@ -2158,7 +2159,7 @@
   comments:
   - "2T brown sugar, 2T honey, 2T coconut oil, 2T chocolate syrup, 6T? peanut butter, <2c? rolled oats. mix, make balls, put in fridge."
 - count: 2
-  index: 69
+  index: 67
   nickname: ""
   name: "kladdkaka 6-ingredient swedish chocolate cake"
   tags:
@@ -2170,7 +2171,7 @@
   - "delicious. I only do 1.25c sugar, and slightly less than 1/2c cocoa. also it ends up taking about 30 minutes to bake--you want the top to definitely be cooked through, but only just so, so that the center is still gooey underneath"
   - "looked done but was actually raw inside--so poke it with a toothpick! you don't want it gooey EVERYWHERE..."
 - count: 1
-  index: 68
+  index: 66
   nickname: ""
   name: "mexican cheesecake"
   tags:
@@ -2179,7 +2180,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 67
+  index: 65
   nickname: ""
   name: "mexican wedding cookies"
   tags:
@@ -2188,7 +2189,7 @@
   recipe_urls: []
   comments: []
 - count: 2
-  index: 66
+  index: 64
   nickname: ""
   name: "apple crisp"
   tags:
@@ -2199,7 +2200,7 @@
   comments:
   - "we double it; recipe from Caitlin"
 - count: 4
-  index: 65
+  index: 63
   nickname: ""
   name: "blueberry tart"
   tags:
@@ -2211,7 +2212,7 @@
   - "added 1t corn starch the blueberry/sugar mix, and two good squirts of lemon juice (2t?). cooked at 375F for 15 minutes, then 400F for 10 minutes."
   - "made in 9x9 pan"
 - count: 1
-  index: 64
+  index: 62
   nickname: ""
   name: "popcorn"
   tags:
@@ -2221,7 +2222,7 @@
   comments:
   - "we use 1/3c kernels, and 1/4c veggie oil with some popcorn salt mixed in, microwave on 4mins until pops are 5s away. add melted butter--it turned out amazing"
 - count: 1
-  index: 63
+  index: 61
   nickname: ""
   name: "peanut butter chocolate chip cookies"
   tags:
@@ -2230,7 +2231,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 62
+  index: 60
   nickname: ""
   name: "rhubarb pie"
   tags:
@@ -2240,7 +2241,7 @@
   comments:
   - "cooked for like 75 minutes total--be patient! wait for the bubblies. rotated it once, when we took the foil off. also, it's a bit too sweet--Jess says she added the upper limit of sugar. So don't do that."
 - count: 1
-  index: 61
+  index: 59
   nickname: ""
   name: "cookies-have-no-eggs"
   tags:
@@ -2250,7 +2251,7 @@
   comments:
   - "we are short on coconut oil so we add in maybe 2T butter to finish it off; also we add 2T cocoa in place of some flour...the result is incredible"
 - count: 1
-  index: 60
+  index: 58
   nickname: ""
   name: "fruit pizza"
   tags:
@@ -2260,7 +2261,7 @@
   comments:
   - "store bought cookie dough, homemade whipped cream mixed with some cream cheese, topped with fruit and chocolate chips"
 - count: 1
-  index: 59
+  index: 57
   nickname: ""
   name: "genoise cake with blueberry filling and chocolate buttercream frosting, with a bourbon-water drip in the 2 layers"
   tags:
@@ -2270,7 +2271,7 @@
   comments:
   - "Julia Child's genoise cake recipe; make sure you use the right pot and bowl! the small pot but not the smallest one--the silver one that we rarely use if that helps, and then the biggest circular glass tupperware"
 - count: 1
-  index: 58
+  index: 56
   nickname: ""
   name: "julia childs's almond cake"
   tags:
@@ -2280,7 +2281,7 @@
   comments:
   - "the one on the same page as the queen of sheba"
 - count: 1
-  index: 57
+  index: 55
   nickname: ""
   name: "skillet cookie pie"
   tags:
@@ -2290,7 +2291,7 @@
   comments:
   - "from Bon Appetit"
 - count: 1
-  index: 56
+  index: 54
   nickname: ""
   name: "cherry and blueberry upside-down cake"
   tags:
@@ -2299,19 +2300,8 @@
   recipe_urls: []
   comments:
   - "Bon Appetit recipe"
-- count: 1
-  index: 55
-  nickname: ""
-  name: "chocolate chip cookies"
-  tags:
-  - "dessert"
-  last_suggested_date: '2016-01-01'
-  recipe_urls:
-  - "https://snapguide.com/guides/make-cookies-when-you-have-no-eggs/"
-  comments:
-  - "the coconut ones again--Jess's favorite recipe currently"
 - count: 2
-  index: 54
+  index: 53
   nickname: ""
   name: "chocolate cake"
   tags:
@@ -2323,18 +2313,18 @@
   - "we make a half-recipe; I use about 1/4c cocoa"
   - "Jess makes a two-layer one"
 - count: 1
-  index: 53
+  index: 52
   nickname: ""
   name: "chocolate chip cookies without eggs"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-04-26'
   recipe_urls:
   - "https://snapguide.com/guides/make-cookies-when-you-have-no-eggs/"
   comments:
   - "super delicious, nice and crispy but also fluffy"
 - count: 2
-  index: 52
+  index: 51
   nickname: ""
   name: "bourbon cookies"
   tags:
@@ -2345,7 +2335,7 @@
   - "they're basically like sugar cookies if you short on the bourbon, but they're still very good. we make a buttercream frosting for them"
   - "we make 86 of them, with buttercream frosting. we try to pipe it but it eventually starts melting/clumping weirdly, so a spoon was the way to go. maybe next time don't add more milk than the recipe calls for..."
 - count: 2
-  index: 51
+  index: 50
   nickname: ""
   name: "hot chocolate"
   tags:
@@ -2355,7 +2345,7 @@
   comments:
   - "per cup: 2T cocoa, 1T brown sugar, 1c milk; add only 2T or so milk at first to the rest, heating in pan; then once it dissolves heat the rest of the milk; once nearly boiling, put it in a blender to froth"
 - count: 1
-  index: 50
+  index: 49
   nickname: ""
   name: "poptarts"
   tags:
@@ -2365,7 +2355,7 @@
   comments:
   - "For all our attempts at doing this over the years, the only one that EVER turns out well is chevre with honey. Seriously. The others are never as good as they should be."
 - count: 1
-  index: 49
+  index: 48
   nickname: ""
   name: "peach pie"
   tags:
@@ -2375,7 +2365,7 @@
   comments:
   - "1/4c butter, 1/2c white sugar, 1/4c brown sugar, 1/3c flour, 2T cornstarch, 1/4t cinnamon, 3 cans peaches (no syrup); 400F for 50 minutes; a mix of Betty Crocker and a simple allrecipes one"
 - count: 2
-  index: 48
+  index: 47
   nickname: ""
   name: "granola bars"
   tags:
@@ -2387,7 +2377,7 @@
   - "we add almonds, chopped up, and some cranberries"
   - "we use prunes, this time; also, no cranberries or chocolate chips this time"
 - count: 1
-  index: 47
+  index: 46
   nickname: ""
   name: "chevre and honey nests"
   tags:
@@ -2397,7 +2387,7 @@
   comments:
   - "using pie crust dough leftover from pie; make little nests (about the size of the bottom of a coke can), wipe with butter and with egg wash, then add some chevre, covered in honey; bake at 400F for about 15 mins or so"
 - count: 1
-  index: 46
+  index: 45
   nickname: ""
   name: "hazan's chickpea soup"
   tags:
@@ -2407,7 +2397,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 45
+  index: 44
   nickname: ""
   name: "dark chocolate sauce"
   tags:
@@ -2417,7 +2407,7 @@
   comments:
   - "1:1:1 cocoa:sugar:water, plus salt; add in saucepan after mixing cocoa and sugar"
 - count: 2
-  index: 44
+  index: 43
   nickname: ""
   name: "chocolate bundt cake"
   tags:
@@ -2429,7 +2419,7 @@
   - "in a cake pan"
   - "with chocolate icing"
 - count: 1
-  index: 43
+  index: 42
   nickname: ""
   name: "cinnamon rolls"
   tags:
@@ -2440,7 +2430,7 @@
   comments:
   - "to be cooked tomorrow morning..."
 - count: 2
-  index: 42
+  index: 41
   nickname: ""
   name: "peanut butter chocolate malt"
   tags:
@@ -2449,7 +2439,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 41
+  index: 40
   nickname: ""
   name: "microwave brownie"
   tags:
@@ -2459,16 +2449,16 @@
   - "http://www.simplyrecipes.com/recipes/brownie_in_a_mug/"
   comments: []
 - count: 2
-  index: 40
+  index: 39
   nickname: ""
   name: "cookies"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-04-26'
   recipe_urls: []
   comments: []
 - count: 1
-  index: 39
+  index: 38
   nickname: ""
   name: "blueberry coffee cake"
   tags:
@@ -2478,7 +2468,7 @@
   - "http://www.kingarthurflour.com/recipes/blueberry-buckle-coffeecake-recipe"
   comments: []
 - count: 9
-  index: 38
+  index: 37
   nickname: ""
   name: "brownies"
   tags:
@@ -2493,7 +2483,7 @@
   - "don't let Jess use convection...also we substitute in some cocoa for 2oz baking chocolate (and subtract off 2T butter), and it's delicious"
   - "recipe on the unsweetened baking chocolate box"
 - count: 2
-  index: 37
+  index: 36
   nickname: ""
   name: "chocolate mousse"
   tags:
@@ -2505,7 +2495,7 @@
   - "Bobby Flay recipe"
   - "if you microwave the chocolate, make sure it's still warm before you add in the other stuff..."
 - count: 2
-  index: 36
+  index: 35
   nickname: ""
   name: "peach cobbler"
   tags:
@@ -2515,7 +2505,7 @@
   comments:
   - "holy shit i just had a religious experience eating this. a rhubarb pie experience. it is how peaches deserve to be eaten."
 - count: 1
-  index: 35
+  index: 34
   nickname: ""
   name: "peach crisp"
   tags:
@@ -2525,7 +2515,7 @@
   comments:
   - "from Mom's cookbook; pretty good, but too liquidy and didn't end up crisp. delicious on yogurt though"
 - count: 9
-  index: 34
+  index: 33
   nickname: ""
   name: "coffee cake"
   tags:
@@ -2538,7 +2528,7 @@
   - "the cake itself is fucking perfect: airy, good crispness on outside, perfect texture; the crust needs work though: add a stick of butter on top probably, maybe with some more sugar actually, so that there's enough for filling inside and on top"
   - "warmed up with milk: fucking good"
 - count: 1
-  index: 33
+  index: 32
   nickname: ""
   name: "microwave peach crumble: 1t brown sugar, 1t butter, 1.5t flour, 1.5t rolled oats, 2t peach preserves; mush all but preserves around in a bowl, then add preserves and microwave for 2 minutes"
   tags:
@@ -2547,7 +2537,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 32
+  index: 31
   nickname: ""
   name: "cardboard box muffins"
   tags:
@@ -2556,7 +2546,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 31
+  index: 30
   nickname: ""
   name: "chocolate chip cookie cake"
   tags:
@@ -2566,7 +2556,7 @@
   comments:
   - "oh god so good"
 - count: 1
-  index: 30
+  index: 29
   nickname: ""
   name: "granola"
   tags:
@@ -2575,7 +2565,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 29
+  index: 28
   nickname: ""
   name: "fig jam"
   tags:
@@ -2584,7 +2574,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 28
+  index: 27
   nickname: ""
   name: "chocolate malt"
   tags:
@@ -2593,7 +2583,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 27
+  index: 26
   nickname: ""
   name: "chocolate cashew ice cream"
   tags:
@@ -2603,7 +2593,7 @@
   comments:
   - "n.b. chocolate chips act as liquid and sugar, not as nuts (i.e. for ratios...)"
 - count: 2
-  index: 26
+  index: 25
   nickname: ""
   name: "pecan ice cream"
   tags:
@@ -2613,7 +2603,7 @@
   comments:
   - "fucking unbelievable with some maple syrup on top; as before: 3 parts nuts, 2 parts milk, 1 part sugar, 9 parts ice"
 - count: 1
-  index: 25
+  index: 24
   nickname: ""
   name: "cashew ice cream"
   tags:
@@ -2623,7 +2613,7 @@
   comments:
   - "cashews, honey, milk, ice....DAMN it tastes good girl damn it tastes good"
 - count: 8
-  index: 24
+  index: 23
   nickname: ""
   name: "zucchini bread"
   tags:
@@ -2636,7 +2626,7 @@
   - "using coconut oil, and it turns out delicious. Baked for 40 mins at 350F in top oven, then rotated, then 10 more mins, confirmed with toothpick."
   - "don't halve the amount of chocolate chips, by the way."
 - count: 1
-  index: 23
+  index: 22
   nickname: ""
   name: "oreo milkshake"
   tags:
@@ -2646,18 +2636,18 @@
   comments:
   - "oreos, milk, blue bell vanilla ice cream"
 - count: 2
-  index: 22
+  index: 21
   nickname: ""
   name: "snickerdoodles"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-04-26'
   recipe_urls:
   - "http://www.yummly.com/recipe/external/Snickerdoodles-Iii-Allrecipes"
   comments:
   - "surprisingly fucking perfect"
 - count: 1
-  index: 21
+  index: 20
   nickname: ""
   name: "peanut butter cookies with marshmallow topping"
   tags:
@@ -2667,7 +2657,7 @@
   comments:
   - "marshmallow is just egg whites and sugar, but the cooking part is a bitch and makes us miserable...cookies are just one egg, 1c peanut butter, 1c sugar, and they're damned delicious and simple"
 - count: 1
-  index: 20
+  index: 19
   nickname: ""
   name: "banana cream pie"
   tags:
@@ -2677,7 +2667,7 @@
   comments:
   - "whipped cream + plain yogurt + 1.5 small mashed bananas + chocolate chips on base of baked graham cracker pie crust"
 - count: 5
-  index: 19
+  index: 18
   nickname: ""
   name: "the queen of sheba chocolate almond cake"
   tags:
@@ -2689,7 +2679,7 @@
   - "not that bad with a helper"
   - "Jess makes it"
 - count: 5
-  index: 18
+  index: 17
   nickname: ""
   name: "kettle popcorn"
   tags:
@@ -2702,7 +2692,7 @@
   - "1/2 cup of kernels is too much! hard to share the sugar, but also it can easily overflow the pot!"
   - "Jess says when you think it's done, it's done--don't wait. And also don't stir at the end or else you mix in the burnt parts."
 - count: 6
-  index: 17
+  index: 16
   nickname: ""
   name: "blueberry pie"
   tags:
@@ -2716,7 +2706,7 @@
   - "actually Jess just makes it"
   - "with fresh blueberries!"
 - count: 1
-  index: 16
+  index: 15
   nickname: ""
   name: "peanut butter chocolate ice cream"
   tags:
@@ -2726,7 +2716,7 @@
   comments:
   - "in Jess's Vitamix"
 - count: 1
-  index: 15
+  index: 14
   nickname: ""
   name: "eggnog"
   tags:
@@ -2735,18 +2725,6 @@
   recipe_urls: []
   comments:
   - "Alton Brown's recipe"
-- count: 3
-  index: 14
-  nickname: ""
-  name: "ckd3b"
-  tags:
-  - "dessert"
-  last_suggested_date: '2016-01-01'
-  recipe_urls:
-  - "http://www.ambitiouskitchen.com/2013/03/peanut-butter-oatmeal-chocolate-chip-cookies-flourless-no-butter/"
-  - "https://www.verybestbaking.com/recipes/145692/oatmeal-peanut-butter-chocolate-chip-cookies/"
-  comments:
-  - "oven cooks slow or turns off, so second batch burnt"
 - count: 1
   index: 13
   nickname: ""
@@ -2786,19 +2764,8 @@
   recipe_urls: []
   comments:
   - "HEB recipe--very simple, and just okay; add tons of chocolate chips at the bottom"
-- count: 1
-  index: 9
-  nickname: ""
-  name: "cheeseburgers"
-  tags:
-  - "dessert"
-  - "burger"
-  last_suggested_date: '2019-12-28'
-  recipe_urls: []
-  comments:
-  - "dent in the middle, grill til 160F, but coals weren't really hot enough! took too long, it seemed"
 - count: 7
-  index: 8
+  index: 9
   nickname: ""
   name: "mug brownie"
   tags:
@@ -2811,7 +2778,7 @@
   - "1/4 serving of the original recipe is plenty, and cook for 30 secs"
   - "1/4 serving is perfect amount. in thick white bowl, probably 35 secs"
 - count: 1
-  index: 7
+  index: 8
   nickname: ""
   name: "chocolate bark"
   tags:
@@ -2820,24 +2787,8 @@
   recipe_urls: []
   comments:
   - "god it's so easy...pepitas and sea salt, stirred in melted baking chocolate, then refrigerated"
-- count: 12
-  index: 6
-  nickname: ""
-  name: "ckd10"
-  tags:
-  - "dessert"
-  last_suggested_date: '2016-01-01'
-  recipe_urls:
-  - "https://www.verybestbaking.com/recipes/18476/original-nestle-toll-house-chocolate-chip-cookies/"
-  comments:
-  - "melt the chips a bit first to have \"double\" chocolate chip"
-  - "learned online: no refrigerate, use parchment paper, use half-melted butter"
-  - "double chocolate, so good"
-  - "tollhouse recipe: delicious"
-  - "hershey's recipe with the good dark chocolate chips in the red bag"
-  - "the first autocookie!"
 - count: 7
-  index: 5
+  index: 7
   nickname: "CkD11"
   name: "sugar cookies"
   tags:
@@ -2852,10 +2803,40 @@
   - "from freezer, from last time"
   - "cut into animal shapes, and make royal icing and ice them in green and a rich pink; made 22 cookies, with probably around 14 left in dough in the fridge; royal icing recipe was: 2 egg whites, probably 3.5 cups powdered sugar but start with 3c, then a 1/2tsp of bourbon for flavor"
   - "baked them last night, outlined with icing tonight"
-- count: 2
+- count: 4
+  index: 6
+  nickname: "CkD14"
+  name: "peanut butter oatmeal chocolate chip cookies"
+  tags:
+  - "dessert"
+  last_suggested_date: '2016-01-01'
+  recipe_urls:
+  - "http://www.ambitiouskitchen.com/2013/03/peanut-butter-oatmeal-chocolate-chip-cookies-flourless-no-butter/"
+  - "https://www.verybestbaking.com/recipes/145692/oatmeal-peanut-butter-chocolate-chip-cookies/"
+  comments:
+  - "oven cooks slow or turns off, so second batch burnt"
+- count: 14
+  index: 5
+  nickname: "CkD10"
+  name: "chocolate chip cookies"
+  tags:
+  - "dessert"
+  last_suggested_date: '2016-01-01'
+  recipe_urls:
+  - "https://www.verybestbaking.com/recipes/18476/original-nestle-toll-house-chocolate-chip-cookies/"
+  - "https://snapguide.com/guides/make-cookies-when-you-have-no-eggs/"
+  comments:
+  - "melt the chips a bit first to have \"double\" chocolate chip"
+  - "learned online: no refrigerate, use parchment paper, use half-melted butter"
+  - "double chocolate, so good"
+  - "tollhouse recipe: delicious"
+  - "hershey's recipe with the good dark chocolate chips in the red bag"
+  - "the first autocookie!"
+  - "the coconut ones again--Jess's favorite recipe currently"
+- count: 3
   index: 4
-  nickname: ""
-  name: "ckd3"
+  nickname: "CkD3"
+  name: "peanut butter cookies"
   tags:
   - "dessert"
   last_suggested_date: '2016-01-01'
@@ -2863,10 +2844,10 @@
   - "http://www.foodnetwork.com/recipes/claire-robinson/flourless-peanut-butter-cookies-recipe/index.html"
   - "http://www.marthastewart.com/338669/peanut-butter-cookies"
   comments: []
-- count: 3
+- count: 4
   index: 3
-  nickname: ""
-  name: "ckd6"
+  nickname: "CkD6"
+  name: "oatmeal chocolate chip cookies"
   tags:
   - "dessert"
   last_suggested_date: '2016-01-01'
@@ -2878,7 +2859,7 @@
   - "accidentally doubled the eggs and they turned out amazing! thin, crispy"
 - count: 2
   index: 2
-  nickname: "CkD3a"
+  nickname: "CkD13"
   name: "peanut butter oatmeal cookies"
   tags:
   - "dessert"
