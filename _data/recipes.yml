@@ -36,7 +36,7 @@
   name: "tequila mojito"
   tags:
   - "drink"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-04-26'
   recipe_urls: []
   comments:
   - "best drink I know how to make, no doubt: 1/4c tequila, 1/4c club soda, 1/2t sugar, 4 or 5 mint leaves, juice from 1/4 of a lime"
@@ -66,6 +66,7 @@
   name: "pumpkin pancakes, pumpkin muffins"
   tags:
   - "breakfast"
+  - "cake"
   last_suggested_date: '2016-01-01'
   recipe_urls:
   - "http://allrecipes.com/recipe/17036/pumpkin-pancakes/"
@@ -77,7 +78,7 @@
   name: "scrambled eggs cooked with yogurt"
   tags:
   - "breakfast"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-04-26'
   recipe_urls: []
   comments:
   - "n.b. not a good idea, with plain yogurt at least. the eggs just got really powdery, and that was no good"
@@ -117,7 +118,8 @@
   name: "sourdough pancakes"
   tags:
   - "breakfast"
-  last_suggested_date: '2016-01-01'
+  - "cake"
+  last_suggested_date: '2020-04-26'
   recipe_urls: []
   comments:
   - "did about 1c flour 1/2c milk 1/8c starter, left overnight on microwave; then 1/2t salt 1/2t baking soda 1 T oil 1 T sugar 1 egg and then milk to make right thickness, blended; it was rubbery dough and kinda rubbery pancake but that's a negative word because they were pretty tasty"
@@ -137,6 +139,7 @@
   name: "pancakes"
   tags:
   - "breakfast"
+  - "cake"
   last_suggested_date: '2016-01-01'
   recipe_urls:
   - "http://thepioneerwoman.com/cooking/2009/05/perfect-pancakes/"
@@ -159,6 +162,7 @@
   name: "oat flour pancakes"
   tags:
   - "breakfast"
+  - "cake"
   last_suggested_date: '2016-01-01'
   recipe_urls:
   - "http://www.foodprepper.com/oat-flour-pancakes-old-fashioned.php"
@@ -166,7 +170,7 @@
   - "Emre joins us, bringing blueberries"
   - "half batch is plenty"
 - count: 1
-  index: 165
+  index: 166
   nickname: ""
   name: "hazan's bolognese"
   tags:
@@ -176,7 +180,7 @@
   comments:
   - "delicious. I double recipe (with 1.5 lbs ground beef, and 1 of the big cans of plum tomatoes), but it only looks like about 6 servings."
 - count: 1
-  index: 164
+  index: 165
   nickname: ""
   name: "beef short ribs"
   tags:
@@ -188,7 +192,7 @@
   comments:
   - "I did the same ingredients but just with two short ribs totaling 1.2 lbs. It was unbelievable. Dried them off with paper towels before seasoning, and put them in the small orange dutch oven. But if there'd been more I might have needed a bigger pot. Anyway, also added four carrots to the sauce in with the meat. Cooked about 2.5 hours exactly and all the juices were mostly gone. One of the best meals we've made. Served with mashed sweet potatoes and sourdough toast."
 - count: 1
-  index: 163
+  index: 164
   nickname: ""
   name: "instant pot chicken tortilla soup"
   tags:
@@ -201,7 +205,7 @@
   comments:
   - "Jess made it. toppings: avocado, shredded cheese, tortilla chips. delicious. we used 2.5 lbs of chicken thighs but I think 3 lbs would be even better."
 - count: 1
-  index: 162
+  index: 163
   nickname: ""
   name: "hazan's roasted chicken with lemons"
   tags:
@@ -212,7 +216,7 @@
   comments:
   - "unbelievable how good and tender it was. cooked until right at 165F. we had a 5.5 lb chicken, which was huge, so it cooked for a while. but really just amazing, and fun with it just being the lemons and salt and pepper!"
 - count: 1
-  index: 161
+  index: 162
   nickname: ""
   name: "pork ragu"
   tags:
@@ -223,7 +227,7 @@
   comments:
   - "blue apron meal"
 - count: 2
-  index: 160
+  index: 161
   nickname: ""
   name: "sheet pan bruschetta chicken"
   tags:
@@ -234,7 +238,7 @@
   - "https://damndelicious.net/2016/09/24/sheet-pan-bruschetta-chicken/print/"
   comments: []
 - count: 2
-  index: 159
+  index: 160
   nickname: ""
   name: "chicken tinga"
   tags:
@@ -245,7 +249,7 @@
   comments:
   - "freezer instant pot meal; really tasty! we have with tortillas, shredded cheddar cheese, sour cream, and valentina"
 - count: 3
-  index: 158
+  index: 159
   nickname: ""
   name: "beef ragu"
   tags:
@@ -257,7 +261,7 @@
   - "freezer instant pot meal. really tasty, though a bit watery. Took nearly thirty minutes to get to pressure, plus 45+10 for cook+vent time, so make sure to account for that when you start. servings:8"
   - "a little watery. try reducing the liquid next time, maybe also subbing in more tomatoes."
 - count: 3
-  index: 157
+  index: 158
   nickname: ""
   name: "tandoori chicken"
   tags:
@@ -269,7 +273,7 @@
   - "freezer instant pot meal. we eat with rice and naan. it's very tasty! very spicy but it was enjoyable. servings:6"
   - "need to make sure to mix the chickens in with the sauce before freezing maybe? this meal and the beef stew didn't cook at all the first time through because the meat was stuck together and so stayed a bit raw. We did it 8 minutes more and it was fine. but still, very annoying."
 - count: 3
-  index: 156
+  index: 157
   nickname: ""
   name: "beef stew"
   tags:
@@ -282,7 +286,7 @@
   - "next time, let's add some potatoes. like a lot of them."
   - "could use more broth, fewer carrots."
 - count: 1
-  index: 155
+  index: 156
   nickname: ""
   name: "instant pot rice"
   tags:
@@ -292,7 +296,7 @@
   comments:
   - "make sure to rinse rice really well, then 1:1 rice and water, and add a splash of vegetable oil, and press rice button"
 - count: 2
-  index: 154
+  index: 155
   nickname: ""
   name: "fried rice"
   tags:
@@ -303,7 +307,7 @@
   comments:
   - "turned out good, but actually a good amount of work. used 1.5c rice, 1.5 lbs chicken thighs, fried in big cast iron. cooked jasmine rice. followed recipe other than that basically (cooked in large cast iron). servings:5"
 - count: 1
-  index: 153
+  index: 154
   nickname: ""
   name: "bolognese"
   tags:
@@ -312,7 +316,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 152
+  index: 153
   nickname: ""
   name: "baked potatoes and mac and cheese"
   tags:
@@ -321,7 +325,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 151
+  index: 152
   nickname: ""
   name: "pot roast"
   tags:
@@ -332,7 +336,7 @@
   comments:
   - "Jess says: We did 3lbs of meet. I'd say do half of the broth -- only deglaze the onions with like 1/2 a cup of broth at most. And then add a little less than a cup to the actual meat. We also added carrots"
 - count: 1
-  index: 150
+  index: 151
   nickname: ""
   name: "slow-cooker bolognese"
   tags:
@@ -344,7 +348,7 @@
   comments:
   - "Jess says she did 1/2c milk, 1/2c white wine, 1.5 cans of 28oz crushed tomatoes, 2T tomato paste, and sage instead of parsley"
 - count: 4
-  index: 149
+  index: 150
   nickname: ""
   name: "turkey chili"
   tags:
@@ -355,7 +359,7 @@
   comments:
   - "delicious. made cornbread on the side. (jess says to halve the broth, but it made a good amount as is so maybe let's not.) servings:9"
 - count: 3
-  index: 148
+  index: 149
   nickname: ""
   name: "chicken parmesan"
   tags:
@@ -370,7 +374,7 @@
   - "should use 28oz crushed tomatoes (not diced, otherwise too watery), and 8oz of mozzarella was fine, with 2 lbs. of chicken. also for the breadcrumbs, made 1/3c and that was plenty."
   - "really, this is such a simple, low-stress, delicious meal. and by the way, doubling means 2 lbs. chicken, 2 28oz tomatoes, and 12oz mozzarella. also if you don't have olive oil for the breadcrumb part, just use butter"
 - count: 2
-  index: 147
+  index: 148
   nickname: ""
   name: "chicken enchiladas"
   tags:
@@ -383,7 +387,7 @@
   - "these were amazing. used tomatillo salsa verde from other recipe. cooked 1 lb. chicken in big red cast iron as instructed, for only about 15 minutes at boiling. microwaved corn tortillas instead of frying because the first one stuck the pot. wrapped each tortilla with shredded chicken, a spoonful of salsa, and shredded monterrey jack cheese. covered the tops in salsa, more cheese, and about 6oz of sour cream."
   - "we double recipe (we cooked 3 lbs, but I think 2 would have been fine), and use 15oz ricotta (inside enchiladas), 8oz sour cream (dotted on top before baking), and a jar of salsa verde (could've used a bit more...). they taste great, but shredded cheese would've been easier than ricotta I think. servings:9"
 - count: 1
-  index: 146
+  index: 147
   nickname: ""
   name: "salsa verde"
   tags:
@@ -394,7 +398,7 @@
   comments:
   - "using tomatillos"
 - count: 1
-  index: 145
+  index: 146
   nickname: ""
   name: "fried chicken sandwiches"
   tags:
@@ -406,7 +410,7 @@
   comments:
   - "fried as in the togarashi chicken; also pickles and mayo on brioche buns"
 - count: 1
-  index: 144
+  index: 145
   nickname: ""
   name: "grilled chicken winglets"
   tags:
@@ -417,7 +421,7 @@
   comments:
   - "lit about 25-30 briquettes by piling up in pyramid, covering in lighter fluid, then burning. It was just barely enough coal to cook all the chicken, and it took a while. But other than that, it went well!"
 - count: 5
-  index: 143
+  index: 144
   nickname: ""
   name: "ham and bean soup"
   tags:
@@ -430,7 +434,7 @@
   - "Jess makes it while I'm gone"
   - "2 lbs of ham hock is plenty (2.5 is too much!)"
 - count: 4
-  index: 142
+  index: 143
   nickname: ""
   name: "togarashi popcorn chicken with cabbage slaw"
   tags:
@@ -444,7 +448,7 @@
   - "doubled recipe. sweet chili sauce = spicy chili paste + sugar + soy sauce. use big cast iron so you can fry it all at once"
   - "1.25 lbs chicken is about perfect for cooking in the big cast iron, but it's not that much food. just about 4 servings total."
 - count: 2
-  index: 141
+  index: 142
   nickname: ""
   name: "red curry"
   tags:
@@ -456,7 +460,7 @@
   comments:
   - "make with chicken thighs which we bake with some chili paste rubbed on, at 425F for about 25 minutes. also, only one small zucchini, and 1c of carrots. really delicious!"
 - count: 1
-  index: 140
+  index: 141
   nickname: ""
   name: "gyudon on rice"
   tags:
@@ -465,7 +469,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 139
+  index: 140
   nickname: ""
   name: "tuna steaks with rice and broccoli"
   tags:
@@ -474,7 +478,7 @@
   recipe_urls: []
   comments: []
 - count: 3
-  index: 138
+  index: 139
   nickname: ""
   name: "chicken katsudon"
   tags:
@@ -488,7 +492,7 @@
   - "we used two onions, and 6x the broth, just skipping the sake because we had none. we made the chicken cutlets using thin breasts and flour, egg, panko. this recipe takes a bit if you make the cutlets and the broth, mostly just because of the cutlets. we cooked the onions for quite a while, maybe 15 minutes. for the dashi, we used one packet with 3 cups of water, and boilet it along with the sugar and other liquids like mirin. it turned out so delicious..."
   - "to confirm the last note, we did 3x the broth (not 6x). for chicken, we did a dry salt brine (1/4c salt + 1t baking poweder on 1.5 lbs thin breasts) for 2 hours, and rinsed off salt afterward, and still _plenty_ salty"
 - count: 1
-  index: 137
+  index: 138
   nickname: ""
   name: "vegetarian lasagna"
   tags:
@@ -498,7 +502,7 @@
   comments:
   - "the top layer curled up a lot when it baked--maybe top with more bechamel? also we ended up not dipping the partially cooked lasagna sheets in cold water because it made them curl up. we just use paramesan as the only cheese. also a 15oz can of tomatoes works fine but a little more would be nice"
 - count: 1
-  index: 136
+  index: 137
   nickname: ""
   name: "butter sage pasta with bacon"
   tags:
@@ -509,7 +513,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 135
+  index: 136
   nickname: ""
   name: "tuna steaks with rice and asparagus"
   tags:
@@ -518,7 +522,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 134
+  index: 135
   nickname: ""
   name: "pork tenderloin, mashed potatoes, kale from garden"
   tags:
@@ -528,7 +532,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 133
+  index: 134
   nickname: ""
   name: "gyudon on rice with miso soup"
   tags:
@@ -539,7 +543,7 @@
   - "http://www.seriouseats.com/recipes/2016/07/gyudon-japanese-simmered-beef-and-rice-bowl-recipe.html, http://www.hikarimiso.com/recipes/miso_soup/basic_miso/"
   comments: []
 - count: 8
-  index: 132
+  index: 133
   nickname: ""
   name: "red beans and rice"
   tags:
@@ -553,7 +557,7 @@
   - "4 cups and it still takes a while, but it's fine. we add a ham hock and it is SOOO good, please never not add a ham hock."
   - "Jess cooks it herself. It turns out delicious! She says she used 3.25 cups of water. Also 12 oz andouilli sausage, a 1.6 lb or so ham hock, and 2 cans of kidney beans."
 - count: 3
-  index: 131
+  index: 132
   nickname: ""
   name: "alabama white sauce chicken thighs"
   tags:
@@ -566,7 +570,7 @@
   - "bake in oven at 375F on convection, starting skin side down for 15, then flipping and cooking 15 more, coating skin with sauce, then cooking 15 more or so. they were oiled, and sitting on an oiled rack over a cookie tray"
   - "We have it with baked asparagus on the side. We baked the chicken the same as last time. We ended up brining for two hours with the second hour being out of the fridge, and then after drying the chicken with paper towels, just let it sit out for like 15 minutes before putting it in the oven. (The recipe says to dry it for an hour.) It turned out great! Also, to the sauce we added paprika and a squirt of sriracha. Delicious."
 - count: 1
-  index: 130
+  index: 131
   nickname: ""
   name: "pulled pork sandwiches"
   tags:
@@ -578,7 +582,7 @@
   comments:
   - "slow-cook some pork shoulder using mom's recipe, then just add bbq sauce"
 - count: 1
-  index: 129
+  index: 130
   nickname: ""
   name: "kale and cheddar quesadillas with a fried egg"
   tags:
@@ -588,7 +592,7 @@
   comments:
   - "third and final Blue Apron meal"
 - count: 1
-  index: 128
+  index: 129
   nickname: ""
   name: "pan-fried chicken breast with lentils and arugula salad"
   tags:
@@ -600,7 +604,7 @@
   comments:
   - "second Blue Apron meal. Always use chicken breast with the skin still on! It's so much better this way. Lentil spice mix has thyme, bay leaf, mustard seeds, black pepper"
 - count: 6
-  index: 127
+  index: 128
   nickname: ""
   name: "miso burgers"
   tags:
@@ -615,7 +619,7 @@
   - "with asparagus"
   - "buy 2.5 lbs beef, serve with baked sweet potatoes (cook them without stirring for maximum crispy! 425F for 30 mins or so total) and steamed broccoli. servings:8"
 - count: 4
-  index: 126
+  index: 127
   nickname: ""
   name: "butter chicken"
   tags:
@@ -630,7 +634,7 @@
   - "combine recipe with bon appetit one"
   - "very tasty. mostly just followed the bon appetit one this time, but added one 15oz can of whole tomatoes, and after 10 minutes of simmering added about 1.5 cups of cream and simmered another 20 or so. started broiling the chicken (already sliced) when adding the cream"
 - count: 1
-  index: 125
+  index: 126
   nickname: ""
   name: "salmon chowder"
   tags:
@@ -640,7 +644,7 @@
   comments:
   - "Serious Eats recipe; gets waaaay better after a night in the fridge, so worth making it advance if you were gonna serve it to someone; also, a single recipe makes us seven servings"
 - count: 2
-  index: 124
+  index: 125
   nickname: ""
   name: "goulash"
   tags:
@@ -652,7 +656,7 @@
   - "we cook mac separately in chicken broth, just enough to cover, so that you don't drain it; also, jess adds lawry's and chili flakes to the stew part, and also we use two big cans of whole tomatoes instead of sauce and diced tomatoes"
   - "this makes a SHIT ton. make half. also, don't add the macaroni until you're serving it, that way you can freeze it if there's too much..."
 - count: 1
-  index: 123
+  index: 124
   nickname: ""
   name: "cornbread"
   tags:
@@ -663,7 +667,7 @@
   comments:
   - "fucking delicious"
 - count: 4
-  index: 122
+  index: 123
   nickname: ""
   name: "beef stroganoff"
   tags:
@@ -676,7 +680,7 @@
   - "we use 2 lbs. ground beef, and 20oz mushrooms; made about 8 servings"
   - "takes a little more than an hour to make, and we added corn starch to finally get it to thicken"
 - count: 8
-  index: 121
+  index: 122
   nickname: ""
   name: "pasta carbonara"
   tags:
@@ -686,7 +690,7 @@
   recipe_urls: []
   comments: []
 - count: 4
-  index: 120
+  index: 121
   nickname: ""
   name: "alfredo pasta"
   tags:
@@ -700,7 +704,7 @@
   - "doubled recipe, but needed tons more mushrooms, and probably 12 slices of bacon would be better. cook bacon first, then shrooms in the bacon grease, and then use that same pan (the big red cast iron) for the alfredo."
   - "with chicken, which Jess pan-fries according to that last Blue Apron meal, and it's delicious."
 - count: 1
-  index: 119
+  index: 120
   nickname: ""
   name: "white bean, sausage and kale soup"
   tags:
@@ -711,7 +715,7 @@
   - "http://www.bonappetit.com/columns/cooking-without-recipes/article/easy-sausage-white-bean-kale-dinner"
   comments: []
 - count: 5
-  index: 118
+  index: 119
   nickname: ""
   name: "thai beef with basil and rice"
   tags:
@@ -724,7 +728,7 @@
   - "maybe make 1.5x or 2x next time"
   - "doubled it and it made 5 servings; need to make 1.25 cups rice though"
 - count: 2
-  index: 117
+  index: 118
   nickname: ""
   name: "pork tenderloin, mashed potatoes, green beans"
   tags:
@@ -733,23 +737,13 @@
   last_suggested_date: '2019-08-24'
   recipe_urls: []
   comments: []
-- count: 1
-  index: 116
-  nickname: ""
-  name: "hazan's chickpea soup with rice"
-  tags:
-  - "dinner"
-  - "soup"
-  last_suggested_date: '2020-02-22'
-  recipe_urls: []
-  comments:
-  - "It's alright for a change, and it made a ton, but I'm pretty sure I like it better without the rice"
 - count: 8
-  index: 115
+  index: 117
   nickname: ""
   name: "chicken pot pie"
   tags:
   - "dinner"
+  - "pie"
   - "chicken"
   last_suggested_date: '2019-10-19'
   recipe_urls:
@@ -761,7 +755,7 @@
   - "use only 1.5c broth, and then between 1/4-1/2c cream, so it barely takes any time to thicken. made a simple crust that took no time at all to bake--just covered with foil for first 15 minutes of baking, then took it off for about 12 more minutes, at 375F."
   - "use 2.5 lbs. chicken (makes about 4 cups), and make it in the biggest rectangle pyrex. the dough was tricky to roll because it was so brittle, so it ended up going on in small pieces. servings:9"
 - count: 6
-  index: 114
+  index: 116
   nickname: ""
   name: "beef and bean chili"
   tags:
@@ -775,7 +769,7 @@
   - "same recipe as before; used 3T-4T cocoa, and instead of beer, half a ginger beer and the other 6oz were OJ; simmered for 3 hrs"
   - "on fritos"
 - count: 2
-  index: 113
+  index: 115
   nickname: ""
   name: "beer bread"
   tags:
@@ -787,7 +781,7 @@
   - "use the bottom oven so the top doesn't get too dark"
   - "use bottom oven!"
 - count: 1
-  index: 112
+  index: 114
   nickname: ""
   name: "pizza"
   tags:
@@ -797,7 +791,7 @@
   comments:
   - "we cook it right on the tray, 475F, lower oven, after pre-heating the big tray. it did stick just a little bit--we forgot to add some flour. we use 3oz prosciutto, 6oz mushrooms, and for cheese, some garlic chevre and mozzarella (both from Aldi). turned out delicious!"
 - count: 2
-  index: 111
+  index: 113
   nickname: ""
   name: "slow-cooker chicken tikka masala"
   tags:
@@ -810,7 +804,7 @@
   comments:
   - "nothing like tikka masala but fucking delicious"
 - count: 1
-  index: 110
+  index: 112
   nickname: ""
   name: "tuna with kale and rice"
   tags:
@@ -820,7 +814,7 @@
   comments:
   - "delicious. cook tuna 3 minutes per side on high heat on sesame oil; should be pink inside! also way better fresh off the grill rather than as leftovers. after removing tuna, add 6T rice wine and 3T soy sauce to hot pan, cook for a minute until thick."
 - count: 8
-  index: 109
+  index: 111
   nickname: ""
   name: "hazan's all'amatriciana sauce"
   tags:
@@ -834,7 +828,7 @@
   - "doubled recipe using 1 lb of ground pork total, and 1/2T of red chili flakes"
   - "two cans of marzano whole tomatoes, 4 oz prosicutto, 6 oz bacon, servings:8"
 - count: 1
-  index: 108
+  index: 110
   nickname: ""
   name: "roast duck"
   tags:
@@ -844,7 +838,7 @@
   comments:
   - "so bad that we might just throw it away--very rubbery and chewy"
 - count: 1
-  index: 107
+  index: 109
   nickname: ""
   name: "strip steaks with sauce"
   tags:
@@ -854,7 +848,7 @@
   comments:
   - "from Martha: after steaks are done and removed from pan, add 1/3c liquid (wine, vinegar, broth, etc.) to pan to deglaze; let it boil off a bit, and then add 2T of thickener (butter, mustard, brown sugar, etc.)"
 - count: 1
-  index: 106
+  index: 108
   nickname: ""
   name: "bacon and mushroom cheese pizza"
   tags:
@@ -865,7 +859,7 @@
   comments:
   - "Best (and most pizza-like) pizza we've ever made. Mel's kitchen dough (single serving) makes enough for one pie on the large silver tray; we use 1c of hazan's tomato sauce (one recipe makes ~3c), about 2c of three-cheese mexican shredded cheese, about 6oz mushrooms (sliced, placed both under and on top of cheese), a bit more than 1/2lb of bacon (6 strips of 11, where 11 was 1/2lb), and listen to yourself about how much cheese and not to Jess"
 - count: 3
-  index: 105
+  index: 107
   nickname: ""
   name: "chevre-stuffed chicken breast with mushroom-butter sauce and pasta"
   tags:
@@ -877,7 +871,7 @@
   comments:
   - "pretty time-intensive meal, but delicious"
 - count: 1
-  index: 104
+  index: 106
   nickname: ""
   name: "hazan potato minestrone soup"
   tags:
@@ -888,7 +882,7 @@
   comments:
   - "It's okay."
 - count: 1
-  index: 103
+  index: 105
   nickname: ""
   name: "hazan's eggplant and ricotta pasta"
   tags:
@@ -898,7 +892,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 102
+  index: 104
   nickname: ""
   name: "hazan's pea, ricotta, and bacon pasta"
   tags:
@@ -909,8 +903,19 @@
   recipe_urls: []
   comments:
   - "needs fewer peas, way more bacon (I'd suggest half a pound of bacon for a 1.5 times recipe.)"
+- count: 2
+  index: 103
+  nickname: ""
+  name: "hazan's chickpea soup"
+  tags:
+  - "dinner"
+  - "soup"
+  last_suggested_date: '2016-01-01'
+  recipe_urls: []
+  comments:
+  - "we make it with rice, and it's alright for a change, and it made a ton, but I'm pretty sure I like it better without the rice"
 - count: 1
-  index: 101
+  index: 102
   nickname: ""
   name: "chevre-stuffed chicken breast with lemon-butter sauce and pasta"
   tags:
@@ -922,7 +927,7 @@
   - "http://www.ostrommushrooms.com/recipes/sides/item/93-chevre-and-basil-filled-chicken-breasts"
   comments: []
 - count: 1
-  index: 100
+  index: 101
   nickname: ""
   name: "pork ribs and butter sage pasta"
   tags:
@@ -933,7 +938,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 99
+  index: 100
   nickname: ""
   name: "turkey chili and cornbread"
   tags:
@@ -942,7 +947,7 @@
   recipe_urls: []
   comments: []
 - count: 4
-  index: 98
+  index: 99
   nickname: ""
   name: "burrito bowl"
   tags:
@@ -954,7 +959,7 @@
   - "marinade sliced round steak in worcestire, brown sugar, lime juice for an hour prior to cooking (don't cook in all of liquid! maybe just use some of it)"
   - "jess says for beans and peppers: caramelize 2 onions, then add 2 bell peppers, then add 2 cans of pinto beans, 2-3 garlic cloves, chili powder, tiny bit of cumin, and oregano, salt and pepper. then remove them and add in 3 chicken breasts (1.5 lbs.) cubed and seasoned with lawry's, salt, pepper, chili powder, and cook in butter."
 - count: 1
-  index: 97
+  index: 98
   nickname: ""
   name: "banh mis"
   tags:
@@ -963,7 +968,7 @@
   recipe_urls: []
   comments: []
 - count: 8
-  index: 96
+  index: 97
   nickname: ""
   name: "pork carnitas tacos"
   tags:
@@ -976,7 +981,7 @@
   comments:
   - "so good..."
 - count: 2
-  index: 95
+  index: 96
   nickname: ""
   name: "baked ziti"
   tags:
@@ -986,7 +991,7 @@
   - "http://www.bonappetit.com/recipe/bas-best-baked-ziti"
   comments: []
 - count: 6
-  index: 94
+  index: 95
   nickname: ""
   name: "tom kha gai soup"
   tags:
@@ -999,7 +1004,7 @@
   - "soooo good"
   - "\"Whenever I'm sick, this is the soup I want.\" -Jess"
 - count: 1
-  index: 93
+  index: 94
   nickname: ""
   name: "steak in wine, cream, and mushroom sauce; baked red potatoes; focaccia bread"
   tags:
@@ -1009,7 +1014,7 @@
   comments:
   - "focaccia bread wasn't so great, for some reason--I think I rolled it out too flat"
 - count: 1
-  index: 92
+  index: 93
   nickname: ""
   name: "hazan's bean soup, dinner rolls"
   tags:
@@ -1019,7 +1024,7 @@
   recipe_urls: []
   comments: []
 - count: 2
-  index: 91
+  index: 92
   nickname: ""
   name: "pork tenderloin"
   tags:
@@ -1030,7 +1035,7 @@
   comments:
   - "with roaster potatoes: 450F, olive oil s&p and garlic, just put in for 15-20 minutes BUT DO NOT STIR--they get crispier that way"
 - count: 2
-  index: 90
+  index: 91
   nickname: ""
   name: "meatball soup, cornbread"
   tags:
@@ -1040,7 +1045,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 89
+  index: 90
   nickname: ""
   name: "gnocchi with vodka sauce"
   tags:
@@ -1049,7 +1054,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 88
+  index: 89
   nickname: ""
   name: "hazan's potato minestrone soup"
   tags:
@@ -1060,7 +1065,7 @@
   comments:
   - "without carrots, with crostini; I cook because Jess is sick."
 - count: 1
-  index: 87
+  index: 88
   nickname: ""
   name: "salmon with kale and red potatoes"
   tags:
@@ -1069,7 +1074,7 @@
   recipe_urls: []
   comments: []
 - count: 11
-  index: 86
+  index: 87
   nickname: ""
   name: "hazan's bean soup"
   tags:
@@ -1083,7 +1088,7 @@
   - "with a side of grilled toast; also we use beef broth for the first time because we finally have some"
   - "we use four cans of various beans servings:4"
 - count: 1
-  index: 85
+  index: 86
   nickname: ""
   name: "hazan's butter and sage pasta"
   tags:
@@ -1094,7 +1099,7 @@
   comments:
   - "macaroni noodles, with a strip of bacon each and parmesan, salt/pepper added as well"
 - count: 1
-  index: 84
+  index: 85
   nickname: ""
   name: "mashed sweet potatoes"
   tags:
@@ -1104,7 +1109,7 @@
   - "http://www.seriouseats.com/recipes/2014/11/the-best-mashed-sweet-potatoes-recipe.html"
   comments: []
 - count: 1
-  index: 83
+  index: 84
   nickname: ""
   name: "brussel sprout salad"
   tags:
@@ -1115,7 +1120,7 @@
   - "http://www.loveandlemons.com/2014/11/03/shredded-brussels-sprout-apple-salad/"
   comments: []
 - count: 4
-  index: 82
+  index: 83
   nickname: ""
   name: "chicken caesar salad"
   tags:
@@ -1128,7 +1133,7 @@
   - "chicken thighs and croutons...so good"
   - "for thighs, use about 5 (2 lbs ?)"
 - count: 3
-  index: 81
+  index: 82
   nickname: ""
   name: "butternut squash soup"
   tags:
@@ -1141,7 +1146,7 @@
   comments:
   - "I baked them a few nights ago, and that took forever, but the soup turned out really good actually; Jess loved it"
 - count: 4
-  index: 80
+  index: 81
   nickname: ""
   name: "chicken thighs"
   tags:
@@ -1154,7 +1159,7 @@
   - "Harrison's recipe, and this shit is GOOD and (critically:) simple"
   - "we drain some liquid before putting in the oven, and then again when flipping, which I think helped reduce the splatter."
 - count: 9
-  index: 79
+  index: 80
   nickname: ""
   name: "mac and cheese"
   tags:
@@ -1170,7 +1175,7 @@
   - "equal parts mac, evaporated milk, and cheddar cheese (12 oz each); cook mac in just enough water to cover it; prepare cheese BEFOREHAND and do NOT use vitamix"
   - "add mushrooms and bacon, and have roasted broccoli on the side (475F for 15 minutes) which is delicious. mac recipe doubled = servings:8"
 - count: 11
-  index: 78
+  index: 79
   nickname: ""
   name: "meatball soup"
   tags:
@@ -1182,7 +1187,7 @@
   - "delicious--Mom's recipe"
   - "needs more broth--it all disappears if you put 1.25c of noodles in there! add like two more cups probably (just like mom says, go figure)."
 - count: 7
-  index: 77
+  index: 78
   nickname: ""
   name: "hazan's pasta carbonara"
   tags:
@@ -1194,7 +1199,7 @@
   - "1 lb of pasta is a little much--try 2/3 lb. also, we cooked the bacon, then removed it, drained a bit of grease, then added the olive oil and garlic, and then added the bacon back in once chopped up."
   - "Jess aimed for 1/2 lb. of pasta and this was our best yet!"
 - count: 2
-  index: 76
+  index: 77
   nickname: ""
   name: "roast pork loin with brussels sprouts"
   tags:
@@ -1206,7 +1211,7 @@
   comments:
   - "delicious! and extremely easy"
 - count: 1
-  index: 75
+  index: 76
   nickname: ""
   name: "coq au vin blanc"
   tags:
@@ -1217,7 +1222,7 @@
   comments:
   - "in the slow-cooker; 1.7 lbs of bone-in chicken thighs, with 3 pieces cooked bacon, 1 onion (these 3 things all pan-fried beforehand), 1c of some cheap chardonnay, 1c of broth, and 1t each of dried tarragon, sage, thyme, and rosemary; only vaguely inspired by the recipe in the link"
 - count: 9
-  index: 74
+  index: 75
   nickname: ""
   name: "pork ribs"
   tags:
@@ -1231,7 +1236,7 @@
   - "baked for 50min at 350F, then 10 at 425F with bbq sauce"
   - "one 3.5 lb. rack, servings:6"
 - count: 1
-  index: 73
+  index: 74
   nickname: ""
   name: "pork chops"
   tags:
@@ -1243,7 +1248,7 @@
   comments:
   - "Delicious! 1-inch thick, cooked at 400F for 10 mins or so, after a 30 min salt brine and then searing in an oven-hot cast iron."
 - count: 3
-  index: 72
+  index: 73
   nickname: ""
   name: "marcella hazan's tomato sauce"
   tags:
@@ -1253,7 +1258,7 @@
   comments:
   - "We blanch 5 lbs, and end up with 3.25 lbs because a lot of those guys were pretty nasty."
 - count: 1
-  index: 71
+  index: 72
   nickname: ""
   name: "breaded chicken tacos"
   tags:
@@ -1265,7 +1270,7 @@
   comments:
   - "one (cubed) chicken breast made enough for six tacos; lightly breaded in panko crumbs, served with refried black beans, fresh garden tomato, cheddar cheese, and avocado"
 - count: 1
-  index: 70
+  index: 71
   nickname: ""
   name: "roast chicken"
   tags:
@@ -1276,7 +1281,7 @@
   comments:
   - "nothing simpler; half a stick of butter, rosemary, a lemon, some paprika maybe; 35 minutes at 450F"
 - count: 2
-  index: 69
+  index: 70
   nickname: ""
   name: "fish burger"
   tags:
@@ -1287,7 +1292,7 @@
   comments:
   - "in imitation of Hooked's: panko crumbs on tilapia filet, mayo sprinkled in dill on a toasted HEB bolillo; dotted with sweet chili sauce (rooster chili sauce + white sugar); delicious!"
 - count: 4
-  index: 68
+  index: 69
   nickname: ""
   name: "marcella hazan's tomato sauce with pasta and ground pork"
   tags:
@@ -1300,7 +1305,7 @@
   - "unbelievable; so simple! delicious, and the ground sausage was an awesome combo; this actually tasted like italian food--the first time I've ever cooked such a thing"
   - "we use 5 lbs. of blanched garden tomatoes, and it turns out soupy but still delicious; also we add three garlic cloves, and puree when it was done cooking"
 - count: 4
-  index: 67
+  index: 68
   nickname: ""
   name: "fetteh"
   tags:
@@ -1313,7 +1318,7 @@
   - "Make sure not to burn the almonds! Also, maybe we should be cooking the chickpeas in the spices like in the chickpea curry, and the oil could just be the garlic fried in oil. and add the almonds last, or toast separately so they don't burn"
   - "see last notes"
 - count: 2
-  index: 66
+  index: 67
   nickname: ""
   name: "pesto cheeseburgers"
   tags:
@@ -1324,7 +1329,7 @@
   comments:
   - "pesto, parmesan cheese, burger, toasted bolillos, mayo = maybe the best burger I think I've ever had, definitely the best one I've ever made; let the pan get nice and hot, then put loosely balled burgers on (break up beef entirely before balling), then smash."
 - count: 2
-  index: 65
+  index: 66
   nickname: ""
   name: "ham and mushroom cheese pizza"
   tags:
@@ -1335,7 +1340,7 @@
   - "made two doughs, resulting in tons of pizza; probably 4 servings each. it turned out so well! shit. pre-heat the cookie sheet."
   - "We use the bread machine's recipe, which takes 1.5 hours but it's nice not having to do any work."
 - count: 3
-  index: 64
+  index: 65
   nickname: ""
   name: "spicy miso ramen"
   tags:
@@ -1346,7 +1351,7 @@
   comments:
   - "we double the actual ramen recipe and it makes plenty"
 - count: 1
-  index: 63
+  index: 64
   nickname: ""
   name: "steak au poivre with roasted potatoes"
   tags:
@@ -1357,7 +1362,7 @@
   comments:
   - "amazing. for the potatoes: chopped, boiled until tender, then pan fried in butter with equal parts sage, rosemary, thyme"
 - count: 1
-  index: 62
+  index: 63
   nickname: ""
   name: "garlic and togarashi oil, spicy miso paste; pork ramen"
   tags:
@@ -1370,7 +1375,7 @@
   comments:
   - "holy shit, we just made amazing ramen; we used white ramen with bonito (and no red miso), also we just did normal eggs, but still we high-fived like four times while eating this because it was that good"
 - count: 2
-  index: 61
+  index: 62
   nickname: ""
   name: "slow-cooked beef sandwiches"
   tags:
@@ -1383,7 +1388,7 @@
   - "http://eatathomecooks.com/2012/05/african-pulled-beef-sandwiches-in-the-slow-cooker-with-yogurt-mint-sauce.html"
   comments: []
 - count: 2
-  index: 60
+  index: 61
   nickname: ""
   name: "roast veggies, quinoa, yogurt"
   tags:
@@ -1394,7 +1399,7 @@
   - "beets, carrots, sweet potatoes, garlic, for ~30 mins at 425F"
   - "beets, carrots, sweet potatoes, garlic"
 - count: 8
-  index: 59
+  index: 60
   nickname: ""
   name: "marcella hazan's chickpea soup"
   tags:
@@ -1410,7 +1415,7 @@
   - "yeah, okay, so use almost all of one those big cans of roma tomatoes, and then two cans of chickpeas, two cups of broth, and then at least 1/3c of olive oil but no more than 1/2c"
   - "Jess cooks it herself while I'm at basketball"
 - count: 3
-  index: 58
+  index: 59
   nickname: ""
   name: "falafel"
   tags:
@@ -1423,7 +1428,7 @@
   - "the recipe makes about five servings, if Jess has one patty and I have two; they're very good! maybe try panko next time? served with yogurt, spinach, and cucumber in a pita pocket"
   - "Just double it. It barely makes 4 servings, really. Also don't let Jess make the yogurt sauce!!"
 - count: 2
-  index: 57
+  index: 58
   nickname: ""
   name: "ramen"
   tags:
@@ -1434,7 +1439,7 @@
   comments:
   - "with spinach, green onions, pork, fried egg, fish sauce, tamarind paste, chili flakes"
 - count: 1
-  index: 56
+  index: 57
   nickname: ""
   name: "tuna pasta with garlic, spinach, parmesan"
   tags:
@@ -1444,7 +1449,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 55
+  index: 56
   nickname: ""
   name: "chicken sandwiches with avocado, sundried tomatoes, peppers; side of fried okra"
   tags:
@@ -1455,7 +1460,7 @@
   recipe_urls: []
   comments: []
 - count: 2
-  index: 54
+  index: 55
   nickname: ""
   name: "slow-cooker chicken tortilla soup"
   tags:
@@ -1470,7 +1475,7 @@
   - "amazingly delicious, and so amazingly simple"
   - "I used 4c of broth instead of 5c."
 - count: 1
-  index: 53
+  index: 54
   nickname: ""
   name: "almond sausage couscous"
   tags:
@@ -1480,7 +1485,7 @@
   comments:
   - "via vegie num num"
 - count: 2
-  index: 52
+  index: 53
   nickname: ""
   name: "sweet potato curry"
   tags:
@@ -1493,7 +1498,7 @@
   - "coconut milk, red onions, lentils, brown sugar, curry powder, chili powder, cayenne, paprika"
   - "needs some lime. also, we doubled recipe and used 1.5c broth, but probably should have done just 1c"
 - count: 2
-  index: 51
+  index: 52
   nickname: ""
   name: "slow-cooker chili"
   tags:
@@ -1503,7 +1508,7 @@
   recipe_urls: []
   comments: []
 - count: 3
-  index: 50
+  index: 51
   nickname: "CkM7"
   name: "shakshouka"
   tags:
@@ -1514,7 +1519,7 @@
   - "not mexican--w/e; don't overcook eggs! lots of paprika is key, all tomatoes and no sauce would be nice too"
   - "much better! key is not overcooking eggs"
 - count: 1
-  index: 49
+  index: 50
   nickname: ""
   name: "slow-cooker beef chuck roast cubed, potatoes, baby carrots, onions, garlic, chicken broth"
   tags:
@@ -1527,7 +1532,7 @@
   comments:
   - "from the slow-cooker recipe book; used 1.6 lbs. of meat and that was still plenty"
 - count: 1
-  index: 48
+  index: 49
   nickname: ""
   name: "blat"
   tags:
@@ -1537,7 +1542,7 @@
   comments:
   - "bacon lettuce avocado tomato"
 - count: 1
-  index: 47
+  index: 48
   nickname: ""
   name: "chicken tacos with corn salsa"
   tags:
@@ -1549,7 +1554,7 @@
   comments:
   - "talk about people doing jobs they hate, and dumb people who click Edit to copy/paste"
 - count: 7
-  index: 46
+  index: 47
   nickname: ""
   name: "lasagna"
   tags:
@@ -1562,7 +1567,7 @@
   - "we accidentally made this a little better. basically, we doubled the meat sauce (including onions and some mushrooms), but didn't double everything else, and so kept the same amount of layers and all that, in 13x9 pyrex. servings:12"
   - "instructions from last time were vague, so to be clear: double the beef (2 lbs), add some mushrooms and an onion, and use a jar (25 oz) of pasta sauce and also another cup or so of pasta sauce that we had lying around. also 15oz ricotta and 10oz mozzarrella. 8 lasagna noodle strips total. turned out great."
 - count: 2
-  index: 45
+  index: 46
   nickname: "CkSd3"
   name: "tri-color quinoa with kidney beans"
   tags:
@@ -1572,7 +1577,7 @@
   comments:
   - "as tacos, only with refried black beans instead of kidney beans, and yogurt, and valentina, and avocado"
 - count: 1
-  index: 44
+  index: 45
   nickname: ""
   name: "zucchini pasta"
   tags:
@@ -1583,7 +1588,7 @@
   comments:
   - "shredded zucchini sauteed with one bell pepper, one serrano pepper, served with angel hair pasta and parmesan cheese...surprisingly delicious"
 - count: 1
-  index: 43
+  index: 44
   nickname: ""
   name: "rib eye steak, mashed potatoes"
   tags:
@@ -1592,7 +1597,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 42
+  index: 43
   nickname: ""
   name: "steak fajitas with onions, bell peppers, avocado, yogurt, beer"
   tags:
@@ -1602,7 +1607,7 @@
   comments:
   - "ahh, gas grills make it so easy. grills and beer and summer too good"
 - count: 1
-  index: 41
+  index: 42
   nickname: ""
   name: "lamb curry"
   tags:
@@ -1613,7 +1618,7 @@
   recipe_urls: []
   comments: []
 - count: 2
-  index: 40
+  index: 41
   nickname: "CkR5"
   name: "chicken katsu don"
   tags:
@@ -1625,7 +1630,7 @@
   comments:
   - "pretty good! but maybe use miso without the seaweed"
 - count: 1
-  index: 39
+  index: 40
   nickname: ""
   name: "chicken waterzooi"
   tags:
@@ -1636,7 +1641,7 @@
   comments:
   - "good! very simple, and tasty"
 - count: 1
-  index: 38
+  index: 39
   nickname: ""
   name: "scallops, oyster mushrooms"
   tags:
@@ -1646,7 +1651,7 @@
   comments:
   - "scallops via Julia Child cookbook, mushrooms via mushroom kit!"
 - count: 1
-  index: 37
+  index: 38
   nickname: ""
   name: "hummus, roasted veggies"
   tags:
@@ -1655,7 +1660,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 36
+  index: 37
   nickname: ""
   name: "slow-cooked bbq brisket"
   tags:
@@ -1666,7 +1671,7 @@
   comments:
   - "too easy, and just fine and delicious"
 - count: 1
-  index: 35
+  index: 36
   nickname: ""
   name: "chicken tacos"
   tags:
@@ -1677,7 +1682,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 34
+  index: 35
   nickname: ""
   name: "peas and zucchini pasta"
   tags:
@@ -1688,7 +1693,7 @@
   comments:
   - "too lemony"
 - count: 6
-  index: 33
+  index: 34
   nickname: "CkR4"
   name: "chicken curry"
   tags:
@@ -1706,7 +1711,7 @@
   - "we also add an onion and diced tomatoes; super liquidy so if you add the tomatoes maybe skip the broth"
   - "Doubled the recipe with 10 thighs at about 3 lbs. We did not double the liquid, just did one can coconut milk, 1c chicken broth. Added a bit of tomatoes again but I wish we hadn't."
 - count: 1
-  index: 32
+  index: 33
   nickname: ""
   name: "turkey blt with avocado sandwiches, french fries"
   tags:
@@ -1716,7 +1721,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 31
+  index: 32
   nickname: ""
   name: "chicken thighs, green beans with bacon, baked sweet potato"
   tags:
@@ -1728,7 +1733,7 @@
   comments:
   - "somehow even better than yesterday"
 - count: 1
-  index: 30
+  index: 31
   nickname: ""
   name: "ribeye steak, steamed kale, baked sweet potato"
   tags:
@@ -1737,7 +1742,7 @@
   recipe_urls: []
   comments: []
 - count: 2
-  index: 29
+  index: 30
   nickname: "CkR3"
   name: "lamb korma"
   tags:
@@ -1749,7 +1754,7 @@
   comments:
   - "made in slow-cooker, barely fits but turns out great"
 - count: 1
-  index: 28
+  index: 29
   nickname: ""
   name: "baked tempeh sandwich with sundried tomato pesto, avocado, and spinach"
   tags:
@@ -1760,7 +1765,7 @@
   comments:
   - "soooo filling and pretty good"
 - count: 1
-  index: 27
+  index: 28
   nickname: "CkSd2"
   name: "french fries"
   tags:
@@ -1771,7 +1776,7 @@
   comments:
   - "unbelievable...need a better scooper though"
 - count: 1
-  index: 26
+  index: 27
   nickname: ""
   name: "smoked chicken"
   tags:
@@ -1782,7 +1787,7 @@
   comments:
   - "first smoking! 5 lb. chicken over 2 hrs--quicker than expected but turned out good"
 - count: 5
-  index: 25
+  index: 26
   nickname: "CkP3"
   name: "spaghetti and meatballs"
   tags:
@@ -1791,7 +1796,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 24
+  index: 25
   nickname: ""
   name: "omelettes"
   tags:
@@ -1800,7 +1805,7 @@
   recipe_urls: []
   comments: []
 - count: 6
-  index: 23
+  index: 24
   nickname: "CkS7"
   name: "cheeseburgers"
   tags:
@@ -1813,7 +1818,7 @@
   - "on charcoal grill; roll up newspaper into coils, starting from corner, three rolls, and coil into chimney, leaving air in the center--works perfectly! we drink wine and beer and sit outside in chairs listening to Can and Pink Floyd's \"Animals\", catching fireflies and talking about gun control and revolution"
   - "Tonight I made 7 burgers from 1.5 lbs of beef, breaking up the beef into the little strands as much as possible, and then lightly (as lightly as possible) clumping them back together into patties. Seasoning with salt, pepper, and Lawry's salt, and then cooking in the cast iron and flipping once, smashing, and keeping all the lovely grease around. They were delicious, and I ate mine on a so-fresh-they-were-hot Fiesta bolillo with the last beautiful tomato from the garden and a slice of cheddar cheese."
 - count: 8
-  index: 22
+  index: 23
   nickname: "CkM6"
   name: "raw tacos with cashews and walnuts"
   tags:
@@ -1830,7 +1835,7 @@
   - "used pecans instead of walnuts; Jess says do 1.5 times soy sauce instead of 2 times"
   - "Made with half almonds, half pecans. Defrost nuts first or else the almonds never quite blended. Or blend the pecans and almonds in separate batches, either way."
 - count: 2
-  index: 21
+  index: 22
   nickname: "CkD5"
   name: "oven-roasted chicken"
   tags:
@@ -1842,7 +1847,7 @@
   - "surprisingly easy: rub butter and other stuff on it, and bake it for an hour"
   - "one stick of butter is plenty"
 - count: 4
-  index: 20
+  index: 21
   nickname: "CkS6"
   name: "fried catfish po boy"
   tags:
@@ -1854,7 +1859,7 @@
   - "huge-ass probably sad catfish from Fiesta--good though"
   - "dip in flour, then in egg, then in panko. the perfect crust! eat with bread-and-butter pickles and mayo on toasted bolillos"
 - count: 1
-  index: 19
+  index: 20
   nickname: ""
   name: "pasta with beef and sauteed veggies"
   tags:
@@ -1865,7 +1870,7 @@
   recipe_urls: []
   comments: []
 - count: 4
-  index: 18
+  index: 19
   nickname: "CkM1"
   name: "red chili bean and sweet potato burritos"
   tags:
@@ -1875,7 +1880,7 @@
   comments:
   - "I realize I like these if I just don't eat the skin"
 - count: 5
-  index: 17
+  index: 18
   nickname: "CkP2"
   name: "pesto pasta"
   tags:
@@ -1887,12 +1892,22 @@
   - "with chicken, cherry tomatoes, mushrooms"
   - "with ham and mushrooms, with fresh basil from the garden"
 - count: 1
-  index: 16
+  index: 17
   nickname: "CkSd1"
   name: "ravioli with tomato-sauce and mushrooms"
   tags:
   - "dinner"
   last_suggested_date: '2020-04-11'
+  recipe_urls: []
+  comments: []
+- count: 1
+  index: 16
+  nickname: ""
+  name: "peanut butter oatmeal cookies"
+  tags:
+  - "dinner"
+  - "cookies"
+  last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments: []
 - count: 2
@@ -2062,39 +2077,42 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 76
+  index: 74
   nickname: ""
   name: "flourless chocolate cake"
   tags:
   - "dessert"
+  - "cake"
   last_suggested_date: '2016-01-01'
   recipe_urls:
   - "https://www.kingarthurflour.com/recipes/flourless-chocolate-cake-recipe"
   comments:
   - "this turns out amazing. the oiled pan and parchment paper was key for it not sticking. for icing, I melt 3T butter, 3T baking chocolate, and then pour it over (drizzling) straight from the pot onto the cake (maybe an hour after it came out of the oven)."
 - count: 1
-  index: 75
+  index: 73
   nickname: ""
   name: "pb oatmeal chocolate chip cookies"
   tags:
   - "dessert"
+  - "cookies"
   last_suggested_date: '2016-01-01'
   recipe_urls:
   - "https://sallysbakingaddiction.com/peanut-butter-oatmeal-chocolate-chip-cookies/"
   comments: []
 - count: 1
-  index: 74
+  index: 72
   nickname: ""
   name: "chocolate cake with pb icing"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  - "cake"
+  last_suggested_date: '2020-04-26'
   recipe_urls:
   - "https://www.modernhoney.com/love-at-first-sight-chocolate-cake/"
   comments:
   - "icing was 2 sticks of butter, 1c peanut butter, and about 1c of powdered sugar"
 - count: 4
-  index: 73
+  index: 71
   nickname: ""
   name: "blueberry muffins"
   tags:
@@ -2105,42 +2123,46 @@
   comments:
   - "Jess says: rotate after 15 minutes for another 5 mins. 75% were cooked through, the the remaining 25% needed another 2-5 minutes."
 - count: 2
-  index: 72
+  index: 70
   nickname: ""
   name: "sourdough pancakes"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  - "cake"
+  last_suggested_date: '2020-04-26'
   recipe_urls: []
   comments:
   - "Turns out I accidentally forgot to halve the flour last night, but then made what ended up being an even worse mistake by trying to compensate for the extra flour by keeping it in our room overnight, where it is very hot. That just made the sourdough angry and alcoholic tasting. They were fine, but not as good as last time. But a half-recipe is basically the right amount, by the way."
 - count: 1
-  index: 71
+  index: 69
   nickname: ""
   name: "two-tier chocolate cake"
   tags:
   - "dessert"
+  - "cake"
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments:
   - "Jess makes it all herself"
 - count: 1
-  index: 70
+  index: 68
   nickname: ""
   name: "ice cream cake"
   tags:
   - "dessert"
+  - "cake"
   last_suggested_date: '2016-01-01'
   recipe_urls:
   - "https://www.allrecipes.com/recipe/76004/easy-ice-cream-cake/"
   comments:
   - "12 ice cream sandwiches, whipped cream (made from a pint of cream), and homemade chocolate fudge (1/2 cocoa, 1/2c water, 1/2c sugar)"
 - count: 4
-  index: 69
+  index: 67
   nickname: ""
   name: "dutch apple pie"
   tags:
   - "dessert"
+  - "pie"
   last_suggested_date: '2016-01-01'
   recipe_urls:
   - "https://www.food.com/recipe/dutch-apple-pie-43990"
@@ -2149,7 +2171,7 @@
   - "5 1/2 cups was five apples exactly"
   - "with apples from the farm last weekend"
 - count: 1
-  index: 68
+  index: 66
   nickname: ""
   name: "oat balls"
   tags:
@@ -2159,11 +2181,12 @@
   comments:
   - "2T brown sugar, 2T honey, 2T coconut oil, 2T chocolate syrup, 6T? peanut butter, <2c? rolled oats. mix, make balls, put in fridge."
 - count: 2
-  index: 67
+  index: 65
   nickname: ""
-  name: "kladdkaka 6-ingredient swedish chocolate cake"
+  name: "kladdkaka swedish chocolate cake"
   tags:
   - "dessert"
+  - "cake"
   last_suggested_date: '2016-01-01'
   recipe_urls:
   - "https://scrummylane.com/6-ingredient-gooey-swedish-chocolate-cake-kladdkaka/"
@@ -2171,25 +2194,27 @@
   - "delicious. I only do 1.25c sugar, and slightly less than 1/2c cocoa. also it ends up taking about 30 minutes to bake--you want the top to definitely be cooked through, but only just so, so that the center is still gooey underneath"
   - "looked done but was actually raw inside--so poke it with a toothpick! you don't want it gooey EVERYWHERE..."
 - count: 1
-  index: 66
+  index: 64
   nickname: ""
   name: "mexican cheesecake"
   tags:
   - "dessert"
+  - "cake"
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments: []
 - count: 1
-  index: 65
+  index: 63
   nickname: ""
   name: "mexican wedding cookies"
   tags:
   - "dessert"
+  - "cookies"
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments: []
 - count: 2
-  index: 64
+  index: 62
   nickname: ""
   name: "apple crisp"
   tags:
@@ -2200,7 +2225,7 @@
   comments:
   - "we double it; recipe from Caitlin"
 - count: 4
-  index: 63
+  index: 61
   nickname: ""
   name: "blueberry tart"
   tags:
@@ -2212,7 +2237,7 @@
   - "added 1t corn starch the blueberry/sugar mix, and two good squirts of lemon juice (2t?). cooked at 375F for 15 minutes, then 400F for 10 minutes."
   - "made in 9x9 pan"
 - count: 1
-  index: 62
+  index: 60
   nickname: ""
   name: "popcorn"
   tags:
@@ -2222,36 +2247,39 @@
   comments:
   - "we use 1/3c kernels, and 1/4c veggie oil with some popcorn salt mixed in, microwave on 4mins until pops are 5s away. add melted butter--it turned out amazing"
 - count: 1
-  index: 61
+  index: 59
   nickname: ""
   name: "peanut butter chocolate chip cookies"
   tags:
   - "dessert"
+  - "cookies"
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments: []
 - count: 1
-  index: 60
+  index: 58
   nickname: ""
   name: "rhubarb pie"
   tags:
   - "dessert"
+  - "pie"
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments:
   - "cooked for like 75 minutes total--be patient! wait for the bubblies. rotated it once, when we took the foil off. also, it's a bit too sweet--Jess says she added the upper limit of sugar. So don't do that."
 - count: 1
-  index: 59
+  index: 57
   nickname: ""
   name: "cookies-have-no-eggs"
   tags:
   - "dessert"
+  - "cookies"
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments:
   - "we are short on coconut oil so we add in maybe 2T butter to finish it off; also we add 2T cocoa in place of some flour...the result is incredible"
 - count: 1
-  index: 58
+  index: 56
   nickname: ""
   name: "fruit pizza"
   tags:
@@ -2261,51 +2289,56 @@
   comments:
   - "store bought cookie dough, homemade whipped cream mixed with some cream cheese, topped with fruit and chocolate chips"
 - count: 1
-  index: 57
+  index: 55
   nickname: ""
-  name: "genoise cake with blueberry filling and chocolate buttercream frosting, with a bourbon-water drip in the 2 layers"
+  name: "genoise cake"
   tags:
   - "dessert"
+  - "cake"
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments:
-  - "Julia Child's genoise cake recipe; make sure you use the right pot and bowl! the small pot but not the smallest one--the silver one that we rarely use if that helps, and then the biggest circular glass tupperware"
+  - "with blueberry filling and chocolate buttercream frosting, with a bourbon-water drip in the 2 layers. Julia Child's genoise cake recipe. make sure you use the right pot and bowl! the small pot but not the smallest one--the silver one that we rarely use if that helps, and then the biggest circular glass tupperware"
 - count: 1
-  index: 56
+  index: 54
   nickname: ""
   name: "julia childs's almond cake"
   tags:
   - "dessert"
+  - "cake"
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments:
   - "the one on the same page as the queen of sheba"
 - count: 1
-  index: 55
+  index: 53
   nickname: ""
   name: "skillet cookie pie"
   tags:
   - "dessert"
+  - "pie"
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments:
   - "from Bon Appetit"
 - count: 1
-  index: 54
+  index: 52
   nickname: ""
   name: "cherry and blueberry upside-down cake"
   tags:
   - "dessert"
+  - "cake"
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments:
   - "Bon Appetit recipe"
 - count: 2
-  index: 53
+  index: 51
   nickname: ""
   name: "chocolate cake"
   tags:
   - "dessert"
+  - "cake"
   last_suggested_date: '2016-01-01'
   recipe_urls:
   - "http://allrecipes.com/recipe/7259/grandmas-eggless-butterless-milkless-cake/"
@@ -2313,29 +2346,31 @@
   - "we make a half-recipe; I use about 1/4c cocoa"
   - "Jess makes a two-layer one"
 - count: 1
-  index: 52
+  index: 50
   nickname: ""
   name: "chocolate chip cookies without eggs"
   tags:
   - "dessert"
+  - "cookies"
   last_suggested_date: '2020-04-26'
   recipe_urls:
   - "https://snapguide.com/guides/make-cookies-when-you-have-no-eggs/"
   comments:
   - "super delicious, nice and crispy but also fluffy"
 - count: 2
-  index: 51
+  index: 49
   nickname: ""
   name: "bourbon cookies"
   tags:
   - "dessert"
+  - "cookies"
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments:
   - "they're basically like sugar cookies if you short on the bourbon, but they're still very good. we make a buttercream frosting for them"
   - "we make 86 of them, with buttercream frosting. we try to pipe it but it eventually starts melting/clumping weirdly, so a spoon was the way to go. maybe next time don't add more milk than the recipe calls for..."
 - count: 2
-  index: 50
+  index: 48
   nickname: ""
   name: "hot chocolate"
   tags:
@@ -2345,7 +2380,7 @@
   comments:
   - "per cup: 2T cocoa, 1T brown sugar, 1c milk; add only 2T or so milk at first to the rest, heating in pan; then once it dissolves heat the rest of the milk; once nearly boiling, put it in a blender to froth"
 - count: 1
-  index: 49
+  index: 47
   nickname: ""
   name: "poptarts"
   tags:
@@ -2355,17 +2390,18 @@
   comments:
   - "For all our attempts at doing this over the years, the only one that EVER turns out well is chevre with honey. Seriously. The others are never as good as they should be."
 - count: 1
-  index: 48
+  index: 46
   nickname: ""
   name: "peach pie"
   tags:
   - "dessert"
+  - "pie"
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments:
   - "1/4c butter, 1/2c white sugar, 1/4c brown sugar, 1/3c flour, 2T cornstarch, 1/4t cinnamon, 3 cans peaches (no syrup); 400F for 50 minutes; a mix of Betty Crocker and a simple allrecipes one"
 - count: 2
-  index: 47
+  index: 45
   nickname: ""
   name: "granola bars"
   tags:
@@ -2377,7 +2413,7 @@
   - "we add almonds, chopped up, and some cranberries"
   - "we use prunes, this time; also, no cranberries or chocolate chips this time"
 - count: 1
-  index: 46
+  index: 44
   nickname: ""
   name: "chevre and honey nests"
   tags:
@@ -2387,17 +2423,7 @@
   comments:
   - "using pie crust dough leftover from pie; make little nests (about the size of the bottom of a coke can), wipe with butter and with egg wash, then add some chevre, covered in honey; bake at 400F for about 15 mins or so"
 - count: 1
-  index: 45
-  nickname: ""
-  name: "hazan's chickpea soup"
-  tags:
-  - "dessert"
-  - "soup"
-  last_suggested_date: '2016-01-01'
-  recipe_urls: []
-  comments: []
-- count: 1
-  index: 44
+  index: 43
   nickname: ""
   name: "dark chocolate sauce"
   tags:
@@ -2407,11 +2433,12 @@
   comments:
   - "1:1:1 cocoa:sugar:water, plus salt; add in saucepan after mixing cocoa and sugar"
 - count: 2
-  index: 43
+  index: 42
   nickname: ""
   name: "chocolate bundt cake"
   tags:
   - "dessert"
+  - "cake"
   last_suggested_date: '2016-01-01'
   recipe_urls:
   - "http://www.food.com/recipe/kittencals-moist-one-bowl-dark-chocolate-bundt-cake-71876"
@@ -2419,7 +2446,7 @@
   - "in a cake pan"
   - "with chocolate icing"
 - count: 1
-  index: 42
+  index: 41
   nickname: ""
   name: "cinnamon rolls"
   tags:
@@ -2430,7 +2457,7 @@
   comments:
   - "to be cooked tomorrow morning..."
 - count: 2
-  index: 41
+  index: 40
   nickname: ""
   name: "peanut butter chocolate malt"
   tags:
@@ -2439,7 +2466,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 40
+  index: 39
   nickname: ""
   name: "microwave brownie"
   tags:
@@ -2449,39 +2476,26 @@
   - "http://www.simplyrecipes.com/recipes/brownie_in_a_mug/"
   comments: []
 - count: 2
-  index: 39
+  index: 38
   nickname: ""
   name: "cookies"
   tags:
   - "dessert"
+  - "cookies"
   last_suggested_date: '2020-04-26'
   recipe_urls: []
   comments: []
 - count: 1
-  index: 38
+  index: 37
   nickname: ""
   name: "blueberry coffee cake"
   tags:
   - "dessert"
+  - "cake"
   last_suggested_date: '2016-01-01'
   recipe_urls:
   - "http://www.kingarthurflour.com/recipes/blueberry-buckle-coffeecake-recipe"
   comments: []
-- count: 9
-  index: 37
-  nickname: ""
-  name: "brownies"
-  tags:
-  - "dessert"
-  last_suggested_date: '2016-01-01'
-  recipe_urls:
-  - "http://smittenkitchen.com/blog/2010/01/best-cocoa-brownies/"
-  - "http://www.browneyedbaker.com/chewy-brownies/"
-  - "https://cafedelites.com/best-fudgy-cocoa-brownies/"
-  comments:
-  - "so fudgy, and very delicious"
-  - "don't let Jess use convection...also we substitute in some cocoa for 2oz baking chocolate (and subtract off 2T butter), and it's delicious"
-  - "recipe on the unsweetened baking chocolate box"
 - count: 2
   index: 36
   nickname: ""
@@ -2510,7 +2524,7 @@
   name: "peach crisp"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-04-26'
   recipe_urls: []
   comments:
   - "from Mom's cookbook; pretty good, but too liquidy and didn't end up crisp. delicious on yogurt though"
@@ -2520,6 +2534,7 @@
   name: "coffee cake"
   tags:
   - "dessert"
+  - "cake"
   last_suggested_date: '2016-01-01'
   recipe_urls:
   - "http://www.gimmesomeoven.com/sour-cream-coffee-cake/"
@@ -2530,12 +2545,13 @@
 - count: 1
   index: 32
   nickname: ""
-  name: "microwave peach crumble: 1t brown sugar, 1t butter, 1.5t flour, 1.5t rolled oats, 2t peach preserves; mush all but preserves around in a bowl, then add preserves and microwave for 2 minutes"
+  name: "microwave peach crumble"
   tags:
   - "dessert"
   last_suggested_date: '2016-01-01'
   recipe_urls: []
-  comments: []
+  comments:
+  - "recipe: 1T brown sugar, 1T butter, 1.5T flour, 1.5T rolled oats, 2T peach preserves; mush all but preserves around in a bowl, then add preserves and microwave for 2 minutes"
 - count: 1
   index: 31
   nickname: ""
@@ -2551,6 +2567,7 @@
   name: "chocolate chip cookie cake"
   tags:
   - "dessert"
+  - "cake"
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments:
@@ -2570,7 +2587,7 @@
   name: "fig jam"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-04-26'
   recipe_urls: []
   comments: []
 - count: 1
@@ -2598,7 +2615,7 @@
   name: "pecan ice cream"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-04-26'
   recipe_urls: []
   comments:
   - "fucking unbelievable with some maple syrup on top; as before: 3 parts nuts, 2 parts milk, 1 part sugar, 9 parts ice"
@@ -2652,6 +2669,7 @@
   name: "peanut butter cookies with marshmallow topping"
   tags:
   - "dessert"
+  - "cookies"
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments:
@@ -2662,6 +2680,7 @@
   name: "banana cream pie"
   tags:
   - "dessert"
+  - "pie"
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments:
@@ -2672,7 +2691,8 @@
   name: "the queen of sheba chocolate almond cake"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  - "cake"
+  last_suggested_date: '2020-04-26'
   recipe_urls: []
   comments:
   - "a la Julia Child"
@@ -2697,6 +2717,7 @@
   name: "blueberry pie"
   tags:
   - "dessert"
+  - "pie"
   last_suggested_date: '2016-01-01'
   recipe_urls:
   - "http://allrecipes.com/recipe/12196/blueberry-pie/"
@@ -2740,6 +2761,7 @@
   name: "pumpkin pie"
   tags:
   - "dessert"
+  - "pie"
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments: []
@@ -2760,6 +2782,7 @@
   name: "cheesecake"
   tags:
   - "dessert"
+  - "cake"
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments:
@@ -2783,7 +2806,7 @@
   name: "chocolate bark"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-04-26'
   recipe_urls: []
   comments:
   - "god it's so easy...pepitas and sea salt, stirred in melted baking chocolate, then refrigerated"
@@ -2793,6 +2816,7 @@
   name: "sugar cookies"
   tags:
   - "dessert"
+  - "cookies"
   last_suggested_date: '2016-01-01'
   recipe_urls:
   - "http://www.foodnetwork.com/recipes/alton-brown/sugar-cookies-recipe.html"
@@ -2809,6 +2833,7 @@
   name: "peanut butter oatmeal chocolate chip cookies"
   tags:
   - "dessert"
+  - "cookies"
   last_suggested_date: '2016-01-01'
   recipe_urls:
   - "http://www.ambitiouskitchen.com/2013/03/peanut-butter-oatmeal-chocolate-chip-cookies-flourless-no-butter/"
@@ -2821,6 +2846,7 @@
   name: "chocolate chip cookies"
   tags:
   - "dessert"
+  - "cookies"
   last_suggested_date: '2016-01-01'
   recipe_urls:
   - "https://www.verybestbaking.com/recipes/18476/original-nestle-toll-house-chocolate-chip-cookies/"
@@ -2839,6 +2865,7 @@
   name: "peanut butter cookies"
   tags:
   - "dessert"
+  - "cookies"
   last_suggested_date: '2016-01-01'
   recipe_urls:
   - "http://www.foodnetwork.com/recipes/claire-robinson/flourless-peanut-butter-cookies-recipe/index.html"
@@ -2850,6 +2877,7 @@
   name: "oatmeal chocolate chip cookies"
   tags:
   - "dessert"
+  - "cookies"
   last_suggested_date: '2016-01-01'
   recipe_urls:
   - "http://www.wholegraingourmet.com/recipes/43-cookies/58-healthy-oatmeal-cookies.html"
@@ -2863,22 +2891,29 @@
   name: "peanut butter oatmeal cookies"
   tags:
   - "dessert"
+  - "cookies"
   last_suggested_date: '2016-01-01'
   recipe_urls:
   - "http://www.browneyedbaker.com/2010/02/24/peanut-butter-oatmeal-chocolate-chip-cookies/"
   - "http://www.tasteofhome.com/recipes/easy-peanut-butter-oatmeal-cookies"
   comments:
   - "delicious! just add a bit more baking soda, replace quick oats for rolled oats and use just under 1 cup; add a spoonful of honey"
-- count: 3
+- count: 12
   index: 1
   nickname: "CkD1"
-  name: "chewy brownies"
+  name: "brownies"
   tags:
   - "dessert"
   last_suggested_date: '2016-01-01'
   recipe_urls:
   - "http://www.browneyedbaker.com/2010/03/09/chewy-brownies/"
-  comments: []
+  - "http://smittenkitchen.com/blog/2010/01/best-cocoa-brownies/"
+  - "http://www.browneyedbaker.com/chewy-brownies/"
+  - "https://cafedelites.com/best-fudgy-cocoa-brownies/"
+  comments:
+  - "so fudgy, and very delicious"
+  - "don't let Jess use convection...also we substitute in some cocoa for 2oz baking chocolate (and subtract off 2T butter), and it's delicious"
+  - "recipe on the unsweetened baking chocolate box"
 - count: 1
   index: 5
   nickname: ""
@@ -2915,7 +2950,8 @@
   name: "sourdough pancakes"
   tags:
   - "bread"
-  last_suggested_date: '2016-01-01'
+  - "cake"
+  last_suggested_date: '2020-04-26'
   recipe_urls:
   - "https://cooking.nytimes.com/recipes/1018025-sourdough-pancake-or-waffle-batter"
   comments:
