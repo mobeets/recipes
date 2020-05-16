@@ -46,7 +46,7 @@
   name: "shrub"
   tags:
   - "drink"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-05-09'
   recipe_urls: []
   comments:
   - "\"artisinal drinking vinegar\" from the farmer's market, plus seltzer water and water and some fresh lime juice...so goddamn good--imagine with alcohol!"
@@ -108,7 +108,7 @@
   name: "granola"
   tags:
   - "breakfast"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-05-02'
   recipe_urls: []
   comments:
   - "yes, combine everything but the oats together first; takes ~12 minutes to start and then get into the oven, fyi, and then about 2 more minutes to clean. Then ~20 minutes to cook. So anytime you want, you could have granola in half an hour, fool!"
@@ -140,7 +140,7 @@
   tags:
   - "breakfast"
   - "cake"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-05-09'
   recipe_urls:
   - "http://thepioneerwoman.com/cooking/2009/05/perfect-pancakes/"
   comments:
@@ -169,6 +169,28 @@
   comments:
   - "Emre joins us, bringing blueberries"
   - "half batch is plenty"
+- count: 1
+  index: 168
+  nickname: ""
+  name: "top sirloin steak"
+  tags:
+  - "dinner"
+  last_suggested_date: '2016-01-01'
+  recipe_urls:
+  - "https://www.wholesomeyum.com/how-to-cook-top-sirloin-steak-in-the-oven/"
+  comments:
+  - "best steak we've ever made ourselves. seared in cast iron with a little bit of olive oil. then put butter on steak and cooked in oven until 135F, then 5 mins to rest...so delicious."
+- count: 1
+  index: 167
+  nickname: ""
+  name: "asparagus carbonara"
+  tags:
+  - "dinner"
+  last_suggested_date: '2016-01-01'
+  recipe_urls:
+  - "https://cooking.nytimes.com/recipes/1017998-springtime-spaghetti-carbonara"
+  comments:
+  - "I follow the recipe except I use 4 slices of bacon, 6 eggs, 3T milk, and farfalle instead of spaghetti. also the asparagus and bacon were both baked beforehand. pretty good but the asparagus taste is a little strong."
 - count: 1
   index: 166
   nickname: ""
@@ -689,7 +711,7 @@
   last_suggested_date: '2020-03-21'
   recipe_urls: []
   comments: []
-- count: 4
+- count: 5
   index: 121
   nickname: ""
   name: "alfredo pasta"
@@ -703,6 +725,7 @@
   - "sooooo good: with mushrooms, spinach, and bacon! doubled the recipe. don't be afraid to use tons of mushrooms. Jess says 6-7 strips of bacon was good."
   - "doubled recipe, but needed tons more mushrooms, and probably 12 slices of bacon would be better. cook bacon first, then shrooms in the bacon grease, and then use that same pan (the big red cast iron) for the alfredo."
   - "with chicken, which Jess pan-fries according to that last Blue Apron meal, and it's delicious."
+  - "with lots of mushrooms and chicken. we double the sauce and it makes A LOT--not sure what I was talking about in the previous note."
 - count: 1
   index: 120
   nickname: ""
@@ -2077,7 +2100,30 @@
   recipe_urls: []
   comments: []
 - count: 1
+  index: 75
+  nickname: ""
+  name: "banana blondies"
+  tags:
+  - "dessert"
+  last_suggested_date: '2016-01-01'
+  recipe_urls:
+  - "https://omgchocolatedesserts.com/banana-bread-blondies/"
+  comments:
+  - "very unique but delicious! i use 1/2c white sugar, 1/2c brown sugar. i brown the butter for both the blondie and the icing. no extra salt since it's in the butter. and 1t cinnamon. for the frosting, only 1/2 powdered sugar, and 1/4c brown sugar. also no foil in the baking dish."
+- count: 1
   index: 74
+  nickname: ""
+  name: "bon appetit's best chocolate chip cookies"
+  tags:
+  - "dessert"
+  - "cookies"
+  last_suggested_date: '2016-01-01'
+  recipe_urls:
+  - "https://www.bonappetit.com/recipe/bas-best-chocolate-chip-cookies/"
+  comments:
+  - "pretty good flavor, and even better the next day"
+- count: 1
+  index: 73
   nickname: ""
   name: "flourless chocolate cake"
   tags:
@@ -2089,18 +2135,18 @@
   comments:
   - "this turns out amazing. the oiled pan and parchment paper was key for it not sticking. for icing, I melt 3T butter, 3T baking chocolate, and then pour it over (drizzling) straight from the pot onto the cake (maybe an hour after it came out of the oven)."
 - count: 1
-  index: 73
+  index: 72
   nickname: ""
   name: "pb oatmeal chocolate chip cookies"
   tags:
   - "dessert"
   - "cookies"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-05-16'
   recipe_urls:
   - "https://sallysbakingaddiction.com/peanut-butter-oatmeal-chocolate-chip-cookies/"
   comments: []
 - count: 1
-  index: 72
+  index: 71
   nickname: ""
   name: "chocolate cake with pb icing"
   tags:
@@ -2112,7 +2158,7 @@
   comments:
   - "icing was 2 sticks of butter, 1c peanut butter, and about 1c of powdered sugar"
 - count: 4
-  index: 71
+  index: 70
   nickname: ""
   name: "blueberry muffins"
   tags:
@@ -2123,7 +2169,7 @@
   comments:
   - "Jess says: rotate after 15 minutes for another 5 mins. 75% were cooked through, the the remaining 25% needed another 2-5 minutes."
 - count: 2
-  index: 70
+  index: 69
   nickname: ""
   name: "sourdough pancakes"
   tags:
@@ -2134,7 +2180,7 @@
   comments:
   - "Turns out I accidentally forgot to halve the flour last night, but then made what ended up being an even worse mistake by trying to compensate for the extra flour by keeping it in our room overnight, where it is very hot. That just made the sourdough angry and alcoholic tasting. They were fine, but not as good as last time. But a half-recipe is basically the right amount, by the way."
 - count: 1
-  index: 69
+  index: 68
   nickname: ""
   name: "two-tier chocolate cake"
   tags:
@@ -2145,19 +2191,19 @@
   comments:
   - "Jess makes it all herself"
 - count: 1
-  index: 68
+  index: 67
   nickname: ""
   name: "ice cream cake"
   tags:
   - "dessert"
   - "cake"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-05-16'
   recipe_urls:
   - "https://www.allrecipes.com/recipe/76004/easy-ice-cream-cake/"
   comments:
   - "12 ice cream sandwiches, whipped cream (made from a pint of cream), and homemade chocolate fudge (1/2 cocoa, 1/2c water, 1/2c sugar)"
 - count: 4
-  index: 67
+  index: 66
   nickname: ""
   name: "dutch apple pie"
   tags:
@@ -2171,7 +2217,7 @@
   - "5 1/2 cups was five apples exactly"
   - "with apples from the farm last weekend"
 - count: 1
-  index: 66
+  index: 65
   nickname: ""
   name: "oat balls"
   tags:
@@ -2181,20 +2227,20 @@
   comments:
   - "2T brown sugar, 2T honey, 2T coconut oil, 2T chocolate syrup, 6T? peanut butter, <2c? rolled oats. mix, make balls, put in fridge."
 - count: 2
-  index: 65
+  index: 64
   nickname: ""
   name: "kladdkaka swedish chocolate cake"
   tags:
   - "dessert"
   - "cake"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-05-09'
   recipe_urls:
   - "https://scrummylane.com/6-ingredient-gooey-swedish-chocolate-cake-kladdkaka/"
   comments:
   - "delicious. I only do 1.25c sugar, and slightly less than 1/2c cocoa. also it ends up taking about 30 minutes to bake--you want the top to definitely be cooked through, but only just so, so that the center is still gooey underneath"
   - "looked done but was actually raw inside--so poke it with a toothpick! you don't want it gooey EVERYWHERE..."
 - count: 1
-  index: 64
+  index: 63
   nickname: ""
   name: "mexican cheesecake"
   tags:
@@ -2204,7 +2250,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 63
+  index: 62
   nickname: ""
   name: "mexican wedding cookies"
   tags:
@@ -2214,7 +2260,7 @@
   recipe_urls: []
   comments: []
 - count: 2
-  index: 62
+  index: 61
   nickname: ""
   name: "apple crisp"
   tags:
@@ -2225,7 +2271,7 @@
   comments:
   - "we double it; recipe from Caitlin"
 - count: 4
-  index: 61
+  index: 60
   nickname: ""
   name: "blueberry tart"
   tags:
@@ -2237,7 +2283,7 @@
   - "added 1t corn starch the blueberry/sugar mix, and two good squirts of lemon juice (2t?). cooked at 375F for 15 minutes, then 400F for 10 minutes."
   - "made in 9x9 pan"
 - count: 1
-  index: 60
+  index: 59
   nickname: ""
   name: "popcorn"
   tags:
@@ -2247,7 +2293,7 @@
   comments:
   - "we use 1/3c kernels, and 1/4c veggie oil with some popcorn salt mixed in, microwave on 4mins until pops are 5s away. add melted butter--it turned out amazing"
 - count: 1
-  index: 59
+  index: 58
   nickname: ""
   name: "peanut butter chocolate chip cookies"
   tags:
@@ -2257,7 +2303,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 58
+  index: 57
   nickname: ""
   name: "rhubarb pie"
   tags:
@@ -2267,17 +2313,6 @@
   recipe_urls: []
   comments:
   - "cooked for like 75 minutes total--be patient! wait for the bubblies. rotated it once, when we took the foil off. also, it's a bit too sweet--Jess says she added the upper limit of sugar. So don't do that."
-- count: 1
-  index: 57
-  nickname: ""
-  name: "cookies-have-no-eggs"
-  tags:
-  - "dessert"
-  - "cookies"
-  last_suggested_date: '2016-01-01'
-  recipe_urls: []
-  comments:
-  - "we are short on coconut oil so we add in maybe 2T butter to finish it off; also we add 2T cocoa in place of some flour...the result is incredible"
 - count: 1
   index: 56
   nickname: ""
@@ -2345,7 +2380,7 @@
   comments:
   - "we make a half-recipe; I use about 1/4c cocoa"
   - "Jess makes a two-layer one"
-- count: 1
+- count: 2
   index: 50
   nickname: ""
   name: "chocolate chip cookies without eggs"
@@ -2357,6 +2392,7 @@
   - "https://snapguide.com/guides/make-cookies-when-you-have-no-eggs/"
   comments:
   - "super delicious, nice and crispy but also fluffy"
+  - "we are short on coconut oil so we add in maybe 2T butter to finish it off; also we add 2T cocoa in place of some flour...the result is incredible"
 - count: 2
   index: 49
   nickname: ""
@@ -2406,7 +2442,7 @@
   name: "granola bars"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-05-16'
   recipe_urls:
   - "http://practical-stewardship.com/2014/09/26/4-ingredient-bake-chocolate-peanut-butter-granola-bars/"
   comments:
@@ -2428,7 +2464,7 @@
   name: "dark chocolate sauce"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-05-02'
   recipe_urls: []
   comments:
   - "1:1:1 cocoa:sugar:water, plus salt; add in saucepan after mixing cocoa and sugar"
@@ -2496,18 +2532,20 @@
   recipe_urls:
   - "http://www.kingarthurflour.com/recipes/blueberry-buckle-coffeecake-recipe"
   comments: []
-- count: 2
+- count: 3
   index: 36
   nickname: ""
   name: "chocolate mousse"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-05-02'
   recipe_urls:
   - "http://www.foodnetwork.com/recipes/bobby-flay/dark-chocolate-mousse-recipe.html"
+  - "https://www.foodnetwork.com/recipes/bobby-flay/dark-chocolate-mousse-recipe-1917102"
   comments:
   - "Bobby Flay recipe"
   - "if you microwave the chocolate, make sure it's still warm before you add in the other stuff..."
+  - "made a half-recipe which made 5 servings. and again, make sure chocolate is still warm, and that egg whites are room temp. also, needs way more chocolate. probably should try a different recipe next time."
 - count: 2
   index: 35
   nickname: ""
@@ -2535,7 +2573,7 @@
   tags:
   - "dessert"
   - "cake"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-05-09'
   recipe_urls:
   - "http://www.gimmesomeoven.com/sour-cream-coffee-cake/"
   - "http://thepioneerwoman.com/cooking/the-best-coffee-cake-ever/"
@@ -2558,7 +2596,7 @@
   name: "cardboard box muffins"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-05-16'
   recipe_urls: []
   comments: []
 - count: 1
@@ -2578,7 +2616,7 @@
   name: "granola"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-05-02'
   recipe_urls: []
   comments: []
 - count: 1
@@ -2681,7 +2719,7 @@
   tags:
   - "dessert"
   - "pie"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-05-02'
   recipe_urls: []
   comments:
   - "whipped cream + plain yogurt + 1.5 small mashed bananas + chocolate chips on base of baked graham cracker pie crust"
@@ -2732,7 +2770,7 @@
   name: "peanut butter chocolate ice cream"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-05-02'
   recipe_urls: []
   comments:
   - "in Jess's Vitamix"
@@ -2783,7 +2821,7 @@
   tags:
   - "dessert"
   - "cake"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-05-16'
   recipe_urls: []
   comments:
   - "HEB recipe--very simple, and just okay; add tons of chocolate chips at the bottom"
@@ -2817,7 +2855,7 @@
   tags:
   - "dessert"
   - "cookies"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-05-09'
   recipe_urls:
   - "http://www.foodnetwork.com/recipes/alton-brown/sugar-cookies-recipe.html"
   comments:
@@ -2914,6 +2952,17 @@
   - "so fudgy, and very delicious"
   - "don't let Jess use convection...also we substitute in some cocoa for 2oz baking chocolate (and subtract off 2T butter), and it's delicious"
   - "recipe on the unsweetened baking chocolate box"
+- count: 1
+  index: 6
+  nickname: ""
+  name: "biscuits"
+  tags:
+  - "bread"
+  last_suggested_date: '2016-01-01'
+  recipe_urls:
+  - "https://sallysbakingaddiction.com/flaky-buttermilk-biscuits/"
+  comments:
+  - "I put the flour (measured) and butter (cubed) in the freezer 30 mins before hand. I pulsed them in the food processor (a half batch), which worked _too_ well in that the butter had disappeared after only 30 seconds or two."
 - count: 1
   index: 5
   nickname: ""
