@@ -369,7 +369,7 @@
   - "https://natashaskitchen.com/slow-cooker-bolognese-sauce-recipe/"
   comments:
   - "Jess says she did 1/2c milk, 1/2c white wine, 1.5 cans of 28oz crushed tomatoes, 2T tomato paste, and sage instead of parsley"
-- count: 4
+- count: 5
   index: 150
   nickname: ""
   name: "turkey chili"
@@ -725,7 +725,7 @@
   - "sooooo good: with mushrooms, spinach, and bacon! doubled the recipe. don't be afraid to use tons of mushrooms. Jess says 6-7 strips of bacon was good."
   - "doubled recipe, but needed tons more mushrooms, and probably 12 slices of bacon would be better. cook bacon first, then shrooms in the bacon grease, and then use that same pan (the big red cast iron) for the alfredo."
   - "with chicken, which Jess pan-fries according to that last Blue Apron meal, and it's delicious."
-  - "with lots of mushrooms and chicken. we double the sauce and it makes A LOT--not sure what I was talking about in the previous note."
+  - "with lots of mushrooms and chicken. we double the sauce and it makes A LOT, it's perfect."
 - count: 1
   index: 120
   nickname: ""
@@ -2100,6 +2100,18 @@
   recipe_urls: []
   comments: []
 - count: 1
+  index: 76
+  nickname: ""
+  name: "yellow cake with chocolate icing"
+  tags:
+  - "dessert"
+  - "cake"
+  last_suggested_date: '2016-01-01'
+  recipe_urls:
+  - "https://www.allrecipes.com/recipe/24972/davids-yellow-cake/"
+  comments:
+  - "for the boys' birthday party tomorrow"
+- count: 1
   index: 75
   nickname: ""
   name: "banana blondies"
@@ -2186,7 +2198,7 @@
   tags:
   - "dessert"
   - "cake"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-05-23'
   recipe_urls: []
   comments:
   - "Jess makes it all herself"
@@ -2222,7 +2234,7 @@
   name: "oat balls"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-05-23'
   recipe_urls: []
   comments:
   - "2T brown sugar, 2T honey, 2T coconut oil, 2T chocolate syrup, 6T? peanut butter, <2c? rolled oats. mix, make balls, put in fridge."
@@ -2454,7 +2466,7 @@
   name: "chevre and honey nests"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-05-23'
   recipe_urls: []
   comments:
   - "using pie crust dough leftover from pie; make little nests (about the size of the bottom of a coke can), wipe with butter and with egg wash, then add some chevre, covered in honey; bake at 400F for about 15 mins or so"
@@ -2686,7 +2698,7 @@
   name: "oreo milkshake"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-05-23'
   recipe_urls: []
   comments:
   - "oreos, milk, blue bell vanilla ice cream"
@@ -2916,7 +2928,7 @@
   tags:
   - "dessert"
   - "cookies"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-05-23'
   recipe_urls:
   - "http://www.wholegraingourmet.com/recipes/43-cookies/58-healthy-oatmeal-cookies.html"
   - "https://www.browneyedbaker.com/oatmeal-chocolate-chip-cookies-recipe"
