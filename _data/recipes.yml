@@ -88,7 +88,7 @@
   name: "fried egg"
   tags:
   - "breakfast"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-05-30'
   recipe_urls: []
   comments:
   - "from america's test kitchen: some oil heat on low, then when pan uniformly hot: raise heat to med/high, add butter, egg immediately after (so butter doesn't burn), cook with pan covered for 1 minute, then remove from heat, and still covered: wait 1 minute"
@@ -153,7 +153,7 @@
   name: "waffles"
   tags:
   - "breakfast"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-05-30'
   recipe_urls: []
   comments: []
 - count: 3
@@ -186,7 +186,7 @@
   name: "asparagus carbonara"
   tags:
   - "dinner"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-05-30'
   recipe_urls:
   - "https://cooking.nytimes.com/recipes/1017998-springtime-spaghetti-carbonara"
   comments:
@@ -469,7 +469,7 @@
   - "delicious! used sriracha instead of tonkatsu sauce"
   - "doubled recipe. sweet chili sauce = spicy chili paste + sugar + soy sauce. use big cast iron so you can fry it all at once"
   - "1.25 lbs chicken is about perfect for cooking in the big cast iron, but it's not that much food. just about 4 servings total."
-- count: 2
+- count: 3
   index: 142
   nickname: ""
   name: "red curry"
@@ -481,6 +481,7 @@
   - "https://www.seriouseats.com/recipes/2013/05/red-curry-with-shrimp-zucchini-and-carrot.html"
   comments:
   - "make with chicken thighs which we bake with some chili paste rubbed on, at 425F for about 25 minutes. also, only one small zucchini, and 1c of carrots. really delicious!"
+  - "we doubled it."
 - count: 1
   index: 141
   nickname: ""
@@ -2288,7 +2289,7 @@
   name: "blueberry tart"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-05-30'
   recipe_urls: []
   comments:
   - "Laura Olin's mother's recipe (via email newsletter): \"Torte: 5 oz butter, 6 Tbsp sugar, 1 egg, 1 cup flour, 1 tsp baking powder; Topping: 2 cups blueberries (can use other berries too), 6 Tbsp sugar; Preheat oven to 400 F. Beat butter and sugar, add egg, add baking powder and flour; Grease pie pan and spread mixture onto the bottom, spreading all the way to the sides. Spread blueberries on top of the mixture and sprinkle with sugar. Bake at 400F for about 30 minutes, checking now and then so that the sides don't burn.\""
@@ -2519,7 +2520,7 @@
   name: "microwave brownie"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-05-30'
   recipe_urls:
   - "http://www.simplyrecipes.com/recipes/brownie_in_a_mug/"
   comments: []
