@@ -181,6 +181,29 @@
   - "Emre joins us, bringing blueberries"
   - "half batch is plenty"
 - count: 1
+  index: 169
+  nickname: ""
+  name: "grilled chicken breast"
+  tags:
+  - "dinner"
+  - "chicken"
+  last_suggested_date: '2016-01-01'
+  recipe_urls: []
+  comments:
+  - "brined in 1/4c salt + 4c water for 30 minutes, then dried off and seasoned in pepper and paprika (no salt). then grilled (high heat) for about 6 minutes each side. a little overcooked (want to go to 160F) so maybe watch it next time."
+- count: 1
+  index: 168
+  nickname: ""
+  name: "chicken stock"
+  tags:
+  - "dinner"
+  - "chicken"
+  last_suggested_date: '2016-01-01'
+  recipe_urls:
+  - "https://www.bonappetit.com/recipe/instant-pot-chicken-stock"
+  comments:
+  - "made 13c of broth. bonus: also made enough chicken (from the wings) for a few servings of chicken salad"
+- count: 1
   index: 167
   nickname: ""
   name: "burgers on the grill"
@@ -197,7 +220,7 @@
   name: "top sirloin steak"
   tags:
   - "dinner"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-06-13'
   recipe_urls:
   - "https://www.wholesomeyum.com/how-to-cook-top-sirloin-steak-in-the-oven/"
   comments:
@@ -437,7 +460,7 @@
   name: "salsa verde"
   tags:
   - "dinner"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-06-13'
   recipe_urls:
   - "https://www.epicurious.com/recipes/food/views/roasted-tomatillo-salsa-102586"
   comments:
@@ -537,7 +560,7 @@
   - "I would triple the sauce for two servings. Don't be afraid to let the onions cook forever because they are delicious...also, do try adding the chicken to the broth. And make sure you use panko along with a flour-egg dip."
   - "we used two onions, and 6x the broth, just skipping the sake because we had none. we made the chicken cutlets using thin breasts and flour, egg, panko. this recipe takes a bit if you make the cutlets and the broth, mostly just because of the cutlets. we cooked the onions for quite a while, maybe 15 minutes. for the dashi, we used one packet with 3 cups of water, and boilet it along with the sugar and other liquids like mirin. it turned out so delicious..."
   - "to confirm the last note, we did 3x the broth (not 6x). for chicken, we did a dry salt brine (1/4c salt + 1t baking poweder on 1.5 lbs thin breasts) for 2 hours, and rinsed off salt afterward, and still _plenty_ salty"
-- count: 1
+- count: 2
   index: 136
   nickname: ""
   name: "vegetarian lasagna"
@@ -547,6 +570,7 @@
   recipe_urls: []
   comments:
   - "the top layer curled up a lot when it baked--maybe top with more bechamel? also we ended up not dipping the partially cooked lasagna sheets in cold water because it made them curl up. we just use paramesan as the only cheese. also a 15oz can of tomatoes works fine but a little more would be nice"
+  - "we tried using the smaller rectangle pyrex and that was a mistake. also we only had 8oz mushrooms so we added chicken as well. and about a half a can of 28oz whole tomatoes. still delicious!"
 - count: 1
   index: 135
   nickname: ""
@@ -2135,7 +2159,7 @@
   name: "banana blondies"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-06-13'
   recipe_urls:
   - "https://omgchocolatedesserts.com/banana-bread-blondies/"
   comments:
@@ -2276,7 +2300,7 @@
   tags:
   - "dessert"
   - "cake"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-06-13'
   recipe_urls: []
   comments: []
 - count: 1
@@ -3009,7 +3033,7 @@
   name: "naan"
   tags:
   - "bread"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-06-13'
   recipe_urls: []
   comments:
   - "Jess does it, with some very old yeast. And they turn out amazing! I end up broiling them (pan frying works too, but oven is both easier AND better), brushed with butter. ~2 mins each side, buttering both sides but the bottom only once it's been flipped. (a little goes a long way.)"
