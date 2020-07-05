@@ -15,7 +15,7 @@
   name: "strawberry shrub"
   tags:
   - "drink"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-06-20'
   recipe_urls:
   - "https://www.abeautifulplate.com/strawberry-shrub-cocktail/"
   comments:
@@ -140,7 +140,7 @@
   name: "blueberry muffins"
   tags:
   - "breakfast"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-06-27'
   recipe_urls:
   - "http://smittenkitchen.com/blog/2010/08/perfect-blueberry-muffins/"
   comments: []
@@ -187,7 +187,7 @@
   tags:
   - "dinner"
   - "chicken"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-06-20'
   recipe_urls: []
   comments:
   - "brined in 1/4c salt + 4c water for 30 minutes, then dried off and seasoned in pepper and paprika (no salt). then grilled (high heat) for about 6 minutes each side. a little overcooked (want to go to 160F) so maybe watch it next time."
@@ -203,7 +203,7 @@
   - "https://www.bonappetit.com/recipe/instant-pot-chicken-stock"
   comments:
   - "made 13c of broth. bonus: also made enough chicken (from the wings) for a few servings of chicken salad"
-- count: 1
+- count: 2
   index: 167
   nickname: ""
   name: "burgers on the grill"
@@ -214,6 +214,7 @@
   recipe_urls: []
   comments:
   - "about 5 minutes to warm the grill up (on high), then grill the burgers about 6 minutes on each side, with the lid partially closed (held up by a rock), and then adding cheese after that with the lid open. turned out perfectly!"
+  - "they lit on fire. I think this was both because the flames were too high for too long, and I had too many burgers (9) and all 80/20. so probably get less fatty ones and don't cook so many at the same time."
 - count: 1
   index: 166
   nickname: ""
@@ -961,7 +962,7 @@
   tags:
   - "dinner"
   - "soup"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-06-20'
   recipe_urls: []
   comments:
   - "we make it with rice, and it's alright for a change, and it made a ton, but I'm pretty sure I like it better without the rice"
@@ -1961,7 +1962,7 @@
   tags:
   - "dinner"
   - "cookies"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-06-27'
   recipe_urls: []
   comments: []
 - count: 2
@@ -1975,7 +1976,7 @@
   recipe_urls:
   - "http://www.veggienumnum.com/2010/11/masoor-dal/"
   comments: []
-- count: 12
+- count: 13
   index: 14
   nickname: "CkP4"
   name: "baked penne pasta with roasted vegetables"
@@ -1989,6 +1990,7 @@
   - "using two zucchini, one green bell pepper, lots of brown mushrooms, and one small onion as the only vegetables--and it's the perfect amount"
   - "2 zucchini, 1 green bell pepper, <1 cup of peas, 2 cups of cheese (mozarrella and parma) for in the pasta, Hazan's pasta sauce (1 28 oz can), cook pasta ~ almost done, like 8 minutes, bake the pasta at 450 for like...10 minutes and then reduce heat to 400 or 425 for last 15 mins"
   - "one zucchini and it's perfect. also do globs of mozzarella on top so it gets all gooey and pretty. Aiiii."
+  - "maybe use ricotta instead of mozzarella because it's so annoying to clean up. also, DO NOT cover with foil. DO NOT! and if using Hazan sauce, use 3.5-4c (as in nearly a double batch)"
 - count: 7
   index: 13
   nickname: "CkS2"
@@ -2176,7 +2178,7 @@
   - "https://www.bonappetit.com/recipe/bas-best-chocolate-chip-cookies/"
   comments:
   - "pretty good flavor, and even better the next day"
-- count: 1
+- count: 2
   index: 73
   nickname: ""
   name: "flourless chocolate cake"
@@ -2188,6 +2190,7 @@
   - "https://www.kingarthurflour.com/recipes/flourless-chocolate-cake-recipe"
   comments:
   - "this turns out amazing. the oiled pan and parchment paper was key for it not sticking. for icing, I melt 3T butter, 3T baking chocolate, and then pour it over (drizzling) straight from the pot onto the cake (maybe an hour after it came out of the oven)."
+  - "for the icing, I think by 3T baking chocolate I must have meant 3 oz? Today I did 2 oz and it was a little short in terms of icing, but still fine."
 - count: 1
   index: 72
   nickname: ""
@@ -2217,7 +2220,7 @@
   name: "blueberry muffins"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-06-27'
   recipe_urls:
   - "https://www.inspiredtaste.net/18982/our-favorite-easy-blueberry-muffin-recipe"
   comments:
@@ -2406,7 +2409,7 @@
   tags:
   - "dessert"
   - "pie"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-07-04'
   recipe_urls: []
   comments:
   - "from Bon Appetit"
@@ -2717,7 +2720,7 @@
   name: "cashew ice cream"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-06-20'
   recipe_urls: []
   comments:
   - "cashews, honey, milk, ice....DAMN it tastes good girl damn it tastes good"
@@ -2762,7 +2765,7 @@
   tags:
   - "dessert"
   - "cookies"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-07-04'
   recipe_urls: []
   comments:
   - "marshmallow is just egg whites and sugar, but the cooking part is a bitch and makes us miserable...cookies are just one egg, 1c peanut butter, 1c sugar, and they're damned delicious and simple"
@@ -2854,7 +2857,7 @@
   tags:
   - "dessert"
   - "pie"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-07-04'
   recipe_urls: []
   comments: []
 - count: 2
@@ -2885,7 +2888,7 @@
   name: "mug brownie"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-06-27'
   recipe_urls:
   - "http://www.dessertfortwo.com/2014/05/microwave-chocolate-mug-cakes/"
   comments:
@@ -2984,7 +2987,7 @@
   tags:
   - "dessert"
   - "cookies"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-06-27'
   recipe_urls:
   - "http://www.browneyedbaker.com/2010/02/24/peanut-butter-oatmeal-chocolate-chip-cookies/"
   - "http://www.tasteofhome.com/recipes/easy-peanut-butter-oatmeal-cookies"
@@ -3012,7 +3015,7 @@
   name: "biscuits"
   tags:
   - "bread"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-07-04'
   recipe_urls:
   - "https://sallysbakingaddiction.com/flaky-buttermilk-biscuits/"
   comments:
@@ -3043,7 +3046,7 @@
   name: "storing sourdough dehydrated as chips"
   tags:
   - "bread"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-07-04'
   recipe_urls:
   - "https://blog.kingarthurflour.com/2015/05/01/putting-sourdough-starter-hold/"
   comments: []
@@ -3065,7 +3068,7 @@
   name: "sourdough bread"
   tags:
   - "bread"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-06-27'
   recipe_urls:
   - "http://www.breadtopia.com/sourdough-no-knead-method/"
   comments:
