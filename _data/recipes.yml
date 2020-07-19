@@ -1183,7 +1183,8 @@
   - "salad"
   - "chicken"
   last_suggested_date: '2019-12-07'
-  recipe_urls: []
+  recipe_urls:
+  - "https://cupofjo.com/2013/07/the-best-caesar-salad-with-a-new-dressing/"
   comments:
   - "chicken thighs and croutons...so good"
   - "for thighs, use about 5 (2 lbs ?)"
@@ -2022,7 +2023,7 @@
   last_suggested_date: '2020-01-04'
   recipe_urls: []
   comments: []
-- count: 4
+- count: 5
   index: 10
   nickname: "CkR1"
   name: "chickpea curry with rice and yogurt"
@@ -2030,10 +2031,12 @@
   - "dinner"
   - "curry"
   last_suggested_date: '2020-02-22'
-  recipe_urls: []
+  recipe_urls:
+  - "https://gist.github.com/mobeets/a8b72bf10db9299a03c6b59856dc6f5a"
   comments:
   - "Jess does it all"
   - "the longer you cook the better, now I believe it"
+  - "we double it (with only three onions) and it is SO much. two large cans of tomatoes, one was diced and the other was san marzano. delicious."
 - count: 3
   index: 9
   nickname: "CkP1"
@@ -2138,7 +2141,7 @@
   name: "blueberry buckle"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-07-18'
   recipe_urls:
   - "https://www.spendwithpennies.com/blueberry-buckle/"
   comments:
@@ -2173,7 +2176,7 @@
   tags:
   - "dessert"
   - "cookies"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-07-18'
   recipe_urls:
   - "https://www.bonappetit.com/recipe/bas-best-chocolate-chip-cookies/"
   comments:
@@ -2345,7 +2348,7 @@
   name: "popcorn"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-07-11'
   recipe_urls: []
   comments:
   - "we use 1/3c kernels, and 1/4c veggie oil with some popcorn salt mixed in, microwave on 4mins until pops are 5s away. add melted butter--it turned out amazing"
@@ -2387,7 +2390,7 @@
   tags:
   - "dessert"
   - "cake"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-07-11'
   recipe_urls: []
   comments:
   - "with blueberry filling and chocolate buttercream frosting, with a bourbon-water drip in the 2 layers. Julia Child's genoise cake recipe. make sure you use the right pot and bowl! the small pot but not the smallest one--the silver one that we rarely use if that helps, and then the biggest circular glass tupperware"
@@ -2420,7 +2423,7 @@
   tags:
   - "dessert"
   - "cake"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-07-11'
   recipe_urls: []
   comments:
   - "Bon Appetit recipe"
@@ -2457,7 +2460,7 @@
   tags:
   - "dessert"
   - "cookies"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-07-18'
   recipe_urls: []
   comments:
   - "they're basically like sugar cookies if you short on the bourbon, but they're still very good. we make a buttercream frosting for them"
@@ -2468,7 +2471,7 @@
   name: "hot chocolate"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-07-11'
   recipe_urls: []
   comments:
   - "per cup: 2T cocoa, 1T brown sugar, 1c milk; add only 2T or so milk at first to the rest, heating in pan; then once it dissolves heat the rest of the milk; once nearly boiling, put it in a blender to froth"
@@ -2478,7 +2481,7 @@
   name: "poptarts"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-07-18'
   recipe_urls: []
   comments:
   - "For all our attempts at doing this over the years, the only one that EVER turns out well is chevre with honey. Seriously. The others are never as good as they should be."
@@ -2489,7 +2492,7 @@
   tags:
   - "dessert"
   - "pie"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-07-18'
   recipe_urls: []
   comments:
   - "1/4c butter, 1/2c white sugar, 1/4c brown sugar, 1/3c flour, 2T cornstarch, 1/4t cinnamon, 3 cans peaches (no syrup); 400F for 50 minutes; a mix of Betty Crocker and a simple allrecipes one"
@@ -2847,7 +2850,7 @@
   name: "mulled spiced apple cider, pumpkin butter"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-07-11'
   recipe_urls: []
   comments: []
 - count: 1
@@ -3062,7 +3065,7 @@
   - "https://cooking.nytimes.com/recipes/1018025-sourdough-pancake-or-waffle-batter"
   comments:
   - "absolutely delicious--almost crepe-like. Emre said they were seriously the best pancakes he'd ever had"
-- count: 51
+- count: 52
   index: 1
   nickname: ""
   name: "sourdough bread"
