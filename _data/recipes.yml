@@ -181,6 +181,28 @@
   - "Emre joins us, bringing blueberries"
   - "half batch is plenty"
 - count: 1
+  index: 171
+  nickname: ""
+  name: "katsudon"
+  tags:
+  - "dinner"
+  last_suggested_date: '2016-01-01'
+  recipe_urls:
+  - "http://adamliaw.com/recipe/how-to-make-katsudon/"
+  comments:
+  - "this recipe was much better! the sprinkling of togarashi at the end was perfect. jess got _super_ thin pork chops which seemed bad at first but honestly it wasn't really that bad. we used the 'cheat dashi' but I do want to buy the real deal for next time."
+- count: 1
+  index: 170
+  nickname: ""
+  name: "cast iron pizza"
+  tags:
+  - "dinner"
+  last_suggested_date: '2016-01-01'
+  recipe_urls:
+  - "https://www.bonappetit.com/recipe/cast-iron-pizza-with-fennel-and-sausage"
+  comments:
+  - "recipe via Elaine, and it's delicious. used frozen pizza dough, thawed for 2 hours (3 hours would have been safer). a scoop of hazan sauce from the freezer. followed recipe except no fennel bulb. so tasty though! also made garlic knots, which baked about 2 minutes longer than the pizza. perfect template for a pizza though--it was great."
+- count: 2
   index: 169
   nickname: ""
   name: "grilled chicken breast"
@@ -191,6 +213,7 @@
   recipe_urls: []
   comments:
   - "brined in 1/4c salt + 4c water for 30 minutes, then dried off and seasoned in pepper and paprika (no salt). then grilled (high heat) for about 6 minutes each side. a little overcooked (want to go to 160F) so maybe watch it next time."
+  - "breasts were thicker so they cooked a little longer, but still turned out good--cooked them right to 160F. also be careful, brining for 45 minutes they taste great still, but more might be too much."
 - count: 1
   index: 168
   nickname: ""
@@ -559,8 +582,8 @@
   - "http://www.seriouseats.com/recipes/2017/04/katsudon-japanese-leftover-cutlet-rice-egg-bowl-recipe.html"
   comments:
   - "I would triple the sauce for two servings. Don't be afraid to let the onions cook forever because they are delicious...also, do try adding the chicken to the broth. And make sure you use panko along with a flour-egg dip."
-  - "we used two onions, and 6x the broth, just skipping the sake because we had none. we made the chicken cutlets using thin breasts and flour, egg, panko. this recipe takes a bit if you make the cutlets and the broth, mostly just because of the cutlets. we cooked the onions for quite a while, maybe 15 minutes. for the dashi, we used one packet with 3 cups of water, and boilet it along with the sugar and other liquids like mirin. it turned out so delicious..."
-  - "to confirm the last note, we did 3x the broth (not 6x). for chicken, we did a dry salt brine (1/4c salt + 1t baking poweder on 1.5 lbs thin breasts) for 2 hours, and rinsed off salt afterward, and still _plenty_ salty"
+  - "we used two onions, and 6x the broth, just skipping the sake because we had none. we made the chicken cutlets using thin breasts and flour, egg, panko. this recipe takes a bit if you make the cutlets and the broth, mostly just because of the cutlets. we cooked the onions for quite a while, maybe 15 minutes. for the dashi, we used one packet with 3 cups of water, and boiled it along with the sugar and other liquids like mirin. it turned out so delicious..."
+  - "to confirm the last note, we did 3x the broth (not 6x). for chicken, we did a dry salt brine (1/4c salt + 1t baking powder on 1.5 lbs thin breasts) for 2 hours, and rinsed off salt afterward, and still _plenty_ salty"
 - count: 2
   index: 136
   nickname: ""
@@ -2316,7 +2339,7 @@
   tags:
   - "dessert"
   - "cookies"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-07-25'
   recipe_urls: []
   comments: []
 - count: 2
@@ -2401,7 +2424,7 @@
   tags:
   - "dessert"
   - "cake"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-07-25'
   recipe_urls: []
   comments:
   - "the one on the same page as the queen of sheba"
@@ -2666,7 +2689,7 @@
   tags:
   - "dessert"
   - "cake"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-07-25'
   recipe_urls: []
   comments:
   - "oh god so good"
@@ -2945,7 +2968,7 @@
   tags:
   - "dessert"
   - "cookies"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-07-25'
   recipe_urls:
   - "https://www.verybestbaking.com/recipes/18476/original-nestle-toll-house-chocolate-chip-cookies/"
   - "https://snapguide.com/guides/make-cookies-when-you-have-no-eggs/"
@@ -2964,7 +2987,7 @@
   tags:
   - "dessert"
   - "cookies"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-07-25'
   recipe_urls:
   - "http://www.foodnetwork.com/recipes/claire-robinson/flourless-peanut-butter-cookies-recipe/index.html"
   - "http://www.marthastewart.com/338669/peanut-butter-cookies"
@@ -2996,7 +3019,7 @@
   - "http://www.tasteofhome.com/recipes/easy-peanut-butter-oatmeal-cookies"
   comments:
   - "delicious! just add a bit more baking soda, replace quick oats for rolled oats and use just under 1 cup; add a spoonful of honey"
-- count: 12
+- count: 13
   index: 1
   nickname: "CkD1"
   name: "brownies"
