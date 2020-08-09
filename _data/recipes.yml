@@ -67,7 +67,7 @@
   name: "sourdough waffles"
   tags:
   - "breakfast"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-08-01'
   recipe_urls: []
   comments:
   - "same recipe as for the pancakes but kinda weird...needed some fruit I think"
@@ -109,7 +109,7 @@
   name: "cinnamon rolls"
   tags:
   - "breakfast"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-08-01'
   recipe_urls: []
   comments:
   - "Pioneer Woman recipe, cut in 4 makes about 20 rolls, enough for two pie pans; also, no need to use as much butter and sugar as she does, obviously. mmm delicious though, especially straight out of the fridge cold; icing could be better, in my opinion, but Jess loved it all. also we added pecans"
@@ -181,17 +181,27 @@
   - "Emre joins us, bringing blueberries"
   - "half batch is plenty"
 - count: 1
+  index: 172
+  nickname: ""
+  name: "porterhouse steak"
+  tags:
+  - "dinner"
+  last_suggested_date: '2016-01-01'
+  recipe_urls: []
+  comments:
+  - "a single 1.8 lb steak, seasoned REAL good. Preheat oven to 450F with cast iron in it. Then I seared it on the grill for about 2 minutes each side, and then put it in the cast iron in the oven with the thermometer probe in it. Baked (for around 18 minutes) until 130F, then let rest for 5 minutes. Served with brussels sprouts and mashed sweet potatoes. Best steak we've ever made by far."
+- count: 1
   index: 171
   nickname: ""
   name: "katsudon"
   tags:
   - "dinner"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-08-08'
   recipe_urls:
   - "http://adamliaw.com/recipe/how-to-make-katsudon/"
   comments:
   - "this recipe was much better! the sprinkling of togarashi at the end was perfect. jess got _super_ thin pork chops which seemed bad at first but honestly it wasn't really that bad. we used the 'cheat dashi' but I do want to buy the real deal for next time."
-- count: 1
+- count: 2
   index: 170
   nickname: ""
   name: "cast iron pizza"
@@ -221,7 +231,7 @@
   tags:
   - "dinner"
   - "chicken"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-08-01'
   recipe_urls:
   - "https://www.bonappetit.com/recipe/instant-pot-chicken-stock"
   comments:
@@ -2176,12 +2186,12 @@
   tags:
   - "dessert"
   - "cake"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-08-08'
   recipe_urls:
   - "https://www.allrecipes.com/recipe/24972/davids-yellow-cake/"
   comments:
   - "for the boys' birthday party tomorrow"
-- count: 1
+- count: 2
   index: 75
   nickname: ""
   name: "banana blondies"
@@ -2192,6 +2202,7 @@
   - "https://omgchocolatedesserts.com/banana-bread-blondies/"
   comments:
   - "very unique but delicious! i use 1/2c white sugar, 1/2c brown sugar. i brown the butter for both the blondie and the icing. no extra salt since it's in the butter. and 1t cinnamon. for the frosting, only 1/2 powdered sugar, and 1/4c brown sugar. also no foil in the baking dish."
+  - "a critical note was left out last time, which was to add chocolate chips."
 - count: 1
   index: 74
   nickname: ""
@@ -2570,7 +2581,7 @@
   name: "cinnamon rolls"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-08-01'
   recipe_urls:
   - "http://allrecipes.com/recipe/21461/ooey-gooey-cinnamon-buns/"
   comments:
@@ -2581,7 +2592,7 @@
   name: "peanut butter chocolate malt"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-08-08'
   recipe_urls: []
   comments: []
 - count: 1
@@ -2635,7 +2646,7 @@
   name: "peach cobbler"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-08-01'
   recipe_urls: []
   comments:
   - "holy shit i just had a religious experience eating this. a rhubarb pie experience. it is how peaches deserve to be eaten."
@@ -2825,14 +2836,14 @@
   name: "kettle popcorn"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-08-08'
   recipe_urls: []
   comments:
   - "put 3 corn kernels in the oil as it heats--when they're popped, it's ready! 1 part veggie oil, 2 parts popcorn kernels, 2 parts sugar...Pop that shit!"
   - "definitely follow the recipe from last time--don't skimp on that sugar! also, 1/3 cup corn kernels is plenty--don't let jess dissuade you"
   - "1/2 cup of kernels is too much! hard to share the sugar, but also it can easily overflow the pot!"
   - "Jess says when you think it's done, it's done--don't wait. And also don't stir at the end or else you mix in the burnt parts."
-- count: 6
+- count: 7
   index: 16
   nickname: ""
   name: "blueberry pie"
@@ -2847,6 +2858,7 @@
   - "4T corn starch, 2T lemon juice, lattice top, cook at 400F"
   - "actually Jess just makes it"
   - "with fresh blueberries!"
+  - "we cover pie with foil for first 30 minutes. it ends up cooking for over an hour."
 - count: 1
   index: 15
   nickname: ""
@@ -2955,13 +2967,13 @@
   tags:
   - "dessert"
   - "cookies"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-08-01'
   recipe_urls:
   - "http://www.ambitiouskitchen.com/2013/03/peanut-butter-oatmeal-chocolate-chip-cookies-flourless-no-butter/"
   - "https://www.verybestbaking.com/recipes/145692/oatmeal-peanut-butter-chocolate-chip-cookies/"
   comments:
   - "oven cooks slow or turns off, so second batch burnt"
-- count: 14
+- count: 15
   index: 5
   nickname: "CkD10"
   name: "chocolate chip cookies"
@@ -2980,6 +2992,7 @@
   - "hershey's recipe with the good dark chocolate chips in the red bag"
   - "the first autocookie!"
   - "the coconut ones again--Jess's favorite recipe currently"
+  - "just like the no eggs recipe, except I made it all brown sugar (no white sugar), and added 2 eggs, and pecans. Overall, the brown sugar didn't taste as sweet! Needed more sugar."
 - count: 3
   index: 4
   nickname: "CkD3"
@@ -3025,7 +3038,7 @@
   name: "brownies"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-08-08'
   recipe_urls:
   - "http://www.browneyedbaker.com/2010/03/09/chewy-brownies/"
   - "http://smittenkitchen.com/blog/2010/01/best-cocoa-brownies/"
