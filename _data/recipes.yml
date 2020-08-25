@@ -1,4 +1,15 @@
 - count: 1
+  index: 7
+  nickname: ""
+  name: "beer"
+  tags:
+  - "drink"
+  last_suggested_date: '2016-01-01'
+  recipe_urls: []
+  comments:
+  - date: "8/22/20"
+    comment: "maris otter, cascade hops, us-05 yeast"
+- count: 1
   index: 6
   nickname: ""
   name: "blueberry shrub"
@@ -8,7 +19,8 @@
   recipe_urls:
   - "https://www.fermentedfoodlab.com/apple-cider-vinegar-blueberry-and-ginger-shrub/"
   comments:
-  - "followed recipe but no ginger"
+  - date: "6/3/20"
+    comment: "followed recipe but no ginger"
 - count: 1
   index: 5
   nickname: ""
@@ -19,7 +31,8 @@
   recipe_urls:
   - "https://www.abeautifulplate.com/strawberry-shrub-cocktail/"
   comments:
-  - "1lb strawberries with 1.5-2c sugar, stored for 48 hours in two glass pyrexes in the fridge. Then I add about 1.75c apple cider vinegar. To make a glass, I add 2T shrub, and about 8oz club soda, and ice. Very tasty!"
+  - date: "4/22/19"
+    comment: "1lb strawberries with 1.5-2c sugar, stored for 48 hours in two glass pyrexes in the fridge. Then I add about 1.75c apple cider vinegar. To make a glass, I add 2T shrub, and about 8oz club soda, and ice. Very tasty!"
 - count: 2
   index: 4
   nickname: ""
@@ -29,18 +42,21 @@
   last_suggested_date: '2020-04-26'
   recipe_urls: []
   comments:
-  - "1:5 coffee:water ratio, 12 hours (grams), with nut milk bag"
-  - "1:7 this time"
+  - date: "7/6/14"
+    comment: "1:5 coffee:water ratio, 12 hours (grams), with nut milk bag"
+  - date: "7/7/14"
+    comment: "1:7 this time"
 - count: 1
   index: 3
   nickname: "CkDr1"
   name: "lemon rosemary shrub"
   tags:
   - "drink"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-08-22'
   recipe_urls: []
   comments:
-  - "2 cups diced peeled lemons, 1 twig rosemary, 2 cups sugar; mix and shake and let sit unrefrigerated for 24 hours; then strain and add equal liquid of white wine vinegar; now let it sit as long as you can!"
+  - date: "6/8/14"
+    comment: "2 cups diced peeled lemons, 1 twig rosemary, 2 cups sugar; mix and shake and let sit unrefrigerated for 24 hours; then strain and add equal liquid of white wine vinegar; now let it sit as long as you can!"
 - count: 1
   index: 2
   nickname: ""
@@ -50,7 +66,8 @@
   last_suggested_date: '2020-04-26'
   recipe_urls: []
   comments:
-  - "best drink I know how to make, no doubt: 1/4c tequila, 1/4c club soda, 1/2t sugar, 4 or 5 mint leaves, juice from 1/4 of a lime"
+  - date: "5/18/14"
+    comment: "best drink I know how to make, no doubt: 1/4c tequila, 1/4c club soda, 1/2t sugar, 4 or 5 mint leaves, juice from 1/4 of a lime"
 - count: 1
   index: 1
   nickname: ""
@@ -60,7 +77,8 @@
   last_suggested_date: '2020-05-09'
   recipe_urls: []
   comments:
-  - "\"artisinal drinking vinegar\" from the farmer's market, plus seltzer water and water and some fresh lime juice...so goddamn good--imagine with alcohol!"
+  - date: "5/3/14"
+    comment: "\"artisinal drinking vinegar\" from the farmer's market, plus seltzer water and water and some fresh lime juice...so goddamn good--imagine with alcohol!"
 - count: 1
   index: 11
   nickname: ""
@@ -70,7 +88,8 @@
   last_suggested_date: '2020-08-01'
   recipe_urls: []
   comments:
-  - "same recipe as for the pancakes but kinda weird...needed some fruit I think"
+  - date: "2/11/18"
+    comment: "same recipe as for the pancakes but kinda weird...needed some fruit I think"
 - count: 1
   index: 10
   nickname: ""
@@ -82,7 +101,8 @@
   recipe_urls:
   - "http://allrecipes.com/recipe/17036/pumpkin-pancakes/"
   comments:
-  - "very dense, but fun; we follow the comments; then put the remaining batter in muffin tins at 375F for 15-20 mins or so"
+  - date: "11/19/17"
+    comment: "very dense, but fun; we follow the comments; then put the remaining batter in muffin tins at 375F for 15-20 mins or so"
 - count: 1
   index: 9
   nickname: ""
@@ -92,7 +112,8 @@
   last_suggested_date: '2020-04-26'
   recipe_urls: []
   comments:
-  - "n.b. not a good idea, with plain yogurt at least. the eggs just got really powdery, and that was no good"
+  - date: "5/16/15"
+    comment: "n.b. not a good idea, with plain yogurt at least. the eggs just got really powdery, and that was no good"
 - count: 1
   index: 8
   nickname: ""
@@ -102,7 +123,8 @@
   last_suggested_date: '2020-05-30'
   recipe_urls: []
   comments:
-  - "from america's test kitchen: some oil heat on low, then when pan uniformly hot: raise heat to med/high, add butter, egg immediately after (so butter doesn't burn), cook with pan covered for 1 minute, then remove from heat, and still covered: wait 1 minute"
+  - date: "1/11/15"
+    comment: "from america's test kitchen: some oil heat on low, then when pan uniformly hot: raise heat to med/high, add butter, egg immediately after (so butter doesn't burn), cook with pan covered for 1 minute, then remove from heat, and still covered: wait 1 minute"
 - count: 1
   index: 7
   nickname: ""
@@ -112,7 +134,8 @@
   last_suggested_date: '2020-08-01'
   recipe_urls: []
   comments:
-  - "Pioneer Woman recipe, cut in 4 makes about 20 rolls, enough for two pie pans; also, no need to use as much butter and sugar as she does, obviously. mmm delicious though, especially straight out of the fridge cold; icing could be better, in my opinion, but Jess loved it all. also we added pecans"
+  - date: "10/26/14"
+    comment: "Pioneer Woman recipe, cut in 4 makes about 20 rolls, enough for two pie pans; also, no need to use as much butter and sugar as she does, obviously. mmm delicious though, especially straight out of the fridge cold; icing could be better, in my opinion, but Jess loved it all. also we added pecans"
 - count: 2
   index: 6
   nickname: ""
@@ -122,7 +145,8 @@
   last_suggested_date: '2020-05-02'
   recipe_urls: []
   comments:
-  - "yes, combine everything but the oats together first; takes ~12 minutes to start and then get into the oven, fyi, and then about 2 more minutes to clean. Then ~20 minutes to cook. So anytime you want, you could have granola in half an hour, fool!"
+  - date: "10/16/14"
+    comment: "yes, combine everything but the oats together first; takes ~12 minutes to start and then get into the oven, fyi, and then about 2 more minutes to clean. Then ~20 minutes to cook. So anytime you want, you could have granola in half an hour, fool!"
 - count: 1
   index: 5
   nickname: ""
@@ -133,7 +157,8 @@
   last_suggested_date: '2020-04-26'
   recipe_urls: []
   comments:
-  - "did about 1c flour 1/2c milk 1/8c starter, left overnight on microwave; then 1/2t salt 1/2t baking soda 1 T oil 1 T sugar 1 egg and then milk to make right thickness, blended; it was rubbery dough and kinda rubbery pancake but that's a negative word because they were pretty tasty"
+  - date: "7/26/14"
+    comment: "did about 1c flour 1/2c milk 1/8c starter, left overnight on microwave; then 1/2t salt 1/2t baking soda 1 T oil 1 T sugar 1 egg and then milk to make right thickness, blended; it was rubbery dough and kinda rubbery pancake but that's a negative word because they were pretty tasty"
 - count: 1
   index: 4
   nickname: ""
@@ -155,9 +180,12 @@
   recipe_urls:
   - "http://thepioneerwoman.com/cooking/2009/05/perfect-pancakes/"
   comments:
-  - "pioneer woman says use cake flour--they end up very cakey, but just okay"
-  - "I mean, HOLY SHIT. These are the best pancakes I've ever had. We made them right: cake flour key, and they were literally mind-blowing. Like, how did this end up on my pan? We honor the pioneer woman"
-  - "Not as good as I remember them being last time (the Pioneer Woman recipe), but still very good and consistent. With both blueberries and dark chocolate chips was the best."
+  - date: "12/9/13"
+    comment: "pioneer woman says use cake flour--they end up very cakey, but just okay"
+  - date: "4/22/14"
+    comment: "I mean, HOLY SHIT. These are the best pancakes I've ever had. We made them right: cake flour key, and they were literally mind-blowing. Like, how did this end up on my pan? We honor the pioneer woman"
+  - date: "6/13/15"
+    comment: "Not as good as I remember them being last time (the Pioneer Woman recipe), but still very good and consistent. With both blueberries and dark chocolate chips was the best."
 - count: 1
   index: 2
   nickname: ""
@@ -178,18 +206,21 @@
   recipe_urls:
   - "http://www.foodprepper.com/oat-flour-pancakes-old-fashioned.php"
   comments:
-  - "Emre joins us, bringing blueberries"
-  - "half batch is plenty"
+  - date: "8/4/13"
+    comment: "Emre joins us, bringing blueberries"
+  - date: "10/28/13"
+    comment: "half batch is plenty"
 - count: 1
   index: 172
   nickname: ""
   name: "porterhouse steak"
   tags:
   - "dinner"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-08-22'
   recipe_urls: []
   comments:
-  - "a single 1.8 lb steak, seasoned REAL good. Preheat oven to 450F with cast iron in it. Then I seared it on the grill for about 2 minutes each side, and then put it in the cast iron in the oven with the thermometer probe in it. Baked (for around 18 minutes) until 130F, then let rest for 5 minutes. Served with brussels sprouts and mashed sweet potatoes. Best steak we've ever made by far."
+  - date: "8/6/20"
+    comment: "a single 1.8 lb steak, seasoned REAL good. Preheat oven to 450F with cast iron in it. Then I seared it on the grill for about 2 minutes each side, and then put it in the cast iron in the oven with the thermometer probe in it. Baked (for around 18 minutes) until 130F, then let rest for 5 minutes. Served with brussels sprouts and mashed sweet potatoes. Best steak we've ever made by far."
 - count: 1
   index: 171
   nickname: ""
@@ -200,19 +231,21 @@
   recipe_urls:
   - "http://adamliaw.com/recipe/how-to-make-katsudon/"
   comments:
-  - "this recipe was much better! the sprinkling of togarashi at the end was perfect. jess got _super_ thin pork chops which seemed bad at first but honestly it wasn't really that bad. we used the 'cheat dashi' but I do want to buy the real deal for next time."
+  - date: "7/24/20"
+    comment: "this recipe was much better! the sprinkling of togarashi at the end was perfect. jess got _super_ thin pork chops which seemed bad at first but honestly it wasn't really that bad. we used the 'cheat dashi' but I do want to buy the real deal for next time."
 - count: 2
   index: 170
   nickname: ""
   name: "cast iron pizza"
   tags:
   - "dinner"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-08-15'
   recipe_urls:
   - "https://www.bonappetit.com/recipe/cast-iron-pizza-with-fennel-and-sausage"
   comments:
-  - "recipe via Elaine, and it's delicious. used frozen pizza dough, thawed for 2 hours (3 hours would have been safer). a scoop of hazan sauce from the freezer. followed recipe except no fennel bulb. so tasty though! also made garlic knots, which baked about 2 minutes longer than the pizza. perfect template for a pizza though--it was great."
-- count: 2
+  - date: "7/22/20"
+    comment: "recipe via Elaine, and it's delicious. used frozen pizza dough, thawed for 2 hours (3 hours would have been safer). a scoop of hazan sauce from the freezer. followed recipe except no fennel bulb. so tasty though! also made garlic knots, which baked about 2 minutes longer than the pizza. perfect template for a pizza though--it was great."
+- count: 3
   index: 169
   nickname: ""
   name: "grilled chicken breast"
@@ -222,8 +255,10 @@
   last_suggested_date: '2020-06-20'
   recipe_urls: []
   comments:
-  - "brined in 1/4c salt + 4c water for 30 minutes, then dried off and seasoned in pepper and paprika (no salt). then grilled (high heat) for about 6 minutes each side. a little overcooked (want to go to 160F) so maybe watch it next time."
-  - "breasts were thicker so they cooked a little longer, but still turned out good--cooked them right to 160F. also be careful, brining for 45 minutes they taste great still, but more might be too much."
+  - date: "6/11/20"
+    comment: "brined in 1/4c salt + 4c water for 30 minutes, then dried off and seasoned in pepper and paprika (no salt). then grilled (high heat) for about 6 minutes each side. a little overcooked (want to go to 160F) so maybe watch it next time."
+  - date: "7/18/20"
+    comment: "breasts were thicker so they cooked a little longer, but still turned out good--cooked them right to 160F. also be careful, brining for 45 minutes they taste great still, but more might be too much."
 - count: 1
   index: 168
   nickname: ""
@@ -235,7 +270,8 @@
   recipe_urls:
   - "https://www.bonappetit.com/recipe/instant-pot-chicken-stock"
   comments:
-  - "made 13c of broth. bonus: also made enough chicken (from the wings) for a few servings of chicken salad"
+  - date: "6/9/20"
+    comment: "made 13c of broth. bonus: also made enough chicken (from the wings) for a few servings of chicken salad"
 - count: 2
   index: 167
   nickname: ""
@@ -246,8 +282,10 @@
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments:
-  - "about 5 minutes to warm the grill up (on high), then grill the burgers about 6 minutes on each side, with the lid partially closed (held up by a rock), and then adding cheese after that with the lid open. turned out perfectly!"
-  - "they lit on fire. I think this was both because the flames were too high for too long, and I had too many burgers (9) and all 80/20. so probably get less fatty ones and don't cook so many at the same time."
+  - date: "6/3/20"
+    comment: "about 5 minutes to warm the grill up (on high), then grill the burgers about 6 minutes on each side, with the lid partially closed (held up by a rock), and then adding cheese after that with the lid open. turned out perfectly!"
+  - date: "7/1/20"
+    comment: "they lit on fire. I think this was both because the flames were too high for too long, and I had too many burgers (9) and all 80/20. so probably get less fatty ones and don't cook so many at the same time."
 - count: 1
   index: 166
   nickname: ""
@@ -258,7 +296,8 @@
   recipe_urls:
   - "https://www.wholesomeyum.com/how-to-cook-top-sirloin-steak-in-the-oven/"
   comments:
-  - "best steak we've ever made ourselves. seared in cast iron with a little bit of olive oil. then put butter on steak and cooked in oven until 135F, then 5 mins to rest...so delicious."
+  - date: "5/10/20"
+    comment: "best steak we've ever made ourselves. seared in cast iron with a little bit of olive oil. then put butter on steak and cooked in oven until 135F, then 5 mins to rest...so delicious."
 - count: 1
   index: 165
   nickname: ""
@@ -269,7 +308,8 @@
   recipe_urls:
   - "https://cooking.nytimes.com/recipes/1017998-springtime-spaghetti-carbonara"
   comments:
-  - "I follow the recipe except I use 4 slices of bacon, 6 eggs, 3T milk, and farfalle instead of spaghetti. also the asparagus and bacon were both baked beforehand. pretty good but the asparagus taste is a little strong."
+  - date: "4/30/20"
+    comment: "I follow the recipe except I use 4 slices of bacon, 6 eggs, 3T milk, and farfalle instead of spaghetti. also the asparagus and bacon were both baked beforehand. pretty good but the asparagus taste is a little strong."
 - count: 1
   index: 164
   nickname: ""
@@ -279,8 +319,9 @@
   last_suggested_date: '2020-04-18'
   recipe_urls: []
   comments:
-  - "delicious. I double recipe (with 1.5 lbs ground beef, and 1 of the big cans of plum tomatoes), but it only looks like about 6 servings."
-- count: 2
+  - date: "2/23/20"
+    comment: "delicious. I double recipe (with 1.5 lbs ground beef, and 1 of the big cans of plum tomatoes), but it only looks like about 6 servings."
+- count: 3
   index: 163
   nickname: ""
   name: "beef short ribs"
@@ -291,8 +332,10 @@
   recipe_urls:
   - "https://thestayathomechef.com/classic-braised-beef-short-ribs/"
   comments:
-  - "I did the same ingredients but just with two short ribs totaling 1.2 lbs. It was unbelievable. Dried them off with paper towels before seasoning, and put them in the small orange dutch oven. But if there'd been more I might have needed a bigger pot. Anyway, also added four carrots to the sauce in with the meat. Cooked about 2.5 hours exactly and all the juices were mostly gone. One of the best meals we've made. Served with mashed sweet potatoes and sourdough toast."
-  - "Again about 1 lb of meat, and 1 (small onion). Should have done 2 onions, because they're the best part! Also added a good amount of baby carrots."
+  - date: "2/15/20"
+    comment: "I did the same ingredients but just with two short ribs totaling 1.2 lbs. It was unbelievable. Dried them off with paper towels before seasoning, and put them in the small orange dutch oven. But if there'd been more I might have needed a bigger pot. Anyway, also added four carrots to the sauce in with the meat. Cooked about 2.5 hours exactly and all the juices were mostly gone. One of the best meals we've made. Served with mashed sweet potatoes and sourdough toast."
+  - date: "6/2/20"
+    comment: "Again about 1 lb of meat, and 1 (small onion). Should have done 2 onions, because they're the best part! Also added a good amount of baby carrots."
 - count: 1
   index: 162
   nickname: ""
@@ -305,7 +348,8 @@
   recipe_urls:
   - "https://www.feastingathome.com/instant-pot-chicken-tortilla-soup/"
   comments:
-  - "Jess made it. toppings: avocado, shredded cheese, tortilla chips. delicious. we used 2.5 lbs of chicken thighs but I think 3 lbs would be even better."
+  - date: "2/9/20"
+    comment: "Jess made it. toppings: avocado, shredded cheese, tortilla chips. delicious. we used 2.5 lbs of chicken thighs but I think 3 lbs would be even better."
 - count: 1
   index: 161
   nickname: ""
@@ -316,7 +360,8 @@
   last_suggested_date: '2020-04-18'
   recipe_urls: []
   comments:
-  - "unbelievable how good and tender it was. cooked until right at 165F. we had a 5.5 lb chicken, which was huge, so it cooked for a while. but really just amazing, and fun with it just being the lemons and salt and pepper!"
+  - date: "2/2/20"
+    comment: "unbelievable how good and tender it was. cooked until right at 165F. we had a 5.5 lb chicken, which was huge, so it cooked for a while. but really just amazing, and fun with it just being the lemons and salt and pepper!"
 - count: 1
   index: 160
   nickname: ""
@@ -327,7 +372,8 @@
   last_suggested_date: '2019-11-30'
   recipe_urls: []
   comments:
-  - "blue apron meal"
+  - date: "10/29/19"
+    comment: "blue apron meal"
 - count: 2
   index: 159
   nickname: ""
@@ -349,7 +395,8 @@
   last_suggested_date: '2019-08-03'
   recipe_urls: []
   comments:
-  - "freezer instant pot meal; really tasty! we have with tortillas, shredded cheddar cheese, sour cream, and valentina"
+  - date: "7/11/19"
+    comment: "freezer instant pot meal; really tasty! we have with tortillas, shredded cheddar cheese, sour cream, and valentina"
 - count: 3
   index: 157
   nickname: ""
@@ -360,8 +407,10 @@
   last_suggested_date: '2019-08-10'
   recipe_urls: []
   comments:
-  - "freezer instant pot meal. really tasty, though a bit watery. Took nearly thirty minutes to get to pressure, plus 45+10 for cook+vent time, so make sure to account for that when you start. servings:8"
-  - "a little watery. try reducing the liquid next time, maybe also subbing in more tomatoes."
+  - date: "7/6/19"
+    comment: "freezer instant pot meal. really tasty, though a bit watery. Took nearly thirty minutes to get to pressure, plus 45+10 for cook+vent time, so make sure to account for that when you start. servings:8"
+  - date: "12/12/19"
+    comment: "a little watery. try reducing the liquid next time, maybe also subbing in more tomatoes."
 - count: 3
   index: 156
   nickname: ""
@@ -372,8 +421,10 @@
   last_suggested_date: '2019-08-03'
   recipe_urls: []
   comments:
-  - "freezer instant pot meal. we eat with rice and naan. it's very tasty! very spicy but it was enjoyable. servings:6"
-  - "need to make sure to mix the chickens in with the sauce before freezing maybe? this meal and the beef stew didn't cook at all the first time through because the meat was stuck together and so stayed a bit raw. We did it 8 minutes more and it was fine. but still, very annoying."
+  - date: "7/3/19"
+    comment: "freezer instant pot meal. we eat with rice and naan. it's very tasty! very spicy but it was enjoyable. servings:6"
+  - date: "12/8/19"
+    comment: "need to make sure to mix the chickens in with the sauce before freezing maybe? this meal and the beef stew didn't cook at all the first time through because the meat was stuck together and so stayed a bit raw. We did it 8 minutes more and it was fine. but still, very annoying."
 - count: 3
   index: 155
   nickname: ""
@@ -384,9 +435,12 @@
   last_suggested_date: '2019-08-03'
   recipe_urls: []
   comments:
-  - "freezer instant pot meal. Based on the side of the Instant pot, I'd say we could easily have doubled (though would need two storage bags instead of one). servings:5"
-  - "next time, let's add some potatoes. like a lot of them."
-  - "could use more broth, fewer carrots."
+  - date: "6/22/19"
+    comment: "freezer instant pot meal. Based on the side of the Instant pot, I'd say we could easily have doubled (though would need two storage bags instead of one). servings:5"
+  - date: "7/23/19"
+    comment: "next time, let's add some potatoes. like a lot of them."
+  - date: "12/4/19"
+    comment: "could use more broth, fewer carrots."
 - count: 1
   index: 154
   nickname: ""
@@ -396,7 +450,8 @@
   last_suggested_date: '2019-08-03'
   recipe_urls: []
   comments:
-  - "make sure to rinse rice really well, then 1:1 rice and water, and add a splash of vegetable oil, and press rice button"
+  - date: "5/12/19"
+    comment: "make sure to rinse rice really well, then 1:1 rice and water, and add a splash of vegetable oil, and press rice button"
 - count: 2
   index: 153
   nickname: ""
@@ -407,7 +462,8 @@
   recipe_urls:
   - "https://www.seriouseats.com/recipes/2016/02/easy-vegetable-fried-rice-recipe.html"
   comments:
-  - "turned out good, but actually a good amount of work. used 1.5c rice, 1.5 lbs chicken thighs, fried in big cast iron. cooked jasmine rice. followed recipe other than that basically (cooked in large cast iron). servings:5"
+  - date: "3/27/19"
+    comment: "turned out good, but actually a good amount of work. used 1.5c rice, 1.5 lbs chicken thighs, fried in big cast iron. cooked jasmine rice. followed recipe other than that basically (cooked in large cast iron). servings:5"
 - count: 1
   index: 152
   nickname: ""
@@ -436,7 +492,8 @@
   recipe_urls:
   - "https://www.seriouseats.com/recipes/2009/10/perfect-pot-roast-recipe-pioneer-woman.html"
   comments:
-  - "Jess says: We did 3lbs of meet. I'd say do half of the broth -- only deglaze the onions with like 1/2 a cup of broth at most. And then add a little less than a cup to the actual meat. We also added carrots"
+  - date: "12/19/18"
+    comment: "Jess says: We did 3lbs of meet. I'd say do half of the broth -- only deglaze the onions with like 1/2 a cup of broth at most. And then add a little less than a cup to the actual meat. We also added carrots"
 - count: 1
   index: 149
   nickname: ""
@@ -448,7 +505,8 @@
   recipe_urls:
   - "https://natashaskitchen.com/slow-cooker-bolognese-sauce-recipe/"
   comments:
-  - "Jess says she did 1/2c milk, 1/2c white wine, 1.5 cans of 28oz crushed tomatoes, 2T tomato paste, and sage instead of parsley"
+  - date: "12/12/18"
+    comment: "Jess says she did 1/2c milk, 1/2c white wine, 1.5 cans of 28oz crushed tomatoes, 2T tomato paste, and sage instead of parsley"
 - count: 5
   index: 148
   nickname: ""
@@ -459,7 +517,8 @@
   recipe_urls:
   - "https://cooking.nytimes.com/recipes/7985-turkey-chili"
   comments:
-  - "delicious. made cornbread on the side. (jess says to halve the broth, but it made a good amount as is so maybe let's not.) servings:9"
+  - date: "12/1/18"
+    comment: "delicious. made cornbread on the side. (jess says to halve the broth, but it made a good amount as is so maybe let's not.) servings:9"
 - count: 3
   index: 147
   nickname: ""
@@ -472,9 +531,12 @@
   - "https://cupofjo.com/2017/09/easiest-skillet-chicken-parmesan/"
   - "https://smittenkitchen.com/2015/02/spaghetti-pangrattato-with-fried-eggs/"
   comments:
-  - "this was so delicious! used about 2 lbs chicken breast. the pangrattato was critical. served on angel hair."
-  - "should use 28oz crushed tomatoes (not diced, otherwise too watery), and 8oz of mozzarella was fine, with 2 lbs. of chicken. also for the breadcrumbs, made 1/3c and that was plenty."
-  - "really, this is such a simple, low-stress, delicious meal. and by the way, doubling means 2 lbs. chicken, 2 28oz tomatoes, and 12oz mozzarella. also if you don't have olive oil for the breadcrumb part, just use butter"
+  - date: "9/16/18"
+    comment: "this was so delicious! used about 2 lbs chicken breast. the pangrattato was critical. served on angel hair."
+  - date: "10/4/18"
+    comment: "should use 28oz crushed tomatoes (not diced, otherwise too watery), and 8oz of mozzarella was fine, with 2 lbs. of chicken. also for the breadcrumbs, made 1/3c and that was plenty."
+  - date: "3/11/19"
+    comment: "really, this is such a simple, low-stress, delicious meal. and by the way, doubling means 2 lbs. chicken, 2 28oz tomatoes, and 12oz mozzarella. also if you don't have olive oil for the breadcrumb part, just use butter"
 - count: 2
   index: 146
   nickname: ""
@@ -486,8 +548,10 @@
   recipe_urls:
   - "https://cooking.nytimes.com/recipes/1018153-chicken-enchiladas-with-salsa-verde"
   comments:
-  - "these were amazing. used tomatillo salsa verde from other recipe. cooked 1 lb. chicken in big red cast iron as instructed, for only about 15 minutes at boiling. microwaved corn tortillas instead of frying because the first one stuck the pot. wrapped each tortilla with shredded chicken, a spoonful of salsa, and shredded monterrey jack cheese. covered the tops in salsa, more cheese, and about 6oz of sour cream."
-  - "we double recipe (we cooked 3 lbs, but I think 2 would have been fine), and use 15oz ricotta (inside enchiladas), 8oz sour cream (dotted on top before baking), and a jar of salsa verde (could've used a bit more...). they taste great, but shredded cheese would've been easier than ricotta I think. servings:9"
+  - date: "8/20/18"
+    comment: "these were amazing. used tomatillo salsa verde from other recipe. cooked 1 lb. chicken in big red cast iron as instructed, for only about 15 minutes at boiling. microwaved corn tortillas instead of frying because the first one stuck the pot. wrapped each tortilla with shredded chicken, a spoonful of salsa, and shredded monterrey jack cheese. covered the tops in salsa, more cheese, and about 6oz of sour cream."
+  - date: "1/4/19"
+    comment: "we double recipe (we cooked 3 lbs, but I think 2 would have been fine), and use 15oz ricotta (inside enchiladas), 8oz sour cream (dotted on top before baking), and a jar of salsa verde (could've used a bit more...). they taste great, but shredded cheese would've been easier than ricotta I think. servings:9"
 - count: 1
   index: 145
   nickname: ""
@@ -498,7 +562,8 @@
   recipe_urls:
   - "https://www.epicurious.com/recipes/food/views/roasted-tomatillo-salsa-102586"
   comments:
-  - "using tomatillos"
+  - date: "8/20/18"
+    comment: "using tomatillos"
 - count: 1
   index: 144
   nickname: ""
@@ -510,7 +575,8 @@
   last_suggested_date: '2020-04-04'
   recipe_urls: []
   comments:
-  - "fried as in the togarashi chicken; also pickles and mayo on brioche buns"
+  - date: "8/16/18"
+    comment: "fried as in the togarashi chicken; also pickles and mayo on brioche buns"
 - count: 1
   index: 143
   nickname: ""
@@ -521,7 +587,8 @@
   last_suggested_date: '2020-01-18'
   recipe_urls: []
   comments:
-  - "lit about 25-30 briquettes by piling up in pyramid, covering in lighter fluid, then burning. It was just barely enough coal to cook all the chicken, and it took a while. But other than that, it went well!"
+  - date: "6/17/18"
+    comment: "lit about 25-30 briquettes by piling up in pyramid, covering in lighter fluid, then burning. It was just barely enough coal to cook all the chicken, and it took a while. But other than that, it went well!"
 - count: 5
   index: 142
   nickname: ""
@@ -532,9 +599,12 @@
   last_suggested_date: '2020-02-15'
   recipe_urls: []
   comments:
-  - "ham was smoked ham hock from Whole Foods for $10, and also some dried (navy?) beans that Cindy sent us."
-  - "Jess makes it while I'm gone"
-  - "2 lbs of ham hock is plenty (2.5 is too much!)"
+  - date: "6/3/18"
+    comment: "ham was smoked ham hock from Whole Foods for $10, and also some dried (navy?) beans that Cindy sent us."
+  - date: "9/21/18"
+    comment: "Jess makes it while I'm gone"
+  - date: "10/13/19"
+    comment: "2 lbs of ham hock is plenty (2.5 is too much!)"
 - count: 4
   index: 141
   nickname: ""
@@ -546,9 +616,12 @@
   recipe_urls:
   - "https://www.blueapron.com/recipes/togarashi-popcorn-chicken-with-sweet-chili-cabbage-slaw"
   comments:
-  - "delicious! used sriracha instead of tonkatsu sauce"
-  - "doubled recipe. sweet chili sauce = spicy chili paste + sugar + soy sauce. use big cast iron so you can fry it all at once"
-  - "1.25 lbs chicken is about perfect for cooking in the big cast iron, but it's not that much food. just about 4 servings total."
+  - date: "3/27/18"
+    comment: "delicious! used sriracha instead of tonkatsu sauce"
+  - date: "5/1/18"
+    comment: "doubled recipe. sweet chili sauce = spicy chili paste + sugar + soy sauce. use big cast iron so you can fry it all at once"
+  - date: "7/20/18"
+    comment: "1.25 lbs chicken is about perfect for cooking in the big cast iron, but it's not that much food. just about 4 servings total."
 - count: 3
   index: 140
   nickname: ""
@@ -560,8 +633,10 @@
   recipe_urls:
   - "https://www.seriouseats.com/recipes/2013/05/red-curry-with-shrimp-zucchini-and-carrot.html"
   comments:
-  - "make with chicken thighs which we bake with some chili paste rubbed on, at 425F for about 25 minutes. also, only one small zucchini, and 1c of carrots. really delicious!"
-  - "we doubled it."
+  - date: "2/27/18"
+    comment: "make with chicken thighs which we bake with some chili paste rubbed on, at 425F for about 25 minutes. also, only one small zucchini, and 1c of carrots. really delicious!"
+  - date: "5/29/20"
+    comment: "we doubled it."
 - count: 1
   index: 139
   nickname: ""
@@ -591,9 +666,12 @@
   recipe_urls:
   - "http://www.seriouseats.com/recipes/2017/04/katsudon-japanese-leftover-cutlet-rice-egg-bowl-recipe.html"
   comments:
-  - "I would triple the sauce for two servings. Don't be afraid to let the onions cook forever because they are delicious...also, do try adding the chicken to the broth. And make sure you use panko along with a flour-egg dip."
-  - "we used two onions, and 6x the broth, just skipping the sake because we had none. we made the chicken cutlets using thin breasts and flour, egg, panko. this recipe takes a bit if you make the cutlets and the broth, mostly just because of the cutlets. we cooked the onions for quite a while, maybe 15 minutes. for the dashi, we used one packet with 3 cups of water, and boiled it along with the sugar and other liquids like mirin. it turned out so delicious..."
-  - "to confirm the last note, we did 3x the broth (not 6x). for chicken, we did a dry salt brine (1/4c salt + 1t baking powder on 1.5 lbs thin breasts) for 2 hours, and rinsed off salt afterward, and still _plenty_ salty"
+  - date: "9/21/17"
+    comment: "I would triple the sauce for two servings. Don't be afraid to let the onions cook forever because they are delicious...also, do try adding the chicken to the broth. And make sure you use panko along with a flour-egg dip."
+  - date: "1/16/18"
+    comment: "we used two onions, and 6x the broth, just skipping the sake because we had none. we made the chicken cutlets using thin breasts and flour, egg, panko. this recipe takes a bit if you make the cutlets and the broth, mostly just because of the cutlets. we cooked the onions for quite a while, maybe 15 minutes. for the dashi, we used one packet with 3 cups of water, and boiled it along with the sugar and other liquids like mirin. it turned out so delicious..."
+  - date: "5/22/18"
+    comment: "to confirm the last note, we did 3x the broth (not 6x). for chicken, we did a dry salt brine (1/4c salt + 1t baking powder on 1.5 lbs thin breasts) for 2 hours, and rinsed off salt afterward, and still _plenty_ salty"
 - count: 2
   index: 136
   nickname: ""
@@ -603,8 +681,10 @@
   last_suggested_date: '2020-01-18'
   recipe_urls: []
   comments:
-  - "the top layer curled up a lot when it baked--maybe top with more bechamel? also we ended up not dipping the partially cooked lasagna sheets in cold water because it made them curl up. we just use paramesan as the only cheese. also a 15oz can of tomatoes works fine but a little more would be nice"
-  - "we tried using the smaller rectangle pyrex and that was a mistake. also we only had 8oz mushrooms so we added chicken as well. and about a half a can of 28oz whole tomatoes. still delicious!"
+  - date: "9/9/17"
+    comment: "the top layer curled up a lot when it baked--maybe top with more bechamel? also we ended up not dipping the partially cooked lasagna sheets in cold water because it made them curl up. we just use paramesan as the only cheese. also a 15oz can of tomatoes works fine but a little more would be nice"
+  - date: "6/7/20"
+    comment: "we tried using the smaller rectangle pyrex and that was a mistake. also we only had 8oz mushrooms so we added chicken as well. and about a half a can of 28oz whole tomatoes. still delicious!"
 - count: 1
   index: 135
   nickname: ""
@@ -646,10 +726,14 @@
   recipe_urls:
   - "http://www.seriouseats.com/recipes/2017/05/new-orleans-style-red-beans-rice-recipe.html"
   comments:
-  - "delicious. we use 3 cans of kidney beans."
-  - "don't add too much water or it takes forever to thicken. we did five cups and it was way too much. maybe do 4."
-  - "4 cups and it still takes a while, but it's fine. we add a ham hock and it is SOOO good, please never not add a ham hock."
-  - "Jess cooks it herself. It turns out delicious! She says she used 3.25 cups of water. Also 12 oz andouilli sausage, a 1.6 lb or so ham hock, and 2 cans of kidney beans."
+  - date: "2/22/18"
+    comment: "delicious. we use 3 cans of kidney beans."
+  - date: "8/22/18"
+    comment: "don't add too much water or it takes forever to thicken. we did five cups and it was way too much. maybe do 4."
+  - date: "4/29/19"
+    comment: "4 cups and it still takes a while, but it's fine. we add a ham hock and it is SOOO good, please never not add a ham hock."
+  - date: "11/6/19"
+    comment: "Jess cooks it herself. It turns out delicious! She says she used 3.25 cups of water. Also 12 oz andouilli sausage, a 1.6 lb or so ham hock, and 2 cans of kidney beans."
 - count: 3
   index: 131
   nickname: ""
@@ -661,8 +745,10 @@
   recipe_urls:
   - "http://www.foodnetwork.com/recipes/jeff-mauro/grilled-chicken-with-alabama-white-bbq-sauce-2810701"
   comments:
-  - "bake in oven at 375F on convection, starting skin side down for 15, then flipping and cooking 15 more, coating skin with sauce, then cooking 15 more or so. they were oiled, and sitting on an oiled rack over a cookie tray"
-  - "We have it with baked asparagus on the side. We baked the chicken the same as last time. We ended up brining for two hours with the second hour being out of the fridge, and then after drying the chicken with paper towels, just let it sit out for like 15 minutes before putting it in the oven. (The recipe says to dry it for an hour.) It turned out great! Also, to the sauce we added paprika and a squirt of sriracha. Delicious."
+  - date: "6/7/17"
+    comment: "bake in oven at 375F on convection, starting skin side down for 15, then flipping and cooking 15 more, coating skin with sauce, then cooking 15 more or so. they were oiled, and sitting on an oiled rack over a cookie tray"
+  - date: "9/2/17"
+    comment: "We have it with baked asparagus on the side. We baked the chicken the same as last time. We ended up brining for two hours with the second hour being out of the fridge, and then after drying the chicken with paper towels, just let it sit out for like 15 minutes before putting it in the oven. (The recipe says to dry it for an hour.) It turned out great! Also, to the sauce we added paprika and a squirt of sriracha. Delicious."
 - count: 1
   index: 130
   nickname: ""
@@ -674,7 +760,8 @@
   last_suggested_date: '2020-01-04'
   recipe_urls: []
   comments:
-  - "slow-cook some pork shoulder using mom's recipe, then just add bbq sauce"
+  - date: "4/20/17"
+    comment: "slow-cook some pork shoulder using mom's recipe, then just add bbq sauce"
 - count: 1
   index: 129
   nickname: ""
@@ -684,7 +771,8 @@
   last_suggested_date: '2020-04-04'
   recipe_urls: []
   comments:
-  - "third and final Blue Apron meal"
+  - date: "4/3/17"
+    comment: "third and final Blue Apron meal"
 - count: 1
   index: 128
   nickname: ""
@@ -696,7 +784,8 @@
   last_suggested_date: '2020-02-08'
   recipe_urls: []
   comments:
-  - "second Blue Apron meal. Always use chicken breast with the skin still on! It's so much better this way. Lentil spice mix has thyme, bay leaf, mustard seeds, black pepper"
+  - date: "3/30/17"
+    comment: "second Blue Apron meal. Always use chicken breast with the skin still on! It's so much better this way. Lentil spice mix has thyme, bay leaf, mustard seeds, black pepper"
 - count: 6
   index: 127
   nickname: ""
@@ -708,10 +797,14 @@
   recipe_urls:
   - "https://www.blueapron.com/recipes/hoisin-shiitake-burgers-with-miso-mayonnaise-roasted-sweet-potato-wedges"
   comments:
-  - "shiitake mushroom burger, baked sweet potato fries; first Blue Apron meal, and it's delicious: the miso mayo is key"
-  - "with sweet potatoes"
-  - "with asparagus"
-  - "buy 2.5 lbs beef, serve with baked sweet potatoes (cook them without stirring for maximum crispy! 425F for 30 mins or so total) and steamed broccoli. servings:8"
+  - date: "3/28/17"
+    comment: "shiitake mushroom burger, baked sweet potato fries; first Blue Apron meal, and it's delicious: the miso mayo is key"
+  - date: "5/26/17"
+    comment: "with sweet potatoes"
+  - date: "10/22/17"
+    comment: "with asparagus"
+  - date: "1/21/19"
+    comment: "buy 2.5 lbs beef, serve with baked sweet potatoes (cook them without stirring for maximum crispy! 425F for 30 mins or so total) and steamed broccoli. servings:8"
 - count: 4
   index: 126
   nickname: ""
@@ -724,9 +817,12 @@
   - "http://www.bonappetit.com/recipe/butter-chicken"
   - "http://allrecipes.com/recipe/141169/easy-indian-butter-chicken/"
   comments:
-  - "we don't puree, and we broil the chicken cut in slices but never chop it further"
-  - "combine recipe with bon appetit one"
-  - "very tasty. mostly just followed the bon appetit one this time, but added one 15oz can of whole tomatoes, and after 10 minutes of simmering added about 1.5 cups of cream and simmered another 20 or so. started broiling the chicken (already sliced) when adding the cream"
+  - date: "3/15/17"
+    comment: "we don't puree, and we broil the chicken cut in slices but never chop it further"
+  - date: "2/7/18"
+    comment: "combine recipe with bon appetit one"
+  - date: "9/7/18"
+    comment: "very tasty. mostly just followed the bon appetit one this time, but added one 15oz can of whole tomatoes, and after 10 minutes of simmering added about 1.5 cups of cream and simmered another 20 or so. started broiling the chicken (already sliced) when adding the cream"
 - count: 1
   index: 125
   nickname: ""
@@ -736,7 +832,8 @@
   last_suggested_date: '2019-12-28'
   recipe_urls: []
   comments:
-  - "Serious Eats recipe; gets waaaay better after a night in the fridge, so worth making it advance if you were gonna serve it to someone; also, a single recipe makes us seven servings"
+  - date: "3/7/17"
+    comment: "Serious Eats recipe; gets waaaay better after a night in the fridge, so worth making it advance if you were gonna serve it to someone; also, a single recipe makes us seven servings"
 - count: 2
   index: 124
   nickname: ""
@@ -747,8 +844,10 @@
   recipe_urls:
   - "http://www.pipandebby.com/pip-ebby/best-ever-goulash"
   comments:
-  - "we cook mac separately in chicken broth, just enough to cover, so that you don't drain it; also, jess adds lawry's and chili flakes to the stew part, and also we use two big cans of whole tomatoes instead of sauce and diced tomatoes"
-  - "this makes a SHIT ton. make half. also, don't add the macaroni until you're serving it, that way you can freeze it if there's too much..."
+  - date: "2/21/17"
+    comment: "we cook mac separately in chicken broth, just enough to cover, so that you don't drain it; also, jess adds lawry's and chili flakes to the stew part, and also we use two big cans of whole tomatoes instead of sauce and diced tomatoes"
+  - date: "9/5/18"
+    comment: "this makes a SHIT ton. make half. also, don't add the macaroni until you're serving it, that way you can freeze it if there's too much..."
 - count: 1
   index: 123
   nickname: ""
@@ -759,7 +858,8 @@
   recipe_urls:
   - "http://www.seriouseats.com/recipes/2015/01/moist-and-tender-brown-butter-cornbread-recipe.html"
   comments:
-  - "fucking delicious"
+  - date: "1/28/17"
+    comment: "fucking delicious"
 - count: 4
   index: 122
   nickname: ""
@@ -771,9 +871,11 @@
   recipe_urls:
   - "http://www.bonappetit.com/recipe/adams-beef-stroganoff"
   comments:
-  - "we use 2 lbs. ground beef, and 20oz mushrooms; made about 8 servings"
-  - "takes a little more than an hour to make, and we added corn starch to finally get it to thicken"
-- count: 8
+  - date: "1/12/17"
+    comment: "we use 2 lbs. ground beef, and 20oz mushrooms; made about 8 servings"
+  - date: "4/22/18"
+    comment: "takes a little more than an hour to make, and we added corn starch to finally get it to thicken"
+- count: 9
   index: 121
   nickname: ""
   name: "pasta carbonara"
@@ -793,11 +895,16 @@
   last_suggested_date: '2019-12-21'
   recipe_urls: []
   comments:
-  - "with mushrooms and chicken, using Mom's recipe, then just adding mushrooms and chicken (cooked separately, combined at the end)"
-  - "sooooo good: with mushrooms, spinach, and bacon! doubled the recipe. don't be afraid to use tons of mushrooms. Jess says 6-7 strips of bacon was good."
-  - "doubled recipe, but needed tons more mushrooms, and probably 12 slices of bacon would be better. cook bacon first, then shrooms in the bacon grease, and then use that same pan (the big red cast iron) for the alfredo."
-  - "with chicken, which Jess pan-fries according to that last Blue Apron meal, and it's delicious."
-  - "with lots of mushrooms and chicken. we double the sauce and it makes A LOT, it's perfect."
+  - date: "12/6/16"
+    comment: "with mushrooms and chicken, using Mom's recipe, then just adding mushrooms and chicken (cooked separately, combined at the end)"
+  - date: "2/14/19"
+    comment: "sooooo good: with mushrooms, spinach, and bacon! doubled the recipe. don't be afraid to use tons of mushrooms. Jess says 6-7 strips of bacon was good."
+  - date: "5/5/19"
+    comment: "doubled recipe, but needed tons more mushrooms, and probably 12 slices of bacon would be better. cook bacon first, then shrooms in the bacon grease, and then use that same pan (the big red cast iron) for the alfredo."
+  - date: "11/17/19"
+    comment: "with chicken, which Jess pan-fries according to that last Blue Apron meal, and it's delicious."
+  - date: "5/12/20"
+    comment: "with lots of mushrooms and chicken. we double the sauce and it makes A LOT, it's perfect."
 - count: 1
   index: 119
   nickname: ""
@@ -820,8 +927,10 @@
   recipe_urls:
   - "http://www.bonappetit.com/recipe/thai-beef-with-basil"
   comments:
-  - "maybe make 1.5x or 2x next time"
-  - "doubled it and it made 5 servings; need to make 1.25 cups rice though"
+  - date: "11/29/16"
+    comment: "maybe make 1.5x or 2x next time"
+  - date: "2/6/17"
+    comment: "doubled it and it made 5 servings; need to make 1.25 cups rice though"
 - count: 8
   index: 117
   nickname: ""
@@ -835,10 +944,14 @@
   - "http://thepioneerwoman.com/cooking/pot-pie/"
   - "https://www.allrecipes.com/recipe/18427/easy-pie-crust/"
   comments:
-  - "used corn starch to thicken at the end; baked in 9\" square pan; to measure chicken we just diced breasts and filled up a little over 3 cups, then pan-fried it"
-  - "just the crust top (not bottom), in the 2.2qt rectangular pyrex"
-  - "use only 1.5c broth, and then between 1/4-1/2c cream, so it barely takes any time to thicken. made a simple crust that took no time at all to bake--just covered with foil for first 15 minutes of baking, then took it off for about 12 more minutes, at 375F."
-  - "use 2.5 lbs. chicken (makes about 4 cups), and make it in the biggest rectangle pyrex. the dough was tricky to roll because it was so brittle, so it ended up going on in small pieces. servings:9"
+  - date: "1/14/17"
+    comment: "used corn starch to thicken at the end; baked in 9\" square pan; to measure chicken we just diced breasts and filled up a little over 3 cups, then pan-fried it"
+  - date: "1/3/18"
+    comment: "just the crust top (not bottom), in the 2.2qt rectangular pyrex"
+  - date: "6/14/18"
+    comment: "use only 1.5c broth, and then between 1/4-1/2c cream, so it barely takes any time to thicken. made a simple crust that took no time at all to bake--just covered with foil for first 15 minutes of baking, then took it off for about 12 more minutes, at 375F."
+  - date: "12/9/18"
+    comment: "use 2.5 lbs. chicken (makes about 4 cups), and make it in the biggest rectangle pyrex. the dough was tricky to roll because it was so brittle, so it ended up going on in small pieces. servings:9"
 - count: 6
   index: 116
   nickname: ""
@@ -850,9 +963,12 @@
   recipe_urls:
   - "http://www.food.com/recipe/the-best-bowl-of-chili-ive-ever-had-178865"
   comments:
-  - "I skip the tabasco and sugar, and instead add cocoa, and cook for about 5 hours on low"
-  - "same recipe as before; used 3T-4T cocoa, and instead of beer, half a ginger beer and the other 6oz were OJ; simmered for 3 hrs"
-  - "on fritos"
+  - date: "10/24/16"
+    comment: "I skip the tabasco and sugar, and instead add cocoa, and cook for about 5 hours on low"
+  - date: "1/28/17"
+    comment: "same recipe as before; used 3T-4T cocoa, and instead of beer, half a ginger beer and the other 6oz were OJ; simmered for 3 hrs"
+  - date: "3/24/18"
+    comment: "on fritos"
 - count: 2
   index: 115
   nickname: ""
@@ -863,8 +979,10 @@
   recipe_urls:
   - "http://www.food.com/recipe/beer-bread-73440"
   comments:
-  - "use the bottom oven so the top doesn't get too dark"
-  - "use bottom oven!"
+  - date: "10/24/16"
+    comment: "use the bottom oven so the top doesn't get too dark"
+  - date: "2/11/17"
+    comment: "use bottom oven!"
 - count: 1
   index: 114
   nickname: ""
@@ -874,7 +992,8 @@
   last_suggested_date: '2019-09-14'
   recipe_urls: []
   comments:
-  - "we cook it right on the tray, 475F, lower oven, after pre-heating the big tray. it did stick just a little bit--we forgot to add some flour. we use 3oz prosciutto, 6oz mushrooms, and for cheese, some garlic chevre and mozzarella (both from Aldi). turned out delicious!"
+  - date: "10/23/16"
+    comment: "we cook it right on the tray, 475F, lower oven, after pre-heating the big tray. it did stick just a little bit--we forgot to add some flour. we use 3oz prosciutto, 6oz mushrooms, and for cheese, some garlic chevre and mozzarella (both from Aldi). turned out delicious!"
 - count: 2
   index: 113
   nickname: ""
@@ -887,7 +1006,8 @@
   recipe_urls:
   - "http://www.thekitchn.com/recipe-slow-cooker-chicken-tikka-masala-recipes-from-the-kitchn-211284"
   comments:
-  - "nothing like tikka masala but fucking delicious"
+  - date: "9/12/16"
+    comment: "nothing like tikka masala but fucking delicious"
 - count: 1
   index: 112
   nickname: ""
@@ -897,7 +1017,8 @@
   last_suggested_date: '2020-01-11'
   recipe_urls: []
   comments:
-  - "delicious. cook tuna 3 minutes per side on high heat on sesame oil; should be pink inside! also way better fresh off the grill rather than as leftovers. after removing tuna, add 6T rice wine and 3T soy sauce to hot pan, cook for a minute until thick."
+  - date: "8/22/16"
+    comment: "delicious. cook tuna 3 minutes per side on high heat on sesame oil; should be pink inside! also way better fresh off the grill rather than as leftovers. after removing tuna, add 6T rice wine and 3T soy sauce to hot pan, cook for a minute until thick."
 - count: 8
   index: 111
   nickname: ""
@@ -907,11 +1028,16 @@
   last_suggested_date: '2020-01-18'
   recipe_urls: []
   comments:
-  - "we cook 10oz. bacon (from bacon butt bits), add a diced medium onion, then a full large can of whole plum tomatoes (no oil, no butter), and then chili flakes; delicious!"
-  - "this time with bucatini, but Jess, please don't cook the whole pound of pasta...Though we should definitely make double the sauce next time"
-  - "we make a double recipe, and it's a good amount"
-  - "doubled recipe using 1 lb of ground pork total, and 1/2T of red chili flakes"
-  - "two cans of marzano whole tomatoes, 4 oz prosicutto, 6 oz bacon, servings:8"
+  - date: "8/14/16"
+    comment: "we cook 10oz. bacon (from bacon butt bits), add a diced medium onion, then a full large can of whole plum tomatoes (no oil, no butter), and then chili flakes; delicious!"
+  - date: "8/26/16"
+    comment: "this time with bucatini, but Jess, please don't cook the whole pound of pasta...Though we should definitely make double the sauce next time"
+  - date: "3/9/17"
+    comment: "we make a double recipe, and it's a good amount"
+  - date: "6/25/18"
+    comment: "doubled recipe using 1 lb of ground pork total, and 1/2T of red chili flakes"
+  - date: "1/19/20"
+    comment: "two cans of marzano whole tomatoes, 4 oz prosicutto, 6 oz bacon, servings:8"
 - count: 1
   index: 110
   nickname: ""
@@ -921,7 +1047,8 @@
   last_suggested_date: '2019-08-31'
   recipe_urls: []
   comments:
-  - "so bad that we might just throw it away--very rubbery and chewy"
+  - date: "7/12/16"
+    comment: "so bad that we might just throw it away--very rubbery and chewy"
 - count: 1
   index: 109
   nickname: ""
@@ -931,7 +1058,8 @@
   last_suggested_date: '2019-08-17'
   recipe_urls: []
   comments:
-  - "from Martha: after steaks are done and removed from pan, add 1/3c liquid (wine, vinegar, broth, etc.) to pan to deglaze; let it boil off a bit, and then add 2T of thickener (butter, mustard, brown sugar, etc.)"
+  - date: "7/5/16"
+    comment: "from Martha: after steaks are done and removed from pan, add 1/3c liquid (wine, vinegar, broth, etc.) to pan to deglaze; let it boil off a bit, and then add 2T of thickener (butter, mustard, brown sugar, etc.)"
 - count: 1
   index: 108
   nickname: ""
@@ -942,7 +1070,8 @@
   last_suggested_date: '2019-11-09'
   recipe_urls: []
   comments:
-  - "Best (and most pizza-like) pizza we've ever made. Mel's kitchen dough (single serving) makes enough for one pie on the large silver tray; we use 1c of hazan's tomato sauce (one recipe makes ~3c), about 2c of three-cheese mexican shredded cheese, about 6oz mushrooms (sliced, placed both under and on top of cheese), a bit more than 1/2lb of bacon (6 strips of 11, where 11 was 1/2lb), and listen to yourself about how much cheese and not to Jess"
+  - date: "6/23/16"
+    comment: "Best (and most pizza-like) pizza we've ever made. Mel's kitchen dough (single serving) makes enough for one pie on the large silver tray; we use 1c of hazan's tomato sauce (one recipe makes ~3c), about 2c of three-cheese mexican shredded cheese, about 6oz mushrooms (sliced, placed both under and on top of cheese), a bit more than 1/2lb of bacon (6 strips of 11, where 11 was 1/2lb), and listen to yourself about how much cheese and not to Jess"
 - count: 3
   index: 107
   nickname: ""
@@ -954,7 +1083,8 @@
   last_suggested_date: '2019-12-07'
   recipe_urls: []
   comments:
-  - "pretty time-intensive meal, but delicious"
+  - date: "11/7/17"
+    comment: "pretty time-intensive meal, but delicious"
 - count: 1
   index: 106
   nickname: ""
@@ -965,7 +1095,8 @@
   last_suggested_date: '2020-02-08'
   recipe_urls: []
   comments:
-  - "It's okay."
+  - date: "5/18/16"
+    comment: "It's okay."
 - count: 1
   index: 105
   nickname: ""
@@ -987,7 +1118,8 @@
   last_suggested_date: '2020-01-25'
   recipe_urls: []
   comments:
-  - "needs fewer peas, way more bacon (I'd suggest half a pound of bacon for a 1.5 times recipe.)"
+  - date: "4/26/16"
+    comment: "needs fewer peas, way more bacon (I'd suggest half a pound of bacon for a 1.5 times recipe.)"
 - count: 2
   index: 103
   nickname: ""
@@ -998,7 +1130,8 @@
   last_suggested_date: '2020-06-20'
   recipe_urls: []
   comments:
-  - "we make it with rice, and it's alright for a change, and it made a ton, but I'm pretty sure I like it better without the rice"
+  - date: "11/9/16"
+    comment: "we make it with rice, and it's alright for a change, and it made a ton, but I'm pretty sure I like it better without the rice"
 - count: 1
   index: 102
   nickname: ""
@@ -1040,9 +1173,12 @@
   last_suggested_date: '2020-04-26'
   recipe_urls: []
   comments:
-  - "so good with avocado and sour cream...also, Jess has mastered cooking rice"
-  - "marinade sliced round steak in worcestire, brown sugar, lime juice for an hour prior to cooking (don't cook in all of liquid! maybe just use some of it)"
-  - "jess says for beans and peppers: caramelize 2 onions, then add 2 bell peppers, then add 2 cans of pinto beans, 2-3 garlic cloves, chili powder, tiny bit of cumin, and oregano, salt and pepper. then remove them and add in 3 chicken breasts (1.5 lbs.) cubed and seasoned with lawry's, salt, pepper, chili powder, and cook in butter."
+  - date: "6/2/16"
+    comment: "so good with avocado and sour cream...also, Jess has mastered cooking rice"
+  - date: "2/20/17"
+    comment: "marinade sliced round steak in worcestire, brown sugar, lime juice for an hour prior to cooking (don't cook in all of liquid! maybe just use some of it)"
+  - date: "5/9/19"
+    comment: "jess says for beans and peppers: caramelize 2 onions, then add 2 bell peppers, then add 2 cans of pinto beans, 2-3 garlic cloves, chili powder, tiny bit of cumin, and oregano, salt and pepper. then remove them and add in 3 chicken breasts (1.5 lbs.) cubed and seasoned with lawry's, salt, pepper, chili powder, and cook in butter."
 - count: 1
   index: 98
   nickname: ""
@@ -1064,7 +1200,8 @@
   recipe_urls:
   - "https://pinchofyum.com/easy-crockpot-carnitas"
   comments:
-  - "so good..."
+  - date: "3/23/16"
+    comment: "so good..."
 - count: 2
   index: 96
   nickname: ""
@@ -1086,8 +1223,10 @@
   recipe_urls:
   - "http://www.bonappetit.com/recipe/tom-kha-gai-chicken-coconut-soup"
   comments:
-  - "soooo good"
-  - "\"Whenever I'm sick, this is the soup I want.\" -Jess"
+  - date: "3/12/16"
+    comment: "soooo good"
+  - date: "7/28/16"
+    comment: "\"Whenever I'm sick, this is the soup I want.\" -Jess"
 - count: 1
   index: 94
   nickname: ""
@@ -1097,7 +1236,8 @@
   last_suggested_date: '2020-01-18'
   recipe_urls: []
   comments:
-  - "focaccia bread wasn't so great, for some reason--I think I rolled it out too flat"
+  - date: "2/14/16"
+    comment: "focaccia bread wasn't so great, for some reason--I think I rolled it out too flat"
 - count: 1
   index: 93
   nickname: ""
@@ -1119,9 +1259,14 @@
   recipe_urls:
   - "https://bestrecipebox.com/oven-roast-pork-loin-roast/"
   comments:
-  - "with mashed potatoes, green beans"
-  - "with mashed potatoes, kale from garden"
-  - "with roasted potatoes: 450F, olive oil s&p and garlic, just put in for 15-20 minutes BUT DO NOT STIR--they get crispier that way"
+  - date: "11/28/16"
+    comment: "with mashed potatoes, green beans"
+  - date: "2/7/17"
+    comment: "with mashed potatoes, green beans"
+  - date: "8/6/17"
+    comment: "with mashed potatoes, kale from garden"
+  - date: "7/23/18"
+    comment: "with roasted potatoes: 450F, olive oil s&p and garlic, just put in for 15-20 minutes BUT DO NOT STIR--they get crispier that way"
 - count: 2
   index: 91
   nickname: ""
@@ -1151,7 +1296,8 @@
   last_suggested_date: '2020-01-25'
   recipe_urls: []
   comments:
-  - "without carrots, with crostini; I cook because Jess is sick."
+  - date: "1/4/16"
+    comment: "without carrots, with crostini; I cook because Jess is sick."
 - count: 1
   index: 88
   nickname: ""
@@ -1171,10 +1317,14 @@
   last_suggested_date: '2019-11-16'
   recipe_urls: []
   comments:
-  - "incredible: garlic, olive oil, cannelini beans, chicken broth...and that's it, plus salt and pepper and we add cheese as well"
-  - "with chickpeas only, and it's still pretty good"
-  - "with a side of grilled toast; also we use beef broth for the first time because we finally have some"
-  - "we use four cans of various beans servings:4"
+  - date: "12/8/15"
+    comment: "incredible: garlic, olive oil, cannelini beans, chicken broth...and that's it, plus salt and pepper and we add cheese as well"
+  - date: "8/8/16"
+    comment: "with chickpeas only, and it's still pretty good"
+  - date: "3/24/17"
+    comment: "with a side of grilled toast; also we use beef broth for the first time because we finally have some"
+  - date: "11/25/19"
+    comment: "we use four cans of various beans servings:4"
 - count: 1
   index: 86
   nickname: ""
@@ -1185,7 +1335,8 @@
   last_suggested_date: '2020-04-25'
   recipe_urls: []
   comments:
-  - "macaroni noodles, with a strip of bacon each and parmesan, salt/pepper added as well"
+  - date: "12/2/15"
+    comment: "macaroni noodles, with a strip of bacon each and parmesan, salt/pepper added as well"
 - count: 1
   index: 85
   nickname: ""
@@ -1219,8 +1370,10 @@
   recipe_urls:
   - "https://cupofjo.com/2013/07/the-best-caesar-salad-with-a-new-dressing/"
   comments:
-  - "chicken thighs and croutons...so good"
-  - "for thighs, use about 5 (2 lbs ?)"
+  - date: "10/28/15"
+    comment: "chicken thighs and croutons...so good"
+  - date: "12/3/15"
+    comment: "for thighs, use about 5 (2 lbs ?)"
 - count: 3
   index: 82
   nickname: ""
@@ -1233,7 +1386,8 @@
   - "http://www.foodnetwork.com/recipes/food-network-kitchens/butternut-squash-soup-recipe1.html"
   - "http://www.seriouseats.com/recipes/2016/11/classic-butternut-squash-soup-recipe.html"
   comments:
-  - "I baked them a few nights ago, and that took forever, but the soup turned out really good actually; Jess loved it"
+  - date: "10/24/15"
+    comment: "I baked them a few nights ago, and that took forever, but the soup turned out really good actually; Jess loved it"
 - count: 4
   index: 81
   nickname: ""
@@ -1245,8 +1399,10 @@
   recipe_urls:
   - "http://www.bonappetit.com/recipe/perfect-pan-roasted-chicken-thighs"
   comments:
-  - "Harrison's recipe, and this shit is GOOD and (critically:) simple"
-  - "we drain some liquid before putting in the oven, and then again when flipping, which I think helped reduce the splatter."
+  - date: "10/20/15"
+    comment: "Harrison's recipe, and this shit is GOOD and (critically:) simple"
+  - date: "7/10/18"
+    comment: "we drain some liquid before putting in the oven, and then again when flipping, which I think helped reduce the splatter."
 - count: 9
   index: 80
   nickname: ""
@@ -1259,10 +1415,14 @@
   - "http://thepioneerwoman.com/cooking/fancy-macaroni/"
   - "http://www.seriouseats.com/recipes/2017/01/3-ingredient-stovetop-mac-and-cheese-recipe.html"
   comments:
-  - "more time consuming than expected, but it turned out delicious! we added bacon bits and mushrooms, and we have SO much left over"
-  - "Jess cooks. It made SO MUCH. Like 8 servings"
-  - "equal parts mac, evaporated milk, and cheddar cheese (12 oz each); cook mac in just enough water to cover it; prepare cheese BEFOREHAND and do NOT use vitamix"
-  - "add mushrooms and bacon, and have roasted broccoli on the side (475F for 15 minutes) which is delicious. mac recipe doubled = servings:8"
+  - date: "10/17/15"
+    comment: "more time consuming than expected, but it turned out delicious! we added bacon bits and mushrooms, and we have SO much left over"
+  - date: "11/2/16"
+    comment: "Jess cooks. It made SO MUCH. Like 8 servings"
+  - date: "2/2/17"
+    comment: "equal parts mac, evaporated milk, and cheddar cheese (12 oz each); cook mac in just enough water to cover it; prepare cheese BEFOREHAND and do NOT use vitamix"
+  - date: "4/15/19"
+    comment: "add mushrooms and bacon, and have roasted broccoli on the side (475F for 15 minutes) which is delicious. mac recipe doubled = servings:8"
 - count: 11
   index: 79
   nickname: ""
@@ -1273,8 +1433,10 @@
   last_suggested_date: '2020-01-04'
   recipe_urls: []
   comments:
-  - "delicious--Mom's recipe"
-  - "needs more broth--it all disappears if you put 1.25c of noodles in there! add like two more cups probably (just like mom says, go figure)."
+  - date: "10/14/15"
+    comment: "delicious--Mom's recipe"
+  - date: "12/18/19"
+    comment: "needs more broth--it all disappears if you put 1.25c of noodles in there! add like two more cups probably (just like mom says, go figure)."
 - count: 7
   index: 78
   nickname: ""
@@ -1285,8 +1447,10 @@
   last_suggested_date: '2019-12-14'
   recipe_urls: []
   comments:
-  - "1 lb of pasta is a little much--try 2/3 lb. also, we cooked the bacon, then removed it, drained a bit of grease, then added the olive oil and garlic, and then added the bacon back in once chopped up."
-  - "Jess aimed for 1/2 lb. of pasta and this was our best yet!"
+  - date: "3/28/16"
+    comment: "1 lb of pasta is a little much--try 2/3 lb. also, we cooked the bacon, then removed it, drained a bit of grease, then added the olive oil and garlic, and then added the bacon back in once chopped up."
+  - date: "6/21/16"
+    comment: "Jess aimed for 1/2 lb. of pasta and this was our best yet!"
 - count: 2
   index: 77
   nickname: ""
@@ -1298,7 +1462,8 @@
   recipe_urls:
   - "http://www.marthastewart.com/852118/pork-roast-caramelized-parsnips"
   comments:
-  - "delicious! and extremely easy"
+  - date: "9/2/15"
+    comment: "delicious! and extremely easy"
 - count: 1
   index: 76
   nickname: ""
@@ -1309,7 +1474,8 @@
   recipe_urls:
   - "http://www.easy-french-food.com/coq-au-vin-recipe.html"
   comments:
-  - "in the slow-cooker; 1.7 lbs of bone-in chicken thighs, with 3 pieces cooked bacon, 1 onion (these 3 things all pan-fried beforehand), 1c of some cheap chardonnay, 1c of broth, and 1t each of dried tarragon, sage, thyme, and rosemary; only vaguely inspired by the recipe in the link"
+  - date: "7/9/15"
+    comment: "in the slow-cooker; 1.7 lbs of bone-in chicken thighs, with 3 pieces cooked bacon, 1 onion (these 3 things all pan-fried beforehand), 1c of some cheap chardonnay, 1c of broth, and 1t each of dried tarragon, sage, thyme, and rosemary; only vaguely inspired by the recipe in the link"
 - count: 9
   index: 75
   nickname: ""
@@ -1321,9 +1487,12 @@
   recipe_urls:
   - "http://www.marthastewart.com/318389/oven-roasted-ribs-with-barbecue-sauce"
   comments:
-  - "These were delicious and amazing. St Louis style, 3 lbs. @$5/lb."
-  - "baked for 50min at 350F, then 10 at 425F with bbq sauce"
-  - "one 3.5 lb. rack, servings:6"
+  - date: "7/7/15"
+    comment: "These were delicious and amazing. St Louis style, 3 lbs. @$5/lb."
+  - date: "4/16/18"
+    comment: "baked for 50min at 350F, then 10 at 425F with bbq sauce"
+  - date: "1/8/19"
+    comment: "one 3.5 lb. rack, servings:6"
 - count: 1
   index: 74
   nickname: ""
@@ -1335,7 +1504,8 @@
   recipe_urls:
   - "http://www.thekitchn.com/how-to-cook-perfect-pork-chops-in-the-oven-cooking-lessons-from-the-kitchn-194257"
   comments:
-  - "Delicious! 1-inch thick, cooked at 400F for 10 mins or so, after a 30 min salt brine and then searing in an oven-hot cast iron."
+  - date: "6/16/15"
+    comment: "Delicious! 1-inch thick, cooked at 400F for 10 mins or so, after a 30 min salt brine and then searing in an oven-hot cast iron."
 - count: 3
   index: 73
   nickname: ""
@@ -1345,7 +1515,8 @@
   last_suggested_date: '2019-11-09'
   recipe_urls: []
   comments:
-  - "We blanch 5 lbs, and end up with 3.25 lbs because a lot of those guys were pretty nasty."
+  - date: "6/14/15"
+    comment: "We blanch 5 lbs, and end up with 3.25 lbs because a lot of those guys were pretty nasty."
 - count: 1
   index: 72
   nickname: ""
@@ -1357,7 +1528,8 @@
   last_suggested_date: '2019-08-31'
   recipe_urls: []
   comments:
-  - "one (cubed) chicken breast made enough for six tacos; lightly breaded in panko crumbs, served with refried black beans, fresh garden tomato, cheddar cheese, and avocado"
+  - date: "5/26/15"
+    comment: "one (cubed) chicken breast made enough for six tacos; lightly breaded in panko crumbs, served with refried black beans, fresh garden tomato, cheddar cheese, and avocado"
 - count: 1
   index: 71
   nickname: ""
@@ -1368,7 +1540,8 @@
   last_suggested_date: '2020-02-08'
   recipe_urls: []
   comments:
-  - "nothing simpler; half a stick of butter, rosemary, a lemon, some paprika maybe; 35 minutes at 450F"
+  - date: "5/14/15"
+    comment: "nothing simpler; half a stick of butter, rosemary, a lemon, some paprika maybe; 35 minutes at 450F"
 - count: 2
   index: 70
   nickname: ""
@@ -1379,7 +1552,8 @@
   last_suggested_date: '2020-04-11'
   recipe_urls: []
   comments:
-  - "in imitation of Hooked's: panko crumbs on tilapia filet, mayo sprinkled in dill on a toasted HEB bolillo; dotted with sweet chili sauce (rooster chili sauce + white sugar); delicious!"
+  - date: "5/4/15"
+    comment: "in imitation of Hooked's: panko crumbs on tilapia filet, mayo sprinkled in dill on a toasted HEB bolillo; dotted with sweet chili sauce (rooster chili sauce + white sugar); delicious!"
 - count: 4
   index: 69
   nickname: ""
@@ -1391,8 +1565,10 @@
   last_suggested_date: '2019-08-24'
   recipe_urls: []
   comments:
-  - "unbelievable; so simple! delicious, and the ground sausage was an awesome combo; this actually tasted like italian food--the first time I've ever cooked such a thing"
-  - "we use 5 lbs. of blanched garden tomatoes, and it turns out soupy but still delicious; also we add three garlic cloves, and puree when it was done cooking"
+  - date: "4/18/15"
+    comment: "unbelievable; so simple! delicious, and the ground sausage was an awesome combo; this actually tasted like italian food--the first time I've ever cooked such a thing"
+  - date: "6/8/15"
+    comment: "we use 5 lbs. of blanched garden tomatoes, and it turns out soupy but still delicious; also we add three garlic cloves, and puree when it was done cooking"
 - count: 4
   index: 68
   nickname: ""
@@ -1402,10 +1578,14 @@
   last_suggested_date: '2020-02-22'
   recipe_urls: []
   comments:
-  - "pretty good! added a bit more tahini than suggested, I think; also, probably needs more spices; and a thicker yogurt, too. and don't forget to flip the pita bread triangles in the oven! made 5 servings"
-  - "1.5 times the recipe gave us 5 servings again. don't multiply the oil, though, and infuse the garlic in the oil a la Hazan rather than just dicing it up. also, cook spices in butter and then add chickpeas--add TONS of spices because it's not that flavorful. still add spices to the oil. greek yogurt for sure and not traditional. when you eat, top with brown sugar."
-  - "Make sure not to burn the almonds! Also, maybe we should be cooking the chickpeas in the spices like in the chickpea curry, and the oil could just be the garlic fried in oil. and add the almonds last, or toast separately so they don't burn"
-  - "see last notes"
+  - date: "4/17/15"
+    comment: "pretty good! added a bit more tahini than suggested, I think; also, probably needs more spices; and a thicker yogurt, too. and don't forget to flip the pita bread triangles in the oven! made 5 servings"
+  - date: "5/18/15"
+    comment: "1.5 times the recipe gave us 5 servings again. don't multiply the oil, though, and infuse the garlic in the oil a la Hazan rather than just dicing it up. also, cook spices in butter and then add chickpeas--add TONS of spices because it's not that flavorful. still add spices to the oil. greek yogurt for sure and not traditional. when you eat, top with brown sugar."
+  - date: "2/9/16"
+    comment: "Make sure not to burn the almonds! Also, maybe we should be cooking the chickpeas in the spices like in the chickpea curry, and the oil could just be the garlic fried in oil. and add the almonds last, or toast separately so they don't burn"
+  - date: "9/4/16"
+    comment: "see last notes"
 - count: 2
   index: 67
   nickname: ""
@@ -1416,7 +1596,8 @@
   last_suggested_date: '2020-02-22'
   recipe_urls: []
   comments:
-  - "pesto, parmesan cheese, burger, toasted bolillos, mayo = maybe the best burger I think I've ever had, definitely the best one I've ever made; let the pan get nice and hot, then put loosely balled burgers on (break up beef entirely before balling), then smash."
+  - date: "3/29/15"
+    comment: "pesto, parmesan cheese, burger, toasted bolillos, mayo = maybe the best burger I think I've ever had, definitely the best one I've ever made; let the pan get nice and hot, then put loosely balled burgers on (break up beef entirely before balling), then smash."
 - count: 2
   index: 66
   nickname: ""
@@ -1426,8 +1607,10 @@
   last_suggested_date: '2020-02-29'
   recipe_urls: []
   comments:
-  - "made two doughs, resulting in tons of pizza; probably 4 servings each. it turned out so well! shit. pre-heat the cookie sheet."
-  - "We use the bread machine's recipe, which takes 1.5 hours but it's nice not having to do any work."
+  - date: "3/15/15"
+    comment: "made two doughs, resulting in tons of pizza; probably 4 servings each. it turned out so well! shit. pre-heat the cookie sheet."
+  - date: "6/11/15"
+    comment: "We use the bread machine's recipe, which takes 1.5 hours but it's nice not having to do any work."
 - count: 3
   index: 65
   nickname: ""
@@ -1438,7 +1621,8 @@
   last_suggested_date: '2020-04-25'
   recipe_urls: []
   comments:
-  - "we double the actual ramen recipe and it makes plenty"
+  - date: "5/29/16"
+    comment: "we double the actual ramen recipe and it makes plenty"
 - count: 1
   index: 64
   nickname: ""
@@ -1449,7 +1633,8 @@
   recipe_urls:
   - "http://www.foodnetwork.com/recipes/alton-brown/steak-au-poivre-recipe.html"
   comments:
-  - "amazing. for the potatoes: chopped, boiled until tender, then pan fried in butter with equal parts sage, rosemary, thyme"
+  - date: "1/19/15"
+    comment: "amazing. for the potatoes: chopped, boiled until tender, then pan fried in butter with equal parts sage, rosemary, thyme"
 - count: 1
   index: 63
   nickname: ""
@@ -1462,7 +1647,8 @@
   recipe_urls:
   - "http://ladyandpups.com/2014/01/04/spicy-miso-ramen-express-eng/"
   comments:
-  - "holy shit, we just made amazing ramen; we used white ramen with bonito (and no red miso), also we just did normal eggs, but still we high-fived like four times while eating this because it was that good"
+  - date: "1/10/15"
+    comment: "holy shit, we just made amazing ramen; we used white ramen with bonito (and no red miso), also we just did normal eggs, but still we high-fived like four times while eating this because it was that good"
 - count: 2
   index: 62
   nickname: ""
@@ -1485,8 +1671,10 @@
   last_suggested_date: '2020-02-01'
   recipe_urls: []
   comments:
-  - "beets, carrots, sweet potatoes, garlic, for ~30 mins at 425F"
-  - "beets, carrots, sweet potatoes, garlic"
+  - date: "11/11/14"
+    comment: "beets, carrots, sweet potatoes, garlic, for ~30 mins at 425F"
+  - date: "4/13/16"
+    comment: "beets, carrots, sweet potatoes, garlic"
 - count: 8
   index: 60
   nickname: ""
@@ -1498,11 +1686,16 @@
   recipe_urls:
   - "http://stylishcuisine.com/?p=87"
   comments:
-  - "maybe the greatest, simplest soup ever; fucking amazingly rich and delicious"
-  - "double or triple it"
-  - "double or triple it; but you don't have to double the oil"
-  - "yeah, okay, so use almost all of one those big cans of roma tomatoes, and then two cans of chickpeas, two cups of broth, and then at least 1/3c of olive oil but no more than 1/2c"
-  - "Jess cooks it herself while I'm at basketball"
+  - date: "10/23/14"
+    comment: "maybe the greatest, simplest soup ever; fucking amazingly rich and delicious"
+  - date: "1/7/15"
+    comment: "double or triple it"
+  - date: "3/9/15"
+    comment: "double or triple it; but you don't have to double the oil"
+  - date: "3/25/15"
+    comment: "yeah, okay, so use almost all of one those big cans of roma tomatoes, and then two cans of chickpeas, two cups of broth, and then at least 1/3c of olive oil but no more than 1/2c"
+  - date: "6/23/15"
+    comment: "Jess cooks it herself while I'm at basketball"
 - count: 3
   index: 59
   nickname: ""
@@ -1513,9 +1706,12 @@
   recipe_urls:
   - "http://www.vegetariantimes.com/recipe/homemade-falafel/"
   comments:
-  - "delicious! oil your hands to make the patties, fine if they be sticky"
-  - "the recipe makes about five servings, if Jess has one patty and I have two; they're very good! maybe try panko next time? served with yogurt, spinach, and cucumber in a pita pocket"
-  - "Just double it. It barely makes 4 servings, really. Also don't let Jess make the yogurt sauce!!"
+  - date: "9/24/14"
+    comment: "delicious! oil your hands to make the patties, fine if they be sticky"
+  - date: "5/12/15"
+    comment: "the recipe makes about five servings, if Jess has one patty and I have two; they're very good! maybe try panko next time? served with yogurt, spinach, and cucumber in a pita pocket"
+  - date: "7/16/15"
+    comment: "Just double it. It barely makes 4 servings, really. Also don't let Jess make the yogurt sauce!!"
 - count: 2
   index: 58
   nickname: ""
@@ -1526,7 +1722,8 @@
   last_suggested_date: '2019-08-31'
   recipe_urls: []
   comments:
-  - "with spinach, green onions, pork, fried egg, fish sauce, tamarind paste, chili flakes"
+  - date: "8/24/14"
+    comment: "with spinach, green onions, pork, fried egg, fish sauce, tamarind paste, chili flakes"
 - count: 1
   index: 57
   nickname: ""
@@ -1561,8 +1758,10 @@
   recipe_urls:
   - "http://www.bakedbyrachel.com/slow-cooker-chicken-tortilla-soup/"
   comments:
-  - "amazingly delicious, and so amazingly simple"
-  - "I used 4c of broth instead of 5c."
+  - date: "7/30/14"
+    comment: "amazingly delicious, and so amazingly simple"
+  - date: "7/17/18"
+    comment: "I used 4c of broth instead of 5c."
 - count: 1
   index: 54
   nickname: ""
@@ -1572,7 +1771,8 @@
   last_suggested_date: '2020-02-29'
   recipe_urls: []
   comments:
-  - "via vegie num num"
+  - date: "7/29/14"
+    comment: "via vegie num num"
 - count: 2
   index: 53
   nickname: ""
@@ -1584,8 +1784,10 @@
   recipe_urls:
   - "https://pinchofyum.com/creamy-thai-sweet-potato-curry"
   comments:
-  - "coconut milk, red onions, lentils, brown sugar, curry powder, chili powder, cayenne, paprika"
-  - "needs some lime. also, we doubled recipe and used 1.5c broth, but probably should have done just 1c"
+  - date: "7/24/14"
+    comment: "coconut milk, red onions, lentils, brown sugar, curry powder, chili powder, cayenne, paprika"
+  - date: "2/13/19"
+    comment: "needs some lime. also, we doubled recipe and used 1.5c broth, but probably should have done just 1c"
 - count: 2
   index: 52
   nickname: ""
@@ -1605,8 +1807,10 @@
   last_suggested_date: '2019-11-09'
   recipe_urls: []
   comments:
-  - "not mexican--w/e; don't overcook eggs! lots of paprika is key, all tomatoes and no sauce would be nice too"
-  - "much better! key is not overcooking eggs"
+  - date: "7/9/14"
+    comment: "not mexican--w/e; don't overcook eggs! lots of paprika is key, all tomatoes and no sauce would be nice too"
+  - date: "8/4/14"
+    comment: "much better! key is not overcooking eggs"
 - count: 1
   index: 50
   nickname: ""
@@ -1619,7 +1823,8 @@
   last_suggested_date: '2019-12-07'
   recipe_urls: []
   comments:
-  - "from the slow-cooker recipe book; used 1.6 lbs. of meat and that was still plenty"
+  - date: "7/7/14"
+    comment: "from the slow-cooker recipe book; used 1.6 lbs. of meat and that was still plenty"
 - count: 1
   index: 49
   nickname: ""
@@ -1629,7 +1834,8 @@
   last_suggested_date: '2019-10-19'
   recipe_urls: []
   comments:
-  - "bacon lettuce avocado tomato"
+  - date: "7/6/14"
+    comment: "bacon lettuce avocado tomato"
 - count: 1
   index: 48
   nickname: ""
@@ -1641,7 +1847,8 @@
   last_suggested_date: '2020-01-18'
   recipe_urls: []
   comments:
-  - "talk about people doing jobs they hate, and dumb people who click Edit to copy/paste"
+  - date: "6/23/14"
+    comment: "talk about people doing jobs they hate, and dumb people who click Edit to copy/paste"
 - count: 7
   index: 47
   nickname: ""
@@ -1652,9 +1859,12 @@
   recipe_urls:
   - "https://www.myrecipes.com/recipe/extra-easy-lasagna"
   comments:
-  - "Jess does it!"
-  - "we accidentally made this a little better. basically, we doubled the meat sauce (including onions and some mushrooms), but didn't double everything else, and so kept the same amount of layers and all that, in 13x9 pyrex. servings:12"
-  - "instructions from last time were vague, so to be clear: double the beef (2 lbs), add some mushrooms and an onion, and use a jar (25 oz) of pasta sauce and also another cup or so of pasta sauce that we had lying around. also 15oz ricotta and 10oz mozzarrella. 8 lasagna noodle strips total. turned out great."
+  - date: "6/19/14"
+    comment: "Jess does it!"
+  - date: "12/2/18"
+    comment: "we accidentally made this a little better. basically, we doubled the meat sauce (including onions and some mushrooms), but didn't double everything else, and so kept the same amount of layers and all that, in 13x9 pyrex. servings:12"
+  - date: "10/7/19"
+    comment: "instructions from last time were vague, so to be clear: double the beef (2 lbs), add some mushrooms and an onion, and use a jar (25 oz) of pasta sauce and also another cup or so of pasta sauce that we had lying around. also 15oz ricotta and 10oz mozzarrella. 8 lasagna noodle strips total. turned out great."
 - count: 2
   index: 46
   nickname: "CkSd3"
@@ -1664,7 +1874,8 @@
   last_suggested_date: '2019-12-07'
   recipe_urls: []
   comments:
-  - "as tacos, only with refried black beans instead of kidney beans, and yogurt, and valentina, and avocado"
+  - date: "7/22/14"
+    comment: "as tacos, only with refried black beans instead of kidney beans, and yogurt, and valentina, and avocado"
 - count: 1
   index: 45
   nickname: ""
@@ -1675,7 +1886,8 @@
   last_suggested_date: '2019-10-19'
   recipe_urls: []
   comments:
-  - "shredded zucchini sauteed with one bell pepper, one serrano pepper, served with angel hair pasta and parmesan cheese...surprisingly delicious"
+  - date: "5/29/14"
+    comment: "shredded zucchini sauteed with one bell pepper, one serrano pepper, served with angel hair pasta and parmesan cheese...surprisingly delicious"
 - count: 1
   index: 44
   nickname: ""
@@ -1694,7 +1906,8 @@
   last_suggested_date: '2019-11-16'
   recipe_urls: []
   comments:
-  - "ahh, gas grills make it so easy. grills and beer and summer too good"
+  - date: "4/22/14"
+    comment: "ahh, gas grills make it so easy. grills and beer and summer too good"
 - count: 1
   index: 42
   nickname: ""
@@ -1717,7 +1930,8 @@
   recipe_urls:
   - "http://www.justonecookbook.com/recipes/chicken-katsu-don/"
   comments:
-  - "pretty good! but maybe use miso without the seaweed"
+  - date: "3/1/14"
+    comment: "pretty good! but maybe use miso without the seaweed"
 - count: 1
   index: 40
   nickname: ""
@@ -1728,7 +1942,8 @@
   last_suggested_date: '2020-02-15'
   recipe_urls: []
   comments:
-  - "good! very simple, and tasty"
+  - date: "2/23/14"
+    comment: "good! very simple, and tasty"
 - count: 1
   index: 39
   nickname: ""
@@ -1738,7 +1953,8 @@
   last_suggested_date: '2019-08-24'
   recipe_urls: []
   comments:
-  - "scallops via Julia Child cookbook, mushrooms via mushroom kit!"
+  - date: "1/29/14"
+    comment: "scallops via Julia Child cookbook, mushrooms via mushroom kit!"
 - count: 1
   index: 38
   nickname: ""
@@ -1758,7 +1974,8 @@
   last_suggested_date: '2019-11-02'
   recipe_urls: []
   comments:
-  - "too easy, and just fine and delicious"
+  - date: "1/3/14"
+    comment: "too easy, and just fine and delicious"
 - count: 1
   index: 36
   nickname: ""
@@ -1780,7 +1997,8 @@
   last_suggested_date: '2020-04-04'
   recipe_urls: []
   comments:
-  - "too lemony"
+  - date: "1/1/14"
+    comment: "too lemony"
 - count: 6
   index: 34
   nickname: "CkR4"
@@ -1794,11 +2012,16 @@
   - "http://www.amateurgourmet.com/2010/04/bombay_chicken_curry.html"
   - "https://www.budgetbytes.com/2016/05/thai-coconut-curry-braised-chicken-thighs/"
   comments:
-  - "used 3 jalapenos and it is VERY spicy"
-  - "goddamn delicious. perfect. 2 jalapenos is perfect"
-  - "lime is seriously CRITICAL; yogurt not necessary"
-  - "we also add an onion and diced tomatoes; super liquidy so if you add the tomatoes maybe skip the broth"
-  - "Doubled the recipe with 10 thighs at about 3 lbs. We did not double the liquid, just did one can coconut milk, 1c chicken broth. Added a bit of tomatoes again but I wish we hadn't."
+  - date: "12/16/13"
+    comment: "used 3 jalapenos and it is VERY spicy"
+  - date: "11/4/14"
+    comment: "goddamn delicious. perfect. 2 jalapenos is perfect"
+  - date: "3/17/16"
+    comment: "lime is seriously CRITICAL; yogurt not necessary"
+  - date: "10/24/17"
+    comment: "we also add an onion and diced tomatoes; super liquidy so if you add the tomatoes maybe skip the broth"
+  - date: "12/17/18"
+    comment: "Doubled the recipe with 10 thighs at about 3 lbs. We did not double the liquid, just did one can coconut milk, 1c chicken broth. Added a bit of tomatoes again but I wish we hadn't."
 - count: 1
   index: 33
   nickname: ""
@@ -1820,7 +2043,8 @@
   last_suggested_date: '2019-12-07'
   recipe_urls: []
   comments:
-  - "somehow even better than yesterday"
+  - date: "11/23/13"
+    comment: "somehow even better than yesterday"
 - count: 1
   index: 31
   nickname: ""
@@ -1841,7 +2065,8 @@
   recipe_urls:
   - "http://www.thekitchn.com/recipe-lamb-korma-recipes-from-the-kitchn-196350"
   comments:
-  - "made in slow-cooker, barely fits but turns out great"
+  - date: "5/20/17"
+    comment: "made in slow-cooker, barely fits but turns out great"
 - count: 1
   index: 29
   nickname: ""
@@ -1852,7 +2077,8 @@
   last_suggested_date: '2019-08-31'
   recipe_urls: []
   comments:
-  - "soooo filling and pretty good"
+  - date: "10/30/13"
+    comment: "soooo filling and pretty good"
 - count: 1
   index: 28
   nickname: "CkSd2"
@@ -1863,7 +2089,8 @@
   recipe_urls:
   - "http://thepioneerwoman.com/cooking/2012/01/perfect-french-fries/"
   comments:
-  - "unbelievable...need a better scooper though"
+  - date: "10/20/13"
+    comment: "unbelievable...need a better scooper though"
 - count: 1
   index: 27
   nickname: ""
@@ -1874,7 +2101,8 @@
   last_suggested_date: '2020-03-28'
   recipe_urls: []
   comments:
-  - "first smoking! 5 lb. chicken over 2 hrs--quicker than expected but turned out good"
+  - date: "10/6/13"
+    comment: "first smoking! 5 lb. chicken over 2 hrs--quicker than expected but turned out good"
 - count: 5
   index: 26
   nickname: "CkP3"
@@ -1903,9 +2131,12 @@
   last_suggested_date: '2019-12-28'
   recipe_urls: []
   comments:
-  - "dent in the middle, grill til 160F, but coals weren't really hot enough! took too long, it seemed"
-  - "on charcoal grill; roll up newspaper into coils, starting from corner, three rolls, and coil into chimney, leaving air in the center--works perfectly! we drink wine and beer and sit outside in chairs listening to Can and Pink Floyd's \"Animals\", catching fireflies and talking about gun control and revolution"
-  - "Tonight I made 7 burgers from 1.5 lbs of beef, breaking up the beef into the little strands as much as possible, and then lightly (as lightly as possible) clumping them back together into patties. Seasoning with salt, pepper, and Lawry's salt, and then cooking in the cast iron and flipping once, smashing, and keeping all the lovely grease around. They were delicious, and I ate mine on a so-fresh-they-were-hot Fiesta bolillo with the last beautiful tomato from the garden and a slice of cheddar cheese."
+  - date: "10/20/13"
+    comment: "dent in the middle, grill til 160F, but coals weren't really hot enough! took too long, it seemed"
+  - date: "5/2/15"
+    comment: "on charcoal grill; roll up newspaper into coils, starting from corner, three rolls, and coil into chimney, leaving air in the center--works perfectly! we drink wine and beer and sit outside in chairs listening to Can and Pink Floyd's \"Animals\", catching fireflies and talking about gun control and revolution"
+  - date: "6/24/15"
+    comment: "Tonight I made 7 burgers from 1.5 lbs of beef, breaking up the beef into the little strands as much as possible, and then lightly (as lightly as possible) clumping them back together into patties. Seasoning with salt, pepper, and Lawry's salt, and then cooking in the cast iron and flipping once, smashing, and keeping all the lovely grease around. They were delicious, and I ate mine on a so-fresh-they-were-hot Fiesta bolillo with the last beautiful tomato from the garden and a slice of cheddar cheese."
 - count: 8
   index: 23
   nickname: "CkM6"
@@ -1917,12 +2148,18 @@
   recipe_urls:
   - "https://www.mynewroots.org/site/2011/07/raw-taco-fiesta-2/"
   comments:
-  - "with red bell peppers! doubled walnuts, which was good, but needed to double cashews as well"
-  - "definitely double both"
-  - "Jess does it alone"
-  - "double everything but maybe not the lemon; also, use less soy sauce in the walnuts (too salty!); also, maybe use pecans and not walnuts since they tend to be a bit cheaper"
-  - "used pecans instead of walnuts; Jess says do 1.5 times soy sauce instead of 2 times"
-  - "Made with half almonds, half pecans. Defrost nuts first or else the almonds never quite blended. Or blend the pecans and almonds in separate batches, either way."
+  - date: "10/19/13"
+    comment: "with red bell peppers! doubled walnuts, which was good, but needed to double cashews as well"
+  - date: "5/5/14"
+    comment: "definitely double both"
+  - date: "7/10/14"
+    comment: "Jess does it alone"
+  - date: "11/2/14"
+    comment: "double everything but maybe not the lemon; also, use less soy sauce in the walnuts (too salty!); also, maybe use pecans and not walnuts since they tend to be a bit cheaper"
+  - date: "6/22/15"
+    comment: "used pecans instead of walnuts; Jess says do 1.5 times soy sauce instead of 2 times"
+  - date: "4/15/18"
+    comment: "Made with half almonds, half pecans. Defrost nuts first or else the almonds never quite blended. Or blend the pecans and almonds in separate batches, either way."
 - count: 2
   index: 22
   nickname: "CkD5"
@@ -1933,8 +2170,10 @@
   last_suggested_date: '2019-11-16'
   recipe_urls: []
   comments:
-  - "surprisingly easy: rub butter and other stuff on it, and bake it for an hour"
-  - "one stick of butter is plenty"
+  - date: "8/3/13"
+    comment: "surprisingly easy: rub butter and other stuff on it, and bake it for an hour"
+  - date: "6/9/14"
+    comment: "one stick of butter is plenty"
 - count: 4
   index: 21
   nickname: "CkS6"
@@ -1944,9 +2183,12 @@
   last_suggested_date: '2020-04-26'
   recipe_urls: []
   comments:
-  - "fried catfish with tartar sauce and pickles on buns--catfish dipped in egg, then in breadcrumbs and flour and salt and pepper, then fried in good amount of veggie oil; jess makes delicious tartar sauce with mayo, lemon juice, salt and pepper, and pickles"
-  - "huge-ass probably sad catfish from Fiesta--good though"
-  - "dip in flour, then in egg, then in panko. the perfect crust! eat with bread-and-butter pickles and mayo on toasted bolillos"
+  - date: "2/24/14"
+    comment: "fried catfish with tartar sauce and pickles on buns--catfish dipped in egg, then in breadcrumbs and flour and salt and pepper, then fried in good amount of veggie oil; jess makes delicious tartar sauce with mayo, lemon juice, salt and pepper, and pickles"
+  - date: "7/14/14"
+    comment: "huge-ass probably sad catfish from Fiesta--good though"
+  - date: "4/20/15"
+    comment: "dip in flour, then in egg, then in panko. the perfect crust! eat with bread-and-butter pickles and mayo on toasted bolillos"
 - count: 1
   index: 20
   nickname: ""
@@ -1967,7 +2209,8 @@
   last_suggested_date: '2020-03-21'
   recipe_urls: []
   comments:
-  - "I realize I like these if I just don't eat the skin"
+  - date: "7/27/16"
+    comment: "I realize I like these if I just don't eat the skin"
 - count: 5
   index: 18
   nickname: "CkP2"
@@ -1978,8 +2221,10 @@
   last_suggested_date: '2019-12-14'
   recipe_urls: []
   comments:
-  - "with chicken, cherry tomatoes, mushrooms"
-  - "with ham and mushrooms, with fresh basil from the garden"
+  - date: "7/29/13"
+    comment: "with chicken, cherry tomatoes, mushrooms"
+  - date: "5/16/14"
+    comment: "with ham and mushrooms, with fresh basil from the garden"
 - count: 1
   index: 17
   nickname: "CkSd1"
@@ -2021,10 +2266,14 @@
   recipe_urls:
   - "http://www.foodnetwork.com/recipes/giada-de-laurentiis/baked-penne-with-roasted-vegetables-recipe.html"
   comments:
-  - "using two zucchini, one green bell pepper, lots of brown mushrooms, and one small onion as the only vegetables--and it's the perfect amount"
-  - "2 zucchini, 1 green bell pepper, <1 cup of peas, 2 cups of cheese (mozarrella and parma) for in the pasta, Hazan's pasta sauce (1 28 oz can), cook pasta ~ almost done, like 8 minutes, bake the pasta at 450 for like...10 minutes and then reduce heat to 400 or 425 for last 15 mins"
-  - "one zucchini and it's perfect. also do globs of mozzarella on top so it gets all gooey and pretty. Aiiii."
-  - "maybe use ricotta instead of mozzarella because it's so annoying to clean up. also, DO NOT cover with foil. DO NOT! and if using Hazan sauce, use 3.5-4c (as in nearly a double batch)"
+  - date: "6/1/15"
+    comment: "using two zucchini, one green bell pepper, lots of brown mushrooms, and one small onion as the only vegetables--and it's the perfect amount"
+  - date: "11/15/17"
+    comment: "2 zucchini, 1 green bell pepper, <1 cup of peas, 2 cups of cheese (mozarrella and parma) for in the pasta, Hazan's pasta sauce (1 28 oz can), cook pasta ~ almost done, like 8 minutes, bake the pasta at 450 for like...10 minutes and then reduce heat to 400 or 425 for last 15 mins"
+  - date: "4/8/18"
+    comment: "one zucchini and it's perfect. also do globs of mozzarella on top so it gets all gooey and pretty. Aiiii."
+  - date: "6/27/20"
+    comment: "maybe use ricotta instead of mozzarella because it's so annoying to clean up. also, DO NOT cover with foil. DO NOT! and if using Hazan sauce, use 3.5-4c (as in nearly a double batch)"
 - count: 7
   index: 13
   nickname: "CkS2"
@@ -2036,7 +2285,8 @@
   last_suggested_date: '2020-02-15'
   recipe_urls: []
   comments:
-  - "so good; followed by Ben n Jerry's ice cream"
+  - date: "4/28/14"
+    comment: "so good; followed by Ben n Jerry's ice cream"
 - count: 1
   index: 12
   nickname: ""
@@ -2067,9 +2317,12 @@
   recipe_urls:
   - "https://gist.github.com/mobeets/a8b72bf10db9299a03c6b59856dc6f5a"
   comments:
-  - "Jess does it all"
-  - "the longer you cook the better, now I believe it"
-  - "we double it (with only three onions) and it is SO much. two large cans of tomatoes, one was diced and the other was san marzano. delicious."
+  - date: "6/8/14"
+    comment: "Jess does it all"
+  - date: "1/25/15"
+    comment: "the longer you cook the better, now I believe it"
+  - date: "7/14/20"
+    comment: "we double it (with only three onions) and it is SO much. two large cans of tomatoes, one was diced and the other was san marzano. delicious."
 - count: 3
   index: 9
   nickname: "CkP1"
@@ -2080,7 +2333,8 @@
   last_suggested_date: '2020-04-26'
   recipe_urls: []
   comments:
-  - "if pecan is crumbed it will thicken up the sauce real nice"
+  - date: "7/2/14"
+    comment: "if pecan is crumbed it will thicken up the sauce real nice"
 - count: 1
   index: 8
   nickname: ""
@@ -2102,10 +2356,14 @@
   last_suggested_date: '2020-01-18'
   recipe_urls: []
   comments:
-  - "highest taste-to-ease ratio ever!"
-  - "Grizzly Bear playing, fans blowing"
-  - "1.5 lbs. chicken = 3 cups"
-  - "Jess does it all herself this time. We dropped the onions completely this time and I really like it this way."
+  - date: "2/19/13"
+    comment: "highest taste-to-ease ratio ever!"
+  - date: "3/12/13"
+    comment: "Grizzly Bear playing, fans blowing"
+  - date: "6/25/14"
+    comment: "1.5 lbs. chicken = 3 cups"
+  - date: "6/9/15"
+    comment: "Jess does it all herself this time. We dropped the onions completely this time and I really like it this way."
 - count: 1
   index: 6
   nickname: ""
@@ -2153,11 +2411,16 @@
   last_suggested_date: '2020-03-28'
   recipe_urls: []
   comments:
-  - "recipe from Sophie (fwd from Jess) in my email"
-  - "use 1/2 can of coconut milk."
-  - "make without lentils, instead adding an extra can of chickpeas (2 cans total), and stewed tomatoes instead of diced, and it turns out delicious. we added chickpeas where we added lentils--right after the onions."
-  - "jess says don't use all chicken broth for the lentils because it's too salty, so maybe do half broth half water"
-  - "we don't add coconut milk at all. served with a side of homemade naan."
+  - date: "1/25/17"
+    comment: "recipe from Sophie (fwd from Jess) in my email"
+  - date: "8/7/18"
+    comment: "use 1/2 can of coconut milk."
+  - date: "10/8/18"
+    comment: "make without lentils, instead adding an extra can of chickpeas (2 cans total), and stewed tomatoes instead of diced, and it turns out delicious. we added chickpeas where we added lentils--right after the onions."
+  - date: "11/5/18"
+    comment: "jess says don't use all chicken broth for the lentils because it's too salty, so maybe do half broth half water"
+  - date: "4/7/20"
+    comment: "we don't add coconut milk at all. served with a side of homemade naan."
 - count: 1
   index: 1
   nickname: ""
@@ -2178,7 +2441,8 @@
   recipe_urls:
   - "https://www.spendwithpennies.com/blueberry-buckle/"
   comments:
-  - "this was really good. jess says she did 2c frozen blueberries"
+  - date: "6/3/20"
+    comment: "this was really good. jess says she did 2c frozen blueberries"
 - count: 1
   index: 76
   nickname: ""
@@ -2190,7 +2454,8 @@
   recipe_urls:
   - "https://www.allrecipes.com/recipe/24972/davids-yellow-cake/"
   comments:
-  - "for the boys' birthday party tomorrow"
+  - date: "5/16/20"
+    comment: "for the boys' birthday party tomorrow"
 - count: 2
   index: 75
   nickname: ""
@@ -2201,8 +2466,10 @@
   recipe_urls:
   - "https://omgchocolatedesserts.com/banana-bread-blondies/"
   comments:
-  - "very unique but delicious! i use 1/2c white sugar, 1/2c brown sugar. i brown the butter for both the blondie and the icing. no extra salt since it's in the butter. and 1t cinnamon. for the frosting, only 1/2 powdered sugar, and 1/4c brown sugar. also no foil in the baking dish."
-  - "a critical note was left out last time, which was to add chocolate chips."
+  - date: "5/3/20"
+    comment: "very unique but delicious! i use 1/2c white sugar, 1/2c brown sugar. i brown the butter for both the blondie and the icing. no extra salt since it's in the butter. and 1t cinnamon. for the frosting, only 1/2 powdered sugar, and 1/4c brown sugar. also no foil in the baking dish."
+  - date: "7/27/20"
+    comment: "a critical note was left out last time, which was to add chocolate chips."
 - count: 1
   index: 74
   nickname: ""
@@ -2214,7 +2481,8 @@
   recipe_urls:
   - "https://www.bonappetit.com/recipe/bas-best-chocolate-chip-cookies/"
   comments:
-  - "pretty good flavor, and even better the next day"
+  - date: "5/2/20"
+    comment: "pretty good flavor, and even better the next day"
 - count: 2
   index: 73
   nickname: ""
@@ -2226,8 +2494,10 @@
   recipe_urls:
   - "https://www.kingarthurflour.com/recipes/flourless-chocolate-cake-recipe"
   comments:
-  - "this turns out amazing. the oiled pan and parchment paper was key for it not sticking. for icing, I melt 3T butter, 3T baking chocolate, and then pour it over (drizzling) straight from the pot onto the cake (maybe an hour after it came out of the oven)."
-  - "for the icing, I think by 3T baking chocolate I must have meant 3 oz? Today I did 2 oz and it was a little short in terms of icing, but still fine."
+  - date: "4/25/20"
+    comment: "this turns out amazing. the oiled pan and parchment paper was key for it not sticking. for icing, I melt 3T butter, 3T baking chocolate, and then pour it over (drizzling) straight from the pot onto the cake (maybe an hour after it came out of the oven)."
+  - date: "6/13/20"
+    comment: "for the icing, I think by 3T baking chocolate I must have meant 3 oz? Today I did 2 oz and it was a little short in terms of icing, but still fine."
 - count: 1
   index: 72
   nickname: ""
@@ -2250,7 +2520,8 @@
   recipe_urls:
   - "https://www.modernhoney.com/love-at-first-sight-chocolate-cake/"
   comments:
-  - "icing was 2 sticks of butter, 1c peanut butter, and about 1c of powdered sugar"
+  - date: "2/2/20"
+    comment: "icing was 2 sticks of butter, 1c peanut butter, and about 1c of powdered sugar"
 - count: 4
   index: 70
   nickname: ""
@@ -2261,7 +2532,8 @@
   recipe_urls:
   - "https://www.inspiredtaste.net/18982/our-favorite-easy-blueberry-muffin-recipe"
   comments:
-  - "Jess says: rotate after 15 minutes for another 5 mins. 75% were cooked through, the the remaining 25% needed another 2-5 minutes."
+  - date: "1/4/20"
+    comment: "Jess says: rotate after 15 minutes for another 5 mins. 75% were cooked through, the the remaining 25% needed another 2-5 minutes."
 - count: 2
   index: 69
   nickname: ""
@@ -2272,7 +2544,8 @@
   last_suggested_date: '2020-04-26'
   recipe_urls: []
   comments:
-  - "Turns out I accidentally forgot to halve the flour last night, but then made what ended up being an even worse mistake by trying to compensate for the extra flour by keeping it in our room overnight, where it is very hot. That just made the sourdough angry and alcoholic tasting. They were fine, but not as good as last time. But a half-recipe is basically the right amount, by the way."
+  - date: "12/14/19"
+    comment: "Turns out I accidentally forgot to halve the flour last night, but then made what ended up being an even worse mistake by trying to compensate for the extra flour by keeping it in our room overnight, where it is very hot. That just made the sourdough angry and alcoholic tasting. They were fine, but not as good as last time. But a half-recipe is basically the right amount, by the way."
 - count: 1
   index: 68
   nickname: ""
@@ -2283,7 +2556,8 @@
   last_suggested_date: '2020-05-23'
   recipe_urls: []
   comments:
-  - "Jess makes it all herself"
+  - date: "10/27/19"
+    comment: "Jess makes it all herself"
 - count: 1
   index: 67
   nickname: ""
@@ -2295,7 +2569,8 @@
   recipe_urls:
   - "https://www.allrecipes.com/recipe/76004/easy-ice-cream-cake/"
   comments:
-  - "12 ice cream sandwiches, whipped cream (made from a pint of cream), and homemade chocolate fudge (1/2 cocoa, 1/2c water, 1/2c sugar)"
+  - date: "9/18/19"
+    comment: "12 ice cream sandwiches, whipped cream (made from a pint of cream), and homemade chocolate fudge (1/2 cocoa, 1/2c water, 1/2c sugar)"
 - count: 4
   index: 66
   nickname: ""
@@ -2303,13 +2578,16 @@
   tags:
   - "dessert"
   - "pie"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-08-15'
   recipe_urls:
   - "https://www.food.com/recipe/dutch-apple-pie-43990"
   comments:
-  - "with gala apples, and a store-bought crust (from trader joe's). it's so good!"
-  - "5 1/2 cups was five apples exactly"
-  - "with apples from the farm last weekend"
+  - date: "7/12/19"
+    comment: "with gala apples, and a store-bought crust (from trader joe's). it's so good!"
+  - date: "8/3/19"
+    comment: "5 1/2 cups was five apples exactly"
+  - date: "10/19/19"
+    comment: "with apples from the farm last weekend"
 - count: 1
   index: 65
   nickname: ""
@@ -2319,7 +2597,8 @@
   last_suggested_date: '2020-05-23'
   recipe_urls: []
   comments:
-  - "2T brown sugar, 2T honey, 2T coconut oil, 2T chocolate syrup, 6T? peanut butter, <2c? rolled oats. mix, make balls, put in fridge."
+  - date: "6/28/19"
+    comment: "2T brown sugar, 2T honey, 2T coconut oil, 2T chocolate syrup, 6T? peanut butter, <2c? rolled oats. mix, make balls, put in fridge."
 - count: 2
   index: 64
   nickname: ""
@@ -2331,8 +2610,10 @@
   recipe_urls:
   - "https://scrummylane.com/6-ingredient-gooey-swedish-chocolate-cake-kladdkaka/"
   comments:
-  - "delicious. I only do 1.25c sugar, and slightly less than 1/2c cocoa. also it ends up taking about 30 minutes to bake--you want the top to definitely be cooked through, but only just so, so that the center is still gooey underneath"
-  - "looked done but was actually raw inside--so poke it with a toothpick! you don't want it gooey EVERYWHERE..."
+  - date: "6/19/19"
+    comment: "delicious. I only do 1.25c sugar, and slightly less than 1/2c cocoa. also it ends up taking about 30 minutes to bake--you want the top to definitely be cooked through, but only just so, so that the center is still gooey underneath"
+  - date: "12/9/19"
+    comment: "looked done but was actually raw inside--so poke it with a toothpick! you don't want it gooey EVERYWHERE..."
 - count: 1
   index: 63
   nickname: ""
@@ -2363,7 +2644,8 @@
   recipe_urls:
   - "https://www.thechunkychef.com/old-fashioned-easy-apple-crisp/"
   comments:
-  - "we double it; recipe from Caitlin"
+  - date: "11/26/18"
+    comment: "we double it; recipe from Caitlin"
 - count: 4
   index: 60
   nickname: ""
@@ -2373,9 +2655,12 @@
   last_suggested_date: '2020-05-30'
   recipe_urls: []
   comments:
-  - "Laura Olin's mother's recipe (via email newsletter): \"Torte: 5 oz butter, 6 Tbsp sugar, 1 egg, 1 cup flour, 1 tsp baking powder; Topping: 2 cups blueberries (can use other berries too), 6 Tbsp sugar; Preheat oven to 400 F. Beat butter and sugar, add egg, add baking powder and flour; Grease pie pan and spread mixture onto the bottom, spreading all the way to the sides. Spread blueberries on top of the mixture and sprinkle with sugar. Bake at 400F for about 30 minutes, checking now and then so that the sides don't burn.\""
-  - "added 1t corn starch the blueberry/sugar mix, and two good squirts of lemon juice (2t?). cooked at 375F for 15 minutes, then 400F for 10 minutes."
-  - "made in 9x9 pan"
+  - date: "7/21/18"
+    comment: "Laura Olin's mother's recipe (via email newsletter): \"Torte: 5 oz butter, 6 Tbsp sugar, 1 egg, 1 cup flour, 1 tsp baking powder; Topping: 2 cups blueberries (can use other berries too), 6 Tbsp sugar; Preheat oven to 400 F. Beat butter and sugar, add egg, add baking powder and flour; Grease pie pan and spread mixture onto the bottom, spreading all the way to the sides. Spread blueberries on top of the mixture and sprinkle with sugar. Bake at 400F for about 30 minutes, checking now and then so that the sides don't burn.\""
+  - date: "7/29/18"
+    comment: "added 1t corn starch the blueberry/sugar mix, and two good squirts of lemon juice (2t?). cooked at 375F for 15 minutes, then 400F for 10 minutes."
+  - date: "1/5/19"
+    comment: "made in 9x9 pan"
 - count: 1
   index: 59
   nickname: ""
@@ -2385,7 +2670,8 @@
   last_suggested_date: '2020-07-11'
   recipe_urls: []
   comments:
-  - "we use 1/3c kernels, and 1/4c veggie oil with some popcorn salt mixed in, microwave on 4mins until pops are 5s away. add melted butter--it turned out amazing"
+  - date: "12/23/17"
+    comment: "we use 1/3c kernels, and 1/4c veggie oil with some popcorn salt mixed in, microwave on 4mins until pops are 5s away. add melted butter--it turned out amazing"
 - count: 1
   index: 58
   nickname: ""
@@ -2403,20 +2689,22 @@
   tags:
   - "dessert"
   - "pie"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-08-22'
   recipe_urls: []
   comments:
-  - "cooked for like 75 minutes total--be patient! wait for the bubblies. rotated it once, when we took the foil off. also, it's a bit too sweet--Jess says she added the upper limit of sugar. So don't do that."
+  - date: "9/28/17"
+    comment: "cooked for like 75 minutes total--be patient! wait for the bubblies. rotated it once, when we took the foil off. also, it's a bit too sweet--Jess says she added the upper limit of sugar. So don't do that."
 - count: 1
   index: 56
   nickname: ""
   name: "fruit pizza"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-08-15'
   recipe_urls: []
   comments:
-  - "store bought cookie dough, homemade whipped cream mixed with some cream cheese, topped with fruit and chocolate chips"
+  - date: "7/4/17"
+    comment: "store bought cookie dough, homemade whipped cream mixed with some cream cheese, topped with fruit and chocolate chips"
 - count: 1
   index: 55
   nickname: ""
@@ -2427,7 +2715,8 @@
   last_suggested_date: '2020-07-11'
   recipe_urls: []
   comments:
-  - "with blueberry filling and chocolate buttercream frosting, with a bourbon-water drip in the 2 layers. Julia Child's genoise cake recipe. make sure you use the right pot and bowl! the small pot but not the smallest one--the silver one that we rarely use if that helps, and then the biggest circular glass tupperware"
+  - date: "5/21/17"
+    comment: "with blueberry filling and chocolate buttercream frosting, with a bourbon-water drip in the 2 layers. Julia Child's genoise cake recipe. make sure you use the right pot and bowl! the small pot but not the smallest one--the silver one that we rarely use if that helps, and then the biggest circular glass tupperware"
 - count: 1
   index: 54
   nickname: ""
@@ -2438,7 +2727,8 @@
   last_suggested_date: '2020-07-25'
   recipe_urls: []
   comments:
-  - "the one on the same page as the queen of sheba"
+  - date: "5/13/17"
+    comment: "the one on the same page as the queen of sheba"
 - count: 1
   index: 53
   nickname: ""
@@ -2449,7 +2739,8 @@
   last_suggested_date: '2020-07-04'
   recipe_urls: []
   comments:
-  - "from Bon Appetit"
+  - date: "4/17/17"
+    comment: "from Bon Appetit"
 - count: 1
   index: 52
   nickname: ""
@@ -2460,7 +2751,8 @@
   last_suggested_date: '2020-07-11'
   recipe_urls: []
   comments:
-  - "Bon Appetit recipe"
+  - date: "4/11/17"
+    comment: "Bon Appetit recipe"
 - count: 2
   index: 51
   nickname: ""
@@ -2472,8 +2764,10 @@
   recipe_urls:
   - "http://allrecipes.com/recipe/7259/grandmas-eggless-butterless-milkless-cake/"
   comments:
-  - "we make a half-recipe; I use about 1/4c cocoa"
-  - "Jess makes a two-layer one"
+  - date: "1/29/17"
+    comment: "we make a half-recipe; I use about 1/4c cocoa"
+  - date: "9/16/18"
+    comment: "Jess makes a two-layer one"
 - count: 2
   index: 50
   nickname: ""
@@ -2485,8 +2779,10 @@
   recipe_urls:
   - "https://snapguide.com/guides/make-cookies-when-you-have-no-eggs/"
   comments:
-  - "super delicious, nice and crispy but also fluffy"
-  - "we are short on coconut oil so we add in maybe 2T butter to finish it off; also we add 2T cocoa in place of some flour...the result is incredible"
+  - date: "1/22/17"
+    comment: "super delicious, nice and crispy but also fluffy"
+  - date: "9/10/17"
+    comment: "we are short on coconut oil so we add in maybe 2T butter to finish it off; also we add 2T cocoa in place of some flour...the result is incredible"
 - count: 2
   index: 49
   nickname: ""
@@ -2497,8 +2793,10 @@
   last_suggested_date: '2020-07-18'
   recipe_urls: []
   comments:
-  - "they're basically like sugar cookies if you short on the bourbon, but they're still very good. we make a buttercream frosting for them"
-  - "we make 86 of them, with buttercream frosting. we try to pipe it but it eventually starts melting/clumping weirdly, so a spoon was the way to go. maybe next time don't add more milk than the recipe calls for..."
+  - date: "12/23/16"
+    comment: "they're basically like sugar cookies if you short on the bourbon, but they're still very good. we make a buttercream frosting for them"
+  - date: "10/25/18"
+    comment: "we make 86 of them, with buttercream frosting. we try to pipe it but it eventually starts melting/clumping weirdly, so a spoon was the way to go. maybe next time don't add more milk than the recipe calls for..."
 - count: 2
   index: 48
   nickname: ""
@@ -2508,7 +2806,8 @@
   last_suggested_date: '2020-07-11'
   recipe_urls: []
   comments:
-  - "per cup: 2T cocoa, 1T brown sugar, 1c milk; add only 2T or so milk at first to the rest, heating in pan; then once it dissolves heat the rest of the milk; once nearly boiling, put it in a blender to froth"
+  - date: "11/20/16"
+    comment: "per cup: 2T cocoa, 1T brown sugar, 1c milk; add only 2T or so milk at first to the rest, heating in pan; then once it dissolves heat the rest of the milk; once nearly boiling, put it in a blender to froth"
 - count: 1
   index: 47
   nickname: ""
@@ -2518,7 +2817,8 @@
   last_suggested_date: '2020-07-18'
   recipe_urls: []
   comments:
-  - "For all our attempts at doing this over the years, the only one that EVER turns out well is chevre with honey. Seriously. The others are never as good as they should be."
+  - date: "10/27/16"
+    comment: "For all our attempts at doing this over the years, the only one that EVER turns out well is chevre with honey. Seriously. The others are never as good as they should be."
 - count: 1
   index: 46
   nickname: ""
@@ -2529,7 +2829,8 @@
   last_suggested_date: '2020-07-18'
   recipe_urls: []
   comments:
-  - "1/4c butter, 1/2c white sugar, 1/4c brown sugar, 1/3c flour, 2T cornstarch, 1/4t cinnamon, 3 cans peaches (no syrup); 400F for 50 minutes; a mix of Betty Crocker and a simple allrecipes one"
+  - date: "9/4/16"
+    comment: "1/4c butter, 1/2c white sugar, 1/4c brown sugar, 1/3c flour, 2T cornstarch, 1/4t cinnamon, 3 cans peaches (no syrup); 400F for 50 minutes; a mix of Betty Crocker and a simple allrecipes one"
 - count: 2
   index: 45
   nickname: ""
@@ -2540,8 +2841,10 @@
   recipe_urls:
   - "http://practical-stewardship.com/2014/09/26/4-ingredient-bake-chocolate-peanut-butter-granola-bars/"
   comments:
-  - "we add almonds, chopped up, and some cranberries"
-  - "we use prunes, this time; also, no cranberries or chocolate chips this time"
+  - date: "9/3/16"
+    comment: "we add almonds, chopped up, and some cranberries"
+  - date: "9/18/16"
+    comment: "we use prunes, this time; also, no cranberries or chocolate chips this time"
 - count: 1
   index: 44
   nickname: ""
@@ -2551,7 +2854,8 @@
   last_suggested_date: '2020-05-23'
   recipe_urls: []
   comments:
-  - "using pie crust dough leftover from pie; make little nests (about the size of the bottom of a coke can), wipe with butter and with egg wash, then add some chevre, covered in honey; bake at 400F for about 15 mins or so"
+  - date: "5/10/16"
+    comment: "using pie crust dough leftover from pie; make little nests (about the size of the bottom of a coke can), wipe with butter and with egg wash, then add some chevre, covered in honey; bake at 400F for about 15 mins or so"
 - count: 1
   index: 43
   nickname: ""
@@ -2561,7 +2865,8 @@
   last_suggested_date: '2020-05-02'
   recipe_urls: []
   comments:
-  - "1:1:1 cocoa:sugar:water, plus salt; add in saucepan after mixing cocoa and sugar"
+  - date: "4/17/16"
+    comment: "1:1:1 cocoa:sugar:water, plus salt; add in saucepan after mixing cocoa and sugar"
 - count: 2
   index: 42
   nickname: ""
@@ -2569,12 +2874,14 @@
   tags:
   - "dessert"
   - "cake"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-08-22'
   recipe_urls:
   - "http://www.food.com/recipe/kittencals-moist-one-bowl-dark-chocolate-bundt-cake-71876"
   comments:
-  - "in a cake pan"
-  - "with chocolate icing"
+  - date: "4/17/16"
+    comment: "in a cake pan"
+  - date: "2/20/17"
+    comment: "with chocolate icing"
 - count: 1
   index: 41
   nickname: ""
@@ -2585,7 +2892,8 @@
   recipe_urls:
   - "http://allrecipes.com/recipe/21461/ooey-gooey-cinnamon-buns/"
   comments:
-  - "to be cooked tomorrow morning..."
+  - date: "3/12/16"
+    comment: "to be cooked tomorrow morning..."
 - count: 2
   index: 40
   nickname: ""
@@ -2637,9 +2945,12 @@
   - "http://www.foodnetwork.com/recipes/bobby-flay/dark-chocolate-mousse-recipe.html"
   - "https://www.foodnetwork.com/recipes/bobby-flay/dark-chocolate-mousse-recipe-1917102"
   comments:
-  - "Bobby Flay recipe"
-  - "if you microwave the chocolate, make sure it's still warm before you add in the other stuff..."
-  - "made a half-recipe which made 5 servings. and again, make sure chocolate is still warm, and that egg whites are room temp. also, needs way more chocolate. probably should try a different recipe next time."
+  - date: "6/16/15"
+    comment: "Bobby Flay recipe"
+  - date: "2/2/17"
+    comment: "if you microwave the chocolate, make sure it's still warm before you add in the other stuff..."
+  - date: "5/10/20"
+    comment: "made a half-recipe which made 5 servings. and again, make sure chocolate is still warm, and that egg whites are room temp. also, needs way more chocolate. probably should try a different recipe next time."
 - count: 2
   index: 35
   nickname: ""
@@ -2649,7 +2960,8 @@
   last_suggested_date: '2020-08-01'
   recipe_urls: []
   comments:
-  - "holy shit i just had a religious experience eating this. a rhubarb pie experience. it is how peaches deserve to be eaten."
+  - date: "5/16/15"
+    comment: "holy shit i just had a religious experience eating this. a rhubarb pie experience. it is how peaches deserve to be eaten."
 - count: 1
   index: 34
   nickname: ""
@@ -2659,8 +2971,9 @@
   last_suggested_date: '2020-04-26'
   recipe_urls: []
   comments:
-  - "from Mom's cookbook; pretty good, but too liquidy and didn't end up crisp. delicious on yogurt though"
-- count: 9
+  - date: "5/12/15"
+    comment: "from Mom's cookbook; pretty good, but too liquidy and didn't end up crisp. delicious on yogurt though"
+- count: 10
   index: 33
   nickname: ""
   name: "coffee cake"
@@ -2672,8 +2985,10 @@
   - "http://www.gimmesomeoven.com/sour-cream-coffee-cake/"
   - "http://thepioneerwoman.com/cooking/the-best-coffee-cake-ever/"
   comments:
-  - "the cake itself is fucking perfect: airy, good crispness on outside, perfect texture; the crust needs work though: add a stick of butter on top probably, maybe with some more sugar actually, so that there's enough for filling inside and on top"
-  - "warmed up with milk: fucking good"
+  - date: "11/18/14"
+    comment: "the cake itself is fucking perfect: airy, good crispness on outside, perfect texture; the crust needs work though: add a stick of butter on top probably, maybe with some more sugar actually, so that there's enough for filling inside and on top"
+  - date: "1/25/15"
+    comment: "warmed up with milk: fucking good"
 - count: 1
   index: 32
   nickname: ""
@@ -2683,7 +2998,8 @@
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments:
-  - "recipe: 1T brown sugar, 1T butter, 1.5T flour, 1.5T rolled oats, 2T peach preserves; mush all but preserves around in a bowl, then add preserves and microwave for 2 minutes"
+  - date: "9/22/14"
+    comment: "recipe: 1T brown sugar, 1T butter, 1.5T flour, 1.5T rolled oats, 2T peach preserves; mush all but preserves around in a bowl, then add preserves and microwave for 2 minutes"
 - count: 1
   index: 31
   nickname: ""
@@ -2703,7 +3019,8 @@
   last_suggested_date: '2020-07-25'
   recipe_urls: []
   comments:
-  - "oh god so good"
+  - date: "8/11/14"
+    comment: "oh god so good"
 - count: 1
   index: 29
   nickname: ""
@@ -2728,7 +3045,7 @@
   name: "chocolate malt"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-08-15'
   recipe_urls: []
   comments: []
 - count: 1
@@ -2740,7 +3057,8 @@
   last_suggested_date: '2020-06-06'
   recipe_urls: []
   comments:
-  - "n.b. chocolate chips act as liquid and sugar, not as nuts (i.e. for ratios...)"
+  - date: "6/19/14"
+    comment: "n.b. chocolate chips act as liquid and sugar, not as nuts (i.e. for ratios...)"
 - count: 2
   index: 25
   nickname: ""
@@ -2750,7 +3068,8 @@
   last_suggested_date: '2020-04-26'
   recipe_urls: []
   comments:
-  - "fucking unbelievable with some maple syrup on top; as before: 3 parts nuts, 2 parts milk, 1 part sugar, 9 parts ice"
+  - date: "6/16/14"
+    comment: "fucking unbelievable with some maple syrup on top; as before: 3 parts nuts, 2 parts milk, 1 part sugar, 9 parts ice"
 - count: 1
   index: 24
   nickname: ""
@@ -2760,7 +3079,8 @@
   last_suggested_date: '2020-06-20'
   recipe_urls: []
   comments:
-  - "cashews, honey, milk, ice....DAMN it tastes good girl damn it tastes good"
+  - date: "6/14/14"
+    comment: "cashews, honey, milk, ice....DAMN it tastes good girl damn it tastes good"
 - count: 8
   index: 23
   nickname: ""
@@ -2770,10 +3090,14 @@
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments:
-  - "in the breadmaker; goood with chocolate chips and pecans instead of raisins, along with the walnuts"
-  - "Gpa in Lisco's recipe; don't drain the liquid if it was frozen! just use the right volume (e.g., 1 cup for 1 loaf); Also I think our top tiny oven does a really good job of making things crispy, because this thing just had the most beautiful top. And the batter had been so liquidy that the chocolate chips sank to the bottom. It was a beautiful thing."
-  - "using coconut oil, and it turns out delicious. Baked for 40 mins at 350F in top oven, then rotated, then 10 more mins, confirmed with toothpick."
-  - "don't halve the amount of chocolate chips, by the way."
+  - date: "6/7/14"
+    comment: "in the breadmaker; goood with chocolate chips and pecans instead of raisins, along with the walnuts"
+  - date: "10/22/16"
+    comment: "Gpa in Lisco's recipe; don't drain the liquid if it was frozen! just use the right volume (e.g., 1 cup for 1 loaf); Also I think our top tiny oven does a really good job of making things crispy, because this thing just had the most beautiful top. And the batter had been so liquidy that the chocolate chips sank to the bottom. It was a beautiful thing."
+  - date: "8/21/18"
+    comment: "using coconut oil, and it turns out delicious. Baked for 40 mins at 350F in top oven, then rotated, then 10 more mins, confirmed with toothpick."
+  - date: "8/26/18"
+    comment: "don't halve the amount of chocolate chips, by the way."
 - count: 1
   index: 22
   nickname: ""
@@ -2783,7 +3107,8 @@
   last_suggested_date: '2020-05-23'
   recipe_urls: []
   comments:
-  - "oreos, milk, blue bell vanilla ice cream"
+  - date: "5/11/14"
+    comment: "oreos, milk, blue bell vanilla ice cream"
 - count: 2
   index: 21
   nickname: ""
@@ -2794,7 +3119,8 @@
   recipe_urls:
   - "http://www.yummly.com/recipe/external/Snickerdoodles-Iii-Allrecipes"
   comments:
-  - "surprisingly fucking perfect"
+  - date: "3/9/14"
+    comment: "surprisingly fucking perfect"
 - count: 1
   index: 20
   nickname: ""
@@ -2805,7 +3131,8 @@
   last_suggested_date: '2020-07-04'
   recipe_urls: []
   comments:
-  - "marshmallow is just egg whites and sugar, but the cooking part is a bitch and makes us miserable...cookies are just one egg, 1c peanut butter, 1c sugar, and they're damned delicious and simple"
+  - date: "2/24/14"
+    comment: "marshmallow is just egg whites and sugar, but the cooking part is a bitch and makes us miserable...cookies are just one egg, 1c peanut butter, 1c sugar, and they're damned delicious and simple"
 - count: 1
   index: 19
   nickname: ""
@@ -2816,7 +3143,8 @@
   last_suggested_date: '2020-05-02'
   recipe_urls: []
   comments:
-  - "whipped cream + plain yogurt + 1.5 small mashed bananas + chocolate chips on base of baked graham cracker pie crust"
+  - date: "2/1/14"
+    comment: "whipped cream + plain yogurt + 1.5 small mashed bananas + chocolate chips on base of baked graham cracker pie crust"
 - count: 5
   index: 18
   nickname: ""
@@ -2827,9 +3155,14 @@
   last_suggested_date: '2020-04-26'
   recipe_urls: []
   comments:
-  - "a la Julia Child"
-  - "not that bad with a helper"
-  - "Jess makes it"
+  - date: "1/31/14"
+    comment: "a la Julia Child"
+  - date: "5/15/14"
+    comment: "not that bad with a helper"
+  - date: "9/28/16"
+    comment: "Jess makes it"
+  - date: "10/1/18"
+    comment: "Jess makes it"
 - count: 5
   index: 17
   nickname: ""
@@ -2839,10 +3172,14 @@
   last_suggested_date: '2020-08-08'
   recipe_urls: []
   comments:
-  - "put 3 corn kernels in the oil as it heats--when they're popped, it's ready! 1 part veggie oil, 2 parts popcorn kernels, 2 parts sugar...Pop that shit!"
-  - "definitely follow the recipe from last time--don't skimp on that sugar! also, 1/3 cup corn kernels is plenty--don't let jess dissuade you"
-  - "1/2 cup of kernels is too much! hard to share the sugar, but also it can easily overflow the pot!"
-  - "Jess says when you think it's done, it's done--don't wait. And also don't stir at the end or else you mix in the burnt parts."
+  - date: "1/28/14"
+    comment: "put 3 corn kernels in the oil as it heats--when they're popped, it's ready! 1 part veggie oil, 2 parts popcorn kernels, 2 parts sugar...Pop that shit!"
+  - date: "4/14/14"
+    comment: "definitely follow the recipe from last time--don't skimp on that sugar! also, 1/3 cup corn kernels is plenty--don't let jess dissuade you"
+  - date: "9/12/14"
+    comment: "1/2 cup of kernels is too much! hard to share the sugar, but also it can easily overflow the pot!"
+  - date: "6/18/16"
+    comment: "Jess says when you think it's done, it's done--don't wait. And also don't stir at the end or else you mix in the burnt parts."
 - count: 7
   index: 16
   nickname: ""
@@ -2854,11 +3191,16 @@
   recipe_urls:
   - "http://allrecipes.com/recipe/12196/blueberry-pie/"
   comments:
-  - "best one we've ever made, and this one with a lattice...mmmm good"
-  - "4T corn starch, 2T lemon juice, lattice top, cook at 400F"
-  - "actually Jess just makes it"
-  - "with fresh blueberries!"
-  - "we cover pie with foil for first 30 minutes. it ends up cooking for over an hour."
+  - date: "8/24/14"
+    comment: "best one we've ever made, and this one with a lattice...mmmm good"
+  - date: "5/10/16"
+    comment: "4T corn starch, 2T lemon juice, lattice top, cook at 400F"
+  - date: "7/24/16"
+    comment: "actually Jess just makes it"
+  - date: "8/30/19"
+    comment: "with fresh blueberries!"
+  - date: "8/1/20"
+    comment: "we cover pie with foil for first 30 minutes. it ends up cooking for over an hour."
 - count: 1
   index: 15
   nickname: ""
@@ -2868,7 +3210,8 @@
   last_suggested_date: '2020-05-02'
   recipe_urls: []
   comments:
-  - "in Jess's Vitamix"
+  - date: "1/3/14"
+    comment: "in Jess's Vitamix"
 - count: 1
   index: 14
   nickname: ""
@@ -2878,7 +3221,8 @@
   last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments:
-  - "Alton Brown's recipe"
+  - date: "12/24/13"
+    comment: "Alton Brown's recipe"
 - count: 1
   index: 13
   nickname: ""
@@ -2904,11 +3248,12 @@
   name: "pumpkin bread"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-08-22'
   recipe_urls:
   - "https://www.onceuponachef.com/recipes/spiced-pumpkin-bread.html"
   comments:
-  - "half in the bread pan, the other half in the muffin tin"
+  - date: "10/16/18"
+    comment: "half in the bread pan, the other half in the muffin tin"
 - count: 2
   index: 10
   nickname: ""
@@ -2919,7 +3264,8 @@
   last_suggested_date: '2020-05-16'
   recipe_urls: []
   comments:
-  - "HEB recipe--very simple, and just okay; add tons of chocolate chips at the bottom"
+  - date: "3/9/15"
+    comment: "HEB recipe--very simple, and just okay; add tons of chocolate chips at the bottom"
 - count: 7
   index: 9
   nickname: ""
@@ -2930,9 +3276,12 @@
   recipe_urls:
   - "http://www.dessertfortwo.com/2014/05/microwave-chocolate-mug-cakes/"
   comments:
-  - "now THIS is a keeper--holy fuck. Golden rule of microwave desserts is Do not overcook. Recipe halved."
-  - "1/4 serving of the original recipe is plenty, and cook for 30 secs"
-  - "1/4 serving is perfect amount. in thick white bowl, probably 35 secs"
+  - date: "2/16/16"
+    comment: "now THIS is a keeper--holy fuck. Golden rule of microwave desserts is Do not overcook. Recipe halved."
+  - date: "5/29/16"
+    comment: "1/4 serving of the original recipe is plenty, and cook for 30 secs"
+  - date: "2/15/17"
+    comment: "1/4 serving is perfect amount. in thick white bowl, probably 35 secs"
 - count: 1
   index: 8
   nickname: ""
@@ -2942,7 +3291,8 @@
   last_suggested_date: '2020-04-26'
   recipe_urls: []
   comments:
-  - "god it's so easy...pepitas and sea salt, stirred in melted baking chocolate, then refrigerated"
+  - date: "10/5/13"
+    comment: "god it's so easy...pepitas and sea salt, stirred in melted baking chocolate, then refrigerated"
 - count: 7
   index: 7
   nickname: "CkD11"
@@ -2954,12 +3304,18 @@
   recipe_urls:
   - "http://www.foodnetwork.com/recipes/alton-brown/sugar-cookies-recipe.html"
   comments:
-  - "but no foil! argh. will bake them tomorrow"
-  - "see toaster-oven-sugar-cookies.txt"
-  - "jess wants those toaster-oven-sugar-cookies.txt again--they taste like la madeleines"
-  - "from freezer, from last time"
-  - "cut into animal shapes, and make royal icing and ice them in green and a rich pink; made 22 cookies, with probably around 14 left in dough in the fridge; royal icing recipe was: 2 egg whites, probably 3.5 cups powdered sugar but start with 3c, then a 1/2tsp of bourbon for flavor"
-  - "baked them last night, outlined with icing tonight"
+  - date: "9/1/13"
+    comment: "but no foil! argh. will bake them tomorrow"
+  - date: "4/14/14"
+    comment: "see toaster-oven-sugar-cookies.txt"
+  - date: "4/15/14"
+    comment: "jess wants those toaster-oven-sugar-cookies.txt again--they taste like la madeleines"
+  - date: "5/22/14"
+    comment: "from freezer, from last time"
+  - date: "12/31/16"
+    comment: "cut into animal shapes, and make royal icing and ice them in green and a rich pink; made 22 cookies, with probably around 14 left in dough in the fridge; royal icing recipe was: 2 egg whites, probably 3.5 cups powdered sugar but start with 3c, then a 1/2tsp of bourbon for flavor"
+  - date: "1/5/17"
+    comment: "baked them last night, outlined with icing tonight"
 - count: 4
   index: 6
   nickname: "CkD14"
@@ -2972,8 +3328,9 @@
   - "http://www.ambitiouskitchen.com/2013/03/peanut-butter-oatmeal-chocolate-chip-cookies-flourless-no-butter/"
   - "https://www.verybestbaking.com/recipes/145692/oatmeal-peanut-butter-chocolate-chip-cookies/"
   comments:
-  - "oven cooks slow or turns off, so second batch burnt"
-- count: 15
+  - date: "11/20/13"
+    comment: "oven cooks slow or turns off, so second batch burnt"
+- count: 16
   index: 5
   nickname: "CkD10"
   name: "chocolate chip cookies"
@@ -2985,14 +3342,24 @@
   - "https://www.verybestbaking.com/recipes/18476/original-nestle-toll-house-chocolate-chip-cookies/"
   - "https://snapguide.com/guides/make-cookies-when-you-have-no-eggs/"
   comments:
-  - "melt the chips a bit first to have \"double\" chocolate chip"
-  - "learned online: no refrigerate, use parchment paper, use half-melted butter"
-  - "double chocolate, so good"
-  - "tollhouse recipe: delicious"
-  - "hershey's recipe with the good dark chocolate chips in the red bag"
-  - "the first autocookie!"
-  - "the coconut ones again--Jess's favorite recipe currently"
-  - "just like the no eggs recipe, except I made it all brown sugar (no white sugar), and added 2 eggs, and pecans. Overall, the brown sugar didn't taste as sweet! Needed more sugar."
+  - date: "11/23/13"
+    comment: "melt the chips a bit first to have \"double\" chocolate chip"
+  - date: "12/9/13"
+    comment: "learned online: no refrigerate, use parchment paper, use half-melted butter"
+  - date: "1/25/14"
+    comment: "double chocolate, so good"
+  - date: "1/11/15"
+    comment: "tollhouse recipe: delicious"
+  - date: "3/17/15"
+    comment: "hershey's recipe with the good dark chocolate chips in the red bag"
+  - date: "8/14/16"
+    comment: "the first autocookie!"
+  - date: "3/1/17"
+    comment: "the coconut ones again--Jess's favorite recipe currently"
+  - date: "8/2/20"
+    comment: "just like the no eggs recipe, except I made it all brown sugar (no white sugar), and added 2 eggs, and pecans. Overall, the brown sugar didn't taste as sweet! Needed more sugar."
+  - date: "8/19/20"
+    comment: "just like the no eggs recipe, except one egg, 1t baking soda and no powder, almost all dark chocolate instead of chocolate chips, a little bit of honey to sweeten"
 - count: 3
   index: 4
   nickname: "CkD3"
@@ -3017,8 +3384,10 @@
   - "http://www.wholegraingourmet.com/recipes/43-cookies/58-healthy-oatmeal-cookies.html"
   - "https://www.browneyedbaker.com/oatmeal-chocolate-chip-cookies-recipe"
   comments:
-  - "vined that shit"
-  - "accidentally doubled the eggs and they turned out amazing! thin, crispy"
+  - date: "7/24/13"
+    comment: "vined that shit"
+  - date: "8/21/17"
+    comment: "accidentally doubled the eggs and they turned out amazing! thin, crispy"
 - count: 2
   index: 2
   nickname: "CkD13"
@@ -3031,7 +3400,8 @@
   - "http://www.browneyedbaker.com/2010/02/24/peanut-butter-oatmeal-chocolate-chip-cookies/"
   - "http://www.tasteofhome.com/recipes/easy-peanut-butter-oatmeal-cookies"
   comments:
-  - "delicious! just add a bit more baking soda, replace quick oats for rolled oats and use just under 1 cup; add a spoonful of honey"
+  - date: "2/16/15"
+    comment: "delicious! just add a bit more baking soda, replace quick oats for rolled oats and use just under 1 cup; add a spoonful of honey"
 - count: 13
   index: 1
   nickname: "CkD1"
@@ -3045,9 +3415,12 @@
   - "http://www.browneyedbaker.com/chewy-brownies/"
   - "https://cafedelites.com/best-fudgy-cocoa-brownies/"
   comments:
-  - "so fudgy, and very delicious"
-  - "don't let Jess use convection...also we substitute in some cocoa for 2oz baking chocolate (and subtract off 2T butter), and it's delicious"
-  - "recipe on the unsweetened baking chocolate box"
+  - date: "11/8/15"
+    comment: "so fudgy, and very delicious"
+  - date: "1/16/17"
+    comment: "don't let Jess use convection...also we substitute in some cocoa for 2oz baking chocolate (and subtract off 2T butter), and it's delicious"
+  - date: "12/2/17"
+    comment: "recipe on the unsweetened baking chocolate box"
 - count: 1
   index: 6
   nickname: ""
@@ -3058,17 +3431,19 @@
   recipe_urls:
   - "https://sallysbakingaddiction.com/flaky-buttermilk-biscuits/"
   comments:
-  - "I put the flour (measured) and butter (cubed) in the freezer 30 mins before hand. I pulsed them in the food processor (a half batch), which worked _too_ well in that the butter had disappeared after only 30 seconds or two."
+  - date: "4/26/20"
+    comment: "I put the flour (measured) and butter (cubed) in the freezer 30 mins before hand. I pulsed them in the food processor (a half batch), which worked _too_ well in that the butter had disappeared after only 30 seconds or two."
 - count: 1
   index: 5
   nickname: ""
   name: "bagels"
   tags:
   - "bread"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-08-15'
   recipe_urls: []
   comments:
-  - "Jess does it. They turn out amazing!"
+  - date: "4/9/20"
+    comment: "Jess does it. They turn out amazing!"
 - count: 1
   index: 4
   nickname: ""
@@ -3078,7 +3453,8 @@
   last_suggested_date: '2020-06-13'
   recipe_urls: []
   comments:
-  - "Jess does it, with some very old yeast. And they turn out amazing! I end up broiling them (pan frying works too, but oven is both easier AND better), brushed with butter. ~2 mins each side, buttering both sides but the bottom only once it's been flipped. (a little goes a long way.)"
+  - date: "4/7/20"
+    comment: "Jess does it, with some very old yeast. And they turn out amazing! I end up broiling them (pan frying works too, but oven is both easier AND better), brushed with butter. ~2 mins each side, buttering both sides but the bottom only once it's been flipped. (a little goes a long way.)"
 - count: 1
   index: 3
   nickname: ""
@@ -3100,8 +3476,9 @@
   recipe_urls:
   - "https://cooking.nytimes.com/recipes/1018025-sourdough-pancake-or-waffle-batter"
   comments:
-  - "absolutely delicious--almost crepe-like. Emre said they were seriously the best pancakes he'd ever had"
-- count: 52
+  - date: "2/3/18"
+    comment: "absolutely delicious--almost crepe-like. Emre said they were seriously the best pancakes he'd ever had"
+- count: 53
   index: 1
   nickname: ""
   name: "sourdough bread"
@@ -3111,38 +3488,79 @@
   recipe_urls:
   - "http://www.breadtopia.com/sourdough-no-knead-method/"
   comments:
-  - "turns out great! kinda flour-y must to the sourdough = undercooked?"
-  - "starter had been in the fridge for two days and then spent 18 hours on the counter. It turned out pretty good! Better than the last one: more cooked, a little fluffier--but it still could use some improvement. A little more fluffiness, a little more sour, a little holier of a crumb."
-  - "best one yet, for sure: The key was a very healthy starter (i.e. tons of bubbles), and the time in the fridge definitely did the same bubbliness to the dough. bread is done at 200F in the center, which is good to know."
-  - "still improving--amazing sour smell that really gives it away; still bad bottom crust, but the inside this time is perrrrfect. imagine if the oven had consistent temps, too! i understand the folding of the dough now, too, because it makes the bread kinda break away really nicely when you eat it"
-  - "weighed the flour and water for the first time and it was super sticky! hard to work with. baked in the le creuset this time, which worked out great--bottom appears to be less burnt."
-  - "turned out pretty good it seems; temperature still an issue i think but that's the oven; i did 510g flour, 1.5c water"
-  - "haven't tried it yet, but looks good"
-  - "bacon grease in the dutch oven I think made it super smoky, and cook too fast? cooked to internal temp of 210F though and it tastes great. forgot to score it though!"
-  - "turned out much better this time! remembered to score it, and to put the temp. probe in when I took the lid off. The pot didn't smoke this time, but the crust did still burn a bit on the outside and I don't know why. Much tastier than the one from two days ago though, I think because the starter was more mature for this one. Also, the dough was _super_ wet last night so I added a bit more flour, but still super wet, but still turned out totally fine in the end, just was harder to work with"
-  - "Super wet dough, but I think I over-proved (for 1h45m), because it ended up very flat. But still tasted great!"
-  - "left it out last night in cloth instead of plastic and it got sooo dried out. but still tastes great, and my prettiest loaf yet!"
-  - "overproved again I guess? Super flat. Only 1.5 hours of proving though. Cookie tray on the rack below kept it from burning though!"
-  - "The bread being too flat must either be a result of over-proving, or of the dough being too wet. This one was perfect. Only 1.25c of water in recipe instead of 1.5c, and I proved for 1h15m instead of 1h30m. Tastes and looks great, though we could score it better, and put it in the dutch oven better."
-  - "for Sophie and Vince"
-  - "50g of raisins, and rosemary, added last night when we mixed it up. turned out good! though the rosemary might have been a little bad"
-  - "raisins and rosemary again"
-  - "25g raisins, rosemary, thyme; smelled good, but it was for Elise (for her birthday) so we couldn't eat it"
-  - "standard loaf"
-  - "1.5-2t rosemary, 45g figs"
-  - "I think this is when we made it..."
-  - "Jess made it alone"
-  - "in the smaller dutch oven and it turns out great!"
-  - "bigger dutch oven by accident and it turned out okay but kinda stuck to the bottom"
-  - "way too wet this time (used 1.5 cups), but it tasted good, it was just super ugly and unmanageable"
-  - "turned out great; 1.25 cups = super easy to work with, just not that porous. but still tasty!"
-  - "first time with new proofing bowl, and it makes great ridges!"
-  - "fig and rosemary"
-  - "a total failure! don't know what went wrong. but I think the breadtopia recipe changed? also we forgot to set a timer for the proving so it went too long. and the house is cold so no good place to get the yeast prepped. really, it could have been lots of things. it just looked wrong from the very beginning. it's inedible. later though, I realize it's because breadtopia changed the recipe on us, and we used the new flour amount but not the new water amount. so it was just way too dry."
-  - "original breadtopia recipe: 16 oz bread flour, 1.5t salt, 1.25-1.5c water, 1/4c starter, proof 1.5hrs, bake 500F for 30 mins, then 450F for 15 mins (or until 210F) with cover off"
-  - "perfect."
-  - "2t rosemary from garden, 50g figs"
-  - "really wet, and sticks to the wood bowl again, but turns out so floofy and perfect--like seriously, the most floofy and spongy it's ever been"
-  - "we put a TON of flour (even loose) in the bread bowl, and it does NOT stick there, but it still sticks on the sides, but at least way better. downside though is that the loaf is covered in flour at the end, which we have to try to brush off."
-  - "made it less dry but STILL got stuck. must be the bowl's fault."
-  - "rosemary and sage"
+  - date: "3/30/14"
+    comment: "turns out great! kinda flour-y must to the sourdough = undercooked?"
+  - date: "5/16/14"
+    comment: "starter had been in the fridge for two days and then spent 18 hours on the counter. It turned out pretty good! Better than the last one: more cooked, a little fluffier--but it still could use some improvement. A little more fluffiness, a little more sour, a little holier of a crumb."
+  - date: "5/29/14"
+    comment: "best one yet, for sure: The key was a very healthy starter (i.e. tons of bubbles), and the time in the fridge definitely did the same bubbliness to the dough. bread is done at 200F in the center, which is good to know."
+  - date: "6/12/14"
+    comment: "still improving--amazing sour smell that really gives it away; still bad bottom crust, but the inside this time is perrrrfect. imagine if the oven had consistent temps, too! i understand the folding of the dough now, too, because it makes the bread kinda break away really nicely when you eat it"
+  - date: "6/30/14"
+    comment: "weighed the flour and water for the first time and it was super sticky! hard to work with. baked in the le creuset this time, which worked out great--bottom appears to be less burnt."
+  - date: "7/11/14"
+    comment: "turned out pretty good it seems; temperature still an issue i think but that's the oven; i did 510g flour, 1.5c water"
+  - date: "7/14/14"
+    comment: "haven't tried it yet, but looks good"
+  - date: "2/1/18"
+    comment: "bacon grease in the dutch oven I think made it super smoky, and cook too fast? cooked to internal temp of 210F though and it tastes great. forgot to score it though!"
+  - date: "2/3/18"
+    comment: "turned out much better this time! remembered to score it, and to put the temp. probe in when I took the lid off. The pot didn't smoke this time, but the crust did still burn a bit on the outside and I don't know why. Much tastier than the one from two days ago though, I think because the starter was more mature for this one. Also, the dough was _super_ wet last night so I added a bit more flour, but still super wet, but still turned out totally fine in the end, just was harder to work with"
+  - date: "2/10/18"
+    comment: "Super wet dough, but I think I over-proved (for 1h45m), because it ended up very flat. But still tasted great!"
+  - date: "2/17/18"
+    comment: "left it out last night in cloth instead of plastic and it got sooo dried out. but still tastes great, and my prettiest loaf yet!"
+  - date: "2/21/18"
+    comment: "overproved again I guess? Super flat. Only 1.5 hours of proving though. Cookie tray on the rack below kept it from burning though!"
+  - date: "2/27/18"
+    comment: "The bread being too flat must either be a result of over-proving, or of the dough being too wet. This one was perfect. Only 1.25c of water in recipe instead of 1.5c, and I proved for 1h15m instead of 1h30m. Tastes and looks great, though we could score it better, and put it in the dutch oven better."
+  - date: "3/1/18"
+    comment: "for Sophie and Vince"
+  - date: "4/5/18"
+    comment: "50g of raisins, and rosemary, added last night when we mixed it up. turned out good! though the rosemary might have been a little bad"
+  - date: "4/7/18"
+    comment: "raisins and rosemary again"
+  - date: "4/11/18"
+    comment: "25g raisins, rosemary, thyme; smelled good, but it was for Elise (for her birthday) so we couldn't eat it"
+  - date: "4/19/18"
+    comment: "standard loaf"
+  - date: "5/1/18"
+    comment: "standard loaf"
+  - date: "5/7/18"
+    comment: "standard loaf"
+  - date: "5/20/18"
+    comment: "standard loaf"
+  - date: "6/4/18"
+    comment: "1.5-2t rosemary, 45g figs"
+  - date: "6/18/18"
+    comment: "I think this is when we made it..."
+  - date: "6/28/18"
+    comment: "Jess made it alone"
+  - date: "8/10/18"
+    comment: "in the smaller dutch oven and it turns out great!"
+  - date: "9/7/18"
+    comment: "bigger dutch oven by accident and it turned out okay but kinda stuck to the bottom"
+  - date: "11/8/18"
+    comment: "way too wet this time (used 1.5 cups), but it tasted good, it was just super ugly and unmanageable"
+  - date: "12/4/18"
+    comment: "turned out great; 1.25 cups = super easy to work with, just not that porous. but still tasty!"
+  - date: "1/5/19"
+    comment: "first time with new proofing bowl, and it makes great ridges!"
+  - date: "3/29/19"
+    comment: "fig and rosemary"
+  - date: "10/11/19"
+    comment: "a total failure! don't know what went wrong. but I think the breadtopia recipe changed? also we forgot to set a timer for the proving so it went too long. and the house is cold so no good place to get the yeast prepped. really, it could have been lots of things. it just looked wrong from the very beginning. it's inedible. later though, I realize it's because breadtopia changed the recipe on us, and we used the new flour amount but not the new water amount. so it was just way too dry."
+  - date: "10/20/19"
+    comment: "original breadtopia recipe: 16 oz bread flour, 1.5t salt, 1.25-1.5c water, 1/4c starter, proof 1.5hrs, bake 500F for 30 mins, then 450F for 15 mins (or until 210F) with cover off"
+  - date: "11/6/19"
+    comment: "perfect."
+  - date: "11/14/19"
+    comment: "2t rosemary from garden, 50g figs"
+  - date: "12/15/19"
+    comment: "really wet, and sticks to the wood bowl again, but turns out so floofy and perfect--like seriously, the most floofy and spongy it's ever been"
+  - date: "1/8/20"
+    comment: "we put a TON of flour (even loose) in the bread bowl, and it does NOT stick there, but it still sticks on the sides, but at least way better. downside though is that the loaf is covered in flour at the end, which we have to try to brush off."
+  - date: "1/24/20"
+    comment: "made it less dry but STILL got stuck. must be the bowl's fault."
+  - date: "3/4/20"
+    comment: "rosemary and sage"

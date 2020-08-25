@@ -65,7 +65,7 @@ layout: post
                 {% endif %} -->
                 {% if item.comments != empty %}
                 <div class="comments">
-                    <span class="item-label">comments:</span> {{ item.comments | join: '; ' }}
+                    <span class="item-label">comments:</span> {% for comment in item.comments %}{% if forloop.index == 1 %}<br/>{% endif %}<span class="comment-index">[{{ comment.date }}] </span>{{ comment.comment }}</br>{% endfor %}
                 </div>
                 {% endif %}
             </div>
