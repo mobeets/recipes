@@ -4,7 +4,7 @@
   name: "beer"
   tags:
   - "drink"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-09-05'
   recipe_urls: []
   comments:
   - date: "8/22/20"
@@ -97,7 +97,7 @@
   tags:
   - "breakfast"
   - "cake"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-09-05'
   recipe_urls:
   - "http://allrecipes.com/recipe/17036/pumpkin-pancakes/"
   comments:
@@ -213,6 +213,19 @@
 - count: 1
   index: 172
   nickname: ""
+  name: "thai shrimp curry"
+  tags:
+  - "dinner"
+  - "curry"
+  last_suggested_date: '2016-01-01'
+  recipe_urls:
+  - "https://www.onceuponachef.com/recipes/thai-shrimp-curry.html"
+  comments:
+  - date: "8/29/20"
+    comment: "this was soooo good. jess says: added a little bit more green curry, about 1 oz extra of coconut milk (but only because we had extra), and chili flakes for garnish. also 24oz shrimp instead of 32oz."
+- count: 1
+  index: 171
+  nickname: ""
   name: "porterhouse steak"
   tags:
   - "dinner"
@@ -222,7 +235,7 @@
   - date: "8/6/20"
     comment: "a single 1.8 lb steak, seasoned REAL good. Preheat oven to 450F with cast iron in it. Then I seared it on the grill for about 2 minutes each side, and then put it in the cast iron in the oven with the thermometer probe in it. Baked (for around 18 minutes) until 130F, then let rest for 5 minutes. Served with brussels sprouts and mashed sweet potatoes. Best steak we've ever made by far."
 - count: 1
-  index: 171
+  index: 170
   nickname: ""
   name: "katsudon"
   tags:
@@ -233,8 +246,8 @@
   comments:
   - date: "7/24/20"
     comment: "this recipe was much better! the sprinkling of togarashi at the end was perfect. jess got _super_ thin pork chops which seemed bad at first but honestly it wasn't really that bad. we used the 'cheat dashi' but I do want to buy the real deal for next time."
-- count: 2
-  index: 170
+- count: 3
+  index: 169
   nickname: ""
   name: "cast iron pizza"
   tags:
@@ -246,7 +259,7 @@
   - date: "7/22/20"
     comment: "recipe via Elaine, and it's delicious. used frozen pizza dough, thawed for 2 hours (3 hours would have been safer). a scoop of hazan sauce from the freezer. followed recipe except no fennel bulb. so tasty though! also made garlic knots, which baked about 2 minutes longer than the pizza. perfect template for a pizza though--it was great."
 - count: 3
-  index: 169
+  index: 168
   nickname: ""
   name: "grilled chicken breast"
   tags:
@@ -260,7 +273,7 @@
   - date: "7/18/20"
     comment: "breasts were thicker so they cooked a little longer, but still turned out good--cooked them right to 160F. also be careful, brining for 45 minutes they taste great still, but more might be too much."
 - count: 1
-  index: 168
+  index: 167
   nickname: ""
   name: "chicken stock"
   tags:
@@ -272,14 +285,14 @@
   comments:
   - date: "6/9/20"
     comment: "made 13c of broth. bonus: also made enough chicken (from the wings) for a few servings of chicken salad"
-- count: 2
-  index: 167
+- count: 3
+  index: 166
   nickname: ""
   name: "burgers on the grill"
   tags:
   - "dinner"
   - "burger"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-08-29'
   recipe_urls: []
   comments:
   - date: "6/3/20"
@@ -287,7 +300,7 @@
   - date: "7/1/20"
     comment: "they lit on fire. I think this was both because the flames were too high for too long, and I had too many burgers (9) and all 80/20. so probably get less fatty ones and don't cook so many at the same time."
 - count: 1
-  index: 166
+  index: 165
   nickname: ""
   name: "top sirloin steak"
   tags:
@@ -299,7 +312,7 @@
   - date: "5/10/20"
     comment: "best steak we've ever made ourselves. seared in cast iron with a little bit of olive oil. then put butter on steak and cooked in oven until 135F, then 5 mins to rest...so delicious."
 - count: 1
-  index: 165
+  index: 164
   nickname: ""
   name: "asparagus carbonara"
   tags:
@@ -311,7 +324,7 @@
   - date: "4/30/20"
     comment: "I follow the recipe except I use 4 slices of bacon, 6 eggs, 3T milk, and farfalle instead of spaghetti. also the asparagus and bacon were both baked beforehand. pretty good but the asparagus taste is a little strong."
 - count: 1
-  index: 164
+  index: 163
   nickname: ""
   name: "hazan's bolognese"
   tags:
@@ -322,7 +335,7 @@
   - date: "2/23/20"
     comment: "delicious. I double recipe (with 1.5 lbs ground beef, and 1 of the big cans of plum tomatoes), but it only looks like about 6 servings."
 - count: 3
-  index: 163
+  index: 162
   nickname: ""
   name: "beef short ribs"
   tags:
@@ -337,7 +350,7 @@
   - date: "6/2/20"
     comment: "Again about 1 lb of meat, and 1 (small onion). Should have done 2 onions, because they're the best part! Also added a good amount of baby carrots."
 - count: 1
-  index: 162
+  index: 161
   nickname: ""
   name: "instant pot chicken tortilla soup"
   tags:
@@ -351,7 +364,7 @@
   - date: "2/9/20"
     comment: "Jess made it. toppings: avocado, shredded cheese, tortilla chips. delicious. we used 2.5 lbs of chicken thighs but I think 3 lbs would be even better."
 - count: 1
-  index: 161
+  index: 160
   nickname: ""
   name: "hazan's roasted chicken with lemons"
   tags:
@@ -363,7 +376,7 @@
   - date: "2/2/20"
     comment: "unbelievable how good and tender it was. cooked until right at 165F. we had a 5.5 lb chicken, which was huge, so it cooked for a while. but really just amazing, and fun with it just being the lemons and salt and pepper!"
 - count: 1
-  index: 160
+  index: 159
   nickname: ""
   name: "pork ragu"
   tags:
@@ -375,7 +388,7 @@
   - date: "10/29/19"
     comment: "blue apron meal"
 - count: 2
-  index: 159
+  index: 158
   nickname: ""
   name: "sheet pan bruschetta chicken"
   tags:
@@ -386,7 +399,7 @@
   - "https://damndelicious.net/2016/09/24/sheet-pan-bruschetta-chicken/print/"
   comments: []
 - count: 2
-  index: 158
+  index: 157
   nickname: ""
   name: "chicken tinga"
   tags:
@@ -398,7 +411,7 @@
   - date: "7/11/19"
     comment: "freezer instant pot meal; really tasty! we have with tortillas, shredded cheddar cheese, sour cream, and valentina"
 - count: 3
-  index: 157
+  index: 156
   nickname: ""
   name: "beef ragu"
   tags:
@@ -412,7 +425,7 @@
   - date: "12/12/19"
     comment: "a little watery. try reducing the liquid next time, maybe also subbing in more tomatoes."
 - count: 3
-  index: 156
+  index: 155
   nickname: ""
   name: "tandoori chicken"
   tags:
@@ -426,7 +439,7 @@
   - date: "12/8/19"
     comment: "need to make sure to mix the chickens in with the sauce before freezing maybe? this meal and the beef stew didn't cook at all the first time through because the meat was stuck together and so stayed a bit raw. We did it 8 minutes more and it was fine. but still, very annoying."
 - count: 3
-  index: 155
+  index: 154
   nickname: ""
   name: "beef stew"
   tags:
@@ -442,7 +455,7 @@
   - date: "12/4/19"
     comment: "could use more broth, fewer carrots."
 - count: 1
-  index: 154
+  index: 153
   nickname: ""
   name: "instant pot rice"
   tags:
@@ -453,7 +466,7 @@
   - date: "5/12/19"
     comment: "make sure to rinse rice really well, then 1:1 rice and water, and add a splash of vegetable oil, and press rice button"
 - count: 2
-  index: 153
+  index: 152
   nickname: ""
   name: "fried rice"
   tags:
@@ -465,7 +478,7 @@
   - date: "3/27/19"
     comment: "turned out good, but actually a good amount of work. used 1.5c rice, 1.5 lbs chicken thighs, fried in big cast iron. cooked jasmine rice. followed recipe other than that basically (cooked in large cast iron). servings:5"
 - count: 1
-  index: 152
+  index: 151
   nickname: ""
   name: "bolognese"
   tags:
@@ -474,7 +487,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 151
+  index: 150
   nickname: ""
   name: "baked potatoes and mac and cheese"
   tags:
@@ -483,7 +496,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 150
+  index: 149
   nickname: ""
   name: "pot roast"
   tags:
@@ -495,7 +508,7 @@
   - date: "12/19/18"
     comment: "Jess says: We did 3lbs of meet. I'd say do half of the broth -- only deglaze the onions with like 1/2 a cup of broth at most. And then add a little less than a cup to the actual meat. We also added carrots"
 - count: 1
-  index: 149
+  index: 148
   nickname: ""
   name: "slow-cooker bolognese"
   tags:
@@ -508,7 +521,7 @@
   - date: "12/12/18"
     comment: "Jess says she did 1/2c milk, 1/2c white wine, 1.5 cans of 28oz crushed tomatoes, 2T tomato paste, and sage instead of parsley"
 - count: 5
-  index: 148
+  index: 147
   nickname: ""
   name: "turkey chili"
   tags:
@@ -520,7 +533,7 @@
   - date: "12/1/18"
     comment: "delicious. made cornbread on the side. (jess says to halve the broth, but it made a good amount as is so maybe let's not.) servings:9"
 - count: 3
-  index: 147
+  index: 146
   nickname: ""
   name: "chicken parmesan"
   tags:
@@ -538,7 +551,7 @@
   - date: "3/11/19"
     comment: "really, this is such a simple, low-stress, delicious meal. and by the way, doubling means 2 lbs. chicken, 2 28oz tomatoes, and 12oz mozzarella. also if you don't have olive oil for the breadcrumb part, just use butter"
 - count: 2
-  index: 146
+  index: 145
   nickname: ""
   name: "chicken enchiladas"
   tags:
@@ -553,7 +566,7 @@
   - date: "1/4/19"
     comment: "we double recipe (we cooked 3 lbs, but I think 2 would have been fine), and use 15oz ricotta (inside enchiladas), 8oz sour cream (dotted on top before baking), and a jar of salsa verde (could've used a bit more...). they taste great, but shredded cheese would've been easier than ricotta I think. servings:9"
 - count: 1
-  index: 145
+  index: 144
   nickname: ""
   name: "salsa verde"
   tags:
@@ -565,7 +578,7 @@
   - date: "8/20/18"
     comment: "using tomatillos"
 - count: 1
-  index: 144
+  index: 143
   nickname: ""
   name: "fried chicken sandwiches"
   tags:
@@ -578,7 +591,7 @@
   - date: "8/16/18"
     comment: "fried as in the togarashi chicken; also pickles and mayo on brioche buns"
 - count: 1
-  index: 143
+  index: 142
   nickname: ""
   name: "grilled chicken winglets"
   tags:
@@ -590,7 +603,7 @@
   - date: "6/17/18"
     comment: "lit about 25-30 briquettes by piling up in pyramid, covering in lighter fluid, then burning. It was just barely enough coal to cook all the chicken, and it took a while. But other than that, it went well!"
 - count: 5
-  index: 142
+  index: 141
   nickname: ""
   name: "ham and bean soup"
   tags:
@@ -606,7 +619,7 @@
   - date: "10/13/19"
     comment: "2 lbs of ham hock is plenty (2.5 is too much!)"
 - count: 4
-  index: 141
+  index: 140
   nickname: ""
   name: "togarashi popcorn chicken with cabbage slaw"
   tags:
@@ -623,7 +636,7 @@
   - date: "7/20/18"
     comment: "1.25 lbs chicken is about perfect for cooking in the big cast iron, but it's not that much food. just about 4 servings total."
 - count: 3
-  index: 140
+  index: 139
   nickname: ""
   name: "red curry"
   tags:
@@ -638,7 +651,7 @@
   - date: "5/29/20"
     comment: "we doubled it."
 - count: 1
-  index: 139
+  index: 138
   nickname: ""
   name: "gyudon on rice"
   tags:
@@ -647,7 +660,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 138
+  index: 137
   nickname: ""
   name: "tuna steaks with rice and broccoli"
   tags:
@@ -656,7 +669,7 @@
   recipe_urls: []
   comments: []
 - count: 3
-  index: 137
+  index: 136
   nickname: ""
   name: "chicken katsudon"
   tags:
@@ -673,7 +686,7 @@
   - date: "5/22/18"
     comment: "to confirm the last note, we did 3x the broth (not 6x). for chicken, we did a dry salt brine (1/4c salt + 1t baking powder on 1.5 lbs thin breasts) for 2 hours, and rinsed off salt afterward, and still _plenty_ salty"
 - count: 2
-  index: 136
+  index: 135
   nickname: ""
   name: "vegetarian lasagna"
   tags:
@@ -686,7 +699,7 @@
   - date: "6/7/20"
     comment: "we tried using the smaller rectangle pyrex and that was a mistake. also we only had 8oz mushrooms so we added chicken as well. and about a half a can of 28oz whole tomatoes. still delicious!"
 - count: 1
-  index: 135
+  index: 134
   nickname: ""
   name: "butter sage pasta with bacon"
   tags:
@@ -697,7 +710,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 134
+  index: 133
   nickname: ""
   name: "tuna steaks with rice and asparagus"
   tags:
@@ -706,7 +719,7 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 133
+  index: 132
   nickname: ""
   name: "gyudon on rice with miso soup"
   tags:
@@ -717,7 +730,7 @@
   - "http://www.seriouseats.com/recipes/2016/07/gyudon-japanese-simmered-beef-and-rice-bowl-recipe.html, http://www.hikarimiso.com/recipes/miso_soup/basic_miso/"
   comments: []
 - count: 8
-  index: 132
+  index: 131
   nickname: ""
   name: "red beans and rice"
   tags:
@@ -735,7 +748,7 @@
   - date: "11/6/19"
     comment: "Jess cooks it herself. It turns out delicious! She says she used 3.25 cups of water. Also 12 oz andouilli sausage, a 1.6 lb or so ham hock, and 2 cans of kidney beans."
 - count: 3
-  index: 131
+  index: 130
   nickname: ""
   name: "alabama white sauce chicken thighs"
   tags:
@@ -750,7 +763,7 @@
   - date: "9/2/17"
     comment: "We have it with baked asparagus on the side. We baked the chicken the same as last time. We ended up brining for two hours with the second hour being out of the fridge, and then after drying the chicken with paper towels, just let it sit out for like 15 minutes before putting it in the oven. (The recipe says to dry it for an hour.) It turned out great! Also, to the sauce we added paprika and a squirt of sriracha. Delicious."
 - count: 1
-  index: 130
+  index: 129
   nickname: ""
   name: "pulled pork sandwiches"
   tags:
@@ -763,7 +776,7 @@
   - date: "4/20/17"
     comment: "slow-cook some pork shoulder using mom's recipe, then just add bbq sauce"
 - count: 1
-  index: 129
+  index: 128
   nickname: ""
   name: "kale and cheddar quesadillas with a fried egg"
   tags:
@@ -774,7 +787,7 @@
   - date: "4/3/17"
     comment: "third and final Blue Apron meal"
 - count: 1
-  index: 128
+  index: 127
   nickname: ""
   name: "pan-fried chicken breast with lentils and arugula salad"
   tags:
@@ -787,7 +800,7 @@
   - date: "3/30/17"
     comment: "second Blue Apron meal. Always use chicken breast with the skin still on! It's so much better this way. Lentil spice mix has thyme, bay leaf, mustard seeds, black pepper"
 - count: 6
-  index: 127
+  index: 126
   nickname: ""
   name: "miso burgers"
   tags:
@@ -806,7 +819,7 @@
   - date: "1/21/19"
     comment: "buy 2.5 lbs beef, serve with baked sweet potatoes (cook them without stirring for maximum crispy! 425F for 30 mins or so total) and steamed broccoli. servings:8"
 - count: 4
-  index: 126
+  index: 125
   nickname: ""
   name: "butter chicken"
   tags:
@@ -824,7 +837,7 @@
   - date: "9/7/18"
     comment: "very tasty. mostly just followed the bon appetit one this time, but added one 15oz can of whole tomatoes, and after 10 minutes of simmering added about 1.5 cups of cream and simmered another 20 or so. started broiling the chicken (already sliced) when adding the cream"
 - count: 1
-  index: 125
+  index: 124
   nickname: ""
   name: "salmon chowder"
   tags:
@@ -835,7 +848,7 @@
   - date: "3/7/17"
     comment: "Serious Eats recipe; gets waaaay better after a night in the fridge, so worth making it advance if you were gonna serve it to someone; also, a single recipe makes us seven servings"
 - count: 2
-  index: 124
+  index: 123
   nickname: ""
   name: "goulash"
   tags:
@@ -849,7 +862,7 @@
   - date: "9/5/18"
     comment: "this makes a SHIT ton. make half. also, don't add the macaroni until you're serving it, that way you can freeze it if there's too much..."
 - count: 1
-  index: 123
+  index: 122
   nickname: ""
   name: "cornbread"
   tags:
@@ -861,7 +874,7 @@
   - date: "1/28/17"
     comment: "fucking delicious"
 - count: 4
-  index: 122
+  index: 121
   nickname: ""
   name: "beef stroganoff"
   tags:
@@ -875,16 +888,6 @@
     comment: "we use 2 lbs. ground beef, and 20oz mushrooms; made about 8 servings"
   - date: "4/22/18"
     comment: "takes a little more than an hour to make, and we added corn starch to finally get it to thicken"
-- count: 9
-  index: 121
-  nickname: ""
-  name: "pasta carbonara"
-  tags:
-  - "dinner"
-  - "pasta"
-  last_suggested_date: '2020-03-21'
-  recipe_urls: []
-  comments: []
 - count: 5
   index: 120
   nickname: ""
@@ -1437,7 +1440,7 @@
     comment: "delicious--Mom's recipe"
   - date: "12/18/19"
     comment: "needs more broth--it all disappears if you put 1.25c of noodles in there! add like two more cups probably (just like mom says, go figure)."
-- count: 7
+- count: 16
   index: 78
   nickname: ""
   name: "hazan's pasta carbonara"
@@ -2255,7 +2258,7 @@
   recipe_urls:
   - "http://www.veggienumnum.com/2010/11/masoor-dal/"
   comments: []
-- count: 13
+- count: 14
   index: 14
   nickname: "CkP4"
   name: "baked penne pasta with roasted vegetables"
@@ -2274,6 +2277,8 @@
     comment: "one zucchini and it's perfect. also do globs of mozzarella on top so it gets all gooey and pretty. Aiiii."
   - date: "6/27/20"
     comment: "maybe use ricotta instead of mozzarella because it's so annoying to clean up. also, DO NOT cover with foil. DO NOT! and if using Hazan sauce, use 3.5-4c (as in nearly a double batch)"
+  - date: "9/1/20"
+    comment: "ricotta was a very good move. it's delicious!"
 - count: 7
   index: 13
   nickname: "CkS2"
@@ -2431,7 +2436,7 @@
   last_suggested_date: '2020-04-26'
   recipe_urls: []
   comments: []
-- count: 1
+- count: 2
   index: 77
   nickname: ""
   name: "blueberry buckle"
@@ -2483,14 +2488,14 @@
   comments:
   - date: "5/2/20"
     comment: "pretty good flavor, and even better the next day"
-- count: 2
+- count: 3
   index: 73
   nickname: ""
   name: "flourless chocolate cake"
   tags:
   - "dessert"
   - "cake"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-08-29'
   recipe_urls:
   - "https://www.kingarthurflour.com/recipes/flourless-chocolate-cake-recipe"
   comments:
@@ -2498,6 +2503,8 @@
     comment: "this turns out amazing. the oiled pan and parchment paper was key for it not sticking. for icing, I melt 3T butter, 3T baking chocolate, and then pour it over (drizzling) straight from the pot onto the cake (maybe an hour after it came out of the oven)."
   - date: "6/13/20"
     comment: "for the icing, I think by 3T baking chocolate I must have meant 3 oz? Today I did 2 oz and it was a little short in terms of icing, but still fine."
+  - date: "8/30/20"
+    comment: "cooked for 25 minutes exactly, but was a little over-done, so maybe check just a minute earlier. also had a pyrex filled with boiling water (which I added at the same time as the cake) to try to keep cake more moist."
 - count: 1
   index: 72
   nickname: ""
@@ -2640,7 +2647,7 @@
   name: "apple crisp"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-09-05'
   recipe_urls:
   - "https://www.thechunkychef.com/old-fashioned-easy-apple-crisp/"
   comments:
@@ -2679,7 +2686,7 @@
   tags:
   - "dessert"
   - "cookies"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-08-29'
   recipe_urls: []
   comments: []
 - count: 1
@@ -2760,7 +2767,7 @@
   tags:
   - "dessert"
   - "cake"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-08-29'
   recipe_urls:
   - "http://allrecipes.com/recipe/7259/grandmas-eggless-butterless-milkless-cake/"
   comments:
@@ -2995,7 +3002,7 @@
   name: "microwave peach crumble"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-08-29'
   recipe_urls: []
   comments:
   - date: "9/22/14"
@@ -3087,7 +3094,7 @@
   name: "zucchini bread"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-09-05'
   recipe_urls: []
   comments:
   - date: "6/7/14"
@@ -3218,7 +3225,7 @@
   name: "eggnog"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-09-05'
   recipe_urls: []
   comments:
   - date: "12/24/13"
