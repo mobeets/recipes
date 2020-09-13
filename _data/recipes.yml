@@ -1,21 +1,34 @@
 - count: 1
-  index: 7
+  index: 8
   nickname: ""
-  name: "beer"
+  name: "beer [bottling]"
   tags:
   - "drink"
-  last_suggested_date: '2020-09-05'
+  last_suggested_date: '2016-01-01'
+  recipe_urls: []
+  comments:
+  - date: "9/5/20"
+    comment: "couldn't get the siphon working for the life of us. need a better method, big time. like a pump. it took us like an hour total, and there was beer everywhere (floor, arms, counters, etc.) at the end. but we made 9 bottles! and afterwards, just thinking about it, it felt great. for sugar, ended up doing 1oz white sugar in 1/4c water, boiled for a minute or two and then cooled to room temp (didn't take long)."
+- count: 2
+  index: 7
+  nickname: ""
+  name: "beer [brewing]"
+  tags:
+  - "drink"
+  last_suggested_date: '2016-01-01'
   recipe_urls: []
   comments:
   - date: "8/22/20"
-    comment: "maris otter, cascade hops, us-05 yeast"
+    comment: "maris otter, cascade hops, us-05 yeast. i use the instant pot for heat, mostly on slow-cook on low. some gloves for squeezing the bag would have been nice. we ended up a little short on liquid at the end, probably because of over-boiling?"
+  - date: "9/7/20"
+    comment: "same as last time but with citra. realized later that this have been pale ales, not an ipa. anyway, much easier this time. 3.5 hours start to finish including cleanup. used the big 8 quart stock pot with 6 quarts of water and that worked perfectly. stored it in the instant pot to insulate during the hour long heat off part with the malt. then kept it at a super low boil (like at 5-6 on the burner) the whole time. i wish i had non-iodine sanitizer just because it kinda freaks me out. also, a bag of ice helped SO much. cooled to 70F within 20 minutes! stirring while cooling was CRITICAL and would drop degrees so fast. sanitized digital thermometer clipped on with sanitized clothespin onto stock pot while cooling, which was also convenient. no need for temperature control during the brewing part. also, i used like half tap water, half spring water. hope that doesn't fuck the taste up...we'll see."
 - count: 1
   index: 6
   nickname: ""
   name: "blueberry shrub"
   tags:
   - "drink"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-09-12'
   recipe_urls:
   - "https://www.fermentedfoodlab.com/apple-cider-vinegar-blueberry-and-ginger-shrub/"
   comments:
@@ -217,7 +230,7 @@
   tags:
   - "dinner"
   - "curry"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-09-12'
   recipe_urls:
   - "https://www.onceuponachef.com/recipes/thai-shrimp-curry.html"
   comments:
@@ -285,7 +298,7 @@
   comments:
   - date: "6/9/20"
     comment: "made 13c of broth. bonus: also made enough chicken (from the wings) for a few servings of chicken salad"
-- count: 3
+- count: 4
   index: 166
   nickname: ""
   name: "burgers on the grill"
@@ -888,7 +901,7 @@
     comment: "we use 2 lbs. ground beef, and 20oz mushrooms; made about 8 servings"
   - date: "4/22/18"
     comment: "takes a little more than an hour to make, and we added corn starch to finally get it to thicken"
-- count: 5
+- count: 6
   index: 120
   nickname: ""
   name: "alfredo pasta"
@@ -908,6 +921,8 @@
     comment: "with chicken, which Jess pan-fries according to that last Blue Apron meal, and it's delicious."
   - date: "5/12/20"
     comment: "with lots of mushrooms and chicken. we double the sauce and it makes A LOT, it's perfect."
+  - date: "9/5/20"
+    comment: "with chicken on the grill"
 - count: 1
   index: 119
   nickname: ""
@@ -3366,7 +3381,7 @@
   - date: "8/2/20"
     comment: "just like the no eggs recipe, except I made it all brown sugar (no white sugar), and added 2 eggs, and pecans. Overall, the brown sugar didn't taste as sweet! Needed more sugar."
   - date: "8/19/20"
-    comment: "just like the no eggs recipe, except one egg, 1t baking soda and no powder, almost all dark chocolate instead of chocolate chips, a little bit of honey to sweeten"
+    comment: "just like the no eggs recipe, except one egg, no milk, 1t baking soda and no powder, almost all dark chocolate instead of chocolate chips, a little bit of honey to sweeten (about 1T), and a (not heaping) spoonful of pb"
 - count: 3
   index: 4
   nickname: "CkD3"
@@ -3485,7 +3500,7 @@
   comments:
   - date: "2/3/18"
     comment: "absolutely delicious--almost crepe-like. Emre said they were seriously the best pancakes he'd ever had"
-- count: 53
+- count: 54
   index: 1
   nickname: ""
   name: "sourdough bread"
@@ -3571,3 +3586,5 @@
     comment: "made it less dry but STILL got stuck. must be the bowl's fault."
   - date: "3/4/20"
     comment: "rosemary and sage"
+  - date: "9/9/20"
+    comment: "Because it's summer, the starter was eating so fast that I actually fed it at like 2pm the day I later mixed up the batter. I think that helpd a lot, because the bread was much spongier this time compared to recent times. Still pretty flat as a whole though. I never have figured out whether that's because it's under- or over-proved."
