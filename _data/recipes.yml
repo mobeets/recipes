@@ -1,10 +1,21 @@
+- count: 1
+  index: 10
+  nickname: ""
+  name: "hot buttered rum"
+  tags:
+  - "drink"
+  last_suggested_date: '2016-01-01'
+  recipe_urls: []
+  comments:
+  - date: "10/17/20"
+    comment: "per drink: put 1T butter + slightly less than 1T brown sugar in mug and microwave until melted. then sprinkle in a touch of cinnamon, nutmeg, and cloves. add a shot of rum (white rum is fine), and fill with boiled water."
 - count: 3
   index: 9
   nickname: ""
   name: "beer [tasting]"
   tags:
   - "drink"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-10-10'
   recipe_urls: []
   comments:
   - date: "9/13/20"
@@ -241,18 +252,42 @@
   - date: "10/28/13"
     comment: "half batch is plenty"
 - count: 1
+  index: 175
+  nickname: ""
+  name: "one pot chicken parmesan"
+  tags:
+  - "dinner"
+  - "chicken"
+  last_suggested_date: '2016-01-01'
+  recipe_urls:
+  - "https://www.thechunkychef.com/one-pot-chicken-parmesan-pasta/"
+  comments:
+  - date: "10/16/20"
+    comment: "No mozzarella, added 1/4-1/2 c ricotta. Also needed to add prob about 1/2-1c of extra water."
+- count: 1
+  index: 174
+  nickname: ""
+  name: "sausage squash bake"
+  tags:
+  - "dinner"
+  last_suggested_date: '2016-01-01'
+  recipe_urls: []
+  comments:
+  - date: "10/15/20"
+    comment: "blue apron meal"
+- count: 1
   index: 173
   nickname: ""
   name: "pork breakfast sausage patties"
   tags:
   - "dinner"
   - "pork"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-10-10'
   recipe_urls:
   - "https://www.marthastewart.com/341904/simple-homemade-sausage-patties"
   comments:
   - date: "9/30/20"
-    comment: "a little too salty, but super flavorful. I also add chili flakes, and use garlic powder instead of garlic"
+    comment: "a little too salty and too much sage, but super flavorful. I also add chili flakes, and use garlic powder instead of garlic. used 8oz sausage so recipe split in half."
 - count: 1
   index: 172
   nickname: ""
@@ -301,7 +336,7 @@
   comments:
   - date: "7/22/20"
     comment: "recipe via Elaine, and it's delicious. used frozen pizza dough, thawed for 2 hours (3 hours would have been safer). a scoop of hazan sauce from the freezer. followed recipe except no fennel bulb. so tasty though! also made garlic knots, which baked about 2 minutes longer than the pizza. perfect template for a pizza though--it was great."
-- count: 3
+- count: 4
   index: 168
   nickname: ""
   name: "grilled chicken breast"
@@ -315,6 +350,8 @@
     comment: "brined in 1/4c salt + 4c water for 30 minutes, then dried off and seasoned in pepper and paprika (no salt). then grilled (high heat) for about 6 minutes each side. a little overcooked (want to go to 160F) so maybe watch it next time."
   - date: "7/18/20"
     comment: "breasts were thicker so they cooked a little longer, but still turned out good--cooked them right to 160F. also be careful, brining for 45 minutes they taste great still, but more might be too much."
+  - date: "10/12/20"
+    comment: "grilling when windy: not a good idea (took forever)."
 - count: 1
   index: 167
   nickname: ""
@@ -464,7 +501,7 @@
   tags:
   - "dinner"
   - "beef"
-  last_suggested_date: '2019-08-10'
+  last_suggested_date: '2020-10-17'
   recipe_urls: []
   comments:
   - date: "7/6/19"
@@ -530,7 +567,7 @@
   name: "bolognese"
   tags:
   - "dinner"
-  last_suggested_date: '2019-08-10'
+  last_suggested_date: '2020-10-17'
   recipe_urls: []
   comments: []
 - count: 1
@@ -579,7 +616,7 @@
   comments:
   - date: "12/1/18"
     comment: "delicious. made cornbread on the side. (jess says to halve the broth, but it made a good amount as is so maybe let's not.) servings:9"
-- count: 3
+- count: 4
   index: 146
   nickname: ""
   name: "chicken parmesan"
@@ -597,6 +634,8 @@
     comment: "should use 28oz crushed tomatoes (not diced, otherwise too watery), and 8oz of mozzarella was fine, with 2 lbs. of chicken. also for the breadcrumbs, made 1/3c and that was plenty."
   - date: "3/11/19"
     comment: "really, this is such a simple, low-stress, delicious meal. and by the way, doubling means 2 lbs. chicken, 2 28oz tomatoes, and 12oz mozzarella. also if you don't have olive oil for the breadcrumb part, just use butter"
+  - date: "10/5/20"
+    comment: "not as good with panko. also, make sure you get the sauce seasoned/salted well because it's kinda bland otherwise. but a super easy meal, so worth figuring out how to make it good. Since we don't have the giant cast iron anymore, I cooked the 2-2.5 lbs of chicken in the two 12\" skillets and then transferred to the preheated (from the oven) 9x13."
 - count: 2
   index: 145
   nickname: ""
@@ -1107,7 +1146,7 @@
   name: "strip steaks with sauce"
   tags:
   - "dinner"
-  last_suggested_date: '2019-08-17'
+  last_suggested_date: '2020-10-24'
   recipe_urls: []
   comments:
   - date: "7/5/16"
@@ -1461,7 +1500,7 @@
   name: "mac and cheese"
   tags:
   - "dinner"
-  last_suggested_date: '2019-08-17'
+  last_suggested_date: '2020-10-24'
   recipe_urls:
   - "http://www.foodnetwork.com/recipes/ree-drummond/macaroni-and-cheese-recipe.html"
   - "http://thepioneerwoman.com/cooking/fancy-macaroni/"
@@ -1847,7 +1886,7 @@
   tags:
   - "dinner"
   - "slow-cooker"
-  last_suggested_date: '2019-08-17'
+  last_suggested_date: '2020-10-24'
   recipe_urls: []
   comments: []
 - count: 3
@@ -1968,7 +2007,7 @@
   - "dinner"
   - "curry"
   - "lamb"
-  last_suggested_date: '2019-08-17'
+  last_suggested_date: '2020-10-24'
   recipe_urls: []
   comments: []
 - count: 2
@@ -2314,7 +2353,7 @@
   tags:
   - "dinner"
   - "pasta"
-  last_suggested_date: '2019-08-17'
+  last_suggested_date: '2020-10-24'
   recipe_urls:
   - "http://www.foodnetwork.com/recipes/giada-de-laurentiis/baked-penne-with-roasted-vegetables-recipe.html"
   comments:
@@ -2704,7 +2743,7 @@
     comment: "we double it; recipe from Caitlin"
   - date: "9/14/20"
     comment: "I used four gigantic apples and it filled a 9x13. I did NOT double the recipe, unlike my last note. so both that comment and the recipe (which called for a 9x9) lied to me. but it was delicious! maybe a tad sweet, so you could probably skip the bit of white sugar in the apples themselves?"
-- count: 4
+- count: 5
   index: 60
   nickname: ""
   name: "blueberry tart"
@@ -2719,6 +2758,8 @@
     comment: "added 1t corn starch the blueberry/sugar mix, and two good squirts of lemon juice (2t?). cooked at 375F for 15 minutes, then 400F for 10 minutes."
   - date: "1/5/19"
     comment: "made in 9x9 pan"
+  - date: "10/18/20"
+    comment: "I use a mix of blueberries and raspberries."
 - count: 1
   index: 59
   nickname: ""
@@ -3460,7 +3501,7 @@
   comments:
   - date: "2/16/15"
     comment: "delicious! just add a bit more baking soda, replace quick oats for rolled oats and use just under 1 cup; add a spoonful of honey"
-- count: 13
+- count: 14
   index: 1
   nickname: "CkD1"
   name: "brownies"
@@ -3479,6 +3520,8 @@
     comment: "don't let Jess use convection...also we substitute in some cocoa for 2oz baking chocolate (and subtract off 2T butter), and it's delicious"
   - date: "12/2/17"
     comment: "recipe on the unsweetened baking chocolate box"
+  - date: "10/10/20"
+    comment: "browneyedbaker chewy recipe is a good one since it's made for 9x13. though only did 2c of sugar instead of 2.5c, and about 2/3c chocolate chips instead of 1c."
 - count: 1
   index: 6
   nickname: ""
