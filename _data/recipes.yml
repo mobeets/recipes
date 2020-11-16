@@ -4,7 +4,7 @@
   name: "hot buttered rum"
   tags:
   - "drink"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-10-31'
   recipe_urls: []
   comments:
   - date: "10/17/20"
@@ -258,7 +258,7 @@
   tags:
   - "dinner"
   - "chicken"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-10-31'
   recipe_urls:
   - "https://www.thechunkychef.com/one-pot-chicken-parmesan-pasta/"
   comments:
@@ -270,7 +270,7 @@
   name: "sausage squash bake"
   tags:
   - "dinner"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-10-31'
   recipe_urls: []
   comments:
   - date: "10/15/20"
@@ -288,7 +288,7 @@
   comments:
   - date: "9/30/20"
     comment: "a little too salty and too much sage, but super flavorful. I also add chili flakes, and use garlic powder instead of garlic. used 8oz sausage so recipe split in half."
-- count: 1
+- count: 2
   index: 172
   nickname: ""
   name: "thai shrimp curry"
@@ -324,7 +324,7 @@
   comments:
   - date: "7/24/20"
     comment: "this recipe was much better! the sprinkling of togarashi at the end was perfect. jess got _super_ thin pork chops which seemed bad at first but honestly it wasn't really that bad. we used the 'cheat dashi' but I do want to buy the real deal for next time."
-- count: 3
+- count: 4
   index: 169
   nickname: ""
   name: "cast iron pizza"
@@ -761,7 +761,7 @@
   tags:
   - "dinner"
   - "chicken"
-  last_suggested_date: '2019-08-24'
+  last_suggested_date: '2020-11-07'
   recipe_urls:
   - "http://www.seriouseats.com/recipes/2017/04/katsudon-japanese-leftover-cutlet-rice-egg-bowl-recipe.html"
   comments:
@@ -1135,7 +1135,7 @@
   name: "roast duck"
   tags:
   - "dinner"
-  last_suggested_date: '2019-08-31'
+  last_suggested_date: '2020-11-14'
   recipe_urls: []
   comments:
   - date: "7/12/16"
@@ -1616,7 +1616,7 @@
   - "dinner"
   - "tacos"
   - "chicken"
-  last_suggested_date: '2019-08-31'
+  last_suggested_date: '2020-11-14'
   recipe_urls: []
   comments:
   - date: "5/26/15"
@@ -1653,7 +1653,7 @@
   - "dinner"
   - "pasta"
   - "pork"
-  last_suggested_date: '2019-08-24'
+  last_suggested_date: '2020-11-07'
   recipe_urls: []
   comments:
   - date: "4/18/15"
@@ -1810,7 +1810,7 @@
   tags:
   - "dinner"
   - "soup"
-  last_suggested_date: '2019-08-31'
+  last_suggested_date: '2020-11-14'
   recipe_urls: []
   comments:
   - date: "8/24/14"
@@ -1940,7 +1940,7 @@
   comments:
   - date: "6/23/14"
     comment: "talk about people doing jobs they hate, and dumb people who click Edit to copy/paste"
-- count: 7
+- count: 8
   index: 47
   nickname: ""
   name: "lasagna"
@@ -2041,7 +2041,7 @@
   name: "scallops, oyster mushrooms"
   tags:
   - "dinner"
-  last_suggested_date: '2019-08-24'
+  last_suggested_date: '2020-11-07'
   recipe_urls: []
   comments:
   - date: "1/29/14"
@@ -2165,7 +2165,7 @@
   tags:
   - "dinner"
   - "sandwich"
-  last_suggested_date: '2019-08-31'
+  last_suggested_date: '2020-11-14'
   recipe_urls: []
   comments:
   - date: "10/30/13"
@@ -2719,7 +2719,7 @@
   last_suggested_date: '2020-06-13'
   recipe_urls: []
   comments: []
-- count: 1
+- count: 3
   index: 62
   nickname: ""
   name: "mexican wedding cookies"
@@ -2727,8 +2727,13 @@
   - "dessert"
   - "cookies"
   last_suggested_date: '2020-07-25'
-  recipe_urls: []
-  comments: []
+  recipe_urls:
+  - "https://www.food.com/recipe/traditional-mexican-wedding-cookies-162213"
+  comments:
+  - date: "11/1/20"
+    comment: "should have read the comments and cooked at 350F instead of 400F. I used walnuts, pulsed using the the vitamix. the batter was DELICIOUS and so were the cookies. I used the cookie scooper for making them, and I'd say it made about 32 total (I froze half, so this is just a guess). Super easy to make though."
+  - date: "11/7/20"
+    comment: "for sophie and vince"
 - count: 3
   index: 61
   nickname: ""
@@ -2828,7 +2833,7 @@
   comments:
   - date: "5/13/17"
     comment: "the one on the same page as the queen of sheba"
-- count: 1
+- count: 2
   index: 53
   nickname: ""
   name: "skillet cookie pie"
@@ -2896,7 +2901,7 @@
     comment: "they're basically like sugar cookies if you short on the bourbon, but they're still very good. we make a buttercream frosting for them"
   - date: "10/25/18"
     comment: "we make 86 of them, with buttercream frosting. we try to pipe it but it eventually starts melting/clumping weirdly, so a spoon was the way to go. maybe next time don't add more milk than the recipe calls for..."
-- count: 2
+- count: 3
   index: 48
   nickname: ""
   name: "hot chocolate"
@@ -3579,7 +3584,7 @@
   comments:
   - date: "2/3/18"
     comment: "absolutely delicious--almost crepe-like. Emre said they were seriously the best pancakes he'd ever had"
-- count: 54
+- count: 55
   index: 1
   nickname: ""
   name: "sourdough bread"
