@@ -252,6 +252,27 @@
   - date: "10/28/13"
     comment: "half batch is plenty"
 - count: 1
+  index: 177
+  nickname: ""
+  name: "sweet potato casserole"
+  tags:
+  - "dinner"
+  last_suggested_date: '2016-01-01'
+  recipe_urls:
+  - "https://www.foodnetwork.com/recipes/food-network-kitchen/sweet-potato-casserole-3364945"
+  comments:
+  - date: "11/26/20"
+    comment: "delicious! also a dessert. I skipped the eggs"
+- count: 1
+  index: 176
+  nickname: ""
+  name: "butternut squash chili"
+  tags:
+  - "dinner"
+  last_suggested_date: '2016-01-01'
+  recipe_urls: []
+  comments: []
+- count: 1
   index: 175
   nickname: ""
   name: "one pot chicken parmesan"
@@ -324,7 +345,7 @@
   comments:
   - date: "7/24/20"
     comment: "this recipe was much better! the sprinkling of togarashi at the end was perfect. jess got _super_ thin pork chops which seemed bad at first but honestly it wasn't really that bad. we used the 'cheat dashi' but I do want to buy the real deal for next time."
-- count: 4
+- count: 5
   index: 169
   nickname: ""
   name: "cast iron pizza"
@@ -610,7 +631,7 @@
   name: "turkey chili"
   tags:
   - "dinner"
-  last_suggested_date: '2019-09-07'
+  last_suggested_date: '2020-11-21'
   recipe_urls:
   - "https://cooking.nytimes.com/recipes/7985-turkey-chili"
   comments:
@@ -811,7 +832,7 @@
   tags:
   - "dinner"
   - "soup"
-  last_suggested_date: '2019-09-14'
+  last_suggested_date: '2020-11-28'
   recipe_urls:
   - "http://www.seriouseats.com/recipes/2016/07/gyudon-japanese-simmered-beef-and-rice-bowl-recipe.html, http://www.hikarimiso.com/recipes/miso_soup/basic_miso/"
   comments: []
@@ -1080,7 +1101,7 @@
   name: "pizza"
   tags:
   - "dinner"
-  last_suggested_date: '2019-09-14'
+  last_suggested_date: '2020-11-28'
   recipe_urls: []
   comments:
   - date: "10/23/16"
@@ -1720,7 +1741,7 @@
   name: "steak au poivre with roasted potatoes"
   tags:
   - "dinner"
-  last_suggested_date: '2019-09-21'
+  last_suggested_date: '2020-12-05'
   recipe_urls:
   - "http://www.foodnetwork.com/recipes/alton-brown/steak-au-poivre-recipe.html"
   comments:
@@ -1871,7 +1892,7 @@
   tags:
   - "dinner"
   - "curry"
-  last_suggested_date: '2019-09-21'
+  last_suggested_date: '2020-12-05'
   recipe_urls:
   - "https://pinchofyum.com/creamy-thai-sweet-potato-curry"
   comments:
@@ -2052,7 +2073,7 @@
   name: "hummus, roasted veggies"
   tags:
   - "dinner"
-  last_suggested_date: '2019-09-14'
+  last_suggested_date: '2020-11-28'
   recipe_urls: []
   comments: []
 - count: 1
@@ -2209,7 +2230,7 @@
   name: "omelettes"
   tags:
   - "dinner"
-  last_suggested_date: '2019-09-21'
+  last_suggested_date: '2020-12-05'
   recipe_urls: []
   comments: []
 - count: 6
@@ -2288,7 +2309,7 @@
   - "dinner"
   - "pasta"
   - "beef"
-  last_suggested_date: '2019-09-14'
+  last_suggested_date: '2020-11-28'
   recipe_urls: []
   comments: []
 - count: 4
@@ -2342,7 +2363,7 @@
   tags:
   - "dinner"
   - "curry"
-  last_suggested_date: '2019-09-14'
+  last_suggested_date: '2020-11-28'
   recipe_urls:
   - "http://www.veggienumnum.com/2010/11/masoor-dal/"
   comments: []
@@ -2473,7 +2494,7 @@
   tags:
   - "dinner"
   - "burger"
-  last_suggested_date: '2019-09-21'
+  last_suggested_date: '2020-12-05'
   recipe_urls: []
   comments: []
 - count: 1
@@ -2524,6 +2545,31 @@
   last_suggested_date: '2020-04-26'
   recipe_urls: []
   comments: []
+- count: 1
+  index: 79
+  nickname: ""
+  name: "oatmeal chocolate chip lace cookies"
+  tags:
+  - "dessert"
+  - "cookies"
+  last_suggested_date: '2016-01-01'
+  recipe_urls:
+  - "https://www.bonappetit.com/recipe/oatmeal-lace-cookies"
+  comments:
+  - date: "11/22/20"
+    comment: "I add about 1/2c of chocolate chips, and maybe 1/4c of walnuts. The batter couldn't really support all of it, but they did still turn out very good."
+- count: 1
+  index: 78
+  nickname: ""
+  name: "tahini brownies"
+  tags:
+  - "dessert"
+  last_suggested_date: '2016-01-01'
+  recipe_urls:
+  - "https://www.bonappetit.com/recipe/gluten-free-chocolate-tahini-brownies"
+  comments:
+  - date: "11/12/20"
+    comment: "soooo good."
 - count: 2
   index: 77
   nickname: ""
@@ -3336,7 +3382,7 @@
   last_suggested_date: '2020-07-11'
   recipe_urls: []
   comments: []
-- count: 1
+- count: 2
   index: 12
   nickname: ""
   name: "pumpkin pie"
@@ -3344,8 +3390,11 @@
   - "dessert"
   - "pie"
   last_suggested_date: '2020-07-04'
-  recipe_urls: []
-  comments: []
+  recipe_urls:
+  - "https://www.bonappetit.com/recipe/pecan-rye-pumpkin-pie"
+  comments:
+  - date: "11/25/20"
+    comment: "I don't do the pecans, and sub 5oz evaporated milk in place of cream. Cooks for about 55 minutes, and smells delicious. Keebler graham cracker crust."
 - count: 2
   index: 11
   nickname: "CkD12"
@@ -3569,7 +3618,7 @@
   - "bread"
   last_suggested_date: '2020-07-04'
   recipe_urls:
-  - "https://blog.kingarthurflour.com/2015/05/01/putting-sourdough-starter-hold/"
+  - "https://www.kingarthurbaking.com/blog/2015/05/01/putting-sourdough-starter-hold"
   comments: []
 - count: 1
   index: 2
