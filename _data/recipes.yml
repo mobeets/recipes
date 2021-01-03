@@ -257,7 +257,7 @@
   name: "sweet potato casserole"
   tags:
   - "dinner"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-12-12'
   recipe_urls:
   - "https://www.foodnetwork.com/recipes/food-network-kitchen/sweet-potato-casserole-3364945"
   comments:
@@ -269,7 +269,7 @@
   name: "butternut squash chili"
   tags:
   - "dinner"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-12-12'
   recipe_urls: []
   comments: []
 - count: 1
@@ -499,7 +499,7 @@
   tags:
   - "dinner"
   - "chicken"
-  last_suggested_date: '2019-10-05'
+  last_suggested_date: '2020-12-26'
   recipe_urls:
   - "https://damndelicious.net/2016/09/24/sheet-pan-bruschetta-chicken/print/"
   comments: []
@@ -543,7 +543,7 @@
     comment: "freezer instant pot meal. we eat with rice and naan. it's very tasty! very spicy but it was enjoyable. servings:6"
   - date: "12/8/19"
     comment: "need to make sure to mix the chickens in with the sauce before freezing maybe? this meal and the beef stew didn't cook at all the first time through because the meat was stuck together and so stayed a bit raw. We did it 8 minutes more and it was fine. but still, very annoying."
-- count: 3
+- count: 4
   index: 154
   nickname: ""
   name: "beef stew"
@@ -551,7 +551,8 @@
   - "dinner"
   - "beef"
   last_suggested_date: '2020-10-03'
-  recipe_urls: []
+  recipe_urls:
+  - "https://thesaltymarshmallow.com/best-ever-instant-pot-beef-stew"
   comments:
   - date: "6/22/19"
     comment: "freezer instant pot meal. Based on the side of the Instant pot, I'd say we could easily have doubled (though would need two storage bags instead of one). servings:5"
@@ -559,6 +560,8 @@
     comment: "next time, let's add some potatoes. like a lot of them."
   - date: "12/4/19"
     comment: "could use more broth, fewer carrots."
+  - date: "1/1/21"
+    comment: "this recipe was delicious."
 - count: 1
   index: 153
   nickname: ""
@@ -606,7 +609,7 @@
   name: "pot roast"
   tags:
   - "dinner"
-  last_suggested_date: '2019-10-12'
+  last_suggested_date: '2021-01-02'
   recipe_urls:
   - "https://www.seriouseats.com/recipes/2009/10/perfect-pot-roast-recipe-pioneer-woman.html"
   comments:
@@ -619,7 +622,7 @@
   tags:
   - "dinner"
   - "slow-cooker"
-  last_suggested_date: '2019-09-28'
+  last_suggested_date: '2020-12-19'
   recipe_urls:
   - "https://natashaskitchen.com/slow-cooker-bolognese-sauce-recipe/"
   comments:
@@ -1043,7 +1046,7 @@
     comment: "maybe make 1.5x or 2x next time"
   - date: "2/6/17"
     comment: "doubled it and it made 5 servings; need to make 1.25 cups rice though"
-- count: 9
+- count: 10
   index: 117
   nickname: ""
   name: "chicken pot pie"
@@ -1300,7 +1303,7 @@
   last_suggested_date: '2019-11-16'
   recipe_urls: []
   comments: []
-- count: 8
+- count: 9
   index: 97
   nickname: ""
   name: "pork carnitas tacos"
@@ -2546,25 +2549,35 @@
   recipe_urls: []
   comments: []
 - count: 1
+  index: 80
+  nickname: ""
+  name: "apple cinnamon muffins"
+  tags:
+  - "dessert"
+  last_suggested_date: '2016-01-01'
+  recipe_urls:
+  - "https://sallysbakingaddiction.com/master-muffin-recipe/"
+  comments: []
+- count: 1
   index: 79
   nickname: ""
   name: "oatmeal chocolate chip lace cookies"
   tags:
   - "dessert"
   - "cookies"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-12-12'
   recipe_urls:
   - "https://www.bonappetit.com/recipe/oatmeal-lace-cookies"
   comments:
   - date: "11/22/20"
     comment: "I add about 1/2c of chocolate chips, and maybe 1/4c of walnuts. The batter couldn't really support all of it, but they did still turn out very good."
-- count: 1
+- count: 2
   index: 78
   nickname: ""
   name: "tahini brownies"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2020-12-12'
   recipe_urls:
   - "https://www.bonappetit.com/recipe/gluten-free-chocolate-tahini-brownies"
   comments:
@@ -2933,7 +2946,7 @@
     comment: "super delicious, nice and crispy but also fluffy"
   - date: "9/10/17"
     comment: "we are short on coconut oil so we add in maybe 2T butter to finish it off; also we add 2T cocoa in place of some flour...the result is incredible"
-- count: 2
+- count: 3
   index: 49
   nickname: ""
   name: "bourbon cookies"
@@ -2947,6 +2960,8 @@
     comment: "they're basically like sugar cookies if you short on the bourbon, but they're still very good. we make a buttercream frosting for them"
   - date: "10/25/18"
     comment: "we make 86 of them, with buttercream frosting. we try to pipe it but it eventually starts melting/clumping weirdly, so a spoon was the way to go. maybe next time don't add more milk than the recipe calls for..."
+  - date: "12/24/20"
+    comment: "same note as last time: actually look up a buttercream recipe this time and do NOT add more milk than it says! otherwise the icing separates. such a delicious cookie though. baked for 10 minutes at 350F."
 - count: 3
   index: 48
   nickname: ""
@@ -3610,7 +3625,7 @@
   comments:
   - date: "4/7/20"
     comment: "Jess does it, with some very old yeast. And they turn out amazing! I end up broiling them (pan frying works too, but oven is both easier AND better), brushed with butter. ~2 mins each side, buttering both sides but the bottom only once it's been flipped. (a little goes a long way.)"
-- count: 1
+- count: 2
   index: 3
   nickname: ""
   name: "storing sourdough dehydrated as chips"
@@ -3619,7 +3634,9 @@
   last_suggested_date: '2020-07-04'
   recipe_urls:
   - "https://www.kingarthurbaking.com/blog/2015/05/01/putting-sourdough-starter-hold"
-  comments: []
+  comments:
+  - date: "12/6/20"
+    comment: "for Mom for xmas"
 - count: 1
   index: 2
   nickname: ""
@@ -3633,7 +3650,7 @@
   comments:
   - date: "2/3/18"
     comment: "absolutely delicious--almost crepe-like. Emre said they were seriously the best pancakes he'd ever had"
-- count: 55
+- count: 56
   index: 1
   nickname: ""
   name: "sourdough bread"
@@ -3721,3 +3738,5 @@
     comment: "rosemary and sage"
   - date: "9/9/20"
     comment: "Because it's summer, the starter was eating so fast that I actually fed it at like 2pm the day I later mixed up the batter. I think that helpd a lot, because the bread was much spongier this time compared to recent times. Still pretty flat as a whole though. I never have figured out whether that's because it's under- or over-proved."
+  - date: "12/28/20"
+    comment: "one of the worst ones we've ever made. in too cold of a spot overnight, pretty sure."
