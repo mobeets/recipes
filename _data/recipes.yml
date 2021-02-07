@@ -121,6 +121,32 @@
   - date: "5/3/14"
     comment: "\"artisinal drinking vinegar\" from the farmer's market, plus seltzer water and water and some fresh lime juice...so goddamn good--imagine with alcohol!"
 - count: 1
+  index: 13
+  nickname: ""
+  name: "dutch baby pancake"
+  tags:
+  - "breakfast"
+  - "cake"
+  last_suggested_date: '2016-01-01'
+  recipe_urls:
+  - "https://themodernproper.com/dutch-baby-pancake"
+  comments:
+  - date: "1/25/21"
+    comment: "sooo delicious. aka german pancakes aka \"big puffy pancake\"."
+- count: 1
+  index: 12
+  nickname: ""
+  name: "cast iron sourdough pancakes"
+  tags:
+  - "breakfast"
+  - "cake"
+  last_suggested_date: '2016-01-01'
+  recipe_urls:
+  - "https://cooking.nytimes.com/recipes/1018663-cast-iron-sourdough-pancakes"
+  comments:
+  - date: "1/9/21"
+    comment: "we accidentally make the entire batter to be left overnight. turns out it was...totally fine? but obviously not ideal, because the salt didn't let the yeast thrive. anyway, we did 1c flour, 1c milk, 1/2c starter, 2 eggs, 1/2t salt, 1t baking soda, 1T sugar. added blueberries (and be generous with these because they're the best part)."
+- count: 1
   index: 11
   nickname: ""
   name: "sourdough waffles"
@@ -188,7 +214,7 @@
   comments:
   - date: "10/16/14"
     comment: "yes, combine everything but the oats together first; takes ~12 minutes to start and then get into the oven, fyi, and then about 2 more minutes to clean. Then ~20 minutes to cook. So anytime you want, you could have granola in half an hour, fool!"
-- count: 1
+- count: 4
   index: 5
   nickname: ""
   name: "sourdough pancakes"
@@ -196,10 +222,15 @@
   - "breakfast"
   - "cake"
   last_suggested_date: '2020-04-26'
-  recipe_urls: []
+  recipe_urls:
+  - "https://cooking.nytimes.com/recipes/1018025-sourdough-pancake-or-waffle-batter"
   comments:
   - date: "7/26/14"
     comment: "did about 1c flour 1/2c milk 1/8c starter, left overnight on microwave; then 1/2t salt 1/2t baking soda 1 T oil 1 T sugar 1 egg and then milk to make right thickness, blended; it was rubbery dough and kinda rubbery pancake but that's a negative word because they were pretty tasty"
+  - date: "2/3/18"
+    comment: "absolutely delicious--almost crepe-like. Emre said they were seriously the best pancakes he'd ever had"
+  - date: "12/14/19"
+    comment: "Turns out I accidentally forgot to halve the flour last night, but then made what ended up being an even worse mistake by trying to compensate for the extra flour by keeping it in our room overnight, where it is very hot. That just made the sourdough angry and alcoholic tasting. They were fine, but not as good as last time. But a half-recipe is basically the right amount, by the way."
 - count: 1
   index: 4
   nickname: ""
@@ -251,6 +282,31 @@
     comment: "Emre joins us, bringing blueberries"
   - date: "10/28/13"
     comment: "half batch is plenty"
+- count: 1
+  index: 179
+  nickname: ""
+  name: "sour cream chicken enchiladas"
+  tags:
+  - "dinner"
+  - "chicken"
+  last_suggested_date: '2016-01-01'
+  recipe_urls:
+  - "https://www.inspiredtaste.net/11767/salsa-verde-chicken-enchiladas"
+  comments:
+  - date: "1/30/21"
+    comment: "doubled it, trader joes salsa verde (2 jars), 3 cups of shredded chicken, 1 bag of shredded cheese (2 cups), corn tortillas, made 15 enchiladas, delicious"
+- count: 1
+  index: 178
+  nickname: ""
+  name: "sourdough biscuits"
+  tags:
+  - "dinner"
+  last_suggested_date: '2016-01-01'
+  recipe_urls:
+  - "https://www.kingarthurbaking.com/recipes/buttery-sourdough-sandwich-biscuits-recipe"
+  comments:
+  - date: "1/10/21"
+    comment: "Jess used 1/2c starter and it only made 3 full biscuits. they were tasty though"
 - count: 1
   index: 177
   nickname: ""
@@ -615,7 +671,7 @@
   comments:
   - date: "12/19/18"
     comment: "Jess says: We did 3lbs of meet. I'd say do half of the broth -- only deglaze the onions with like 1/2 a cup of broth at most. And then add a little less than a cup to the actual meat. We also added carrots"
-- count: 1
+- count: 2
   index: 148
   nickname: ""
   name: "slow-cooker bolognese"
@@ -628,6 +684,8 @@
   comments:
   - date: "12/12/18"
     comment: "Jess says she did 1/2c milk, 1/2c white wine, 1.5 cans of 28oz crushed tomatoes, 2T tomato paste, and sage instead of parsley"
+  - date: "1/8/21"
+    comment: "really watery. maybe because we used whole tomatoes?"
 - count: 6
   index: 147
   nickname: ""
@@ -728,7 +786,7 @@
     comment: "Jess makes it while I'm gone"
   - date: "10/13/19"
     comment: "2 lbs of ham hock is plenty (2.5 is too much!)"
-- count: 4
+- count: 5
   index: 140
   nickname: ""
   name: "togarashi popcorn chicken with cabbage slaw"
@@ -766,7 +824,7 @@
   name: "gyudon on rice"
   tags:
   - "dinner"
-  last_suggested_date: '2019-10-19'
+  last_suggested_date: '2021-01-16'
   recipe_urls: []
   comments: []
 - count: 1
@@ -825,7 +883,7 @@
   name: "tuna steaks with rice and asparagus"
   tags:
   - "dinner"
-  last_suggested_date: '2019-11-16'
+  last_suggested_date: '2021-02-06'
   recipe_urls: []
   comments: []
 - count: 1
@@ -1054,7 +1112,7 @@
   - "dinner"
   - "pie"
   - "chicken"
-  last_suggested_date: '2019-10-19'
+  last_suggested_date: '2021-01-16'
   recipe_urls:
   - "http://thepioneerwoman.com/cooking/pot-pie/"
   - "https://www.allrecipes.com/recipe/18427/easy-pie-crust/"
@@ -1182,7 +1240,7 @@
   tags:
   - "dinner"
   - "bacon"
-  last_suggested_date: '2019-11-09'
+  last_suggested_date: '2021-01-30'
   recipe_urls: []
   comments:
   - date: "6/23/16"
@@ -1276,7 +1334,7 @@
   name: "turkey chili and cornbread"
   tags:
   - "dinner"
-  last_suggested_date: '2019-11-02'
+  last_suggested_date: '2021-01-23'
   recipe_urls: []
   comments: []
 - count: 4
@@ -1300,7 +1358,7 @@
   name: "banh mis"
   tags:
   - "dinner"
-  last_suggested_date: '2019-11-16'
+  last_suggested_date: '2021-02-06'
   recipe_urls: []
   comments: []
 - count: 9
@@ -1323,7 +1381,7 @@
   name: "baked ziti"
   tags:
   - "dinner"
-  last_suggested_date: '2019-10-19'
+  last_suggested_date: '2021-01-16'
   recipe_urls:
   - "http://www.bonappetit.com/recipe/bas-best-baked-ziti"
   comments: []
@@ -1334,7 +1392,7 @@
   tags:
   - "dinner"
   - "soup"
-  last_suggested_date: '2019-11-09'
+  last_suggested_date: '2021-01-30'
   recipe_urls:
   - "http://www.bonappetit.com/recipe/tom-kha-gai-chicken-coconut-soup"
   comments:
@@ -1429,7 +1487,7 @@
   tags:
   - "dinner"
   - "soup"
-  last_suggested_date: '2019-11-16'
+  last_suggested_date: '2021-02-06'
   recipe_urls: []
   comments:
   - date: "12/8/15"
@@ -1458,7 +1516,7 @@
   name: "mashed sweet potatoes"
   tags:
   - "dinner"
-  last_suggested_date: '2019-11-02'
+  last_suggested_date: '2021-01-23'
   recipe_urls:
   - "http://www.seriouseats.com/recipes/2014/11/the-best-mashed-sweet-potatoes-recipe.html"
   comments: []
@@ -1552,7 +1610,7 @@
     comment: "delicious--Mom's recipe"
   - date: "12/18/19"
     comment: "needs more broth--it all disappears if you put 1.25c of noodles in there! add like two more cups probably (just like mom says, go figure)."
-- count: 16
+- count: 17
   index: 78
   nickname: ""
   name: "hazan's pasta carbonara"
@@ -1566,6 +1624,8 @@
     comment: "1 lb of pasta is a little much--try 2/3 lb. also, we cooked the bacon, then removed it, drained a bit of grease, then added the olive oil and garlic, and then added the bacon back in once chopped up."
   - date: "6/21/16"
     comment: "Jess aimed for 1/2 lb. of pasta and this was our best yet!"
+  - date: "1/21/21"
+    comment: "good with bowtie pasta (roughly 3/4 lb), and the boys love it"
 - count: 2
   index: 77
   nickname: ""
@@ -1627,7 +1687,7 @@
   name: "marcella hazan's tomato sauce"
   tags:
   - "dinner"
-  last_suggested_date: '2019-11-09'
+  last_suggested_date: '2021-01-30'
   recipe_urls: []
   comments:
   - date: "6/14/15"
@@ -1919,7 +1979,7 @@
   name: "shakshouka"
   tags:
   - "dinner"
-  last_suggested_date: '2019-11-09'
+  last_suggested_date: '2021-01-30'
   recipe_urls: []
   comments:
   - date: "7/9/14"
@@ -1946,7 +2006,7 @@
   name: "blat"
   tags:
   - "dinner"
-  last_suggested_date: '2019-10-19'
+  last_suggested_date: '2021-01-16'
   recipe_urls: []
   comments:
   - date: "7/6/14"
@@ -1998,7 +2058,7 @@
   tags:
   - "dinner"
   - "pasta"
-  last_suggested_date: '2019-10-19'
+  last_suggested_date: '2021-01-16'
   recipe_urls: []
   comments:
   - date: "5/29/14"
@@ -2009,7 +2069,7 @@
   name: "rib eye steak, mashed potatoes"
   tags:
   - "dinner"
-  last_suggested_date: '2019-11-02'
+  last_suggested_date: '2021-01-23'
   recipe_urls: []
   comments: []
 - count: 1
@@ -2018,7 +2078,7 @@
   name: "steak fajitas with onions, bell peppers, avocado, yogurt, beer"
   tags:
   - "dinner"
-  last_suggested_date: '2019-11-16'
+  last_suggested_date: '2021-02-06'
   recipe_urls: []
   comments:
   - date: "4/22/14"
@@ -2041,7 +2101,7 @@
   tags:
   - "dinner"
   - "chicken"
-  last_suggested_date: '2019-11-09'
+  last_suggested_date: '2021-01-30'
   recipe_urls:
   - "http://www.justonecookbook.com/recipes/chicken-katsu-don/"
   comments:
@@ -2086,7 +2146,7 @@
   tags:
   - "dinner"
   - "slow-cooker"
-  last_suggested_date: '2019-11-02'
+  last_suggested_date: '2021-01-23'
   recipe_urls: []
   comments:
   - date: "1/3/14"
@@ -2282,7 +2342,7 @@
   tags:
   - "dinner"
   - "chicken"
-  last_suggested_date: '2019-11-16'
+  last_suggested_date: '2021-02-06'
   recipe_urls: []
   comments:
   - date: "8/3/13"
@@ -2410,7 +2470,7 @@
   name: "mushroom noodles"
   tags:
   - "dinner"
-  last_suggested_date: '2019-11-02'
+  last_suggested_date: '2021-01-23'
   recipe_urls: []
   comments: []
 - count: 1
@@ -2549,17 +2609,17 @@
   recipe_urls: []
   comments: []
 - count: 1
-  index: 80
+  index: 79
   nickname: ""
   name: "apple cinnamon muffins"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2021-01-09'
   recipe_urls:
   - "https://sallysbakingaddiction.com/master-muffin-recipe/"
   comments: []
 - count: 1
-  index: 79
+  index: 78
   nickname: ""
   name: "oatmeal chocolate chip lace cookies"
   tags:
@@ -2571,8 +2631,8 @@
   comments:
   - date: "11/22/20"
     comment: "I add about 1/2c of chocolate chips, and maybe 1/4c of walnuts. The batter couldn't really support all of it, but they did still turn out very good."
-- count: 2
-  index: 78
+- count: 3
+  index: 77
   nickname: ""
   name: "tahini brownies"
   tags:
@@ -2584,7 +2644,7 @@
   - date: "11/12/20"
     comment: "soooo good."
 - count: 2
-  index: 77
+  index: 76
   nickname: ""
   name: "blueberry buckle"
   tags:
@@ -2596,7 +2656,7 @@
   - date: "6/3/20"
     comment: "this was really good. jess says she did 2c frozen blueberries"
 - count: 1
-  index: 76
+  index: 75
   nickname: ""
   name: "yellow cake with chocolate icing"
   tags:
@@ -2609,7 +2669,7 @@
   - date: "5/16/20"
     comment: "for the boys' birthday party tomorrow"
 - count: 2
-  index: 75
+  index: 74
   nickname: ""
   name: "banana blondies"
   tags:
@@ -2623,7 +2683,7 @@
   - date: "7/27/20"
     comment: "a critical note was left out last time, which was to add chocolate chips."
 - count: 1
-  index: 74
+  index: 73
   nickname: ""
   name: "bon appetit's best chocolate chip cookies"
   tags:
@@ -2636,7 +2696,7 @@
   - date: "5/2/20"
     comment: "pretty good flavor, and even better the next day"
 - count: 3
-  index: 73
+  index: 72
   nickname: ""
   name: "flourless chocolate cake"
   tags:
@@ -2653,7 +2713,7 @@
   - date: "8/30/20"
     comment: "cooked for 25 minutes exactly, but was a little over-done, so maybe check just a minute earlier. also had a pyrex filled with boiling water (which I added at the same time as the cake) to try to keep cake more moist."
 - count: 1
-  index: 72
+  index: 71
   nickname: ""
   name: "pb oatmeal chocolate chip cookies"
   tags:
@@ -2664,7 +2724,7 @@
   - "https://sallysbakingaddiction.com/peanut-butter-oatmeal-chocolate-chip-cookies/"
   comments: []
 - count: 1
-  index: 71
+  index: 70
   nickname: ""
   name: "chocolate cake with pb icing"
   tags:
@@ -2677,7 +2737,7 @@
   - date: "2/2/20"
     comment: "icing was 2 sticks of butter, 1c peanut butter, and about 1c of powdered sugar"
 - count: 4
-  index: 70
+  index: 69
   nickname: ""
   name: "blueberry muffins"
   tags:
@@ -2688,18 +2748,6 @@
   comments:
   - date: "1/4/20"
     comment: "Jess says: rotate after 15 minutes for another 5 mins. 75% were cooked through, the the remaining 25% needed another 2-5 minutes."
-- count: 2
-  index: 69
-  nickname: ""
-  name: "sourdough pancakes"
-  tags:
-  - "dessert"
-  - "cake"
-  last_suggested_date: '2020-04-26'
-  recipe_urls: []
-  comments:
-  - date: "12/14/19"
-    comment: "Turns out I accidentally forgot to halve the flour last night, but then made what ended up being an even worse mistake by trying to compensate for the extra flour by keeping it in our room overnight, where it is very hot. That just made the sourdough angry and alcoholic tasting. They were fine, but not as good as last time. But a half-recipe is basically the right amount, by the way."
 - count: 1
   index: 68
   nickname: ""
@@ -2725,7 +2773,7 @@
   comments:
   - date: "9/18/19"
     comment: "12 ice cream sandwiches, whipped cream (made from a pint of cream), and homemade chocolate fudge (1/2 cocoa, 1/2c water, 1/2c sugar)"
-- count: 4
+- count: 5
   index: 66
   nickname: ""
   name: "dutch apple pie"
@@ -3592,7 +3640,7 @@
   - date: "10/10/20"
     comment: "browneyedbaker chewy recipe is a good one since it's made for 9x13. though only did 2c of sugar instead of 2.5c, and about 2/3c chocolate chips instead of 1c."
 - count: 1
-  index: 6
+  index: 5
   nickname: ""
   name: "biscuits"
   tags:
@@ -3604,7 +3652,7 @@
   - date: "4/26/20"
     comment: "I put the flour (measured) and butter (cubed) in the freezer 30 mins before hand. I pulsed them in the food processor (a half batch), which worked _too_ well in that the butter had disappeared after only 30 seconds or two."
 - count: 1
-  index: 5
+  index: 4
   nickname: ""
   name: "bagels"
   tags:
@@ -3615,7 +3663,7 @@
   - date: "4/9/20"
     comment: "Jess does it. They turn out amazing!"
 - count: 1
-  index: 4
+  index: 3
   nickname: ""
   name: "naan"
   tags:
@@ -3626,7 +3674,7 @@
   - date: "4/7/20"
     comment: "Jess does it, with some very old yeast. And they turn out amazing! I end up broiling them (pan frying works too, but oven is both easier AND better), brushed with butter. ~2 mins each side, buttering both sides but the bottom only once it's been flipped. (a little goes a long way.)"
 - count: 2
-  index: 3
+  index: 2
   nickname: ""
   name: "storing sourdough dehydrated as chips"
   tags:
@@ -3637,19 +3685,6 @@
   comments:
   - date: "12/6/20"
     comment: "for Mom for xmas"
-- count: 1
-  index: 2
-  nickname: ""
-  name: "sourdough pancakes"
-  tags:
-  - "bread"
-  - "cake"
-  last_suggested_date: '2020-04-26'
-  recipe_urls:
-  - "https://cooking.nytimes.com/recipes/1018025-sourdough-pancake-or-waffle-batter"
-  comments:
-  - date: "2/3/18"
-    comment: "absolutely delicious--almost crepe-like. Emre said they were seriously the best pancakes he'd ever had"
 - count: 56
   index: 1
   nickname: ""
