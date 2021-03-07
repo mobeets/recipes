@@ -127,7 +127,7 @@
   tags:
   - "breakfast"
   - "cake"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2021-02-13'
   recipe_urls:
   - "https://themodernproper.com/dutch-baby-pancake"
   comments:
@@ -140,7 +140,7 @@
   tags:
   - "breakfast"
   - "cake"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2021-02-13'
   recipe_urls:
   - "https://cooking.nytimes.com/recipes/1018663-cast-iron-sourdough-pancakes"
   comments:
@@ -283,13 +283,57 @@
   - date: "10/28/13"
     comment: "half batch is plenty"
 - count: 1
+  index: 183
+  nickname: ""
+  name: "cheesy cuban chicken rice bake"
+  tags:
+  - "dinner"
+  - "chicken"
+  last_suggested_date: '2016-01-01'
+  recipe_urls:
+  - "https://www.halfbakedharvest.com/one-skillet-cheesy-cuban-chicken-rice-bake/"
+  comments:
+  - date: "2/27/21"
+    comment: "kinda weird. the boys didn't like it. tasted almost like enchiladas in a weird way."
+- count: 1
+  index: 182
+  nickname: ""
+  name: "bean chili"
+  tags:
+  - "dinner"
+  last_suggested_date: '2016-01-01'
+  recipe_urls:
+  - "https://cookieandkate.com/vegetarian-chili-recipe"
+  comments: []
+- count: 1
+  index: 181
+  nickname: ""
+  name: "baked potatoes"
+  tags:
+  - "dinner"
+  last_suggested_date: '2016-01-01'
+  recipe_urls:
+  - "https://www.gimmesomeoven.com/baked-potato/"
+  comments: []
+- count: 1
+  index: 180
+  nickname: ""
+  name: "brussels sprouts"
+  tags:
+  - "dinner"
+  last_suggested_date: '2016-01-01'
+  recipe_urls: []
+  comments:
+  - date: "2/17/21"
+    comment: "These turned out perfect. Toss in olive oil, slice in half top to bottom, place face down on foil, and then bake (without touching, flipping, or covering!) at 425F for 30 mins."
+- count: 1
   index: 179
   nickname: ""
   name: "sour cream chicken enchiladas"
   tags:
   - "dinner"
   - "chicken"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2021-02-13'
   recipe_urls:
   - "https://www.inspiredtaste.net/11767/salsa-verde-chicken-enchiladas"
   comments:
@@ -301,7 +345,7 @@
   name: "sourdough biscuits"
   tags:
   - "dinner"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2021-02-13'
   recipe_urls:
   - "https://www.kingarthurbaking.com/recipes/buttery-sourdough-sandwich-biscuits-recipe"
   comments:
@@ -543,7 +587,7 @@
   tags:
   - "dinner"
   - "pork"
-  last_suggested_date: '2019-11-30'
+  last_suggested_date: '2021-02-27'
   recipe_urls: []
   comments:
   - date: "10/29/19"
@@ -656,7 +700,7 @@
   name: "baked potatoes and mac and cheese"
   tags:
   - "dinner"
-  last_suggested_date: '2019-11-23'
+  last_suggested_date: '2021-02-20'
   recipe_urls: []
   comments: []
 - count: 1
@@ -1056,7 +1100,7 @@
     comment: "we use 2 lbs. ground beef, and 20oz mushrooms; made about 8 servings"
   - date: "4/22/18"
     comment: "takes a little more than an hour to make, and we added corn starch to finally get it to thicken"
-- count: 6
+- count: 7
   index: 120
   nickname: ""
   name: "alfredo pasta"
@@ -1253,7 +1297,7 @@
   - "dinner"
   - "pasta"
   - "chicken"
-  last_suggested_date: '2019-12-07'
+  last_suggested_date: '2021-03-06'
   recipe_urls: []
   comments:
   - date: "11/7/17"
@@ -1539,7 +1583,7 @@
   - "dinner"
   - "salad"
   - "chicken"
-  last_suggested_date: '2019-12-07'
+  last_suggested_date: '2021-03-06'
   recipe_urls:
   - "https://cupofjo.com/2013/07/the-best-caesar-salad-with-a-new-dressing/"
   comments:
@@ -1596,7 +1640,7 @@
     comment: "equal parts mac, evaporated milk, and cheddar cheese (12 oz each); cook mac in just enough water to cover it; prepare cheese BEFOREHAND and do NOT use vitamix"
   - date: "4/15/19"
     comment: "add mushrooms and bacon, and have roasted broccoli on the side (475F for 15 minutes) which is delicious. mac recipe doubled = servings:8"
-- count: 11
+- count: 12
   index: 79
   nickname: ""
   name: "meatball soup"
@@ -1995,7 +2039,7 @@
   - "slow-cooker"
   - "chicken"
   - "beef"
-  last_suggested_date: '2019-12-07'
+  last_suggested_date: '2021-03-06'
   recipe_urls: []
   comments:
   - date: "7/7/14"
@@ -2024,7 +2068,7 @@
   comments:
   - date: "6/23/14"
     comment: "talk about people doing jobs they hate, and dumb people who click Edit to copy/paste"
-- count: 8
+- count: 9
   index: 47
   nickname: ""
   name: "lasagna"
@@ -2046,7 +2090,7 @@
   name: "tri-color quinoa with kidney beans"
   tags:
   - "dinner"
-  last_suggested_date: '2019-12-07'
+  last_suggested_date: '2021-03-06'
   recipe_urls: []
   comments:
   - date: "7/22/14"
@@ -2215,7 +2259,7 @@
   - "dinner"
   - "chicken"
   - "bacon"
-  last_suggested_date: '2019-12-07'
+  last_suggested_date: '2021-03-06'
   recipe_urls: []
   comments:
   - date: "11/23/13"
@@ -2607,6 +2651,38 @@
   - "pasta"
   last_suggested_date: '2020-04-26'
   recipe_urls: []
+  comments: []
+- count: 1
+  index: 82
+  nickname: ""
+  name: "banana bread"
+  tags:
+  - "dessert"
+  last_suggested_date: '2016-01-01'
+  recipe_urls:
+  - "https://thesaltymarshmallow.com/best-banana-bread-recipe/"
+  comments:
+  - date: "3/2/21"
+    comment: "I add walnuts, turns out really good, but we had to bake it for forever before it was fully cooked"
+- count: 1
+  index: 81
+  nickname: ""
+  name: "tahini cinnamon rolls"
+  tags:
+  - "dessert"
+  last_suggested_date: '2016-01-01'
+  recipe_urls:
+  - "https://www.broadsheet.com.au/national/food-and-drink/article/recipe-sweet-tahini-rolls-kubez-el-tahineh"
+  comments: []
+- count: 1
+  index: 80
+  nickname: ""
+  name: "chocolate oatmeal bars"
+  tags:
+  - "dessert"
+  last_suggested_date: '2016-01-01'
+  recipe_urls:
+  - "https://www.halfbakedharvest.com/gooey-chocolate-oatmeal-bars/"
   comments: []
 - count: 1
   index: 79
@@ -3685,7 +3761,7 @@
   comments:
   - date: "12/6/20"
     comment: "for Mom for xmas"
-- count: 56
+- count: 57
   index: 1
   nickname: ""
   name: "sourdough bread"
@@ -3694,6 +3770,7 @@
   last_suggested_date: '2020-06-27'
   recipe_urls:
   - "http://www.breadtopia.com/sourdough-no-knead-method/"
+  - "https://www.feastingathome.com/sourdough-bread/"
   comments:
   - date: "3/30/14"
     comment: "turns out great! kinda flour-y must to the sourdough = undercooked?"
@@ -3775,3 +3852,5 @@
     comment: "Because it's summer, the starter was eating so fast that I actually fed it at like 2pm the day I later mixed up the batter. I think that helpd a lot, because the bread was much spongier this time compared to recent times. Still pretty flat as a whole though. I never have figured out whether that's because it's under- or over-proved."
   - date: "12/28/20"
     comment: "one of the worst ones we've ever made. in too cold of a spot overnight, pretty sure."
+  - date: "2/13/21"
+    comment: "proofed overnight from 7pm-7am. when doing the stretch and folds at that point, it didn't tear. but maybe in retrospect given how flat the loaf was, it was over-proofed. 68F in here. preheated about 30 mins instead of an hour. 25 mins at 500F, but needed 21 mins at 450F (to get to 208F). not very risen, and a little light in color. also forgot to score it."
