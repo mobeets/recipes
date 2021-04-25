@@ -283,12 +283,57 @@
   - date: "10/28/13"
     comment: "half batch is plenty"
 - count: 1
+  index: 188
+  nickname: ""
+  name: "bbq chicken"
+  tags:
+  - "dinner"
+  - "chicken"
+  last_suggested_date: '2016-01-01'
+  recipe_urls: []
+  comments:
+  - date: "4/19/21"
+    comment: "about 4 lbs of bone-in, skin-on thighs, brined in salt (1/4c salt + 4c water, in each of two different containers), baked in bbq for about 45 mins at 375F (flipped halfway through and added more sauce). the sauce didn't really stick. also, should have ended with the skin up so it could've gotten more crispy."
+- count: 1
+  index: 187
+  nickname: ""
+  name: "meatballs"
+  tags:
+  - "dinner"
+  last_suggested_date: '2016-01-01'
+  recipe_urls: []
+  comments:
+  - date: "4/11/21"
+    comment: "1.25 lbs beef, 1 egg, 1t salt, 1t onion powder, 1t garlic powder, 1/3c parmesan cheese, 400F for 20 mins."
+- count: 1
+  index: 186
+  nickname: ""
+  name: "sloppy joes"
+  tags:
+  - "dinner"
+  last_suggested_date: '2016-01-01'
+  recipe_urls: []
+  comments:
+  - date: "4/6/21"
+    comment: "doubled recipe in cookbook"
+- count: 1
+  index: 185
+  nickname: ""
+  name: "crispy roasted baby potatoes"
+  tags:
+  - "dinner"
+  last_suggested_date: '2016-01-01'
+  recipe_urls: []
+  comments:
+  - date: "4/6/21"
+    comment: "boiled about 10 minutes until I could partially smush one with a fork. oven to 425F, smushed all the potatoes on a baking tray with a wooden spoon, coated in a generous amount of olive oil, then salt and pepper. baked for about 20 minutes until they looked nice and crispy. amazing! just like the porch's basically."
+- count: 1
   index: 184
   nickname: ""
   name: "filet mignon"
   tags:
   - "dinner"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2021-04-03'
   recipe_urls: []
   comments:
   - date: "3/22/21"
@@ -497,7 +542,7 @@
   comments:
   - date: "6/9/20"
     comment: "made 13c of broth. bonus: also made enough chicken (from the wings) for a few servings of chicken salad"
-- count: 5
+- count: 6
   index: 166
   nickname: ""
   name: "burgers on the grill"
@@ -821,7 +866,7 @@
   tags:
   - "dinner"
   - "chicken"
-  last_suggested_date: '2020-01-18'
+  last_suggested_date: '2021-04-24'
   recipe_urls: []
   comments:
   - date: "6/17/18"
@@ -978,7 +1023,7 @@
   tags:
   - "dinner"
   - "chicken"
-  last_suggested_date: '2020-01-11'
+  last_suggested_date: '2021-04-17'
   recipe_urls:
   - "http://www.foodnetwork.com/recipes/jeff-mauro/grilled-chicken-with-alabama-white-bbq-sauce-2810701"
   comments:
@@ -994,7 +1039,7 @@
   - "dinner"
   - "sandwich"
   - "pork"
-  last_suggested_date: '2020-01-04'
+  last_suggested_date: '2021-04-11'
   recipe_urls: []
   comments:
   - date: "4/20/17"
@@ -1030,7 +1075,7 @@
   tags:
   - "dinner"
   - "burger"
-  last_suggested_date: '2020-01-11'
+  last_suggested_date: '2021-04-17'
   recipe_urls:
   - "https://www.blueapron.com/recipes/hoisin-shiitake-burgers-with-miso-mayonnaise-roasted-sweet-potato-wedges"
   comments:
@@ -1066,7 +1111,7 @@
   name: "salmon chowder"
   tags:
   - "dinner"
-  last_suggested_date: '2019-12-28'
+  last_suggested_date: '2021-04-03'
   recipe_urls: []
   comments:
   - date: "3/7/17"
@@ -1233,7 +1278,7 @@
   - "dinner"
   - "slow-cooker"
   - "chicken"
-  last_suggested_date: '2019-12-28'
+  last_suggested_date: '2021-04-03'
   recipe_urls:
   - "http://www.thekitchn.com/recipe-slow-cooker-chicken-tikka-masala-recipes-from-the-kitchn-211284"
   comments:
@@ -1245,7 +1290,7 @@
   name: "tuna with kale and rice"
   tags:
   - "dinner"
-  last_suggested_date: '2020-01-11'
+  last_suggested_date: '2021-04-17'
   recipe_urls: []
   comments:
   - date: "8/22/16"
@@ -1464,7 +1509,7 @@
   name: "steak in wine, cream, and mushroom sauce; baked red potatoes; focaccia bread"
   tags:
   - "dinner"
-  last_suggested_date: '2020-01-18'
+  last_suggested_date: '2021-04-24'
   recipe_urls: []
   comments:
   - date: "2/14/16"
@@ -1535,7 +1580,7 @@
   name: "salmon with kale and red potatoes"
   tags:
   - "dinner"
-  last_suggested_date: '2020-01-11'
+  last_suggested_date: '2021-04-17'
   recipe_urls: []
   comments: []
 - count: 11
@@ -1612,7 +1657,7 @@
   tags:
   - "dinner"
   - "soup"
-  last_suggested_date: '2020-01-11'
+  last_suggested_date: '2021-04-17'
   recipe_urls:
   - "http://www.foodnetwork.com/recipes/food-network-kitchens/butternut-squash-soup-recipe1.html"
   - "http://www.seriouseats.com/recipes/2016/11/classic-butternut-squash-soup-recipe.html"
@@ -1654,20 +1699,22 @@
     comment: "equal parts mac, evaporated milk, and cheddar cheese (12 oz each); cook mac in just enough water to cover it; prepare cheese BEFOREHAND and do NOT use vitamix"
   - date: "4/15/19"
     comment: "add mushrooms and bacon, and have roasted broccoli on the side (475F for 15 minutes) which is delicious. mac recipe doubled = servings:8"
-- count: 12
+- count: 13
   index: 79
   nickname: ""
   name: "meatball soup"
   tags:
   - "dinner"
   - "soup"
-  last_suggested_date: '2020-01-04'
+  last_suggested_date: '2021-04-11'
   recipe_urls: []
   comments:
   - date: "10/14/15"
     comment: "delicious--Mom's recipe"
   - date: "12/18/19"
     comment: "needs more broth--it all disappears if you put 1.25c of noodles in there! add like two more cups probably (just like mom says, go figure)."
+  - date: "4/11/21"
+    comment: "Okay, we gotta do it like this every time now: the new meatball recipe, and then 6c beef broth, 1c macaroni, 1 can pinto beans, 1 33oz can san marzano tomatoes (the critical one!), and 1/2t oregano and thyme. This was the best it's ever been!"
 - count: 17
   index: 78
   nickname: ""
@@ -1691,7 +1738,7 @@
   tags:
   - "dinner"
   - "pork"
-  last_suggested_date: '2020-01-04'
+  last_suggested_date: '2021-04-11'
   recipe_urls:
   - "http://www.marthastewart.com/852118/pork-roast-caramelized-parsnips"
   comments:
@@ -1733,7 +1780,7 @@
   tags:
   - "dinner"
   - "pork"
-  last_suggested_date: '2019-12-28'
+  last_suggested_date: '2021-04-03'
   recipe_urls:
   - "http://www.thekitchn.com/how-to-cook-perfect-pork-chops-in-the-oven-cooking-lessons-from-the-kitchn-194257"
   - "https://rasamalaysia.com/honey-garlic-pork-chops/"
@@ -1879,7 +1926,7 @@
   - "dinner"
   - "soup"
   - "pork"
-  last_suggested_date: '2019-12-28'
+  last_suggested_date: '2021-04-03'
   recipe_urls:
   - "http://ladyandpups.com/2014/01/04/spicy-miso-ramen-express-eng/"
   comments:
@@ -1894,7 +1941,7 @@
   - "sandwich"
   - "slow-cooker"
   - "beef"
-  last_suggested_date: '2020-01-04'
+  last_suggested_date: '2021-04-11'
   recipe_urls:
   - "http://eatathomecooks.com/2012/05/african-pulled-beef-sandwiches-in-the-slow-cooker-with-yogurt-mint-sauce.html"
   comments: []
@@ -2080,7 +2127,7 @@
   - "dinner"
   - "tacos"
   - "chicken"
-  last_suggested_date: '2020-01-18'
+  last_suggested_date: '2021-04-24'
   recipe_urls: []
   comments:
   - date: "6/23/14"
@@ -2235,7 +2282,7 @@
   comments:
   - date: "1/1/14"
     comment: "too lemony"
-- count: 7
+- count: 8
   index: 34
   nickname: "CkR4"
   name: "chicken curry"
@@ -2364,7 +2411,7 @@
   tags:
   - "dinner"
   - "burger"
-  last_suggested_date: '2019-12-28'
+  last_suggested_date: '2021-04-03'
   recipe_urls: []
   comments:
   - date: "10/20/13"
@@ -2541,7 +2588,7 @@
   tags:
   - "dinner"
   - "curry"
-  last_suggested_date: '2020-01-04'
+  last_suggested_date: '2021-04-11'
   recipe_urls: []
   comments: []
 - count: 5
@@ -2580,7 +2627,7 @@
   tags:
   - "dinner"
   - "salad"
-  last_suggested_date: '2020-01-18'
+  last_suggested_date: '2021-04-24'
   recipe_urls: []
   comments: []
 - count: 8
@@ -2591,7 +2638,7 @@
   - "dinner"
   - "salad"
   - "chicken"
-  last_suggested_date: '2020-01-18'
+  last_suggested_date: '2021-04-24'
   recipe_urls: []
   comments:
   - date: "2/19/13"
@@ -2724,7 +2771,7 @@
   comments:
   - date: "11/22/20"
     comment: "I add about 1/2c of chocolate chips, and maybe 1/4c of walnuts. The batter couldn't really support all of it, but they did still turn out very good."
-- count: 3
+- count: 4
   index: 77
   nickname: ""
   name: "tahini brownies"
@@ -2761,7 +2808,7 @@
   comments:
   - date: "5/16/20"
     comment: "for the boys' birthday party tomorrow"
-- count: 2
+- count: 3
   index: 74
   nickname: ""
   name: "banana blondies"
@@ -3739,7 +3786,7 @@
   name: "sausage gravy"
   tags:
   - "bread"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2021-04-03'
   recipe_urls:
   - "https://www.allrecipes.com/recipe/216391/easy-sausage-gravy-and-biscuits/"
   comments: []
@@ -3791,7 +3838,7 @@
   comments:
   - date: "12/6/20"
     comment: "for Mom for xmas"
-- count: 57
+- count: 58
   index: 1
   nickname: ""
   name: "sourdough bread"
@@ -3884,3 +3931,5 @@
     comment: "one of the worst ones we've ever made. in too cold of a spot overnight, pretty sure."
   - date: "2/13/21"
     comment: "proofed overnight from 7pm-7am. when doing the stretch and folds at that point, it didn't tear. but maybe in retrospect given how flat the loaf was, it was over-proofed. 68F in here. preheated about 30 mins instead of an hour. 25 mins at 500F, but needed 21 mins at 450F (to get to 208F). not very risen, and a little light in color. also forgot to score it."
+  - date: "4/19/21"
+    comment: "nailed it, FINALLY! (i forgot that stretch-and-fold happens right after you make the dough, so i skipped that this time.) i let the bulk ferment go from like 6pm-9am, because it just wasn't looking risen enough, and I suspect from reading online that _under_-proving has been our problem. then i shaped it, let it sit for about 1.5 hours, then baked 500F for 30mins, 450F for 15mins or so. i think for knowing when it's proved enough, what we really need is a clear bowl so we can mark/see when it's doubled in size more easily."
