@@ -105,7 +105,7 @@
   recipe_urls: []
   tags:
   - "drink"
-  last_suggested_date: '2020-04-26'
+  last_suggested_date: '2021-10-09'
   count: 1
   index: 2
   nickname: ""
@@ -282,13 +282,38 @@
   count: 3
   index: 1
   nickname: "CkB1"
+- name: "bbq chicken alfredo pizza"
+  comments:
+  - date: "10/4/21"
+    comment: "with mozzarella on top."
+  recipe_urls: []
+  tags:
+  - "dinner"
+  - "chicken"
+  last_suggested_date: '2016-01-01'
+  count: 1
+  index: 195
+  nickname: ""
+- name: "hamburger helper"
+  comments:
+  - date: "9/30/21"
+    comment: "best one of these so far! [n.b. may be the wrong date.]"
+  recipe_urls:
+  - "https://www.halfbakedharvest.com/one-pot-hamburger-helper/"
+  tags:
+  - "dinner"
+  - "burger"
+  last_suggested_date: '2016-01-01'
+  count: 1
+  index: 194
+  nickname: ""
 - name: "roast chicken thighs with farro"
   comments: []
   recipe_urls: []
   tags:
   - "dinner"
   - "chicken"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2021-10-02'
   count: 1
   index: 193
   nickname: ""
@@ -301,7 +326,7 @@
   recipe_urls: []
   tags:
   - "dinner"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2021-09-25'
   count: 2
   index: 192
   nickname: ""
@@ -311,7 +336,7 @@
   tags:
   - "dinner"
   - "chicken"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2021-10-02'
   count: 2
   index: 191
   nickname: ""
@@ -326,7 +351,7 @@
   tags:
   - "dinner"
   - "soup"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2021-09-25'
   count: 2
   index: 190
   nickname: ""
@@ -338,7 +363,7 @@
   tags:
   - "dinner"
   - "chicken"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2021-10-02'
   count: 1
   index: 189
   nickname: ""
@@ -2458,7 +2483,7 @@
   recipe_urls: []
   tags:
   - "dinner"
-  last_suggested_date: '2020-04-26'
+  last_suggested_date: '2021-10-09'
   count: 5
   index: 26
   nickname: "CkP3"
@@ -2792,7 +2817,7 @@
   tags:
   - "dessert"
   - "cookies"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2021-10-02'
   count: 1
   index: 87
   nickname: ""
@@ -2803,7 +2828,7 @@
   tags:
   - "dessert"
   - "cookies"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2021-09-25'
   count: 1
   index: 86
   nickname: ""
@@ -2816,7 +2841,7 @@
   tags:
   - "dessert"
   - "cake"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2021-09-25'
   count: 1
   index: 85
   nickname: ""
@@ -2829,7 +2854,7 @@
   tags:
   - "dessert"
   - "pie"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2021-09-25'
   count: 1
   index: 84
   nickname: ""
@@ -2839,7 +2864,7 @@
   - "https://www.foodnetwork.com/recipes/tres-leches-rice-pudding-2120449"
   tags:
   - "dessert"
-  last_suggested_date: '2016-01-01'
+  last_suggested_date: '2021-10-02'
   count: 1
   index: 83
   nickname: ""
@@ -3736,12 +3761,14 @@
   comments:
   - date: "10/16/18"
     comment: "half in the bread pan, the other half in the muffin tin"
+  - date: "9/26/21"
+    comment: "From trader joe's box mix. The boys helped us stir everything together: Robin and I poured in the oil, Jordan and Jess poured in the water, Jess cracked in the eggs, Robin and Jordan both helped whisk it all together, I poured in the mix, and then we all helped stir it."
   recipe_urls:
   - "https://www.onceuponachef.com/recipes/spiced-pumpkin-bread.html"
   tags:
   - "dessert"
   last_suggested_date: '2020-08-22'
-  count: 2
+  count: 3
   index: 11
   nickname: "CkD12"
 - name: "cheesecake"
@@ -3779,7 +3806,7 @@
   recipe_urls: []
   tags:
   - "dessert"
-  last_suggested_date: '2020-04-26'
+  last_suggested_date: '2021-10-09'
   count: 1
   index: 8
   nickname: ""
@@ -3902,15 +3929,18 @@
     comment: "recipe on the unsweetened baking chocolate box"
   - date: "10/10/20"
     comment: "browneyedbaker chewy recipe is a good one since it's made for 9x13. though only did 2c of sugar instead of 2.5c, and about 2/3c chocolate chips instead of 1c."
+  - date: "10/2/21"
+    comment: "vegan, also delicious, with great sheen/crust on top. we use semisweet baking chocolate (the whole bar) instead of chocolate chips."
   recipe_urls:
   - "http://www.browneyedbaker.com/2010/03/09/chewy-brownies/"
   - "http://smittenkitchen.com/blog/2010/01/best-cocoa-brownies/"
   - "http://www.browneyedbaker.com/chewy-brownies/"
   - "https://cafedelites.com/best-fudgy-cocoa-brownies/"
+  - "https://eatwithclarity.com/homemade-vegan-brownies/"
   tags:
   - "dessert"
   last_suggested_date: '2020-08-08'
-  count: 14
+  count: 15
   index: 1
   nickname: "CkD1"
 - name: "sausage gravy"
