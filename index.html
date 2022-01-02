@@ -29,7 +29,6 @@ layout: post
   last_suggested_date: "2017-08-27"
   dates_eaten: []
   tags: []
-  recipe_urls: []
 -->
 
     <div id="recipes" class="recipes all list-group">
@@ -37,7 +36,13 @@ layout: post
         <div class="media-item">
             <div class="item-head">
                 <span class="item-title">{{ item.name | capitalize }}</span>
-                {% if item.recipe_urls and item.recipe_urls != empty %}[{% for url in item.recipe_urls %}<a href="{{ url }}">recipe</a>{% unless forloop.last %}, {% endunless %}{% endfor %}]{% endif %}
+                <!-- {% if item.recipe_urls and item.recipe_urls != empty %}[{% for url in item.recipe_urls %}<a href="{{ url }}">recipe</a>{% unless forloop.last %}, {% endunless %}{% endfor %}]{% endif %} -->
+
+                {% capture urls %}{% if item.comments != empty %}{% for comment in item.comments %}{% if comment.url and comment.url != empty %}<a href="{{ comment.url }}">{{ forloop.index }}</a>::{% endif %}{% endfor %}{% endif %}{% endcapture %}
+                {% assign urls_array = urls | split: '::' | uniq %}
+                <!-- {% if urls_array and urls_array != empty %}
+                [{% for url in urls_array %}{{ url }}{% unless forloop.last %}, {% endunless %}{% endfor %}]
+                {% endif %} -->
             </div>
             <div class="item-opinion">
                 {% if item.tags %}
@@ -65,7 +70,7 @@ layout: post
                 {% endif %} -->
                 {% if item.comments != empty %}
                 <div class="comments">
-                    <span class="item-label">comments:</span> {% for comment in item.comments %}{% if forloop.index == 1 %}<br/>{% endif %}<span class="comment-index">[{{ comment.date }}] </span>{{ comment.comment }}</br>{% endfor %}
+                    <span class="item-label">comments:</span> {% for comment in item.comments %}{% if forloop.index == 1 %}<br/>{% endif %}<span class="comment-index">{% if comment.url and comment.url != empty %}<a href="{{ comment.url }}">{% endif %}[{{ comment.date }}]{% if comment.url and comment.url != empty %}</a>{% endif %} </span>{{ comment.comment }}</br>{% endfor %}
                 </div>
                 {% endif %}
             </div>

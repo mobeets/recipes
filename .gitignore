@@ -1,3 +1,7 @@
 _site
 .sass-cache
 .DS_Store
+bin/send_email.py
+.jekyll-cache/
+*.pyc
+_data/recipes_tmp.yml

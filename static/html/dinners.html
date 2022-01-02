@@ -1,0 +1,57 @@
+## -*- coding: utf-8 -*-
+<html>
+    <head>
+        <style type="text/css">
+            pre {
+                color: #000;
+                font-size: 1em;
+                font-family: courier, "courier new", monospace;
+                background-color: #fff;
+            }
+            img {
+                height: 70%;
+                width: 70%;
+            }
+            table {
+                border: 0px solid black;
+            }
+            td {
+                text-align: left;
+                padding: 10px;
+                border: 0px solid black;
+            }
+        </style>
+    </head>
+    <body>
+        Hello friends. You must eat food each night this week in a meal some call "dinner." <a href="https://mobeets.github.io/recipes/#year=all&list=all&tag=this-week">Here</a> are this week's options:<br><br>
+    ${make_table(items)}
+    <br>Love,<br>William Langeford
+
+    % if len(msgs) > 0:
+    <br><br>
+    p.s., I've been snooping through your files, and I found a few changes to your data this week:
+    <ul>
+    % for msg in msgs:
+    <li>${msg}</li>
+    % endfor
+    </ul>
+    To commit these changes, run the following:
+    <pre>
+${update_code}
+    </pre>
+    % endif
+    </body>
+</html>
+
+<%def name="make_table(rows)">
+    <table>
+        % for row in rows:
+            ${makerow(row)}
+        % endfor
+    </table>
+</%def>
+
+<%def name="makerow(row, )">
+    <tr><td>
+    <b>${row['name'].capitalize()}</b></td></tr>
+</%def>
