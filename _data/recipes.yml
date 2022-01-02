@@ -1,53 +1,3 @@
-- name: "butternut squash mushroom tart"
-  comments:
-  - date: "12/19/21"
-    comment: "with pre-cut butternut squash."
-    url: "https://sallysbakingaddiction.com/butternut-squash-mushroom-tart/"
-  tags:
-  - "dinner"
-  last_suggested_date: '2022-01-02'
-  count: 1
-  index: 198
-  nickname: ""
-- name: "turkey tettrazini"
-  comments:
-  - date: "11/30/21"
-    comment: "fine, but not worth repeating."
-  tags:
-  - "dinner"
-  last_suggested_date: '2022-01-02'
-  count: 1
-  index: 197
-  nickname: ""
-- name: "burgers"
-  comments:
-  - date: "11/21/21"
-    comment: "to make fast food style burgers, flatten four 0.25lb patties with a rolling pin between two sheets of seran wrap. then cooked on skillet at 375F, flattening with spatula constantly. 5 mins a side. Cheese on after flipping."
-  tags:
-  - "dinner"
-  - "burger"
-  last_suggested_date: '2022-01-02'
-  count: 1
-  index: 196
-  nickname: ""
-- name: "banana muffins"
-  comments: []
-  tags:
-  - "dessert"
-  last_suggested_date: '2022-01-02'
-  count: 1
-  index: 89
-  nickname: ""
-- name: "boiled peanuts"
-  comments:
-  - date: "11/5/21"
-    comment: "#snack"
-  tags:
-  - "dessert"
-  last_suggested_date: '2022-01-02'
-  count: 1
-  index: 88
-  nickname: ""
 - name: "top sirloin steak"
   comments:
   - date: "5/10/20"
@@ -55,7 +5,7 @@
     url: "https://www.wholesomeyum.com/how-to-cook-top-sirloin-steak-in-the-oven/"
   tags:
   - "dinner"
-  last_suggested_date: '2020-06-13'
+  last_suggested_date: '2022-01-02'
   count: 1
   index: 165
   nickname: ""
@@ -66,7 +16,7 @@
     url: "https://www.epicurious.com/recipes/food/views/roasted-tomatillo-salsa-102586"
   tags:
   - "dinner"
-  last_suggested_date: '2020-06-13'
+  last_suggested_date: '2022-01-02'
   count: 1
   index: 144
   nickname: ""
@@ -79,7 +29,7 @@
     comment: "a critical note was left out last time, which was to add chocolate chips."
   tags:
   - "dessert"
-  last_suggested_date: '2020-06-13'
+  last_suggested_date: '2022-01-02'
   count: 3
   index: 74
   nickname: ""
@@ -88,7 +38,7 @@
   tags:
   - "dessert"
   - "cake"
-  last_suggested_date: '2020-06-13'
+  last_suggested_date: '2022-01-02'
   count: 1
   index: 63
   nickname: ""
@@ -98,7 +48,7 @@
     comment: "Jess does it, with some very old yeast. And they turn out amazing! I end up broiling them (pan frying works too, but oven is both easier AND better), brushed with butter. ~2 mins each side, buttering both sides but the bottom only once it's been flipped. (a little goes a long way.)"
   tags:
   - "bread"
-  last_suggested_date: '2020-06-13'
+  last_suggested_date: '2022-01-02'
   count: 1
   index: 3
   nickname: ""
@@ -3807,4 +3757,54 @@
   last_suggested_date: '2021-11-27'
   count: 7
   index: 16
+  nickname: ""
+- name: "butternut squash mushroom tart"
+  comments:
+  - date: "12/19/21"
+    comment: "with pre-cut butternut squash."
+    url: "https://sallysbakingaddiction.com/butternut-squash-mushroom-tart/"
+  tags:
+  - "dinner"
+  last_suggested_date: '2022-01-02'
+  count: 1
+  index: 198
+  nickname: ""
+- name: "turkey tettrazini"
+  comments:
+  - date: "11/30/21"
+    comment: "fine, but not worth repeating."
+  tags:
+  - "dinner"
+  last_suggested_date: '2022-01-02'
+  count: 1
+  index: 197
+  nickname: ""
+- name: "burgers"
+  comments:
+  - date: "11/21/21"
+    comment: "to make fast food style burgers, flatten four 0.25lb patties with a rolling pin between two sheets of seran wrap. then cooked on skillet at 375F, flattening with spatula constantly. 5 mins a side. Cheese on after flipping."
+  tags:
+  - "dinner"
+  - "burger"
+  last_suggested_date: '2022-01-02'
+  count: 1
+  index: 196
+  nickname: ""
+- name: "banana muffins"
+  comments: []
+  tags:
+  - "dessert"
+  last_suggested_date: '2022-01-02'
+  count: 1
+  index: 89
+  nickname: ""
+- name: "boiled peanuts"
+  comments:
+  - date: "11/5/21"
+    comment: "#snack"
+  tags:
+  - "dessert"
+  last_suggested_date: '2022-01-02'
+  count: 1
+  index: 88
   nickname: ""

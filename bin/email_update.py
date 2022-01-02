@@ -47,7 +47,7 @@ def show_html(msg, subj, outfile=TMP_DINNER_FILE):
     CHROME.open('file://' + outfile, new=2)
 
 def main(debug=True):
-
+    os.system('git pull')
     items = least_recent_meals(DINNER_DATAFILE, DINNER_DATAFILE, n=5)
     msgs = load_recipes(LIFELOG_FILE, TMP_DINNER_DATAFILE, prevfile=DINNER_DATAFILE)
     subj = 'Five recipe ideas for this week'
