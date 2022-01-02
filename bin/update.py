@@ -233,7 +233,8 @@ def describe_changes(items, previtems):
             oldval = old_nms[nm]
             for com in val['comments']:
                 if com not in oldval['comments']:
-                    msg = 'New comment in "{}": "{}"'.format(nm, com)
+                    comstr = ' | '.join([y for x,y in com.items()])
+                    msg = 'New comment in "{}": "{}"'.format(nm, comstr)
                     cmsgs.append(msg)
             for com in val['tags']:
                 if com not in oldval['tags']:
@@ -249,7 +250,8 @@ def describe_changes(items, previtems):
             oldval = nms[nm]
             for com in val['comments']:
                 if com not in oldval['comments']:
-                    msg = 'New comment in "{}": "{}"'.format(nm, com)
+                    comstr = ' | '.join([y for x,y in com.items()])
+                    msg = 'New comment in "{}": "{}"'.format(nm, comstr)
                     cmsgs.append(msg)
             for com in val['tags']:
                 if com not in oldval['tags']:

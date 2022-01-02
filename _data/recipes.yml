@@ -1,319 +1,10 @@
-- name: "top sirloin steak"
-  comments:
-  - date: "5/10/20"
-    comment: "best steak we've ever made ourselves. seared in cast iron with a little bit of olive oil. then put butter on steak and cooked in oven until 135F, then 5 mins to rest...so delicious."
-    url: "https://www.wholesomeyum.com/how-to-cook-top-sirloin-steak-in-the-oven/"
-  tags:
-  - "dinner"
-  last_suggested_date: '2022-01-02'
-  count: 1
-  index: 165
-  nickname: ""
-- name: "salsa verde"
-  comments:
-  - date: "8/20/18"
-    comment: "using tomatillos"
-    url: "https://www.epicurious.com/recipes/food/views/roasted-tomatillo-salsa-102586"
-  tags:
-  - "dinner"
-  last_suggested_date: '2022-01-02'
-  count: 1
-  index: 144
-  nickname: ""
-- name: "banana blondies"
-  comments:
-  - date: "5/3/20"
-    comment: "very unique but delicious! i use 1/2c white sugar, 1/2c brown sugar. i brown the butter for both the blondie and the icing. no extra salt since it's in the butter. and 1t cinnamon. for the frosting, only 1/2 powdered sugar, and 1/4c brown sugar. also no foil in the baking dish."
-    url: "https://omgchocolatedesserts.com/banana-bread-blondies/"
-  - date: "7/27/20"
-    comment: "a critical note was left out last time, which was to add chocolate chips."
-  tags:
-  - "dessert"
-  last_suggested_date: '2022-01-02'
-  count: 3
-  index: 74
-  nickname: ""
-- name: "mexican cheesecake"
-  comments: []
-  tags:
-  - "dessert"
-  - "cake"
-  last_suggested_date: '2022-01-02'
-  count: 1
-  index: 63
-  nickname: ""
-- name: "naan"
-  comments:
-  - date: "4/7/20"
-    comment: "Jess does it, with some very old yeast. And they turn out amazing! I end up broiling them (pan frying works too, but oven is both easier AND better), brushed with butter. ~2 mins each side, buttering both sides but the bottom only once it's been flipped. (a little goes a long way.)"
-  tags:
-  - "bread"
-  last_suggested_date: '2022-01-02'
-  count: 1
-  index: 3
-  nickname: ""
-- name: "strawberry shrub"
-  comments:
-  - date: "4/22/19"
-    comment: "1lb strawberries with 1.5-2c sugar, stored for 48 hours in two glass pyrexes in the fridge. Then I add about 1.75c apple cider vinegar. To make a glass, I add 2T shrub, and about 8oz club soda, and ice. Very tasty!"
-    url: "https://www.abeautifulplate.com/strawberry-shrub-cocktail/"
-  tags:
-  - "drink"
-  last_suggested_date: '2020-06-20'
-  count: 1
-  index: 5
-  nickname: ""
-- name: "grilled chicken breast"
-  comments:
-  - date: "6/11/20"
-    comment: "brined in 1/4c salt + 4c water for 30 minutes, then dried off and seasoned in pepper and paprika (no salt). then grilled (high heat) for about 6 minutes each side. a little overcooked (want to go to 160F) so maybe watch it next time."
-  - date: "7/18/20"
-    comment: "breasts were thicker so they cooked a little longer, but still turned out good--cooked them right to 160F. also be careful, brining for 45 minutes they taste great still, but more might be too much."
-  - date: "10/12/20"
-    comment: "grilling when windy: not a good idea (took forever)."
-  tags:
-  - "dinner"
-  - "chicken"
-  last_suggested_date: '2020-06-20'
-  count: 4
-  index: 168
-  nickname: ""
-- name: "hazan's chickpea soup"
-  comments:
-  - date: "11/9/16"
-    comment: "we make it with rice, and it's alright for a change, and it made a ton, but I'm pretty sure I like it better without the rice"
-  tags:
-  - "dinner"
-  - "soup"
-  last_suggested_date: '2020-06-20'
-  count: 2
-  index: 103
-  nickname: ""
-- name: "cashew ice cream"
-  comments:
-  - date: "6/14/14"
-    comment: "cashews, honey, milk, ice....DAMN it tastes good girl damn it tastes good"
-  tags:
-  - "dessert"
-  last_suggested_date: '2020-06-20'
-  count: 1
-  index: 24
-  nickname: ""
-- name: "blueberry muffins"
-  comments: []
-  tags:
-  - "breakfast"
-  last_suggested_date: '2020-06-27'
-  count: 1
-  index: 4
-  nickname: ""
-- name: "peanut butter oatmeal cookies"
-  comments: []
-  tags:
-  - "dinner"
-  - "cookies"
-  last_suggested_date: '2020-06-27'
-  count: 1
-  index: 16
-  nickname: ""
-- name: "blueberry muffins"
-  comments:
-  - date: "1/4/20"
-    comment: "Jess says: rotate after 15 minutes for another 5 mins. 75% were cooked through, the the remaining 25% needed another 2-5 minutes."
-    url: "https://www.inspiredtaste.net/18982/our-favorite-easy-blueberry-muffin-recipe"
-  tags:
-  - "dessert"
-  last_suggested_date: '2020-06-27'
-  count: 4
-  index: 69
-  nickname: ""
-- name: "mug brownie"
-  comments:
-  - date: "2/16/16"
-    comment: "now THIS is a keeper--holy fuck. Golden rule of microwave desserts is Do not overcook. Recipe halved."
-    url: "http://www.dessertfortwo.com/2014/05/microwave-chocolate-mug-cakes/"
-  - date: "5/29/16"
-    comment: "1/4 serving of the original recipe is plenty, and cook for 30 secs"
-  - date: "2/15/17"
-    comment: "1/4 serving is perfect amount. in thick white bowl, probably 35 secs"
-  tags:
-  - "dessert"
-  last_suggested_date: '2020-06-27'
-  count: 7
-  index: 9
-  nickname: ""
-- name: "peanut butter oatmeal cookies"
-  comments:
-  - date: "2/16/15"
-    comment: "delicious! just add a bit more baking soda, replace quick oats for rolled oats and use just under 1 cup; add a spoonful of honey"
-    url: "http://www.tasteofhome.com/recipes/easy-peanut-butter-oatmeal-cookies"
-  tags:
-  - "dessert"
-  - "cookies"
-  last_suggested_date: '2020-06-27'
-  count: 2
-  index: 2
-  nickname: "CkD13"
-- name: "sourdough bread"
-  comments:
-  - date: "3/30/14"
-    comment: "turns out great! kinda flour-y must to the sourdough = undercooked?"
-    url: "http://www.breadtopia.com/sourdough-no-knead-method/"
-  - date: "5/16/14"
-    comment: "starter had been in the fridge for two days and then spent 18 hours on the counter. It turned out pretty good! Better than the last one: more cooked, a little fluffier--but it still could use some improvement. A little more fluffiness, a little more sour, a little holier of a crumb."
-  - date: "5/29/14"
-    comment: "best one yet, for sure: The key was a very healthy starter (i.e. tons of bubbles), and the time in the fridge definitely did the same bubbliness to the dough. bread is done at 200F in the center, which is good to know."
-  - date: "6/12/14"
-    comment: "still improving--amazing sour smell that really gives it away; still bad bottom crust, but the inside this time is perrrrfect. imagine if the oven had consistent temps, too! i understand the folding of the dough now, too, because it makes the bread kinda break away really nicely when you eat it"
-  - date: "6/30/14"
-    comment: "weighed the flour and water for the first time and it was super sticky! hard to work with. baked in the le creuset this time, which worked out great--bottom appears to be less burnt."
-  - date: "7/11/14"
-    comment: "turned out pretty good it seems; temperature still an issue i think but that's the oven; i did 510g flour, 1.5c water"
-  - date: "7/14/14"
-    comment: "haven't tried it yet, but looks good"
-  - date: "2/1/18"
-    comment: "bacon grease in the dutch oven I think made it super smoky, and cook too fast? cooked to internal temp of 210F though and it tastes great. forgot to score it though!"
-  - date: "2/3/18"
-    comment: "turned out much better this time! remembered to score it, and to put the temp. probe in when I took the lid off. The pot didn't smoke this time, but the crust did still burn a bit on the outside and I don't know why. Much tastier than the one from two days ago though, I think because the starter was more mature for this one. Also, the dough was _super_ wet last night so I added a bit more flour, but still super wet, but still turned out totally fine in the end, just was harder to work with"
-  - date: "2/10/18"
-    comment: "Super wet dough, but I think I over-proved (for 1h45m), because it ended up very flat. But still tasted great!"
-  - date: "2/17/18"
-    comment: "left it out last night in cloth instead of plastic and it got sooo dried out. but still tastes great, and my prettiest loaf yet!"
-  - date: "2/21/18"
-    comment: "overproved again I guess? Super flat. Only 1.5 hours of proving though. Cookie tray on the rack below kept it from burning though!"
-  - date: "2/27/18"
-    comment: "The bread being too flat must either be a result of over-proving, or of the dough being too wet. This one was perfect. Only 1.25c of water in recipe instead of 1.5c, and I proved for 1h15m instead of 1h30m. Tastes and looks great, though we could score it better, and put it in the dutch oven better."
-  - date: "3/1/18"
-    comment: "for Sophie and Vince"
-  - date: "4/5/18"
-    comment: "50g of raisins, and rosemary, added last night when we mixed it up. turned out good! though the rosemary might have been a little bad"
-  - date: "4/7/18"
-    comment: "raisins and rosemary again"
-  - date: "4/11/18"
-    comment: "25g raisins, rosemary, thyme; smelled good, but it was for Elise (for her birthday) so we couldn't eat it"
-  - date: "4/19/18"
-    comment: "standard loaf"
-  - date: "5/1/18"
-    comment: "standard loaf"
-  - date: "5/7/18"
-    comment: "standard loaf"
-  - date: "5/20/18"
-    comment: "standard loaf"
-  - date: "6/4/18"
-    comment: "1.5-2t rosemary, 45g figs"
-  - date: "6/18/18"
-    comment: "I think this is when we made it..."
-  - date: "6/28/18"
-    comment: "Jess made it alone"
-  - date: "8/10/18"
-    comment: "in the smaller dutch oven and it turns out great!"
-  - date: "9/7/18"
-    comment: "bigger dutch oven by accident and it turned out okay but kinda stuck to the bottom"
-  - date: "11/8/18"
-    comment: "way too wet this time (used 1.5 cups), but it tasted good, it was just super ugly and unmanageable"
-  - date: "12/4/18"
-    comment: "turned out great; 1.25 cups = super easy to work with, just not that porous. but still tasty!"
-  - date: "1/5/19"
-    comment: "first time with new proofing bowl, and it makes great ridges!"
-  - date: "3/29/19"
-    comment: "fig and rosemary"
-  - date: "10/11/19"
-    comment: "a total failure! don't know what went wrong. but I think the breadtopia recipe changed? also we forgot to set a timer for the proving so it went too long. and the house is cold so no good place to get the yeast prepped. really, it could have been lots of things. it just looked wrong from the very beginning. it's inedible. later though, I realize it's because breadtopia changed the recipe on us, and we used the new flour amount but not the new water amount. so it was just way too dry."
-  - date: "10/20/19"
-    comment: "original breadtopia recipe: 16 oz bread flour, 1.5t salt, 1.25-1.5c water, 1/4c starter, proof 1.5hrs, bake 500F for 30 mins, then 450F for 15 mins (or until 210F) with cover off"
-  - date: "11/6/19"
-    comment: "perfect."
-  - date: "11/14/19"
-    comment: "2t rosemary from garden, 50g figs"
-  - date: "12/15/19"
-    comment: "really wet, and sticks to the wood bowl again, but turns out so floofy and perfect--like seriously, the most floofy and spongy it's ever been"
-  - date: "1/8/20"
-    comment: "we put a TON of flour (even loose) in the bread bowl, and it does NOT stick there, but it still sticks on the sides, but at least way better. downside though is that the loaf is covered in flour at the end, which we have to try to brush off."
-  - date: "1/24/20"
-    comment: "made it less dry but STILL got stuck. must be the bowl's fault."
-  - date: "3/4/20"
-    comment: "rosemary and sage"
-  - date: "9/9/20"
-    comment: "Because it's summer, the starter was eating so fast that I actually fed it at like 2pm the day I later mixed up the batter. I think that helpd a lot, because the bread was much spongier this time compared to recent times. Still pretty flat as a whole though. I never have figured out whether that's because it's under- or over-proved."
-  - date: "12/28/20"
-    comment: "one of the worst ones we've ever made. in too cold of a spot overnight, pretty sure."
-  - date: "2/13/21"
-    comment: "proofed overnight from 7pm-7am. when doing the stretch and folds at that point, it didn't tear. but maybe in retrospect given how flat the loaf was, it was over-proofed. 68F in here. preheated about 30 mins instead of an hour. 25 mins at 500F, but needed 21 mins at 450F (to get to 208F). not very risen, and a little light in color. also forgot to score it."
-    url: "https://www.feastingathome.com/sourdough-bread/"
-  - date: "4/19/21"
-    comment: "nailed it, FINALLY! (i forgot that stretch-and-fold happens right after you make the dough, so i skipped that this time.) i let the bulk ferment go from like 6pm-9am, because it just wasn't looking risen enough, and I suspect from reading online that _under_-proving has been our problem. then i shaped it, let it sit for about 1.5 hours, then baked 500F for 30mins, 450F for 15mins or so. i think for knowing when it's proved enough, what we really need is a clear bowl so we can mark/see when it's doubled in size more easily."
-  - date: "5/14/21"
-    comment: "bulk ferment from 9:30pm-noon-thirty"
-  tags:
-  - "bread"
-  last_suggested_date: '2020-06-27'
-  count: 59
-  index: 1
-  nickname: ""
-- name: "skillet cookie pie"
-  comments:
-  - date: "4/17/17"
-    comment: "from Bon Appetit"
-  tags:
-  - "dessert"
-  - "pie"
-  last_suggested_date: '2020-07-04'
-  count: 2
-  index: 53
-  nickname: ""
-- name: "peanut butter cookies with marshmallow topping"
-  comments:
-  - date: "2/24/14"
-    comment: "marshmallow is just egg whites and sugar, but the cooking part is a bitch and makes us miserable...cookies are just one egg, 1c peanut butter, 1c sugar, and they're damned delicious and simple"
-  tags:
-  - "dessert"
-  - "cookies"
-  last_suggested_date: '2020-07-04'
-  count: 1
-  index: 20
-  nickname: ""
-- name: "pumpkin pie"
-  comments:
-  - date: "11/25/20"
-    comment: "I don't do the pecans, and sub 5oz evaporated milk in place of cream. Cooks for about 55 minutes, and smells delicious. Keebler graham cracker crust."
-    url: "https://www.bonappetit.com/recipe/pecan-rye-pumpkin-pie"
-  tags:
-  - "dessert"
-  - "pie"
-  last_suggested_date: '2020-07-04'
-  count: 2
-  index: 12
-  nickname: ""
-- name: "biscuits"
-  comments:
-  - date: "4/26/20"
-    comment: "I put the flour (measured) and butter (cubed) in the freezer 30 mins before hand. I pulsed them in the food processor (a half batch), which worked _too_ well in that the butter had disappeared after only 30 seconds or two."
-    url: "https://sallysbakingaddiction.com/flaky-buttermilk-biscuits/"
-  - date: "3/13/21"
-    comment: "full batch this time. made like 12 instead of 8-10 but they turned out great anyway."
-  tags:
-  - "bread"
-  last_suggested_date: '2020-07-04'
-  count: 2
-  index: 5
-  nickname: ""
-- name: "storing sourdough dehydrated as chips"
-  comments:
-  - date: "12/6/20"
-    comment: "for Mom for xmas"
-  tags:
-  - "bread"
-  last_suggested_date: '2020-07-04'
-  count: 2
-  index: 2
-  nickname: ""
 - name: "popcorn"
   comments:
   - date: "12/23/17"
     comment: "we use 1/3c kernels, and 1/4c veggie oil with some popcorn salt mixed in, microwave on 4mins until pops are 5s away. add melted butter--it turned out amazing"
   tags:
   - "dessert"
-  last_suggested_date: '2020-07-11'
+  last_suggested_date: '2022-01-02'
   count: 1
   index: 59
   nickname: ""
@@ -324,7 +15,7 @@
   tags:
   - "dessert"
   - "cake"
-  last_suggested_date: '2020-07-11'
+  last_suggested_date: '2022-01-02'
   count: 1
   index: 55
   nickname: ""
@@ -335,7 +26,7 @@
   tags:
   - "dessert"
   - "cake"
-  last_suggested_date: '2020-07-11'
+  last_suggested_date: '2022-01-02'
   count: 1
   index: 52
   nickname: ""
@@ -345,7 +36,7 @@
     comment: "per cup: 2T cocoa, 1T brown sugar, 1c milk; add only 2T or so milk at first to the rest, heating in pan; then once it dissolves heat the rest of the milk; once nearly boiling, put it in a blender to froth"
   tags:
   - "dessert"
-  last_suggested_date: '2020-07-11'
+  last_suggested_date: '2022-01-02'
   count: 4
   index: 48
   nickname: ""
@@ -353,7 +44,7 @@
   comments: []
   tags:
   - "dessert"
-  last_suggested_date: '2020-07-11'
+  last_suggested_date: '2022-01-02'
   count: 1
   index: 13
   nickname: ""
@@ -3757,6 +3448,315 @@
   last_suggested_date: '2021-11-27'
   count: 7
   index: 16
+  nickname: ""
+- name: "skillet cookie pie"
+  comments:
+  - date: "4/17/17"
+    comment: "from Bon Appetit"
+  tags:
+  - "dessert"
+  - "pie"
+  last_suggested_date: '2022-01-02'
+  count: 2
+  index: 53
+  nickname: ""
+- name: "peanut butter cookies with marshmallow topping"
+  comments:
+  - date: "2/24/14"
+    comment: "marshmallow is just egg whites and sugar, but the cooking part is a bitch and makes us miserable...cookies are just one egg, 1c peanut butter, 1c sugar, and they're damned delicious and simple"
+  tags:
+  - "dessert"
+  - "cookies"
+  last_suggested_date: '2022-01-02'
+  count: 1
+  index: 20
+  nickname: ""
+- name: "pumpkin pie"
+  comments:
+  - date: "11/25/20"
+    comment: "I don't do the pecans, and sub 5oz evaporated milk in place of cream. Cooks for about 55 minutes, and smells delicious. Keebler graham cracker crust."
+    url: "https://www.bonappetit.com/recipe/pecan-rye-pumpkin-pie"
+  tags:
+  - "dessert"
+  - "pie"
+  last_suggested_date: '2022-01-02'
+  count: 2
+  index: 12
+  nickname: ""
+- name: "biscuits"
+  comments:
+  - date: "4/26/20"
+    comment: "I put the flour (measured) and butter (cubed) in the freezer 30 mins before hand. I pulsed them in the food processor (a half batch), which worked _too_ well in that the butter had disappeared after only 30 seconds or two."
+    url: "https://sallysbakingaddiction.com/flaky-buttermilk-biscuits/"
+  - date: "3/13/21"
+    comment: "full batch this time. made like 12 instead of 8-10 but they turned out great anyway."
+  tags:
+  - "bread"
+  last_suggested_date: '2022-01-02'
+  count: 2
+  index: 5
+  nickname: ""
+- name: "storing sourdough dehydrated as chips"
+  comments:
+  - date: "12/6/20"
+    comment: "for Mom for xmas"
+  tags:
+  - "bread"
+  last_suggested_date: '2022-01-02'
+  count: 2
+  index: 2
+  nickname: ""
+- name: "sourdough bread"
+  comments:
+  - date: "3/30/14"
+    comment: "turns out great! kinda flour-y must to the sourdough = undercooked?"
+    url: "http://www.breadtopia.com/sourdough-no-knead-method/"
+  - date: "5/16/14"
+    comment: "starter had been in the fridge for two days and then spent 18 hours on the counter. It turned out pretty good! Better than the last one: more cooked, a little fluffier--but it still could use some improvement. A little more fluffiness, a little more sour, a little holier of a crumb."
+  - date: "5/29/14"
+    comment: "best one yet, for sure: The key was a very healthy starter (i.e. tons of bubbles), and the time in the fridge definitely did the same bubbliness to the dough. bread is done at 200F in the center, which is good to know."
+  - date: "6/12/14"
+    comment: "still improving--amazing sour smell that really gives it away; still bad bottom crust, but the inside this time is perrrrfect. imagine if the oven had consistent temps, too! i understand the folding of the dough now, too, because it makes the bread kinda break away really nicely when you eat it"
+  - date: "6/30/14"
+    comment: "weighed the flour and water for the first time and it was super sticky! hard to work with. baked in the le creuset this time, which worked out great--bottom appears to be less burnt."
+  - date: "7/11/14"
+    comment: "turned out pretty good it seems; temperature still an issue i think but that's the oven; i did 510g flour, 1.5c water"
+  - date: "7/14/14"
+    comment: "haven't tried it yet, but looks good"
+  - date: "2/1/18"
+    comment: "bacon grease in the dutch oven I think made it super smoky, and cook too fast? cooked to internal temp of 210F though and it tastes great. forgot to score it though!"
+  - date: "2/3/18"
+    comment: "turned out much better this time! remembered to score it, and to put the temp. probe in when I took the lid off. The pot didn't smoke this time, but the crust did still burn a bit on the outside and I don't know why. Much tastier than the one from two days ago though, I think because the starter was more mature for this one. Also, the dough was _super_ wet last night so I added a bit more flour, but still super wet, but still turned out totally fine in the end, just was harder to work with"
+  - date: "2/10/18"
+    comment: "Super wet dough, but I think I over-proved (for 1h45m), because it ended up very flat. But still tasted great!"
+  - date: "2/17/18"
+    comment: "left it out last night in cloth instead of plastic and it got sooo dried out. but still tastes great, and my prettiest loaf yet!"
+  - date: "2/21/18"
+    comment: "overproved again I guess? Super flat. Only 1.5 hours of proving though. Cookie tray on the rack below kept it from burning though!"
+  - date: "2/27/18"
+    comment: "The bread being too flat must either be a result of over-proving, or of the dough being too wet. This one was perfect. Only 1.25c of water in recipe instead of 1.5c, and I proved for 1h15m instead of 1h30m. Tastes and looks great, though we could score it better, and put it in the dutch oven better."
+  - date: "3/1/18"
+    comment: "for Sophie and Vince"
+  - date: "4/5/18"
+    comment: "50g of raisins, and rosemary, added last night when we mixed it up. turned out good! though the rosemary might have been a little bad"
+  - date: "4/7/18"
+    comment: "raisins and rosemary again"
+  - date: "4/11/18"
+    comment: "25g raisins, rosemary, thyme; smelled good, but it was for Elise (for her birthday) so we couldn't eat it"
+  - date: "4/19/18"
+    comment: "standard loaf"
+  - date: "5/1/18"
+    comment: "standard loaf"
+  - date: "5/7/18"
+    comment: "standard loaf"
+  - date: "5/20/18"
+    comment: "standard loaf"
+  - date: "6/4/18"
+    comment: "1.5-2t rosemary, 45g figs"
+  - date: "6/18/18"
+    comment: "I think this is when we made it..."
+  - date: "6/28/18"
+    comment: "Jess made it alone"
+  - date: "8/10/18"
+    comment: "in the smaller dutch oven and it turns out great!"
+  - date: "9/7/18"
+    comment: "bigger dutch oven by accident and it turned out okay but kinda stuck to the bottom"
+  - date: "11/8/18"
+    comment: "way too wet this time (used 1.5 cups), but it tasted good, it was just super ugly and unmanageable"
+  - date: "12/4/18"
+    comment: "turned out great; 1.25 cups = super easy to work with, just not that porous. but still tasty!"
+  - date: "1/5/19"
+    comment: "first time with new proofing bowl, and it makes great ridges!"
+  - date: "3/29/19"
+    comment: "fig and rosemary"
+  - date: "10/11/19"
+    comment: "a total failure! don't know what went wrong. but I think the breadtopia recipe changed? also we forgot to set a timer for the proving so it went too long. and the house is cold so no good place to get the yeast prepped. really, it could have been lots of things. it just looked wrong from the very beginning. it's inedible. later though, I realize it's because breadtopia changed the recipe on us, and we used the new flour amount but not the new water amount. so it was just way too dry."
+  - date: "10/20/19"
+    comment: "original breadtopia recipe: 16 oz bread flour, 1.5t salt, 1.25-1.5c water, 1/4c starter, proof 1.5hrs, bake 500F for 30 mins, then 450F for 15 mins (or until 210F) with cover off"
+  - date: "11/6/19"
+    comment: "perfect."
+  - date: "11/14/19"
+    comment: "2t rosemary from garden, 50g figs"
+  - date: "12/15/19"
+    comment: "really wet, and sticks to the wood bowl again, but turns out so floofy and perfect--like seriously, the most floofy and spongy it's ever been"
+  - date: "1/8/20"
+    comment: "we put a TON of flour (even loose) in the bread bowl, and it does NOT stick there, but it still sticks on the sides, but at least way better. downside though is that the loaf is covered in flour at the end, which we have to try to brush off."
+  - date: "1/24/20"
+    comment: "made it less dry but STILL got stuck. must be the bowl's fault."
+  - date: "3/4/20"
+    comment: "rosemary and sage"
+  - date: "9/9/20"
+    comment: "Because it's summer, the starter was eating so fast that I actually fed it at like 2pm the day I later mixed up the batter. I think that helpd a lot, because the bread was much spongier this time compared to recent times. Still pretty flat as a whole though. I never have figured out whether that's because it's under- or over-proved."
+  - date: "12/28/20"
+    comment: "one of the worst ones we've ever made. in too cold of a spot overnight, pretty sure."
+  - date: "2/13/21"
+    comment: "proofed overnight from 7pm-7am. when doing the stretch and folds at that point, it didn't tear. but maybe in retrospect given how flat the loaf was, it was over-proofed. 68F in here. preheated about 30 mins instead of an hour. 25 mins at 500F, but needed 21 mins at 450F (to get to 208F). not very risen, and a little light in color. also forgot to score it."
+    url: "https://www.feastingathome.com/sourdough-bread/"
+  - date: "4/19/21"
+    comment: "nailed it, FINALLY! (i forgot that stretch-and-fold happens right after you make the dough, so i skipped that this time.) i let the bulk ferment go from like 6pm-9am, because it just wasn't looking risen enough, and I suspect from reading online that _under_-proving has been our problem. then i shaped it, let it sit for about 1.5 hours, then baked 500F for 30mins, 450F for 15mins or so. i think for knowing when it's proved enough, what we really need is a clear bowl so we can mark/see when it's doubled in size more easily."
+  - date: "5/14/21"
+    comment: "bulk ferment from 9:30pm-noon-thirty"
+  tags:
+  - "bread"
+  last_suggested_date: '2022-01-02'
+  count: 59
+  index: 1
+  nickname: ""
+- name: "blueberry muffins"
+  comments: []
+  tags:
+  - "breakfast"
+  last_suggested_date: '2022-01-02'
+  count: 1
+  index: 4
+  nickname: ""
+- name: "peanut butter oatmeal cookies"
+  comments: []
+  tags:
+  - "dinner"
+  - "cookies"
+  last_suggested_date: '2022-01-02'
+  count: 1
+  index: 16
+  nickname: ""
+- name: "blueberry muffins"
+  comments:
+  - date: "1/4/20"
+    comment: "Jess says: rotate after 15 minutes for another 5 mins. 75% were cooked through, the the remaining 25% needed another 2-5 minutes."
+    url: "https://www.inspiredtaste.net/18982/our-favorite-easy-blueberry-muffin-recipe"
+  tags:
+  - "dessert"
+  last_suggested_date: '2022-01-02'
+  count: 4
+  index: 69
+  nickname: ""
+- name: "mug brownie"
+  comments:
+  - date: "2/16/16"
+    comment: "now THIS is a keeper--holy fuck. Golden rule of microwave desserts is Do not overcook. Recipe halved."
+    url: "http://www.dessertfortwo.com/2014/05/microwave-chocolate-mug-cakes/"
+  - date: "5/29/16"
+    comment: "1/4 serving of the original recipe is plenty, and cook for 30 secs"
+  - date: "2/15/17"
+    comment: "1/4 serving is perfect amount. in thick white bowl, probably 35 secs"
+  tags:
+  - "dessert"
+  last_suggested_date: '2022-01-02'
+  count: 7
+  index: 9
+  nickname: ""
+- name: "peanut butter oatmeal cookies"
+  comments:
+  - date: "2/16/15"
+    comment: "delicious! just add a bit more baking soda, replace quick oats for rolled oats and use just under 1 cup; add a spoonful of honey"
+    url: "http://www.tasteofhome.com/recipes/easy-peanut-butter-oatmeal-cookies"
+  tags:
+  - "dessert"
+  - "cookies"
+  last_suggested_date: '2022-01-02'
+  count: 2
+  index: 2
+  nickname: "CkD13"
+- name: "strawberry shrub"
+  comments:
+  - date: "4/22/19"
+    comment: "1lb strawberries with 1.5-2c sugar, stored for 48 hours in two glass pyrexes in the fridge. Then I add about 1.75c apple cider vinegar. To make a glass, I add 2T shrub, and about 8oz club soda, and ice. Very tasty!"
+    url: "https://www.abeautifulplate.com/strawberry-shrub-cocktail/"
+  tags:
+  - "drink"
+  last_suggested_date: '2022-01-02'
+  count: 1
+  index: 5
+  nickname: ""
+- name: "grilled chicken breast"
+  comments:
+  - date: "6/11/20"
+    comment: "brined in 1/4c salt + 4c water for 30 minutes, then dried off and seasoned in pepper and paprika (no salt). then grilled (high heat) for about 6 minutes each side. a little overcooked (want to go to 160F) so maybe watch it next time."
+  - date: "7/18/20"
+    comment: "breasts were thicker so they cooked a little longer, but still turned out good--cooked them right to 160F. also be careful, brining for 45 minutes they taste great still, but more might be too much."
+  - date: "10/12/20"
+    comment: "grilling when windy: not a good idea (took forever)."
+  tags:
+  - "dinner"
+  - "chicken"
+  last_suggested_date: '2022-01-02'
+  count: 4
+  index: 168
+  nickname: ""
+- name: "hazan's chickpea soup"
+  comments:
+  - date: "11/9/16"
+    comment: "we make it with rice, and it's alright for a change, and it made a ton, but I'm pretty sure I like it better without the rice"
+  tags:
+  - "dinner"
+  - "soup"
+  last_suggested_date: '2022-01-02'
+  count: 2
+  index: 103
+  nickname: ""
+- name: "cashew ice cream"
+  comments:
+  - date: "6/14/14"
+    comment: "cashews, honey, milk, ice....DAMN it tastes good girl damn it tastes good"
+  tags:
+  - "dessert"
+  last_suggested_date: '2022-01-02'
+  count: 1
+  index: 24
+  nickname: ""
+- name: "top sirloin steak"
+  comments:
+  - date: "5/10/20"
+    comment: "best steak we've ever made ourselves. seared in cast iron with a little bit of olive oil. then put butter on steak and cooked in oven until 135F, then 5 mins to rest...so delicious."
+    url: "https://www.wholesomeyum.com/how-to-cook-top-sirloin-steak-in-the-oven/"
+  tags:
+  - "dinner"
+  last_suggested_date: '2022-01-02'
+  count: 1
+  index: 165
+  nickname: ""
+- name: "salsa verde"
+  comments:
+  - date: "8/20/18"
+    comment: "using tomatillos"
+    url: "https://www.epicurious.com/recipes/food/views/roasted-tomatillo-salsa-102586"
+  tags:
+  - "dinner"
+  last_suggested_date: '2022-01-02'
+  count: 1
+  index: 144
+  nickname: ""
+- name: "banana blondies"
+  comments:
+  - date: "5/3/20"
+    comment: "very unique but delicious! i use 1/2c white sugar, 1/2c brown sugar. i brown the butter for both the blondie and the icing. no extra salt since it's in the butter. and 1t cinnamon. for the frosting, only 1/2 powdered sugar, and 1/4c brown sugar. also no foil in the baking dish."
+    url: "https://omgchocolatedesserts.com/banana-bread-blondies/"
+  - date: "7/27/20"
+    comment: "a critical note was left out last time, which was to add chocolate chips."
+  tags:
+  - "dessert"
+  last_suggested_date: '2022-01-02'
+  count: 3
+  index: 74
+  nickname: ""
+- name: "mexican cheesecake"
+  comments: []
+  tags:
+  - "dessert"
+  - "cake"
+  last_suggested_date: '2022-01-02'
+  count: 1
+  index: 63
+  nickname: ""
+- name: "naan"
+  comments:
+  - date: "4/7/20"
+    comment: "Jess does it, with some very old yeast. And they turn out amazing! I end up broiling them (pan frying works too, but oven is both easier AND better), brushed with butter. ~2 mins each side, buttering both sides but the bottom only once it's been flipped. (a little goes a long way.)"
+  tags:
+  - "bread"
+  last_suggested_date: '2022-01-02'
+  count: 1
+  index: 3
   nickname: ""
 - name: "butternut squash mushroom tart"
   comments:

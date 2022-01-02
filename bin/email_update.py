@@ -42,7 +42,7 @@ def send_update_email(msg, subj):
 def show_html(msg, subj, outfile=TMP_DINNER_FILE):
     with open(outfile, 'w') as f:
         f.write(msg)
-    CHROME = webbrowser.get("open -a '/Applications/Google Chrome.app' %s")
+    CHROME = webbrowser.get("open -a '/Applications/Firefox.app' %s")
     print('file://' + outfile)
     CHROME.open('file://' + outfile, new=2)
 
