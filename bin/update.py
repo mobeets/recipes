@@ -27,6 +27,8 @@ RECIPE_INTRO = """# TEMPLATE (DO NOT ERASE):
 #         d['last_date'] = '2017-08-27'
 #     write_to_yaml(data, outfile)
 
+DATE_FORMAT = '%-m/%-d/%y'
+
 def load_meals(infile):
     with open(infile) as f:
         data = ruamel.yaml.round_trip_load(f.read(),
@@ -44,11 +46,9 @@ def least_recent_meals(infile, outfile, n=5, date_key='last_suggested_date'):
     """
     pick the five meals seen least recently
         then update the data to show that they have now been accessed
-    """
-    date_format = '%-m/%-d/%y'
-    
+    """    
     data = load_meals(infile)
-    data = sorted(data, key=lambda k: datetime.strptime(k[date_key], date_format))
+    data = sorted(data, key=lambda k: datetime.strptime(k[date_key], DATE_FORMAT))
 
     # find items with the smallest date, and pick random n of these
     min_date = data[0][date_key]
@@ -58,7 +58,7 @@ def least_recent_meals(infile, outfile, n=5, date_key='last_suggested_date'):
 
     # update date to today
     for item in items:
-        item[date_key] = datetime.now().strftime(date_format)
+        item[date_key] = datetime.now().strftime(DATE_FORMAT)
     write_to_yaml(data, outfile)
     return items
 
@@ -209,6 +209,8 @@ def make_items(matches, prev_items, subitem):
 
     items = lkp.values()
     # sort by index (reversed, so most recent is first)
+    for item in items:
+        item['comments'] = sorted(item['comments'], key=lambda x: datetime.strptime(x['date'], DATE_FORMAT.replace('%-','%')), reverse=True)
     items = sorted(items, key=lambda x: x['index'], reverse=True)
     return items
 
