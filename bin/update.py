@@ -28,6 +28,7 @@ RECIPE_INTRO = """# TEMPLATE (DO NOT ERASE):
 #     write_to_yaml(data, outfile)
 
 DATE_FORMAT = '%-m/%-d/%y'
+DEFAULT_LAST_DT = '2016-01-01' # default
 
 def load_meals(infile):
     with open(infile) as f:
@@ -37,7 +38,7 @@ def load_meals(infile):
     # add defaults
     for row in data:
         if 'last_suggested_date' not in row:
-            row['last_suggested_date'] = '2020-01-01'
+            row['last_suggested_date'] = DEFAULT_LAST_DT
         if 'count' not in row:
             row['count'] = 1
     return data
@@ -188,7 +189,7 @@ def make_items(matches, prev_items, subitem):
             if name in last_suggested:
                 dtstr = last_suggested[name]
             else:
-                dtstr = '2016-01-01' # default
+                dtstr = DEFAULT_LAST_DT
             lkp[name] = {
                 'name': name,
                 'comments': [],
@@ -199,19 +200,17 @@ def make_items(matches, prev_items, subitem):
                 'nickname': nickname}
         if len(pieces) > 1:
             comment = pieces[1].replace('\n', '').strip()
-            if comment not in lkp[name]['comments']:
-                # lkp[name]['comments'].append('[' + dtstr_of_comment + ':] ' + comment)
-                citem = {'date': dtstr_of_comment, 'comment': comment}
-                if url is not None:
-                    citem['url'] = url
-                lkp[name]['comments'].append(citem)
+        else:
+            comment = ''
+        if dtstr_of_comment not in [x['date'] for x in lkp[name]['comments']]:
+            # lkp[name]['comments'].append('[' + dtstr_of_comment + ':] ' + comment)
+            citem = {'date': dtstr_of_comment, 'comment': comment}
+            if url is not None:
+                citem['url'] = url
+            lkp[name]['comments'].append(citem)
         lkp[name]['count'] += 1
 
-    items = lkp.values()
-    # sort by index (reversed, so most recent is first)
-    for item in items:
-        item['comments'] = sorted(item['comments'], key=lambda x: datetime.strptime(x['date'], DATE_FORMAT.replace('%-','%')), reverse=True)
-    items = sorted(items, key=lambda x: x['index'], reverse=True)
+    items = list(lkp.values())
     return items
 
 def write_to_yaml(items, outfile):
@@ -287,6 +286,16 @@ def describe_changes(items, previtems):
         msgs.extend(cmsgs)
     return msgs
 
+def sort_recipes(items):
+    # sort comments by most recently updated
+    comment_to_dt = lambda x: datetime.strptime(x['date'], DATE_FORMAT.replace('%-','%'))
+    for item in items:
+        item['comments'] = sorted(item['comments'], key=comment_to_dt, reverse=True)
+
+    # sort by most recently updated
+    items = sorted(items, key=lambda item: max([comment_to_dt(x) for x in item['comments']]), reverse=True)
+    return items
+
 def load_recipes(infile, outfile, prevfile=None):
     if prevfile is not None:
         previtems = load_meals(prevfile)
@@ -301,6 +310,8 @@ def load_recipes(infile, outfile, prevfile=None):
         assert len(matches) == len(new_matches), "could not find dates of all comments"
         citems = make_items(new_matches, previtems, subitem)
         items.extend(citems)
+
+    items = sort_recipes(items)
     print("Found {} recipes ({} new).".format(len(items), len(items)-len(previtems)))
     if outfile is not None:
         write_to_yaml(items, outfile)
