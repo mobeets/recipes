@@ -1,13 +1,13 @@
 # TEMPLATE (DO NOT ERASE):
-# 
+#
 # - name: "popcorn"
 #   comments:
 #   - date: "1/2/21"
 #     comment: "your thoughts"
-#   tags: ["dessert", "snack"]
+#   tags: ["dessert", "snack"] 
 #   last_suggested_date: '2022-01-02'
 #   count: 1
-# 
+#
 - name: "mexican wedding cookies"
   comments:
   - date: "11/1/20"

@@ -6,14 +6,19 @@ from datetime import datetime
 from ruamel.yaml.scalarstring import DoubleQuotedScalarString
 
 RECIPE_INTRO = """# TEMPLATE (DO NOT ERASE):
-# 
-# - name: "popcorn"
+#
+# - name: "example item"
 #   comments:
 #   - date: "1/2/21"
 #     comment: "your thoughts"
 #     url: "https://www.food.com/recipe/traditional-mexican-wedding-cookies-162213"
 #   tags: ["dessert", "snack"]
-# 
+#
+# Notes:
+# - Before adding a new item, check to make sure it doesn't already exist. In other words, the 'name' value should be unique across items.
+# - Please try to add at least one relevant tag (ideally one that already exists on the website)
+# - If an item has no url, remove the relevant 'url:' line above entirely
+#
 """
 
 # def update_with_dates(infile, outfile):

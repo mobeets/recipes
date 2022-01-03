@@ -7,10 +7,32 @@ layout: post
 {% assign popularcount = site.data.settings.popular_count %}
 {% assign populartag = 'popular' | split: ' ' %}
 {% assign thisweektag = 'this-week' | split: ' ' %}
-{% assign max_date = site.data.recipes | map:'last_suggested_date' | uniq | sort | last %}
+
+<!-- get largest last_suggested_date -->
+{% capture last_suggested_dates %}
+{% for item in site.data.recipes %}
+{% if item.last_suggested_date %}
+{{ item.last_suggested_date }}
+{% endif %}
+{% endfor %}
+{% endcapture %}
+{% assign max_date = last_suggested_dates | split:' ' | uniq | sort | last %}
+
+<!-- get unique tags -->
+{% capture all_tags %}
+{% for item in site.data.recipes %}
+{% if item.tags %}
+{% for tag in item.tags %}
+{{ tag }}
+{% endfor %}
+{% endif %}
+{% endfor %}
+{% endcapture %}
+{% assign tags = all_tags | split: ' ' | uniq | sort | concat: thisweektag | concat: populartag %}
+<!-- {% assign tags = site.data.recipes | map: 'tags' | uniq | sort | concat: thisweektag | concat: populartag %} -->
+
 <div class="everything">
     <div class="btn-menu">
-        {% assign tags = site.data.recipes | map: 'tags' | uniq | sort | concat: thisweektag | concat: populartag %}
         <div class="menu-tags">
             {% for tag in tags %}
                 <div class="btn btn-list-item btn-tag btn-menu-tag" data-tag="{{ tag }}">{{ tag }}</div>
