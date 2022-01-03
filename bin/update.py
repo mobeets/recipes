@@ -133,14 +133,11 @@ def make_items(matches, prev_items, subitem):
     # load previous items
     if prev_items is None:
         lkp = {}
-        index = 0
         nicknames = {}
         last_suggested = {}
     else:
         # lkp = dict((item['name'], item) for item in prev_items)
-        # index = max([item['index'] for item in prev_items])
         lkp = {}
-        index = 0
         nicknames = dict((item.get('nickname', ''), item['name']) for item in prev_items)
         last_suggested = dict((item['name'], item['last_suggested_date']) for item in prev_items)
 
@@ -185,7 +182,6 @@ def make_items(matches, prev_items, subitem):
 
         # add to lkp; update comments, urls, and count
         if name not in lkp:
-            index += 1
             if name in last_suggested:
                 dtstr = last_suggested[name]
             else:
@@ -196,7 +192,6 @@ def make_items(matches, prev_items, subitem):
                 'tags': mark_subitem(subitem) + guess_type(name) + guess_meat(name),
                 'last_suggested_date': dtstr,
                 'count': 0,
-                'index': index,
                 'nickname': nickname}
         if len(pieces) > 1:
             comment = pieces[1].replace('\n', '').strip()
