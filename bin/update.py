@@ -5,6 +5,17 @@ import ruamel.yaml
 from datetime import datetime
 from ruamel.yaml.scalarstring import DoubleQuotedScalarString
 
+RECIPE_INTRO = """# TEMPLATE (DO NOT ERASE):
+# 
+# - name: "popcorn"
+#   comments:
+#   - date: "1/2/21"
+#     comment: "your thoughts"
+#     url: "https://www.food.com/recipe/traditional-mexican-wedding-cookies-162213"
+#   tags: ["dessert", "snack"]
+# 
+"""
+
 # def update_with_dates(infile, outfile):
 #     data = load_meals(infile)
 #     for d in data:
@@ -15,6 +26,13 @@ def load_meals(infile):
     with open(infile) as f:
         data = ruamel.yaml.round_trip_load(f.read(),
             preserve_quotes=True)
+
+    # add defaults
+    for row in data:
+        if 'last_suggested_date' not in row:
+            row['last_suggested_date'] = '2020-01-01'
+        if 'count' not in row:
+            row['count'] = 1
     return data
 
 def least_recent_meals(infile, outfile, n=5, date_key='last_suggested_date'):
@@ -22,8 +40,10 @@ def least_recent_meals(infile, outfile, n=5, date_key='last_suggested_date'):
     pick the five meals seen least recently
         then update the data to show that they have now been accessed
     """
+    date_format = '%-m/%-d/%y'
+    
     data = load_meals(infile)
-    data = sorted(data, key=lambda k: datetime.strptime(k[date_key], '%Y-%m-%d'))
+    data = sorted(data, key=lambda k: datetime.strptime(k[date_key], date_format))
 
     # find items with the smallest date, and pick random n of these
     min_date = data[0][date_key]
@@ -33,7 +53,7 @@ def least_recent_meals(infile, outfile, n=5, date_key='last_suggested_date'):
 
     # update date to today
     for item in items:
-        item[date_key] = datetime.now().strftime('%Y-%m-%d')
+        item[date_key] = datetime.now().strftime(date_format)
     write_to_yaml(data, outfile)
     return items
 
@@ -100,13 +120,6 @@ def find_dates(infile, matches):
 
 def make_items(matches, prev_items, subitem):
     """
-    - count: 8
-      index: 1
-      name: "scallops, oyster mushrooms"
-      comments: ...
-      tags: ['seafood']
-      last_suggested_date: "2017-08-27"
-
     note: if prev_items are provided,
         only "last_suggested_date" is saved,
         everything else is rewritten
@@ -122,7 +135,7 @@ def make_items(matches, prev_items, subitem):
         # index = max([item['index'] for item in prev_items])
         lkp = {}
         index = 0
-        nicknames = dict((item['nickname'], item['name']) for item in prev_items)
+        nicknames = dict((item.get('nickname', ''), item['name']) for item in prev_items)
         last_suggested = dict((item['name'], item['last_suggested_date']) for item in prev_items)
 
     # go through matches and convert to items
@@ -157,7 +170,7 @@ def make_items(matches, prev_items, subitem):
             nicknames[nickname] = match
             print('Defined nickname: {} == {}'.format(nickname, match))
         else:
-            nickname = ''
+            nickname = None
         if 'Ck' in match and '==' not in match:
             # using nickname
             if match in nicknames:
@@ -213,6 +226,11 @@ def write_to_yaml(items, outfile):
     with open(outfile, 'w') as f:
         ruamel.yaml.round_trip_dump(items, f,
             default_flow_style=False, width=100000)
+    # now prepend with RECIPE_INTRO
+    with open(outfile, 'r') as f:
+        contents = f.read()
+    with open(outfile, 'w') as f:
+        f.write(RECIPE_INTRO + contents)
 
 def describe_changes(items, previtems):
     msgs = []
