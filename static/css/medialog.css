@@ -21,6 +21,7 @@
   text-align: center;
   margin-right: 0.3em;
 }
+
 .menu-tags {
   line-height: 2;
 }
@@ -34,6 +35,7 @@
 }
 .btn-tag {
     background-color: #c14343;
+    font-weight: 300;
 }
 .btn-loc {
     background-color: #A8A8A8;
@@ -96,6 +98,10 @@
     position: relative;
 }
 
+b {
+  font-weight: 501;
+}
+
 .item-label {
     /*font-weight: bold;*/
     color: gray;
@@ -112,4 +118,18 @@
 
 .comment-index {
   color: lightgray;
+}
+
+.dates {
+  display: none;
+}
+
+.date {
+  font-size: 90%;
+  color: lightgray;
+}
+
+.media-item:hover .dates {
+  color: red;
+  display: inline;
 }

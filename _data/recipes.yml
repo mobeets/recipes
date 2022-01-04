@@ -14,8 +14,6 @@
 #
 - name: "fried chicken sandwiches"
   comments:
-  - date: "1/3/22"
-    comment: "test comment"
   - date: "1/2/22"
     comment: "Turned out great! We did half the cayenne, and I still think it was a bit too much? Not that it was spicy, it just wasn't the flavor I was looking for. Or maybe it was all the paprika. But still, super delicious. 1.5 lbs made 8 chickens. #foodlab"
   - date: "8/16/18"
@@ -27,16 +25,6 @@
   last_suggested_date: '2021-07-03'
   count: 2
   nickname: ""
-- name: "example item"
-  comments:
-  - date: "1/3/22"
-    comment: "your thoughts"
-    url: "https://www.food.com/recipe/traditional-mexican-wedding-cookies-162213"
-  tags:
-  - "dinner"
-  - "chicken"
-  last_suggested_date: '2016-01-01'
-  count: 1
 - name: "grilled cheese and tomato soup"
   comments:
   - date: "1/1/22"
@@ -44,7 +32,6 @@
   tags:
   - "dinner"
   - "soup"
-  - "tomato"
   last_suggested_date: '2016-01-01'
   count: 1
   nickname: ""
