@@ -12,20 +12,14 @@ RECIPE_INTRO = """# TEMPLATE (DO NOT ERASE):
 #   - date: "1/2/21"
 #     comment: "your thoughts"
 #     url: "https://www.food.com/recipe/traditional-mexican-wedding-cookies-162213"
-#   tags: ["dessert", "snack"]
+#   tags: ["dinner", "chicken"]
 #
 # Notes:
 # - Before adding a new item, check to make sure it doesn't already exist. In other words, the 'name' value should be unique across items.
-# - Please try to add at least one relevant tag (ideally one that already exists on the website)
+# - Please add one tag from this list: ['drink', 'breakfast', 'dinner', 'dessert', 'bread']
 # - If an item has no url, remove the relevant 'url:' line above entirely
 #
 """
-
-# def update_with_dates(infile, outfile):
-#     data = load_meals(infile)
-#     for d in data:
-#         d['last_date'] = '2017-08-27'
-#     write_to_yaml(data, outfile)
 
 DATE_FORMAT = '%-m/%-d/%y'
 DEFAULT_LAST_DT = '2016-01-01' # default
@@ -173,7 +167,7 @@ def make_items(matches, prev_items, subitem):
             nicknames[nickname] = match
             print('Defined nickname: {} == {}'.format(nickname, match))
         else:
-            nickname = None
+            nickname = ''
         if 'Ck' in match and '==' not in match:
             # using nickname
             if match in nicknames:
@@ -240,13 +234,9 @@ def describe_changes(items, previtems):
     new_names = list(set(nms.keys()) - set(old_nms.keys()))
     new_names_rev = list(set(old_nms.keys()) - set(nms.keys()))
     if new_names:
-        msg = 'Found {} new meals in lifelog: {}'.format(len(new_names), ', '.join(new_names))
-        msgs.append(msg)
-    if new_names_rev:
-        msg = 'Found {} new meals in yaml: {}'.format(len(new_names_rev), ', '.join(new_names_rev))
+        msg = 'Found {} new meal(s) in lifelog: {}'.format(len(new_names), ', '.join(new_names))
         msgs.append(msg)
 
-    cmsgs = []
     for nm, val in nms.items():
         if nm in old_nms:
             oldval = old_nms[nm]
@@ -259,26 +249,8 @@ def describe_changes(items, previtems):
                 if com not in oldval['tags']:
                     msg = 'New tag in "{}": "{}"'.format(nm, com)
                     cmsgs.append(msg)
-    if cmsgs:
-        msgs.append("Updates from lifelog:")
-        msgs.extend(cmsgs)
-
-    cmsgs = []
-    for nm, val in old_nms.items():
-        if nm in nms:
-            oldval = nms[nm]
-            for com in val['comments']:
-                if com not in oldval['comments']:
-                    comstr = ' | '.join([y for x,y in com.items()])
-                    msg = 'New comment in "{}": "{}"'.format(nm, comstr)
-                    cmsgs.append(msg)
-            for com in val['tags']:
-                if com not in oldval['tags']:
-                    msg = 'New tag in "{}": "{}"'.format(nm, com)
-                    cmsgs.append(msg)
-    if cmsgs:
-        msgs.append("Updates from yaml:")
-        msgs.extend(cmsgs)
+    if msgs:
+        msgs = ["Updates from lifelog (jay):"] + msgs
     return msgs
 
 def sort_recipes(items):
@@ -290,6 +262,36 @@ def sort_recipes(items):
     # sort by most recently updated
     items = sorted(items, key=lambda item: max([comment_to_dt(x) for x in item['comments']]), reverse=True)
     return items
+
+def look_for_new_items_in_previtems(items, previtems):
+    nms = dict((x['name'], x) for x in items)
+    old_nms = dict((x['name'], x) for x in previtems)
+    new_names = list(set(nms.keys()) - set(old_nms.keys()))
+    new_names_rev = list(set(old_nms.keys()) - set(nms.keys()))
+
+    msgs = []
+    if new_names_rev:
+        items.extend([old_nms[new_name] for new_name in new_names_rev])
+        msg = 'Found {} new meal(s): {}'.format(len(new_names_rev), ', '.join(new_names_rev))
+        msgs.append(msg)
+
+    for nm, val in old_nms.items():
+        if nm in nms:
+            oldval = nms[nm]
+            for com in val['comments']:
+                if com not in oldval['comments']:
+                    oldval['comments'].append(com)
+                    comstr = ' | '.join([y for x,y in com.items()])
+                    msg = 'New comment in "{}": "{}"'.format(nm, comstr)
+                    msgs.append(msg)
+            for tag in val['tags']:
+                if tag not in oldval['tags']:
+                    oldval['tags'].append(tag)
+                    msg = 'New tag in "{}": "{}"'.format(nm, tag)
+                    msgs.append(msg)
+    if msgs:
+        msgs = ["Updates from yaml (jess):"] + msgs
+    return items, msgs
 
 def load_recipes(infile, outfile, prevfile=None):
     if prevfile is not None:
@@ -306,11 +308,15 @@ def load_recipes(infile, outfile, prevfile=None):
         citems = make_items(new_matches, previtems, subitem)
         items.extend(citems)
 
-    items = sort_recipes(items)
     print("Found {} recipes ({} new).".format(len(items), len(items)-len(previtems)))
+    msgs = describe_changes(items, previtems)
+
+    items, msgs2 = look_for_new_items_in_previtems(items, previtems)
+    items = sort_recipes(items)
+
     if outfile is not None:
         write_to_yaml(items, outfile)
-    return describe_changes(items, previtems)
+    return msgs + msgs2
 
 if __name__ == '__main__':
     infile = '/Users/mobeets/Box Sync/Projects/Listed/Tracked/lifelog.txt'
