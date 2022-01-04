@@ -15,7 +15,7 @@ RECIPE_INTRO = """# TEMPLATE (DO NOT ERASE):
 #   tags: ["dinner", "chicken"]
 #
 # Notes:
-# - Before adding a new item, check to make sure it doesn't already exist. In other words, the 'name' value should be unique across items.
+# - Before adding a new item, check to make sure another item with the same name doesn't already exist.
 # - Please add one tag from this list: ['drink', 'breakfast', 'dinner', 'dessert', 'bread']
 # - If an item has no url, remove the relevant 'url:' line above entirely
 #
