@@ -30,13 +30,6 @@ def load_meals(infile):
     with open(infile) as f:
         data = ruamel.yaml.round_trip_load(f.read(),
             preserve_quotes=True)
-
-    # add defaults
-    # for row in data:
-    #     # if 'last_suggested_date' not in row:
-    #     #     row['last_suggested_date'] = DEFAULT_LAST_DT
-    #     # if 'count' not in row:
-    #     #     row['count'] = 1
     return data
 
 def least_recent_meals(infile, outfile, n=5, date_key='last_suggested_date'):
@@ -144,10 +137,18 @@ def make_items(matches, prev_items, subitem):
             url = place.split(' # ')[1].strip()
             if 'http' not in url:
                 url = None
-            if url is not None and ' , ' in url:
-                url = url.split(' , ')[0]
+            if url is not None and ', ' in url:
+                urls = url.split(', ')
+                url = urls[0]
+                if len(urls) > 1:
+                    urls = [x.strip() for x in urls[1:]]
+                else:
+                    urls = []
+            else:
+                urls = None
         else:
             url = None
+            urls = None
         # remove people, e.g., (JG)
         if match.startswith('('):
             match = match[match.find(')')+1:]
@@ -201,6 +202,8 @@ def make_items(matches, prev_items, subitem):
             citem = {'date': dtstr_of_comment, 'comment': comment}
             if url is not None:
                 citem['url'] = url
+            if urls is not None:
+                citem['other_urls'] = urls
             lkp[name]['comments'].append(citem)
         # lkp[name]['count'] += 1
 
@@ -222,7 +225,10 @@ def write_to_yaml(items, outfile):
             elif key == 'comments':
                 for i,subitem in enumerate(item[key]):
                     for subkey in subitem:
-                        item[key][i][subkey] = DoubleQuotedScalarString(item[key][i][subkey])
+                        if subkey == 'other_urls':
+                            item[key][i][subkey] = [DoubleQuotedScalarString(x) for x in item[key][i][subkey]]
+                        else:
+                            item[key][i][subkey] = DoubleQuotedScalarString(item[key][i][subkey])
     with open(outfile, 'w') as f:
         ruamel.yaml.round_trip_dump(items, f,
             default_flow_style=False, width=100000)
@@ -247,7 +253,7 @@ def describe_changes(items, previtems):
             oldval = old_nms[nm]
             for com in val['comments']:
                 if com not in oldval['comments']:
-                    comstr = ' | '.join([y for x,y in com.items()])
+                    comstr = ' | '.join([str(y) for x,y in com.items()])
                     msg = 'New comment in "{}": "{}"'.format(nm, comstr)
                     msgs.append(msg)
             for com in val['tags']:
