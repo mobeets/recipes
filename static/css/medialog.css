@@ -117,8 +117,16 @@ b {
 }
 
 .comment-index {
-  color: lightgray;
+  color: gray;
+}
+.comment-index a {
+  color: gray;
+  text-decoration: underline;
+}
+
+.comment-container {
   margin-left: 1em;
+  display: inline-block;
 }
 
 .date {

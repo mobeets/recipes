@@ -16,10 +16,10 @@ RECIPE_INTRO = """# TEMPLATE (DO NOT ERASE):
 #
 # Notes:
 # - Before adding a new item, check to make sure another item with the same name doesn't already exist.
-# - For new items, please include one tag from this list: ['drink', 'breakfast', 'dinner', 'dessert', 'bread']
+# - For new items, include one tag from this list if relevant: ['drink', 'breakfast', 'dinner', 'dessert', 'bread']. Other tags will be added automagically.
 # - If your comment has no url, remove the relevant 'url:' line above entirely
-# - You should NOT edit any existing comment (only create new ones)
-# - You can ADD existing tags but do not remove any
+# - Do NOT edit any existing comment (only create new ones)
+# - You can add new tags to existing items if you'd like
 #
 """
 

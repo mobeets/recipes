@@ -59,9 +59,9 @@ layout: post
                 {% endif %}
                 {% if item.comments != empty %}
                 <div class="comments">
-                    <span class="item-label">notes:</span> {% for comment in item.comments %}{% if forloop.index == 1 %}<br/>{% endif %}{% if comment.comment != empty or comment.url %}<span class="comment-index">{% if comment.url and comment.url != empty %}<a href="{{ comment.url }}">{% endif %}{{ comment.date }}:{% if comment.url and comment.url != empty %}</a>{% endif %} </span>{{ comment.comment }}{% if comment.other_urls %}{% for url in comment.other_urls %}<a href="{{ url }}"> [{{ forloop.index }}]</a> {% endfor %}{% endif %}{% if comment.comment != empty or comment.url %}</br>{% endif %}{% endif %}{% endfor %}
+                    <span class="item-label">notes:</span> {% for comment in item.comments %}{% if forloop.index == 1 %}<br/>{% endif %}{% if comment.comment != empty %}<span class="comment-container"><span class="comment-index">{% if comment.url and comment.url != empty %}<a href="{{ comment.url }}">{% endif %}{{ comment.date }}:{% if comment.url and comment.url != empty %}</a>{% endif %} </span>{{ comment.comment }}</span>{% if comment.comment != empty %}</br>{% endif %}{% endif %}{% endfor %}
                     
-                    <span class="item-label">dates made:</span> {% for comment in item.comments %}<span class="date">{{ comment.date }}{% unless forloop.last %}, {% endunless %} </span>{% endfor %}
+                    <span class="item-label">dates made:</span> {% for comment in item.comments %}<span class="date">{% if comment.url and comment.url != empty %}<a href="{{ comment.url }}">{% endif %}{{ comment.date }}{% if comment.url and comment.url != empty %}</a>{% endif %}{% if comment.other_urls %}{% for url in comment.other_urls %}<a href="{{ url }}"> [{{ forloop.index }}]</a> {% endfor %}{% endif %}{% unless forloop.last %}, {% endunless %} </span>{% endfor %}
                 </div>
                 {% endif %}
             </div>
