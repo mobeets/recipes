@@ -263,6 +263,15 @@ def sort_recipes(items):
     items = sorted(items, key=lambda item: max([comment_to_dt(x) for x in item['comments']]), reverse=True)
     return items
 
+def tag_recipes(items):
+    """
+    this will allow autotagging for items added directly to yaml
+    """
+    for item in items:
+        new_tags = guess_type(item['name']) + guess_meat(item['name'])
+        item['tags'] = list(set(item['tags'] + new_tags))
+    return items
+
 def look_for_new_items_in_previtems(items, previtems):
     nms = dict((x['name'], x) for x in items)
     old_nms = dict((x['name'], x) for x in previtems)
@@ -313,6 +322,7 @@ def load_recipes(infile, outfile, prevfile=None):
 
     items, msgs2 = look_for_new_items_in_previtems(items, previtems)
     items = sort_recipes(items)
+    items = tag_recipes(items)
 
     if outfile is not None:
         write_to_yaml(items, outfile)
