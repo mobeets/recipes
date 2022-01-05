@@ -35,8 +35,8 @@ def load_meals(infile):
     for row in data:
         if 'last_suggested_date' not in row:
             row['last_suggested_date'] = DEFAULT_LAST_DT
-        if 'count' not in row:
-            row['count'] = 1
+        # if 'count' not in row:
+        #     row['count'] = 1
     return data
 
 def least_recent_meals(infile, outfile, n=5, date_key='last_suggested_date'):
@@ -189,8 +189,9 @@ def make_items(matches, prev_items, subitem):
                 'comments': [],
                 'tags': mark_subitem(subitem) + guess_type(name) + guess_meat(name),
                 'last_suggested_date': dtstr,
-                'count': 0,
-                'nickname': nickname}
+                # 'count': 0,
+                # 'nickname': nickname
+                }
         if len(pieces) > 1:
             comment = pieces[1].replace('\n', '').strip()
         else:
@@ -201,7 +202,7 @@ def make_items(matches, prev_items, subitem):
             if url is not None:
                 citem['url'] = url
             lkp[name]['comments'].append(citem)
-        lkp[name]['count'] += 1
+        # lkp[name]['count'] += 1
 
     items = list(lkp.values())
     return items

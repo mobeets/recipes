@@ -59,7 +59,7 @@ layout: post
             <div class="item-opinion">
                 {% if item.tags %}
                 {% assign curtagnames = item.tags %}
-                {% if item.count and item.count > popularcount %}
+                {% if item.comments and item.comments.size > popularcount %}
                     {% assign curtagnames = curtagnames | concat: populartag %}
                 {% endif %}
                 {% if item.last_suggested_date and item.last_suggested_date == max_date %}
