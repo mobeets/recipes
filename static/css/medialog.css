@@ -118,18 +118,10 @@ b {
 
 .comment-index {
   color: lightgray;
-}
-
-.dates {
-  display: none;
+  margin-left: 1em;
 }
 
 .date {
   font-size: 90%;
   color: lightgray;
-}
-
-.media-item:hover .dates {
-  color: red;
-  display: inline;
 }

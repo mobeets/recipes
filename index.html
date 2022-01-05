@@ -78,8 +78,6 @@ layout: post
                 {% if item.comments != empty %}
                 <div class="comments">
                     <span class="item-label">notes:</span> {% for comment in item.comments %}{% if forloop.index == 1 %}<br/>{% endif %}{% if comment.comment != empty %}<span class="comment-index">{% if comment.url and comment.url != empty %}<a href="{{ comment.url }}">{% endif %}{{ comment.date }}:{% if comment.url and comment.url != empty %}</a>{% endif %} </span>{{ comment.comment }}{% if comment.comment != empty %}</br>{% endif %}{% endif %}{% endfor %}
-                </div>
-                <div class="dates">
                     <span class="item-label">dates made:</span> {% for comment in item.comments %}<span class="date">{{ comment.date }}{% unless forloop.last %}, {% endunless %} </span>{% endfor %}
                 </div>
                 {% endif %}
