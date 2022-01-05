@@ -204,9 +204,10 @@
 - name: "boiled peanuts"
   comments:
   - date: "11/5/21"
-    comment: "#snack"
+    comment: ""
   tags:
   - "dessert"
+  - "snack"
 - name: "turkey chili"
   comments:
   - date: "11/4/21"
