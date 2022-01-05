@@ -8,9 +8,11 @@
 #   tags: ["dinner", "chicken"]
 #
 # Notes:
-# - Before adding a new item, check to make sure it doesn't already exist. In other words, the 'name' value should be unique across items.
-# - Please add one tag from this list: ['drink', 'breakfast', 'dinner', 'dessert', 'bread']
-# - If an item has no url, remove the relevant 'url:' line above entirely
+# - For new items, please include one tag from this list: ['drink', 'breakfast', 'dinner', 'dessert', 'bread']
+# - If you add an item with no url, remove the relevant 'url:' line above entirely
+# - Before adding a new item, check to make sure another item with the same name doesn't already exist.
+# - You should NOT edit any existing comment (only create new ones)
+# - You can ADD existing tags but do not remove any
 #
 - name: "fried chicken sandwiches"
   comments:
@@ -19,27 +21,21 @@
   - date: "8/16/18"
     comment: "fried as in the togarashi chicken; also pickles and mayo on brioche buns"
   tags:
-  - "dinner"
   - "sandwich"
   - "chicken"
-  last_suggested_date: '2021-07-03'
-  count: 2
-  nickname: ""
+  - "dinner"
 - name: "grilled cheese and tomato soup"
   comments:
   - date: "1/1/22"
     comment: "Made for lunch using kenji's recipe. The soup was pretty good--way better than a can for sure. The sandwich wasn't worth the extra work I don't think, but the parmesan added to the outside and grilled again was a nice touch actually. #foodlab"
   tags:
-  - "dinner"
   - "soup"
-  last_suggested_date: '2016-01-01'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "pork tenderloin"
   comments:
   - date: "12/29/21"
     comment: "the sauce was ok, but the cooking method was great."
-    url: "https://www.onceuponachef.com/recipes/mustard-glazed-pork-tenderloin.html"
+    url: "https://www.onceuponachef.com/recipes/mustard-glazed-pork-tenderloin.html#tabrecipe"
   - date: "6/5/20"
     comment: ""
   - date: "7/23/18"
@@ -54,11 +50,8 @@
     comment: ""
     url: "https://bestrecipebox.com/oven-roast-pork-loin-roast/"
   tags:
-  - "dinner"
   - "pork"
-  last_suggested_date: '2021-07-10'
-  count: 7
-  nickname: ""
+  - "dinner"
 - name: "butternut squash mushroom tart"
   comments:
   - date: "12/19/21"
@@ -66,9 +59,6 @@
     url: "https://sallysbakingaddiction.com/butternut-squash-mushroom-tart/"
   tags:
   - "dinner"
-  last_suggested_date: '2022-01-02'
-  count: 1
-  nickname: ""
 - name: "thai shrimp curry"
   comments:
   - date: "12/17/21"
@@ -81,11 +71,8 @@
     comment: "this was soooo good. jess says: added a little bit more green curry, about 1 oz extra of coconut milk (but only because we had extra), and chili flakes for garnish. also 24oz shrimp instead of 32oz."
     url: "https://www.onceuponachef.com/recipes/thai-shrimp-curry.html"
   tags:
-  - "dinner"
   - "curry"
-  last_suggested_date: '2020-09-12'
-  count: 4
-  nickname: ""
+  - "dinner"
 - name: "brownies"
   comments:
   - date: "12/6/21"
@@ -129,9 +116,6 @@
     url: "http://www.browneyedbaker.com/2010/03/09/chewy-brownies/"
   tags:
   - "dessert"
-  last_suggested_date: '2020-08-08'
-  count: 16
-  nickname: "CkD1"
 - name: "hot chocolate"
   comments:
   - date: "12/5/21"
@@ -144,9 +128,6 @@
     comment: "per cup: 2T cocoa, 1T brown sugar, 1c milk; add only 2T or so milk at first to the rest, heating in pan; then once it dissolves heat the rest of the milk; once nearly boiling, put it in a blender to froth"
   tags:
   - "dessert"
-  last_suggested_date: '2022-01-02'
-  count: 4
-  nickname: ""
 - name: "banana muffins"
   comments:
   - date: "12/1/21"
@@ -154,18 +135,12 @@
     url: "https://sallysbakingaddiction.com/banana-muffins/"
   tags:
   - "dessert"
-  last_suggested_date: '2022-01-02'
-  count: 1
-  nickname: ""
 - name: "turkey tettrazini"
   comments:
   - date: "11/30/21"
     comment: "fine, but not worth repeating."
   tags:
   - "dinner"
-  last_suggested_date: '2022-01-02'
-  count: 1
-  nickname: ""
 - name: "meatball subs"
   comments:
   - date: "11/23/21"
@@ -176,19 +151,13 @@
     comment: "sooo delicious. turkey meatballs--recipe from photo from Caitlin"
   tags:
   - "dinner"
-  last_suggested_date: '2021-09-25'
-  count: 3
-  nickname: ""
 - name: "burgers"
   comments:
   - date: "11/21/21"
     comment: "to make fast food style burgers, flatten four 0.25lb patties with a rolling pin between two sheets of seran wrap. then cooked on skillet at 375F, flattening with spatula constantly. 5 mins a side. Cheese on after flipping."
   tags:
-  - "dinner"
   - "burger"
-  last_suggested_date: '2022-01-02'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "coffee cake"
   comments:
   - date: "11/20/21"
@@ -216,16 +185,13 @@
   - date: "11/13/14"
     comment: ""
   tags:
-  - "dessert"
   - "cake"
-  last_suggested_date: '2021-10-30'
-  count: 11
-  nickname: ""
+  - "dessert"
 - name: "apple crisp"
   comments:
   - date: "11/7/21"
     comment: "6 smallish red apples"
-    url: "https://www.thechunkychef.com/old-fashioned-easy-apple-crisp/"
+    url: "https://www.thechunkychef.com/old-fashioned-easy-apple-crisp/#wprm-recipe-container-11755"
   - date: "9/14/20"
     comment: "I used four gigantic apples and it filled a 9x13. I did NOT double the recipe, unlike my last note. so both that comment and the recipe (which called for a 9x9) lied to me. but it was delicious! maybe a tad sweet, so you could probably skip the bit of white sugar in the apples themselves?"
   - date: "2/10/19"
@@ -235,18 +201,12 @@
     comment: "we double it; recipe from Caitlin"
   tags:
   - "dessert"
-  last_suggested_date: '2020-09-05'
-  count: 4
-  nickname: ""
 - name: "boiled peanuts"
   comments:
   - date: "11/5/21"
     comment: "#snack"
   tags:
   - "dessert"
-  last_suggested_date: '2022-01-02'
-  count: 1
-  nickname: ""
 - name: "turkey chili"
   comments:
   - date: "11/4/21"
@@ -266,9 +226,6 @@
     url: "https://cooking.nytimes.com/recipes/7985-turkey-chili"
   tags:
   - "dinner"
-  last_suggested_date: '2020-11-21'
-  count: 7
-  nickname: ""
 - name: "creamy tortellini soup"
   comments:
   - date: "10/26/21"
@@ -279,11 +236,8 @@
     comment: "delicious, and everyone loved it. only made one serving and this fed us all for two nights. jess says she only used maybe 1/2 lb of sausage."
     url: "https://damndelicious.net/2019/01/30/creamy-tortellini-soup/"
   tags:
-  - "dinner"
   - "soup"
-  last_suggested_date: '2021-09-25'
-  count: 3
-  nickname: ""
+  - "dinner"
 - name: "hazan's pasta carbonara"
   comments:
   - date: "10/23/21"
@@ -323,11 +277,8 @@
   - date: "9/21/15"
     comment: ""
   tags:
-  - "dinner"
   - "pasta"
-  last_suggested_date: '2021-03-20'
-  count: 18
-  nickname: ""
+  - "dinner"
 - name: "dutch apple pie"
   comments:
   - date: "10/21/21"
@@ -346,11 +297,8 @@
     comment: "with gala apples, and a store-bought crust (from trader joe's). it's so good!"
     url: "https://www.food.com/recipe/dutch-apple-pie-43990"
   tags:
-  - "dessert"
   - "pie"
-  last_suggested_date: '2020-08-15'
-  count: 7
-  nickname: ""
+  - "dessert"
 - name: "red lentil curry"
   comments:
   - date: "10/19/21"
@@ -378,32 +326,23 @@
   - date: "2/4/13"
     comment: ""
   tags:
-  - "dinner"
   - "curry"
-  last_suggested_date: '2021-06-26'
-  count: 12
-  nickname: ""
+  - "dinner"
 - name: "bbq chicken alfredo pizza"
   comments:
   - date: "10/4/21"
     comment: "with mozzarella on top."
   tags:
-  - "dinner"
   - "chicken"
-  last_suggested_date: '2021-10-16'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "hamburger helper"
   comments:
   - date: "9/30/21"
     comment: "best one of these so far! [n.b. may be the wrong date.]"
     url: "https://www.halfbakedharvest.com/one-pot-hamburger-helper/"
   tags:
-  - "dinner"
   - "burger"
-  last_suggested_date: '2021-10-16'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "pumpkin bread"
   comments:
   - date: "9/26/21"
@@ -415,9 +354,6 @@
     comment: ""
   tags:
   - "dessert"
-  last_suggested_date: '2020-08-22'
-  count: 3
-  nickname: "CkD12"
 - name: "lasagna"
   comments:
   - date: "9/9/21"
@@ -445,9 +381,6 @@
     comment: "Jess does it!"
   tags:
   - "dinner"
-  last_suggested_date: '2021-07-10'
-  count: 11
-  nickname: ""
 - name: "tahini brownies"
   comments:
   - date: "9/5/21"
@@ -463,9 +396,6 @@
     url: "https://www.bonappetit.com/recipe/gluten-free-chocolate-tahini-brownies"
   tags:
   - "dessert"
-  last_suggested_date: '2020-12-12'
-  count: 5
-  nickname: ""
 - name: "chicken pesto pizza"
   comments:
   - date: "8/28/21"
@@ -473,33 +403,24 @@
   - date: "7/19/21"
     comment: ""
   tags:
-  - "dinner"
   - "chicken"
-  last_suggested_date: '2021-10-02'
-  count: 2
-  nickname: ""
+  - "dinner"
 - name: "google chocolate chip cookies"
   comments:
   - date: "8/27/21"
     comment: "the cayenne is interesting. we didn't have orange or vanilla so we used 1t whiskey, and that tiny bit of liquid was CRITICAL for getting the batter to actually become batter. the cookies were larger than we normally make, which also made them amazing. would love to try without the cayenne, even though it was very interesting. overall, this was a very interesting/impressive cookie. baked for about 16 mins at 325F"
     url: "https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46507.pdf"
   tags:
-  - "dessert"
   - "cookies"
-  last_suggested_date: '2021-10-02'
-  count: 1
-  nickname: ""
+  - "dessert"
 - name: "vegan chocolate chip cookies"
   comments:
   - date: "8/20/21"
     comment: ""
     url: "https://cookieandkate.com/amazing-chocolate-chip-cookies/"
   tags:
-  - "dessert"
   - "cookies"
-  last_suggested_date: '2021-09-25'
-  count: 1
-  nickname: ""
+  - "dessert"
 - name: "banana bread"
   comments:
   - date: "7/29/21"
@@ -513,19 +434,13 @@
     url: "https://thesaltymarshmallow.com/best-banana-bread-recipe/"
   tags:
   - "dessert"
-  last_suggested_date: '2021-03-13'
-  count: 3
-  nickname: ""
 - name: "roast chicken thighs with farro"
   comments:
   - date: "7/27/21"
     comment: ""
   tags:
-  - "dinner"
   - "chicken"
-  last_suggested_date: '2021-10-02'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "chocolate chip cookies"
   comments:
   - date: "6/16/21"
@@ -565,11 +480,8 @@
   - date: "5/15/13"
     comment: ""
   tags:
-  - "dessert"
   - "cookies"
-  last_suggested_date: '2022-01-03'
-  count: 17
-  nickname: "CkD10"
+  - "dessert"
 - name: "rhubarb pie"
   comments:
   - date: "6/7/21"
@@ -577,11 +489,8 @@
   - date: "9/28/17"
     comment: "cooked for like 75 minutes total--be patient! wait for the bubblies. rotated it once, when we took the foil off. also, it's a bit too sweet--Jess says she added the upper limit of sugar. So don't do that."
   tags:
-  - "dessert"
   - "pie"
-  last_suggested_date: '2020-08-22'
-  count: 2
-  nickname: ""
+  - "dessert"
 - name: "burgers on the grill"
   comments:
   - date: "5/20/21"
@@ -599,32 +508,23 @@
   - date: "6/3/20"
     comment: "about 5 minutes to warm the grill up (on high), then grill the burgers about 6 minutes on each side, with the lid partially closed (held up by a rock), and then adding cheese after that with the lid open. turned out perfectly!"
   tags:
-  - "dinner"
   - "burger"
-  last_suggested_date: '2020-08-29'
-  count: 7
-  nickname: ""
+  - "dinner"
 - name: "cupcakes"
   comments:
   - date: "5/18/21"
     comment: "turned out great! made 18, so 1.5 times cupcake recipe (and then normal recipe amount for the icing)"
-    url: "https://natashaskitchen.com/perfect-vanilla-cupcake-recipe/"
+    url: "https://natashaskitchen.com/perfect-vanilla-cupcake-recipe/#jump-to-recipe, https://sugarspunrun.com/cream-cheese-frosting/#wprm-recipe-container-12572"
   tags:
-  - "dessert"
   - "cake"
-  last_suggested_date: '2021-09-25'
-  count: 1
-  nickname: ""
+  - "dessert"
 - name: "chicken fingers"
   comments:
   - date: "5/17/21"
     comment: "these were delicious. baked in oven from I think the Food 52 cook book. Worked great! Used 3 lbs of chicken breast, took like 20 minutes just to bread it all, and used three pyrex dishes. Next time, should cut them long ways (feels like sideways) because then there's fewer to bread, and those tasted better for some reason."
   tags:
-  - "dinner"
   - "chicken"
-  last_suggested_date: '2021-10-02'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "sourdough bread"
   comments:
   - date: "5/14/21"
@@ -633,7 +533,7 @@
     comment: "nailed it, FINALLY! (i forgot that stretch-and-fold happens right after you make the dough, so i skipped that this time.) i let the bulk ferment go from like 6pm-9am, because it just wasn't looking risen enough, and I suspect from reading online that _under_-proving has been our problem. then i shaped it, let it sit for about 1.5 hours, then baked 500F for 30mins, 450F for 15mins or so. i think for knowing when it's proved enough, what we really need is a clear bowl so we can mark/see when it's doubled in size more easily."
   - date: "2/13/21"
     comment: "proofed overnight from 7pm-7am. when doing the stretch and folds at that point, it didn't tear. but maybe in retrospect given how flat the loaf was, it was over-proofed. 68F in here. preheated about 30 mins instead of an hour. 25 mins at 500F, but needed 21 mins at 450F (to get to 208F). not very risen, and a little light in color. also forgot to score it."
-    url: "https://www.feastingathome.com/sourdough-bread/"
+    url: "https://www.feastingathome.com/sourdough-bread/#tasty-recipes-35045"
   - date: "12/28/20"
     comment: "one of the worst ones we've ever made. in too cold of a spot overnight, pretty sure."
   - date: "11/9/20"
@@ -749,9 +649,6 @@
     url: "http://www.breadtopia.com/sourdough-no-knead-method/"
   tags:
   - "bread"
-  last_suggested_date: '2022-01-02'
-  count: 59
-  nickname: ""
 - name: "beef and bean chili"
   comments:
   - date: "5/10/21"
@@ -770,11 +667,8 @@
     comment: "I skip the tabasco and sugar, and instead add cocoa, and cook for about 5 hours on low"
     url: "http://www.food.com/recipe/the-best-bowl-of-chili-ive-ever-had-178865"
   tags:
-  - "dinner"
   - "beef"
-  last_suggested_date: '2021-05-29'
-  count: 7
-  nickname: ""
+  - "dinner"
 - name: "filet mignon"
   comments:
   - date: "5/5/21"
@@ -784,20 +678,14 @@
     comment: "about 1.25\" thick, 6 mins on first side, 5-6 mins on second side, cooked to about 135F"
   tags:
   - "dinner"
-  last_suggested_date: '2021-04-03'
-  count: 2
-  nickname: ""
 - name: "chocolate cream oreo pie"
   comments:
   - date: "4/29/21"
     comment: "unbelievable and impossible to not have seconds"
     url: "https://www.halfbakedharvest.com/old-fashioned-chocolate-cream-pie/"
   tags:
-  - "dessert"
   - "pie"
-  last_suggested_date: '2021-09-25'
-  count: 1
-  nickname: ""
+  - "dessert"
 - name: "sour cream chicken enchiladas"
   comments:
   - date: "4/27/21"
@@ -806,11 +694,8 @@
     comment: "doubled it, trader joes salsa verde (2 jars), 3 cups of shredded chicken, 1 bag of shredded cheese (2 cups), corn tortillas, made 15 enchiladas, delicious"
     url: "https://www.inspiredtaste.net/11767/salsa-verde-chicken-enchiladas"
   tags:
-  - "dinner"
   - "chicken"
-  last_suggested_date: '2021-02-13'
-  count: 2
-  nickname: ""
+  - "dinner"
 - name: "alfredo pasta"
   comments:
   - date: "4/26/21"
@@ -830,11 +715,8 @@
   - date: "12/6/16"
     comment: "with mushrooms and chicken, using Mom's recipe, then just adding mushrooms and chicken (cooked separately, combined at the end)"
   tags:
-  - "dinner"
   - "pasta"
-  last_suggested_date: '2021-03-27'
-  count: 8
-  nickname: ""
+  - "dinner"
 - name: "rice pudding"
   comments:
   - date: "4/24/21"
@@ -842,19 +724,13 @@
     url: "https://www.foodnetwork.com/recipes/tres-leches-rice-pudding-2120449"
   tags:
   - "dessert"
-  last_suggested_date: '2021-10-02'
-  count: 1
-  nickname: ""
 - name: "bbq chicken"
   comments:
   - date: "4/19/21"
     comment: "about 4 lbs of bone-in, skin-on thighs, brined in salt (1/4c salt + 4c water, in each of two different containers), baked in bbq for about 45 mins at 375F (flipped halfway through and added more sauce). the sauce didn't really stick. also, should have ended with the skin up so it could've gotten more crispy."
   tags:
-  - "dinner"
   - "chicken"
-  last_suggested_date: '2021-05-01'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "banana blondies"
   comments:
   - date: "4/16/21"
@@ -866,9 +742,6 @@
     url: "https://omgchocolatedesserts.com/banana-bread-blondies/"
   tags:
   - "dessert"
-  last_suggested_date: '2022-01-02'
-  count: 3
-  nickname: ""
 - name: "meatball soup"
   comments:
   - date: "4/11/21"
@@ -898,38 +771,26 @@
   - date: "10/14/15"
     comment: "delicious--Mom's recipe"
   tags:
-  - "dinner"
   - "soup"
-  last_suggested_date: '2021-04-11'
-  count: 13
-  nickname: ""
+  - "dinner"
 - name: "meatballs"
   comments:
   - date: "4/11/21"
     comment: "1.25 lbs beef, 1 egg, 1t salt, 1t onion powder, 1t garlic powder, 1/3c parmesan cheese, 400F for 20 mins."
   tags:
   - "dinner"
-  last_suggested_date: '2021-05-01'
-  count: 1
-  nickname: ""
 - name: "crispy roasted baby potatoes"
   comments:
   - date: "4/6/21"
     comment: "boiled about 10 minutes until I could partially smush one with a fork. oven to 425F, smushed all the potatoes on a baking tray with a wooden spoon, coated in a generous amount of olive oil, then salt and pepper. baked for about 20 minutes until they looked nice and crispy. amazing! just like the porch's basically."
   tags:
   - "dinner"
-  last_suggested_date: '2021-05-01'
-  count: 1
-  nickname: ""
 - name: "sloppy joes"
   comments:
   - date: "4/6/21"
     comment: "doubled recipe in cookbook"
   tags:
   - "dinner"
-  last_suggested_date: '2021-05-01'
-  count: 1
-  nickname: ""
 - name: "chicken curry"
   comments:
   - date: "3/28/21"
@@ -951,12 +812,9 @@
     comment: "used 3 jalapenos and it is VERY spicy"
     url: "http://www.amateurgourmet.com/2010/04/bombay_chicken_curry.html"
   tags:
-  - "dinner"
-  - "curry"
   - "chicken"
-  last_suggested_date: '2020-09-26'
-  count: 8
-  nickname: "CkR4"
+  - "curry"
+  - "dinner"
 - name: "pork chops"
   comments:
   - date: "3/24/21"
@@ -966,11 +824,8 @@
     comment: "Delicious! 1-inch thick, cooked at 400F for 10 mins or so, after a 30 min salt brine and then searing in an oven-hot cast iron."
     url: "http://www.thekitchn.com/how-to-cook-perfect-pork-chops-in-the-oven-cooking-lessons-from-the-kitchn-194257"
   tags:
-  - "dinner"
   - "pork"
-  last_suggested_date: '2021-04-03'
-  count: 2
-  nickname: ""
+  - "dinner"
 - name: "tahini cinnamon rolls"
   comments:
   - date: "3/21/21"
@@ -980,9 +835,6 @@
     url: "https://www.broadsheet.com.au/national/food-and-drink/article/recipe-sweet-tahini-rolls-kubez-el-tahineh"
   tags:
   - "dessert"
-  last_suggested_date: '2021-03-13'
-  count: 2
-  nickname: ""
 - name: "chicken pot pie"
   comments:
   - date: "3/17/21"
@@ -1010,12 +862,9 @@
     comment: ""
     url: "http://thepioneerwoman.com/cooking/pot-pie/"
   tags:
-  - "dinner"
   - "pie"
   - "chicken"
-  last_suggested_date: '2021-01-16'
-  count: 11
-  nickname: ""
+  - "dinner"
 - name: "sausage gravy"
   comments:
   - date: "3/16/21"
@@ -1023,9 +872,6 @@
     url: "https://www.allrecipes.com/recipe/216391/easy-sausage-gravy-and-biscuits/"
   tags:
   - "bread"
-  last_suggested_date: '2021-04-03'
-  count: 1
-  nickname: ""
 - name: "pot roast"
   comments:
   - date: "3/13/21"
@@ -1036,9 +882,6 @@
     url: "https://www.seriouseats.com/recipes/2009/10/perfect-pot-roast-recipe-pioneer-woman.html"
   tags:
   - "dinner"
-  last_suggested_date: '2021-01-02'
-  count: 2
-  nickname: ""
 - name: "biscuits"
   comments:
   - date: "3/13/21"
@@ -1048,34 +891,25 @@
     url: "https://sallysbakingaddiction.com/flaky-buttermilk-biscuits/"
   tags:
   - "bread"
-  last_suggested_date: '2022-01-02'
-  count: 2
-  nickname: ""
 - name: "pb oatmeal chocolate chip cookies"
   comments:
   - date: "3/11/21"
     comment: ""
-    url: "https://www.halfbakedharvest.com/peanut-butter-chocolate-chunk-oatmeal-cookies/"
+    url: "https://www.halfbakedharvest.com/peanut-butter-chocolate-chunk-oatmeal-cookies/#bo-recipe"
   - date: "3/26/20"
     comment: ""
-    url: "https://sallysbakingaddiction.com/peanut-butter-oatmeal-chocolate-chip-cookies/"
+    url: "https://sallysbakingaddiction.com/peanut-butter-oatmeal-chocolate-chip-cookies/#tasty-recipes-66885"
   tags:
-  - "dessert"
   - "cookies"
-  last_suggested_date: '2021-11-06'
-  count: 2
-  nickname: ""
+  - "dessert"
 - name: "cheesy cuban chicken rice bake"
   comments:
   - date: "2/27/21"
     comment: "kinda weird. the boys didn't like it. tasted almost like enchiladas in a weird way."
     url: "https://www.halfbakedharvest.com/one-skillet-cheesy-cuban-chicken-rice-bake/"
   tags:
-  - "dinner"
   - "chicken"
-  last_suggested_date: '2021-03-13'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "chocolate oatmeal bars"
   comments:
   - date: "2/24/21"
@@ -1083,9 +917,6 @@
     url: "https://www.halfbakedharvest.com/gooey-chocolate-oatmeal-bars/"
   tags:
   - "dessert"
-  last_suggested_date: '2021-03-13'
-  count: 1
-  nickname: ""
 - name: "baked potatoes"
   comments:
   - date: "2/22/21"
@@ -1093,9 +924,6 @@
     url: "https://www.gimmesomeoven.com/baked-potato/"
   tags:
   - "dinner"
-  last_suggested_date: '2021-03-13'
-  count: 1
-  nickname: ""
 - name: "bean chili"
   comments:
   - date: "2/22/21"
@@ -1103,29 +931,20 @@
     url: "https://cookieandkate.com/vegetarian-chili-recipe"
   tags:
   - "dinner"
-  last_suggested_date: '2021-03-13'
-  count: 1
-  nickname: ""
 - name: "brussels sprouts"
   comments:
   - date: "2/17/21"
     comment: "These turned out perfect. Toss in olive oil, slice in half top to bottom, place face down on foil, and then bake (without touching, flipping, or covering!) at 425F for 30 mins."
   tags:
   - "dinner"
-  last_suggested_date: '2021-03-13'
-  count: 1
-  nickname: ""
 - name: "dutch baby pancake"
   comments:
   - date: "1/25/21"
     comment: "sooo delicious. aka german pancakes aka \"big puffy pancake\"."
     url: "https://themodernproper.com/dutch-baby-pancake"
   tags:
-  - "breakfast"
   - "cake"
-  last_suggested_date: '2021-02-13'
-  count: 1
-  nickname: ""
+  - "breakfast"
 - name: "togarashi popcorn chicken with cabbage slaw"
   comments:
   - date: "1/24/21"
@@ -1140,11 +959,8 @@
     comment: "delicious! used sriracha instead of tonkatsu sauce"
     url: "https://www.blueapron.com/recipes/togarashi-popcorn-chicken-with-sweet-chili-cabbage-slaw"
   tags:
-  - "dinner"
   - "chicken"
-  last_suggested_date: '2021-06-13'
-  count: 5
-  nickname: ""
+  - "dinner"
 - name: "sourdough biscuits"
   comments:
   - date: "1/10/21"
@@ -1152,20 +968,14 @@
     url: "https://www.kingarthurbaking.com/recipes/buttery-sourdough-sandwich-biscuits-recipe"
   tags:
   - "dinner"
-  last_suggested_date: '2021-02-13'
-  count: 1
-  nickname: ""
 - name: "cast iron sourdough pancakes"
   comments:
   - date: "1/9/21"
     comment: "we accidentally make the entire batter to be left overnight. turns out it was...totally fine? but obviously not ideal, because the salt didn't let the yeast thrive. anyway, we did 1c flour, 1c milk, 1/2c starter, 2 eggs, 1/2t salt, 1t baking soda, 1T sugar. added blueberries (and be generous with these because they're the best part)."
     url: "https://cooking.nytimes.com/recipes/1018663-cast-iron-sourdough-pancakes"
   tags:
-  - "breakfast"
   - "cake"
-  last_suggested_date: '2021-02-13'
-  count: 1
-  nickname: ""
+  - "breakfast"
 - name: "slow-cooker bolognese"
   comments:
   - date: "1/8/21"
@@ -1176,9 +986,6 @@
   tags:
   - "dinner"
   - "slow-cooker"
-  last_suggested_date: '2020-12-19'
-  count: 2
-  nickname: ""
 - name: "beef stew"
   comments:
   - date: "1/1/21"
@@ -1191,11 +998,8 @@
   - date: "6/22/19"
     comment: "freezer instant pot meal. Based on the side of the Instant pot, I'd say we could easily have doubled (though would need two storage bags instead of one). servings:5"
   tags:
-  - "dinner"
   - "beef"
-  last_suggested_date: '2020-10-03'
-  count: 4
-  nickname: ""
+  - "dinner"
 - name: "pork carnitas tacos"
   comments:
   - date: "12/30/20"
@@ -1218,12 +1022,9 @@
   - date: "3/23/16"
     comment: "so good..."
   tags:
+  - "pork"
   - "dinner"
   - "tacos"
-  - "pork"
-  last_suggested_date: '2021-07-03'
-  count: 9
-  nickname: ""
 - name: "bourbon cookies"
   comments:
   - date: "12/24/20"
@@ -1233,11 +1034,8 @@
   - date: "12/23/16"
     comment: "they're basically like sugar cookies if you short on the bourbon, but they're still very good. we make a buttercream frosting for them"
   tags:
-  - "dessert"
   - "cookies"
-  last_suggested_date: '2022-01-03'
-  count: 3
-  nickname: ""
+  - "dessert"
 - name: "storing sourdough dehydrated as chips"
   comments:
   - date: "12/6/20"
@@ -1247,9 +1045,6 @@
     url: "https://www.kingarthurbaking.com/blog/2015/05/01/putting-sourdough-starter-hold"
   tags:
   - "bread"
-  last_suggested_date: '2022-01-02'
-  count: 2
-  nickname: ""
 - name: "apple cinnamon muffins"
   comments:
   - date: "12/5/20"
@@ -1257,9 +1052,6 @@
     url: "https://sallysbakingaddiction.com/master-muffin-recipe/"
   tags:
   - "dessert"
-  last_suggested_date: '2021-01-09'
-  count: 1
-  nickname: ""
 - name: "sweet potato casserole"
   comments:
   - date: "11/26/20"
@@ -1267,9 +1059,6 @@
     url: "https://www.foodnetwork.com/recipes/food-network-kitchen/sweet-potato-casserole-3364945"
   tags:
   - "dinner"
-  last_suggested_date: '2020-12-12'
-  count: 1
-  nickname: ""
 - name: "pumpkin pie"
   comments:
   - date: "11/25/20"
@@ -1278,11 +1067,8 @@
   - date: "11/11/13"
     comment: ""
   tags:
-  - "dessert"
   - "pie"
-  last_suggested_date: '2022-01-02'
-  count: 2
-  nickname: ""
+  - "dessert"
 - name: "cast iron pizza"
   comments:
   - date: "11/24/20"
@@ -1298,29 +1084,20 @@
     url: "https://www.bonappetit.com/recipe/cast-iron-pizza-with-fennel-and-sausage"
   tags:
   - "dinner"
-  last_suggested_date: '2020-08-15'
-  count: 5
-  nickname: ""
 - name: "oatmeal chocolate chip lace cookies"
   comments:
   - date: "11/22/20"
     comment: "I add about 1/2c of chocolate chips, and maybe 1/4c of walnuts. The batter couldn't really support all of it, but they did still turn out very good."
     url: "https://www.bonappetit.com/recipe/oatmeal-lace-cookies"
   tags:
-  - "dessert"
   - "cookies"
-  last_suggested_date: '2020-12-12'
-  count: 1
-  nickname: ""
+  - "dessert"
 - name: "butternut squash chili"
   comments:
   - date: "11/15/20"
     comment: ""
   tags:
   - "dinner"
-  last_suggested_date: '2020-12-12'
-  count: 1
-  nickname: ""
 - name: "skillet cookie pie"
   comments:
   - date: "11/8/20"
@@ -1328,11 +1105,8 @@
   - date: "4/17/17"
     comment: "from Bon Appetit"
   tags:
-  - "dessert"
   - "pie"
-  last_suggested_date: '2022-01-02'
-  count: 2
-  nickname: ""
+  - "dessert"
 - name: "mexican wedding cookies"
   comments:
   - date: "11/7/20"
@@ -1343,11 +1117,8 @@
   - date: "3/15/19"
     comment: ""
   tags:
-  - "dessert"
   - "cookies"
-  last_suggested_date: '2022-01-03'
-  count: 3
-  nickname: ""
+  - "dessert"
 - name: "blueberry tart"
   comments:
   - date: "10/18/20"
@@ -1362,38 +1133,26 @@
     comment: "Laura Olin's mother's recipe (via email newsletter): \"Torte: 5 oz butter, 6 Tbsp sugar, 1 egg, 1 cup flour, 1 tsp baking powder; Topping: 2 cups blueberries (can use other berries too), 6 Tbsp sugar; Preheat oven to 400 F. Beat butter and sugar, add egg, add baking powder and flour; Grease pie pan and spread mixture onto the bottom, spreading all the way to the sides. Spread blueberries on top of the mixture and sprinkle with sugar. Bake at 400F for about 30 minutes, checking now and then so that the sides don't burn.\""
   tags:
   - "dessert"
-  last_suggested_date: '2021-11-20'
-  count: 5
-  nickname: ""
 - name: "hot buttered rum"
   comments:
   - date: "10/17/20"
     comment: "per drink: put 1T butter + slightly less than 1T brown sugar in mug and microwave until melted. then sprinkle in a touch of cinnamon, nutmeg, and cloves. add a shot of rum (white rum is fine), and fill with boiled water."
   tags:
   - "drink"
-  last_suggested_date: '2020-10-31'
-  count: 1
-  nickname: ""
 - name: "one pot chicken parmesan"
   comments:
   - date: "10/16/20"
     comment: "No mozzarella, added 1/4-1/2 c ricotta. Also needed to add prob about 1/2-1c of extra water."
     url: "https://www.thechunkychef.com/one-pot-chicken-parmesan-pasta/"
   tags:
-  - "dinner"
   - "chicken"
-  last_suggested_date: '2020-10-31'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "sausage squash bake"
   comments:
   - date: "10/15/20"
     comment: "blue apron meal"
   tags:
   - "dinner"
-  last_suggested_date: '2020-10-31'
-  count: 1
-  nickname: ""
 - name: "grilled chicken breast"
   comments:
   - date: "10/12/20"
@@ -1405,11 +1164,8 @@
   - date: "6/11/20"
     comment: "brined in 1/4c salt + 4c water for 30 minutes, then dried off and seasoned in pepper and paprika (no salt). then grilled (high heat) for about 6 minutes each side. a little overcooked (want to go to 160F) so maybe watch it next time."
   tags:
-  - "dinner"
   - "chicken"
-  last_suggested_date: '2022-01-02'
-  count: 4
-  nickname: ""
+  - "dinner"
 - name: "chicken parmesan"
   comments:
   - date: "10/5/20"
@@ -1423,22 +1179,16 @@
     comment: "this was so delicious! used about 2 lbs chicken breast. the pangrattato was critical. served on angel hair."
     url: "https://cupofjo.com/2017/09/easiest-skillet-chicken-parmesan/"
   tags:
-  - "dinner"
   - "chicken"
-  last_suggested_date: '2021-06-26'
-  count: 4
-  nickname: ""
+  - "dinner"
 - name: "pork breakfast sausage patties"
   comments:
   - date: "9/30/20"
     comment: "a little too salty and too much sage, but super flavorful. I also add chili flakes, and use garlic powder instead of garlic. used 8oz sausage so recipe split in half."
     url: "https://www.marthastewart.com/341904/simple-homemade-sausage-patties"
   tags:
-  - "dinner"
   - "pork"
-  last_suggested_date: '2020-10-10'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "beef short ribs"
   comments:
   - date: "9/28/20"
@@ -1451,11 +1201,8 @@
     comment: "I did the same ingredients but just with two short ribs totaling 1.2 lbs. It was unbelievable. Dried them off with paper towels before seasoning, and put them in the small orange dutch oven. But if there'd been more I might have needed a bigger pot. Anyway, also added four carrots to the sauce in with the meat. Cooked about 2.5 hours exactly and all the juices were mostly gone. One of the best meals we've made. Served with mashed sweet potatoes and sourdough toast."
     url: "https://thestayathomechef.com/classic-braised-beef-short-ribs/"
   tags:
-  - "dinner"
   - "beef"
-  last_suggested_date: '2021-07-17'
-  count: 4
-  nickname: ""
+  - "dinner"
 - name: "beer [tasting]"
   comments:
   - date: "9/27/20"
@@ -1466,9 +1213,6 @@
     comment: "one week after bottling. definitely under-carbonated, but enough to have a solid head when poured into a glass, and definitely drinkable! it tasted like beer. very mild, which is surprising given how bitter it was the day we brewed it. still had some bitterness, but no overwhelming hop aromas really. kinda tasted like honey (even though we used table sugar?) so I think I'm gonna buy some dextrose. also it tasted a little bit like apple juice, which apparently either means a) we need to wait longer before we drink it, or b) we fermented at too high of a temperature. a seems unlikely only because we let it ferment for two weeks, even if it's only been a week since we bottled. but i dunno. either way, it wasn't bad at all! and actually alcoholic. pretty magical."
   tags:
   - "drink"
-  last_suggested_date: '2020-10-10'
-  count: 3
-  nickname: ""
 - name: "beer [bottling]"
   comments:
   - date: "9/20/20"
@@ -1477,9 +1221,6 @@
     comment: "couldn't get the siphon working for the life of us. need a better method, big time. like a pump. it took us like an hour total, and there was beer everywhere (floor, arms, counters, etc.) at the end. but we made 9 bottles! and afterwards, just thinking about it, it felt great. for sugar, ended up doing 1oz white sugar in 1/4c water, boiled for a minute or two and then cooled to room temp (didn't take long). temperature calculator: https://www.brewersfriend.com/beer-priming-calculator/"
   tags:
   - "drink"
-  last_suggested_date: '2020-09-19'
-  count: 2
-  nickname: ""
 - name: "beer [brewing]"
   comments:
   - date: "9/7/20"
@@ -1488,9 +1229,6 @@
     comment: "maris otter, cascade hops, us-05 yeast. i use the instant pot for heat, mostly on slow-cook on low. some gloves for squeezing the bag would have been nice. we ended up a little short on liquid at the end, probably because of over-boiling?"
   tags:
   - "drink"
-  last_suggested_date: '2020-09-19'
-  count: 2
-  nickname: ""
 - name: "baked penne pasta with roasted vegetables"
   comments:
   - date: "9/1/20"
@@ -1523,11 +1261,8 @@
     comment: ""
     url: "http://www.foodnetwork.com/recipes/giada-de-laurentiis/baked-penne-with-roasted-vegetables-recipe.html"
   tags:
-  - "dinner"
   - "pasta"
-  last_suggested_date: '2020-10-24'
-  count: 14
-  nickname: "CkP4"
+  - "dinner"
 - name: "flourless chocolate cake"
   comments:
   - date: "8/30/20"
@@ -1538,32 +1273,23 @@
     comment: "this turns out amazing. the oiled pan and parchment paper was key for it not sticking. for icing, I melt 3T butter, 3T baking chocolate, and then pour it over (drizzling) straight from the pot onto the cake (maybe an hour after it came out of the oven)."
     url: "https://www.kingarthurflour.com/recipes/flourless-chocolate-cake-recipe"
   tags:
-  - "dessert"
   - "cake"
-  last_suggested_date: '2020-08-29'
-  count: 3
-  nickname: ""
+  - "dessert"
 - name: "blueberry buckle"
   comments:
   - date: "8/25/20"
     comment: ""
   - date: "6/3/20"
     comment: "this was really good. jess says she did 2c frozen blueberries"
-    url: "https://www.spendwithpennies.com/blueberry-buckle/"
+    url: "https://www.spendwithpennies.com/blueberry-buckle/#wprm-recipe-container-121428"
   tags:
   - "dessert"
-  last_suggested_date: '2022-01-03'
-  count: 2
-  nickname: ""
 - name: "porterhouse steak"
   comments:
   - date: "8/6/20"
     comment: "a single 1.8 lb steak, seasoned REAL good. Preheat oven to 450F with cast iron in it. Then I seared it on the grill for about 2 minutes each side, and then put it in the cast iron in the oven with the thermometer probe in it. Baked (for around 18 minutes) until 130F, then let rest for 5 minutes. Served with brussels sprouts and mashed sweet potatoes. Best steak we've ever made by far."
   tags:
   - "dinner"
-  last_suggested_date: '2020-08-22'
-  count: 1
-  nickname: ""
 - name: "blueberry pie"
   comments:
   - date: "8/1/20"
@@ -1582,11 +1308,8 @@
   - date: "1/14/14"
     comment: ""
   tags:
-  - "dessert"
   - "pie"
-  last_suggested_date: '2021-11-27'
-  count: 7
-  nickname: ""
+  - "dessert"
 - name: "katsudon"
   comments:
   - date: "7/24/20"
@@ -1594,9 +1317,6 @@
     url: "http://adamliaw.com/recipe/how-to-make-katsudon/"
   tags:
   - "dinner"
-  last_suggested_date: '2020-08-08'
-  count: 1
-  nickname: ""
 - name: "chickpea curry with rice and yogurt"
   comments:
   - date: "7/14/20"
@@ -1611,22 +1331,16 @@
     comment: ""
     url: "https://gist.github.com/mobeets/a8b72bf10db9299a03c6b59856dc6f5a"
   tags:
-  - "dinner"
   - "curry"
-  last_suggested_date: '2021-06-05'
-  count: 5
-  nickname: "CkR1"
+  - "dinner"
 - name: "chicken stock"
   comments:
   - date: "6/9/20"
     comment: "made 13c of broth. bonus: also made enough chicken (from the wings) for a few servings of chicken salad"
     url: "https://www.bonappetit.com/recipe/instant-pot-chicken-stock"
   tags:
-  - "dinner"
   - "chicken"
-  last_suggested_date: '2020-08-01'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "vegetarian lasagna"
   comments:
   - date: "6/7/20"
@@ -1635,9 +1349,6 @@
     comment: "the top layer curled up a lot when it baked--maybe top with more bechamel? also we ended up not dipping the partially cooked lasagna sheets in cold water because it made them curl up. we just use paramesan as the only cheese. also a 15oz can of tomatoes works fine but a little more would be nice"
   tags:
   - "dinner"
-  last_suggested_date: '2021-05-01'
-  count: 2
-  nickname: ""
 - name: "blueberry shrub"
   comments:
   - date: "6/3/20"
@@ -1645,9 +1356,6 @@
     url: "https://www.fermentedfoodlab.com/apple-cider-vinegar-blueberry-and-ginger-shrub/"
   tags:
   - "drink"
-  last_suggested_date: '2020-09-12'
-  count: 1
-  nickname: ""
 - name: "red curry"
   comments:
   - date: "5/29/20"
@@ -1658,22 +1366,16 @@
     comment: "make with chicken thighs which we bake with some chili paste rubbed on, at 425F for about 25 minutes. also, only one small zucchini, and 1c of carrots. really delicious!"
     url: "https://www.seriouseats.com/recipes/2013/05/red-curry-with-shrimp-zucchini-and-carrot.html"
   tags:
-  - "dinner"
   - "curry"
-  last_suggested_date: '2021-05-01'
-  count: 3
-  nickname: ""
+  - "dinner"
 - name: "yellow cake with chocolate icing"
   comments:
   - date: "5/16/20"
     comment: "for the boys' birthday party tomorrow"
     url: "https://www.allrecipes.com/recipe/24972/davids-yellow-cake/"
   tags:
-  - "dessert"
   - "cake"
-  last_suggested_date: '2020-08-08'
-  count: 1
-  nickname: ""
+  - "dessert"
 - name: "top sirloin steak"
   comments:
   - date: "5/10/20"
@@ -1681,9 +1383,6 @@
     url: "https://www.wholesomeyum.com/how-to-cook-top-sirloin-steak-in-the-oven/"
   tags:
   - "dinner"
-  last_suggested_date: '2022-01-02'
-  count: 1
-  nickname: ""
 - name: "chocolate mousse"
   comments:
   - date: "5/10/20"
@@ -1696,20 +1395,14 @@
     comment: "Bobby Flay recipe"
   tags:
   - "dessert"
-  last_suggested_date: '2021-10-23'
-  count: 3
-  nickname: ""
 - name: "bon appetit's best chocolate chip cookies"
   comments:
   - date: "5/2/20"
     comment: "pretty good flavor, and even better the next day"
     url: "https://www.bonappetit.com/recipe/bas-best-chocolate-chip-cookies/"
   tags:
-  - "dessert"
   - "cookies"
-  last_suggested_date: '2022-01-03'
-  count: 1
-  nickname: ""
+  - "dessert"
 - name: "asparagus carbonara"
   comments:
   - date: "4/30/20"
@@ -1717,9 +1410,6 @@
     url: "https://cooking.nytimes.com/recipes/1017998-springtime-spaghetti-carbonara"
   tags:
   - "dinner"
-  last_suggested_date: '2021-11-20'
-  count: 1
-  nickname: ""
 - name: "hazan's all'amatriciana sauce"
   comments:
   - date: "4/21/20"
@@ -1740,9 +1430,6 @@
     comment: "we cook 10oz. bacon (from bacon butt bits), add a diced medium onion, then a full large can of whole plum tomatoes (no oil, no butter), and then chili flakes; delicious!"
   tags:
   - "dinner"
-  last_suggested_date: '2021-05-01'
-  count: 8
-  nickname: ""
 - name: "blueberry muffins"
   comments:
   - date: "4/15/20"
@@ -1759,9 +1446,6 @@
     url: "http://smittenkitchen.com/blog/2010/08/perfect-blueberry-muffins/"
   tags:
   - "dessert"
-  last_suggested_date: '2022-01-02'
-  count: 5
-  nickname: ""
 - name: "sourdough pancakes"
   comments:
   - date: "4/10/20"
@@ -1774,11 +1458,8 @@
   - date: "7/26/14"
     comment: "did about 1c flour 1/2c milk 1/8c starter, left overnight on microwave; then 1/2t salt 1/2t baking soda 1 T oil 1 T sugar 1 egg and then milk to make right thickness, blended; it was rubbery dough and kinda rubbery pancake but that's a negative word because they were pretty tasty"
   tags:
-  - "breakfast"
   - "cake"
-  last_suggested_date: '2021-09-18'
-  count: 4
-  nickname: ""
+  - "breakfast"
 - name: "bagels"
   comments:
   - date: "4/9/20"
@@ -1786,18 +1467,12 @@
     url: "https://www.sophisticatedgourmet.com/2009/10/new-york-style-bagel-recipe/"
   tags:
   - "bread"
-  last_suggested_date: '2020-08-15'
-  count: 1
-  nickname: ""
 - name: "naan"
   comments:
   - date: "4/7/20"
     comment: "Jess does it, with some very old yeast. And they turn out amazing! I end up broiling them (pan frying works too, but oven is both easier AND better), brushed with butter. ~2 mins each side, buttering both sides but the bottom only once it's been flipped. (a little goes a long way.)"
   tags:
   - "bread"
-  last_suggested_date: '2022-01-02'
-  count: 1
-  nickname: ""
 - name: "zucchini bread"
   comments:
   - date: "4/4/20"
@@ -1818,9 +1493,6 @@
     comment: "in the breadmaker; goood with chocolate chips and pecans instead of raisins, along with the walnuts"
   tags:
   - "dessert"
-  last_suggested_date: '2020-09-05'
-  count: 8
-  nickname: ""
 - name: "red beans and rice"
   comments:
   - date: "4/2/20"
@@ -1842,18 +1514,12 @@
     url: "http://www.seriouseats.com/recipes/2017/05/new-orleans-style-red-beans-rice-recipe.html"
   tags:
   - "dinner"
-  last_suggested_date: '2021-05-15'
-  count: 8
-  nickname: ""
 - name: "hazan's bolognese"
   comments:
   - date: "2/23/20"
     comment: "delicious. I double recipe (with 1.5 lbs ground beef, and 1 of the big cans of plum tomatoes), but it only looks like about 6 servings."
   tags:
   - "dinner"
-  last_suggested_date: '2021-07-17'
-  count: 1
-  nickname: ""
 - name: "pork ribs"
   comments:
   - date: "2/21/20"
@@ -1876,11 +1542,8 @@
     comment: "These were delicious and amazing. St Louis style, 3 lbs. @$5/lb."
     url: "http://www.marthastewart.com/318389/oven-roasted-ribs-with-barbecue-sauce"
   tags:
-  - "dinner"
   - "pork"
-  last_suggested_date: '2021-06-19'
-  count: 9
-  nickname: ""
+  - "dinner"
 - name: "hazan's bean soup"
   comments:
   - date: "2/13/20"
@@ -1906,44 +1569,32 @@
   - date: "12/8/15"
     comment: "incredible: garlic, olive oil, cannelini beans, chicken broth...and that's it, plus salt and pepper and we add cheese as well"
   tags:
-  - "dinner"
   - "soup"
-  last_suggested_date: '2021-02-06'
-  count: 11
-  nickname: ""
+  - "dinner"
 - name: "instant pot chicken tortilla soup"
   comments:
   - date: "2/9/20"
     comment: "Jess made it. toppings: avocado, shredded cheese, tortilla chips. delicious. we used 2.5 lbs of chicken thighs but I think 3 lbs would be even better."
-    url: "https://www.feastingathome.com/instant-pot-chicken-tortilla-soup/"
+    url: "https://www.feastingathome.com/instant-pot-chicken-tortilla-soup/#tasty-recipes-20510"
   tags:
-  - "dinner"
   - "soup"
   - "chicken"
-  last_suggested_date: '2021-07-17'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "hazan's roasted chicken with lemons"
   comments:
   - date: "2/2/20"
     comment: "unbelievable how good and tender it was. cooked until right at 165F. we had a 5.5 lb chicken, which was huge, so it cooked for a while. but really just amazing, and fun with it just being the lemons and salt and pepper!"
   tags:
-  - "dinner"
   - "chicken"
-  last_suggested_date: '2021-07-17'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "chocolate cake with pb icing"
   comments:
   - date: "2/2/20"
     comment: "icing was 2 sticks of butter, 1c peanut butter, and about 1c of powdered sugar"
     url: "https://www.modernhoney.com/love-at-first-sight-chocolate-cake/"
   tags:
-  - "dessert"
   - "cake"
-  last_suggested_date: '2021-09-18'
-  count: 1
-  nickname: ""
+  - "dessert"
 - name: "beef ragu"
   comments:
   - date: "12/12/19"
@@ -1953,11 +1604,8 @@
   - date: "7/6/19"
     comment: "freezer instant pot meal. really tasty, though a bit watery. Took nearly thirty minutes to get to pressure, plus 45+10 for cook+vent time, so make sure to account for that when you start. servings:8"
   tags:
-  - "dinner"
   - "beef"
-  last_suggested_date: '2020-10-17'
-  count: 3
-  nickname: ""
+  - "dinner"
 - name: "kladdkaka swedish chocolate cake"
   comments:
   - date: "12/9/19"
@@ -1966,11 +1614,8 @@
     comment: "delicious. I only do 1.25c sugar, and slightly less than 1/2c cocoa. also it ends up taking about 30 minutes to bake--you want the top to definitely be cooked through, but only just so, so that the center is still gooey underneath"
     url: "https://scrummylane.com/6-ingredient-gooey-swedish-chocolate-cake-kladdkaka/"
   tags:
-  - "dessert"
   - "cake"
-  last_suggested_date: '2021-10-30'
-  count: 2
-  nickname: ""
+  - "dessert"
 - name: "tandoori chicken"
   comments:
   - date: "12/8/19"
@@ -1980,31 +1625,22 @@
   - date: "7/3/19"
     comment: "freezer instant pot meal. we eat with rice and naan. it's very tasty! very spicy but it was enjoyable. servings:6"
   tags:
-  - "dinner"
   - "chicken"
-  last_suggested_date: '2020-10-03'
-  count: 3
-  nickname: ""
+  - "dinner"
 - name: "pork ragu"
   comments:
   - date: "10/29/19"
     comment: "blue apron meal"
   tags:
-  - "dinner"
   - "pork"
-  last_suggested_date: '2021-02-27'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "two-tier chocolate cake"
   comments:
   - date: "10/27/19"
     comment: "Jess makes it all herself"
   tags:
-  - "dessert"
   - "cake"
-  last_suggested_date: '2021-11-13'
-  count: 1
-  nickname: ""
+  - "dessert"
 - name: "ham and bean soup"
   comments:
   - date: "10/13/19"
@@ -2018,22 +1654,16 @@
   - date: "6/3/18"
     comment: "ham was smoked ham hock from Whole Foods for $10, and also some dried (navy?) beans that Cindy sent us."
   tags:
-  - "dinner"
   - "soup"
-  last_suggested_date: '2021-05-29'
-  count: 5
-  nickname: ""
+  - "dinner"
 - name: "ice cream cake"
   comments:
   - date: "9/18/19"
     comment: "12 ice cream sandwiches, whipped cream (made from a pint of cream), and homemade chocolate fudge (1/2 cocoa, 1/2c water, 1/2c sugar)"
     url: "https://www.allrecipes.com/recipe/76004/easy-ice-cream-cake/"
   tags:
-  - "dessert"
   - "cake"
-  last_suggested_date: '2021-11-06'
-  count: 1
-  nickname: ""
+  - "dessert"
 - name: "sheet pan bruschetta chicken"
   comments:
   - date: "9/15/19"
@@ -2042,11 +1672,8 @@
     comment: ""
     url: "https://damndelicious.net/2016/09/24/sheet-pan-bruschetta-chicken/print/"
   tags:
-  - "dinner"
   - "chicken"
-  last_suggested_date: '2020-12-26'
-  count: 2
-  nickname: ""
+  - "dinner"
 - name: "fried rice"
   comments:
   - date: "8/27/19"
@@ -2056,9 +1683,6 @@
     url: "https://www.seriouseats.com/recipes/2016/02/easy-vegetable-fried-rice-recipe.html"
   tags:
   - "dinner"
-  last_suggested_date: '2020-10-03'
-  count: 2
-  nickname: ""
 - name: "chicken tinga"
   comments:
   - date: "8/4/19"
@@ -2066,29 +1690,20 @@
   - date: "7/11/19"
     comment: "freezer instant pot meal; really tasty! we have with tortillas, shredded cheddar cheese, sour cream, and valentina"
   tags:
-  - "dinner"
   - "chicken"
-  last_suggested_date: '2020-10-03'
-  count: 2
-  nickname: ""
+  - "dinner"
 - name: "oat balls"
   comments:
   - date: "6/28/19"
     comment: "2T brown sugar, 2T honey, 2T coconut oil, 2T chocolate syrup, 6T? peanut butter, <2c? rolled oats. mix, make balls, put in fridge."
   tags:
   - "dessert"
-  last_suggested_date: '2021-11-13'
-  count: 1
-  nickname: ""
 - name: "instant pot rice"
   comments:
   - date: "5/12/19"
     comment: "make sure to rinse rice really well, then 1:1 rice and water, and add a splash of vegetable oil, and press rice button"
   tags:
   - "dinner"
-  last_suggested_date: '2020-10-03'
-  count: 1
-  nickname: ""
 - name: "burrito bowl"
   comments:
   - date: "5/9/19"
@@ -2101,9 +1716,6 @@
     comment: ""
   tags:
   - "dinner"
-  last_suggested_date: '2021-09-18'
-  count: 4
-  nickname: ""
 - name: "strawberry shrub"
   comments:
   - date: "4/22/19"
@@ -2111,9 +1723,6 @@
     url: "https://www.abeautifulplate.com/strawberry-shrub-cocktail/"
   tags:
   - "drink"
-  last_suggested_date: '2022-01-02'
-  count: 1
-  nickname: ""
 - name: "mac and cheese"
   comments:
   - date: "4/15/19"
@@ -2141,28 +1750,19 @@
     url: "http://www.foodnetwork.com/recipes/ree-drummond/macaroni-and-cheese-recipe.html"
   tags:
   - "dinner"
-  last_suggested_date: '2020-10-24'
-  count: 9
-  nickname: ""
 - name: "mexican cheesecake"
   comments:
   - date: "3/16/19"
     comment: ""
   tags:
-  - "dessert"
   - "cake"
-  last_suggested_date: '2022-01-02'
-  count: 1
-  nickname: ""
+  - "dessert"
 - name: "bolognese"
   comments:
   - date: "3/8/19"
     comment: ""
   tags:
   - "dinner"
-  last_suggested_date: '2020-10-17'
-  count: 1
-  nickname: ""
 - name: "sweet potato curry"
   comments:
   - date: "2/13/19"
@@ -2171,20 +1771,14 @@
   - date: "7/24/14"
     comment: "coconut milk, red onions, lentils, brown sugar, curry powder, chili powder, cayenne, paprika"
   tags:
-  - "dinner"
   - "curry"
-  last_suggested_date: '2020-12-05'
-  count: 2
-  nickname: ""
+  - "dinner"
 - name: "baked potatoes and mac and cheese"
   comments:
   - date: "1/29/19"
     comment: ""
   tags:
   - "dinner"
-  last_suggested_date: '2021-02-20'
-  count: 1
-  nickname: ""
 - name: "miso burgers"
   comments:
   - date: "1/21/19"
@@ -2202,11 +1796,8 @@
     comment: "shiitake mushroom burger, baked sweet potato fries; first Blue Apron meal, and it's delicious: the miso mayo is key"
     url: "https://www.blueapron.com/recipes/hoisin-shiitake-burgers-with-miso-mayonnaise-roasted-sweet-potato-wedges"
   tags:
-  - "dinner"
   - "burger"
-  last_suggested_date: '2021-04-17'
-  count: 6
-  nickname: ""
+  - "dinner"
 - name: "chicken enchiladas"
   comments:
   - date: "1/4/19"
@@ -2215,11 +1806,8 @@
     comment: "these were amazing. used tomatillo salsa verde from other recipe. cooked 1 lb. chicken in big red cast iron as instructed, for only about 15 minutes at boiling. microwaved corn tortillas instead of frying because the first one stuck the pot. wrapped each tortilla with shredded chicken, a spoonful of salsa, and shredded monterrey jack cheese. covered the tops in salsa, more cheese, and about 6oz of sour cream."
     url: "https://cooking.nytimes.com/recipes/1018153-chicken-enchiladas-with-salsa-verde"
   tags:
-  - "dinner"
   - "chicken"
-  last_suggested_date: '2021-06-26'
-  count: 2
-  nickname: ""
+  - "dinner"
 - name: "the queen of sheba chocolate almond cake"
   comments:
   - date: "10/1/18"
@@ -2233,11 +1821,8 @@
   - date: "1/31/14"
     comment: "a la Julia Child"
   tags:
-  - "dessert"
   - "cake"
-  last_suggested_date: '2021-09-18'
-  count: 5
-  nickname: ""
+  - "dessert"
 - name: "chocolate cake"
   comments:
   - date: "9/16/18"
@@ -2246,11 +1831,8 @@
     comment: "we make a half-recipe; I use about 1/4c cocoa"
     url: "http://allrecipes.com/recipe/7259/grandmas-eggless-butterless-milkless-cake/"
   tags:
-  - "dessert"
   - "cake"
-  last_suggested_date: '2020-08-29'
-  count: 2
-  nickname: ""
+  - "dessert"
 - name: "butter chicken"
   comments:
   - date: "9/7/18"
@@ -2264,11 +1846,8 @@
     comment: "we don't puree, and we broil the chicken cut in slices but never chop it further"
     url: "http://www.bonappetit.com/recipe/butter-chicken"
   tags:
-  - "dinner"
   - "chicken"
-  last_suggested_date: '2021-06-26'
-  count: 4
-  nickname: ""
+  - "dinner"
 - name: "goulash"
   comments:
   - date: "9/5/18"
@@ -2278,9 +1857,6 @@
     url: "http://www.pipandebby.com/pip-ebby/best-ever-goulash"
   tags:
   - "dinner"
-  last_suggested_date: '2021-09-25'
-  count: 2
-  nickname: ""
 - name: "salsa verde"
   comments:
   - date: "8/20/18"
@@ -2288,9 +1864,6 @@
     url: "https://www.epicurious.com/recipes/food/views/roasted-tomatillo-salsa-102586"
   tags:
   - "dinner"
-  last_suggested_date: '2022-01-02'
-  count: 1
-  nickname: ""
 - name: "slow-cooker chicken tortilla soup"
   comments:
   - date: "7/17/18"
@@ -2299,13 +1872,10 @@
     comment: "amazingly delicious, and so amazingly simple"
     url: "http://www.bakedbyrachel.com/slow-cooker-chicken-tortilla-soup/"
   tags:
-  - "dinner"
   - "soup"
-  - "slow-cooker"
   - "chicken"
-  last_suggested_date: '2021-05-15'
-  count: 2
-  nickname: ""
+  - "dinner"
+  - "slow-cooker"
 - name: "thai beef with basil and rice"
   comments:
   - date: "7/11/18"
@@ -2320,11 +1890,8 @@
     comment: "maybe make 1.5x or 2x next time"
     url: "http://www.bonappetit.com/recipe/thai-beef-with-basil"
   tags:
-  - "dinner"
   - "beef"
-  last_suggested_date: '2021-03-20'
-  count: 5
-  nickname: ""
+  - "dinner"
 - name: "chicken thighs"
   comments:
   - date: "7/10/18"
@@ -2337,11 +1904,8 @@
     comment: "Harrison's recipe, and this shit is GOOD and (critically:) simple"
     url: "http://www.bonappetit.com/recipe/perfect-pan-roasted-chicken-thighs"
   tags:
-  - "dinner"
   - "chicken"
-  last_suggested_date: '2021-09-18'
-  count: 4
-  nickname: ""
+  - "dinner"
 - name: "slow-cooker chicken tikka masala"
   comments:
   - date: "7/6/18"
@@ -2350,22 +1914,16 @@
     comment: "nothing like tikka masala but fucking delicious"
     url: "http://www.thekitchn.com/recipe-slow-cooker-chicken-tikka-masala-recipes-from-the-kitchn-211284"
   tags:
+  - "chicken"
   - "dinner"
   - "slow-cooker"
-  - "chicken"
-  last_suggested_date: '2021-04-03'
-  count: 2
-  nickname: ""
 - name: "grilled chicken winglets"
   comments:
   - date: "6/17/18"
     comment: "lit about 25-30 briquettes by piling up in pyramid, covering in lighter fluid, then burning. It was just barely enough coal to cook all the chicken, and it took a while. But other than that, it went well!"
   tags:
-  - "dinner"
   - "chicken"
-  last_suggested_date: '2021-04-24'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "chicken katsudon"
   comments:
   - date: "5/22/18"
@@ -2376,11 +1934,8 @@
     comment: "I would triple the sauce for two servings. Don't be afraid to let the onions cook forever because they are delicious...also, do try adding the chicken to the broth. And make sure you use panko along with a flour-egg dip."
     url: "http://www.seriouseats.com/recipes/2017/04/katsudon-japanese-leftover-cutlet-rice-egg-bowl-recipe.html"
   tags:
-  - "dinner"
   - "chicken"
-  last_suggested_date: '2020-11-07'
-  count: 3
-  nickname: ""
+  - "dinner"
 - name: "chicken salad with grapes, pecans"
   comments:
   - date: "5/21/18"
@@ -2400,12 +1955,9 @@
   - date: "2/19/13"
     comment: "highest taste-to-ease ratio ever!"
   tags:
-  - "dinner"
   - "salad"
   - "chicken"
-  last_suggested_date: '2021-04-24'
-  count: 8
-  nickname: "CkS4"
+  - "dinner"
 - name: "beef stroganoff"
   comments:
   - date: "4/22/18"
@@ -2418,11 +1970,8 @@
     comment: "we use 2 lbs. ground beef, and 20oz mushrooms; made about 8 servings"
     url: "http://www.bonappetit.com/recipe/adams-beef-stroganoff"
   tags:
-  - "dinner"
   - "beef"
-  last_suggested_date: '2021-09-18'
-  count: 4
-  nickname: ""
+  - "dinner"
 - name: "raw tacos with cashews and walnuts"
   comments:
   - date: "4/15/18"
@@ -2445,36 +1994,24 @@
   tags:
   - "dinner"
   - "tacos"
-  last_suggested_date: '2021-09-18'
-  count: 8
-  nickname: "CkM6"
 - name: "gyudon on rice"
   comments:
   - date: "2/15/18"
     comment: ""
   tags:
   - "dinner"
-  last_suggested_date: '2021-01-16'
-  count: 1
-  nickname: ""
 - name: "sourdough waffles"
   comments:
   - date: "2/11/18"
     comment: "same recipe as for the pancakes but kinda weird...needed some fruit I think"
   tags:
   - "breakfast"
-  last_suggested_date: '2020-08-01'
-  count: 1
-  nickname: ""
 - name: "popcorn"
   comments:
   - date: "12/23/17"
     comment: "we use 1/3c kernels, and 1/4c veggie oil with some popcorn salt mixed in, microwave on 4mins until pops are 5s away. add melted butter--it turned out amazing"
   tags:
   - "dessert"
-  last_suggested_date: '2022-01-02'
-  count: 1
-  nickname: ""
 - name: "alabama white sauce chicken thighs"
   comments:
   - date: "11/29/17"
@@ -2485,22 +2022,16 @@
     comment: "bake in oven at 375F on convection, starting skin side down for 15, then flipping and cooking 15 more, coating skin with sauce, then cooking 15 more or so. they were oiled, and sitting on an oiled rack over a cookie tray"
     url: "http://www.foodnetwork.com/recipes/jeff-mauro/grilled-chicken-with-alabama-white-bbq-sauce-2810701"
   tags:
-  - "dinner"
   - "chicken"
-  last_suggested_date: '2021-04-17'
-  count: 3
-  nickname: ""
+  - "dinner"
 - name: "pumpkin pancakes, pumpkin muffins"
   comments:
   - date: "11/19/17"
     comment: "very dense, but fun; we follow the comments; then put the remaining batter in muffin tins at 375F for 15-20 mins or so"
     url: "http://allrecipes.com/recipe/17036/pumpkin-pancakes/"
   tags:
-  - "breakfast"
   - "cake"
-  last_suggested_date: '2020-09-05'
-  count: 1
-  nickname: ""
+  - "breakfast"
 - name: "chevre-stuffed chicken breast with mushroom-butter sauce and pasta"
   comments:
   - date: "11/7/17"
@@ -2510,31 +2041,22 @@
   - date: "6/16/16"
     comment: ""
   tags:
-  - "dinner"
   - "pasta"
   - "chicken"
-  last_suggested_date: '2021-03-06'
-  count: 3
-  nickname: ""
+  - "dinner"
 - name: "peanut butter chocolate chip cookies"
   comments:
   - date: "10/9/17"
     comment: ""
   tags:
-  - "dessert"
   - "cookies"
-  last_suggested_date: '2020-08-29'
-  count: 1
-  nickname: ""
+  - "dessert"
 - name: "tuna steaks with rice and broccoli"
   comments:
   - date: "9/25/17"
     comment: ""
   tags:
   - "dinner"
-  last_suggested_date: '2021-05-29'
-  count: 1
-  nickname: ""
 - name: "butternut squash soup"
   comments:
   - date: "9/13/17"
@@ -2546,11 +2068,8 @@
     comment: "I baked them a few nights ago, and that took forever, but the soup turned out really good actually; Jess loved it"
     url: "http://www.foodnetwork.com/recipes/food-network-kitchens/butternut-squash-soup-recipe1.html"
   tags:
-  - "dinner"
   - "soup"
-  last_suggested_date: '2021-04-17'
-  count: 3
-  nickname: ""
+  - "dinner"
 - name: "chocolate chip cookies without eggs"
   comments:
   - date: "9/10/17"
@@ -2559,31 +2078,22 @@
     comment: "super delicious, nice and crispy but also fluffy. recipe: 1/2c Coconut oil, 1/2c Butter, 1/2c Brown sugar, 1/2c Granulated sugar, 1/4c Milk, 1 Tbsp Vanilla extract, 2c Flour, 1 tsp Baking soda, 1 tsp Baking powder, 1/2 tsp Salt, 1c Chocolate chips"
     url: "https://snapguide.com/guides/make-cookies-when-you-have-no-eggs/"
   tags:
-  - "dessert"
   - "cookies"
-  last_suggested_date: '2021-09-25'
-  count: 2
-  nickname: ""
+  - "dessert"
 - name: "butter sage pasta with bacon"
   comments:
   - date: "8/28/17"
     comment: ""
   tags:
-  - "dinner"
   - "pasta"
   - "bacon"
-  last_suggested_date: '2021-06-19'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "tuna steaks with rice and asparagus"
   comments:
   - date: "8/26/17"
     comment: ""
   tags:
   - "dinner"
-  last_suggested_date: '2021-02-06'
-  count: 1
-  nickname: ""
 - name: "oatmeal chocolate chip cookies"
   comments:
   - date: "8/21/17"
@@ -2597,11 +2107,8 @@
   - date: "4/20/13"
     comment: ""
   tags:
-  - "dessert"
   - "cookies"
-  last_suggested_date: '2021-11-13'
-  count: 4
-  nickname: "CkD6"
+  - "dessert"
 - name: "mug brownie"
   comments:
   - date: "8/20/17"
@@ -2621,29 +2128,20 @@
     comment: ""
   tags:
   - "dessert"
-  last_suggested_date: '2022-01-02'
-  count: 7
-  nickname: ""
 - name: "gyudon on rice with miso soup"
   comments:
   - date: "7/30/17"
     comment: ""
     url: "http://www.seriouseats.com/recipes/2016/07/gyudon-japanese-simmered-beef-and-rice-bowl-recipe.html, http://www.hikarimiso.com/recipes/miso_soup/basic_miso/"
   tags:
-  - "dinner"
   - "soup"
-  last_suggested_date: '2020-11-28'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "fruit pizza"
   comments:
   - date: "7/4/17"
     comment: "store bought cookie dough, homemade whipped cream mixed with some cream cheese, topped with fruit and chocolate chips"
   tags:
   - "dessert"
-  last_suggested_date: '2020-08-15'
-  count: 1
-  nickname: ""
 - name: "cookies"
   comments:
   - date: "6/20/17"
@@ -2651,21 +2149,15 @@
   - date: "12/12/15"
     comment: ""
   tags:
-  - "dessert"
   - "cookies"
-  last_suggested_date: '2021-07-31'
-  count: 2
-  nickname: ""
+  - "dessert"
 - name: "genoise cake"
   comments:
   - date: "5/21/17"
     comment: "with blueberry filling and chocolate buttercream frosting, with a bourbon-water drip in the 2 layers. Julia Child's genoise cake recipe. make sure you use the right pot and bowl! the small pot but not the smallest one--the silver one that we rarely use if that helps, and then the biggest circular glass tupperware"
   tags:
-  - "dessert"
   - "cake"
-  last_suggested_date: '2022-01-02'
-  count: 1
-  nickname: ""
+  - "dessert"
 - name: "lamb korma"
   comments:
   - date: "5/20/17"
@@ -2674,11 +2166,8 @@
     comment: ""
     url: "http://www.thekitchn.com/recipe-lamb-korma-recipes-from-the-kitchn-196350"
   tags:
-  - "dinner"
   - "lamb"
-  last_suggested_date: '2021-07-03'
-  count: 2
-  nickname: "CkR3"
+  - "dinner"
 - name: "ramen"
   comments:
   - date: "5/14/17"
@@ -2686,21 +2175,15 @@
   - date: "8/24/14"
     comment: "with spinach, green onions, pork, fried egg, fish sauce, tamarind paste, chili flakes"
   tags:
-  - "dinner"
   - "soup"
-  last_suggested_date: '2020-11-14'
-  count: 2
-  nickname: ""
+  - "dinner"
 - name: "julia childs's almond cake"
   comments:
   - date: "5/13/17"
     comment: "the one on the same page as the queen of sheba"
   tags:
-  - "dessert"
   - "cake"
-  last_suggested_date: '2022-01-03'
-  count: 1
-  nickname: ""
+  - "dessert"
 - name: "tom kha gai soup"
   comments:
   - date: "5/2/17"
@@ -2717,61 +2200,43 @@
     comment: "soooo good"
     url: "http://www.bonappetit.com/recipe/tom-kha-gai-chicken-coconut-soup"
   tags:
-  - "dinner"
   - "soup"
-  last_suggested_date: '2021-01-30'
-  count: 6
-  nickname: ""
+  - "dinner"
 - name: "pulled pork sandwiches"
   comments:
   - date: "4/20/17"
     comment: "slow-cook some pork shoulder using mom's recipe, then just add bbq sauce"
   tags:
-  - "dinner"
   - "sandwich"
   - "pork"
-  last_suggested_date: '2021-04-11'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "cherry and blueberry upside-down cake"
   comments:
   - date: "4/11/17"
     comment: "Bon Appetit recipe"
   tags:
-  - "dessert"
   - "cake"
-  last_suggested_date: '2022-01-02'
-  count: 1
-  nickname: ""
+  - "dessert"
 - name: "kale and cheddar quesadillas with a fried egg"
   comments:
   - date: "4/3/17"
     comment: "third and final Blue Apron meal"
   tags:
   - "dinner"
-  last_suggested_date: '2021-07-03'
-  count: 1
-  nickname: ""
 - name: "pan-fried chicken breast with lentils and arugula salad"
   comments:
   - date: "3/30/17"
     comment: "second Blue Apron meal. Always use chicken breast with the skin still on! It's so much better this way. Lentil spice mix has thyme, bay leaf, mustard seeds, black pepper"
   tags:
-  - "dinner"
   - "salad"
   - "chicken"
-  last_suggested_date: '2021-05-22'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "salmon chowder"
   comments:
   - date: "3/7/17"
     comment: "Serious Eats recipe; gets waaaay better after a night in the fridge, so worth making it advance if you were gonna serve it to someone; also, a single recipe makes us seven servings"
   tags:
   - "dinner"
-  last_suggested_date: '2021-04-03'
-  count: 1
-  nickname: ""
 - name: "chocolate bundt cake"
   comments:
   - date: "2/20/17"
@@ -2780,11 +2245,8 @@
     comment: "in a cake pan"
     url: "http://www.food.com/recipe/kittencals-moist-one-bowl-dark-chocolate-bundt-cake-71876"
   tags:
-  - "dessert"
   - "cake"
-  last_suggested_date: '2020-08-22'
-  count: 2
-  nickname: ""
+  - "dessert"
 - name: "beer bread"
   comments:
   - date: "2/11/17"
@@ -2794,9 +2256,6 @@
     url: "http://www.food.com/recipe/beer-bread-73440"
   tags:
   - "dinner"
-  last_suggested_date: '2021-05-08'
-  count: 2
-  nickname: ""
 - name: "cornbread"
   comments:
   - date: "1/28/17"
@@ -2804,9 +2263,6 @@
     url: "http://www.seriouseats.com/recipes/2015/01/moist-and-tender-brown-butter-cornbread-recipe.html"
   tags:
   - "dinner"
-  last_suggested_date: '2021-06-13'
-  count: 1
-  nickname: ""
 - name: "baked ziti"
   comments:
   - date: "1/8/17"
@@ -2816,9 +2272,6 @@
     url: "http://www.bonappetit.com/recipe/bas-best-baked-ziti"
   tags:
   - "dinner"
-  last_suggested_date: '2021-01-16'
-  count: 2
-  nickname: ""
 - name: "sugar cookies"
   comments:
   - date: "1/5/17"
@@ -2837,22 +2290,16 @@
   - date: "9/1/13"
     comment: "but no foil! argh. will bake them tomorrow"
   tags:
-  - "dessert"
   - "cookies"
-  last_suggested_date: '2021-10-30'
-  count: 7
-  nickname: "CkD11"
+  - "dessert"
 - name: "white bean, sausage and kale soup"
   comments:
   - date: "12/5/16"
     comment: ""
     url: "http://www.bonappetit.com/columns/cooking-without-recipes/article/easy-sausage-white-bean-kale-dinner"
   tags:
-  - "dinner"
   - "soup"
-  last_suggested_date: '2021-07-31'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "hazan's chickpea soup"
   comments:
   - date: "11/9/16"
@@ -2860,29 +2307,20 @@
   - date: "4/18/16"
     comment: ""
   tags:
-  - "dinner"
   - "soup"
-  last_suggested_date: '2022-01-02'
-  count: 2
-  nickname: ""
+  - "dinner"
 - name: "poptarts"
   comments:
   - date: "10/27/16"
     comment: "For all our attempts at doing this over the years, the only one that EVER turns out well is chevre with honey. Seriously. The others are never as good as they should be."
   tags:
   - "dessert"
-  last_suggested_date: '2022-01-03'
-  count: 1
-  nickname: ""
 - name: "pizza"
   comments:
   - date: "10/23/16"
     comment: "we cook it right on the tray, 475F, lower oven, after pre-heating the big tray. it did stick just a little bit--we forgot to add some flour. we use 3oz prosciutto, 6oz mushrooms, and for cheese, some garlic chevre and mozzarella (both from Aldi). turned out delicious!"
   tags:
   - "dinner"
-  last_suggested_date: '2020-11-28'
-  count: 1
-  nickname: ""
 - name: "marcella hazan's tomato sauce"
   comments:
   - date: "10/5/16"
@@ -2893,9 +2331,6 @@
     comment: "We blanch 5 lbs, and end up with 3.25 lbs because a lot of those guys were pretty nasty."
   tags:
   - "dinner"
-  last_suggested_date: '2021-01-30'
-  count: 3
-  nickname: ""
 - name: "granola bars"
   comments:
   - date: "9/18/16"
@@ -2905,9 +2340,6 @@
     url: "http://practical-stewardship.com/2014/09/26/4-ingredient-bake-chocolate-peanut-butter-granola-bars/"
   tags:
   - "dessert"
-  last_suggested_date: '2021-11-06'
-  count: 2
-  nickname: ""
 - name: "fetteh"
   comments:
   - date: "9/4/16"
@@ -2920,28 +2352,19 @@
     comment: "pretty good! added a bit more tahini than suggested, I think; also, probably needs more spices; and a thicker yogurt, too. and don't forget to flip the pita bread triangles in the oven! made 5 servings"
   tags:
   - "dinner"
-  last_suggested_date: '2021-06-05'
-  count: 4
-  nickname: ""
 - name: "peach pie"
   comments:
   - date: "9/4/16"
     comment: "1/4c butter, 1/2c white sugar, 1/4c brown sugar, 1/3c flour, 2T cornstarch, 1/4t cinnamon, 3 cans peaches (no syrup); 400F for 50 minutes; a mix of Betty Crocker and a simple allrecipes one"
   tags:
-  - "dessert"
   - "pie"
-  last_suggested_date: '2022-01-03'
-  count: 1
-  nickname: ""
+  - "dessert"
 - name: "tuna with kale and rice"
   comments:
   - date: "8/22/16"
     comment: "delicious. cook tuna 3 minutes per side on high heat on sesame oil; should be pink inside! also way better fresh off the grill rather than as leftovers. after removing tuna, add 6T rice wine and 3T soy sauce to hot pan, cook for a minute until thick."
   tags:
   - "dinner"
-  last_suggested_date: '2021-04-17'
-  count: 1
-  nickname: ""
 - name: "spicy miso ramen"
   comments:
   - date: "8/15/16"
@@ -2951,11 +2374,8 @@
   - date: "2/13/15"
     comment: ""
   tags:
-  - "dinner"
   - "soup"
-  last_suggested_date: '2021-07-24'
-  count: 3
-  nickname: ""
+  - "dinner"
 - name: "red chili bean and sweet potato burritos"
   comments:
   - date: "7/27/16"
@@ -2968,37 +2388,25 @@
     comment: ""
   tags:
   - "dinner"
-  last_suggested_date: '2021-06-19'
-  count: 4
-  nickname: "CkM1"
 - name: "roast duck"
   comments:
   - date: "7/12/16"
     comment: "so bad that we might just throw it away--very rubbery and chewy"
   tags:
   - "dinner"
-  last_suggested_date: '2020-11-14'
-  count: 1
-  nickname: ""
 - name: "strip steaks with sauce"
   comments:
   - date: "7/5/16"
     comment: "from Martha: after steaks are done and removed from pan, add 1/3c liquid (wine, vinegar, broth, etc.) to pan to deglaze; let it boil off a bit, and then add 2T of thickener (butter, mustard, brown sugar, etc.)"
   tags:
   - "dinner"
-  last_suggested_date: '2020-10-24'
-  count: 1
-  nickname: ""
 - name: "bacon and mushroom cheese pizza"
   comments:
   - date: "6/23/16"
     comment: "Best (and most pizza-like) pizza we've ever made. Mel's kitchen dough (single serving) makes enough for one pie on the large silver tray; we use 1c of hazan's tomato sauce (one recipe makes ~3c), about 2c of three-cheese mexican shredded cheese, about 6oz mushrooms (sliced, placed both under and on top of cheese), a bit more than 1/2lb of bacon (6 strips of 11, where 11 was 1/2lb), and listen to yourself about how much cheese and not to Jess"
   tags:
-  - "dinner"
   - "bacon"
-  last_suggested_date: '2021-01-30'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "kettle popcorn"
   comments:
   - date: "6/18/16"
@@ -3013,81 +2421,57 @@
     comment: "put 3 corn kernels in the oil as it heats--when they're popped, it's ready! 1 part veggie oil, 2 parts popcorn kernels, 2 parts sugar...Pop that shit!"
   tags:
   - "dessert"
-  last_suggested_date: '2020-08-08'
-  count: 5
-  nickname: ""
 - name: "hazan potato minestrone soup"
   comments:
   - date: "5/18/16"
     comment: "It's okay."
   tags:
-  - "dinner"
   - "soup"
-  last_suggested_date: '2021-05-22'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "chevre and honey nests"
   comments:
   - date: "5/10/16"
     comment: "using pie crust dough leftover from pie; make little nests (about the size of the bottom of a coke can), wipe with butter and with egg wash, then add some chevre, covered in honey; bake at 400F for about 15 mins or so"
   tags:
   - "dessert"
-  last_suggested_date: '2021-11-13'
-  count: 1
-  nickname: ""
 - name: "hazan's eggplant and ricotta pasta"
   comments:
   - date: "5/3/16"
     comment: ""
   tags:
-  - "dinner"
   - "pasta"
-  last_suggested_date: '2021-05-22'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "hazan's pea, ricotta, and bacon pasta"
   comments:
   - date: "4/26/16"
     comment: "needs fewer peas, way more bacon (I'd suggest half a pound of bacon for a 1.5 times recipe.)"
   tags:
-  - "dinner"
   - "pasta"
   - "bacon"
-  last_suggested_date: '2021-05-08'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "chevre-stuffed chicken breast with lemon-butter sauce and pasta"
   comments:
   - date: "4/17/16"
     comment: ""
     url: "http://www.ostrommushrooms.com/recipes/sides/item/93-chevre-and-basil-filled-chicken-breasts"
   tags:
-  - "dinner"
   - "pasta"
   - "chicken"
-  last_suggested_date: '2021-05-01'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "dark chocolate sauce"
   comments:
   - date: "4/17/16"
     comment: "1:1:1 cocoa:sugar:water, plus salt; add in saucepan after mixing cocoa and sugar"
   tags:
   - "dessert"
-  last_suggested_date: '2021-10-23'
-  count: 1
-  nickname: ""
 - name: "pork ribs and butter sage pasta"
   comments:
   - date: "4/14/16"
     comment: ""
   tags:
-  - "dinner"
   - "pasta"
   - "pork"
-  last_suggested_date: '2020-09-26'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "roast veggies, quinoa, yogurt"
   comments:
   - date: "4/13/16"
@@ -3096,9 +2480,6 @@
     comment: "beets, carrots, sweet potatoes, garlic, for ~30 mins at 425F"
   tags:
   - "dinner"
-  last_suggested_date: '2021-05-15'
-  count: 2
-  nickname: ""
 - name: "cheeseburgers"
   comments:
   - date: "4/12/16"
@@ -3114,29 +2495,20 @@
   - date: "8/27/13"
     comment: ""
   tags:
-  - "dinner"
   - "burger"
-  last_suggested_date: '2021-04-03'
-  count: 6
-  nickname: "CkS7"
+  - "dinner"
 - name: "turkey chili and cornbread"
   comments:
   - date: "4/11/16"
     comment: ""
   tags:
   - "dinner"
-  last_suggested_date: '2021-01-23'
-  count: 1
-  nickname: ""
 - name: "banh mis"
   comments:
   - date: "4/4/16"
     comment: ""
   tags:
   - "dinner"
-  last_suggested_date: '2021-02-06'
-  count: 1
-  nickname: ""
 - name: "meatball soup, cornbread"
   comments:
   - date: "3/22/16"
@@ -3144,11 +2516,8 @@
   - date: "1/24/16"
     comment: ""
   tags:
-  - "dinner"
   - "soup"
-  last_suggested_date: '2021-05-15'
-  count: 2
-  nickname: ""
+  - "dinner"
 - name: "cinnamon rolls"
   comments:
   - date: "3/12/16"
@@ -3158,9 +2527,6 @@
     comment: "Pioneer Woman recipe, cut in 4 makes about 20 rolls, enough for two pie pans; also, no need to use as much butter and sugar as she does, obviously. mmm delicious though, especially straight out of the fridge cold; icing could be better, in my opinion, but Jess loved it all. also we added pecans"
   tags:
   - "breakfast"
-  last_suggested_date: '2020-08-01'
-  count: 2
-  nickname: ""
 - name: "peanut butter chocolate malt"
   comments:
   - date: "3/12/16"
@@ -3169,9 +2535,6 @@
     comment: ""
   tags:
   - "dessert"
-  last_suggested_date: '2020-08-08'
-  count: 2
-  nickname: ""
 - name: "chicken caesar salad"
   comments:
   - date: "2/23/16"
@@ -3184,12 +2547,9 @@
   - date: "10/28/15"
     comment: "chicken thighs and croutons...so good"
   tags:
-  - "dinner"
   - "salad"
   - "chicken"
-  last_suggested_date: '2021-03-06'
-  count: 4
-  nickname: ""
+  - "dinner"
 - name: "peanut butter oatmeal chocolate chip cookies"
   comments:
   - date: "2/21/16"
@@ -3203,39 +2563,27 @@
   - date: "5/18/13"
     comment: ""
   tags:
-  - "dessert"
   - "cookies"
-  last_suggested_date: '2020-08-01'
-  count: 4
-  nickname: "CkD14"
+  - "dessert"
 - name: "steak in wine, cream, and mushroom sauce; baked red potatoes; focaccia bread"
   comments:
   - date: "2/14/16"
     comment: "focaccia bread wasn't so great, for some reason--I think I rolled it out too flat"
   tags:
   - "dinner"
-  last_suggested_date: '2021-04-24'
-  count: 1
-  nickname: ""
 - name: "hazan's bean soup, dinner rolls"
   comments:
   - date: "1/31/16"
     comment: ""
   tags:
-  - "dinner"
   - "soup"
-  last_suggested_date: '2021-06-13'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "gnocchi with vodka sauce"
   comments:
   - date: "1/20/16"
     comment: ""
   tags:
   - "dinner"
-  last_suggested_date: '2021-06-05'
-  count: 1
-  nickname: ""
 - name: "microwave brownie"
   comments:
   - date: "1/11/16"
@@ -3243,38 +2591,26 @@
     url: "http://www.simplyrecipes.com/recipes/brownie_in_a_mug/"
   tags:
   - "dessert"
-  last_suggested_date: '2021-11-20'
-  count: 1
-  nickname: ""
 - name: "hazan's potato minestrone soup"
   comments:
   - date: "1/4/16"
     comment: "without carrots, with crostini; I cook because Jess is sick."
   tags:
-  - "dinner"
   - "soup"
-  last_suggested_date: '2021-05-08'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "salmon with kale and red potatoes"
   comments:
   - date: "12/30/15"
     comment: ""
   tags:
   - "dinner"
-  last_suggested_date: '2021-04-17'
-  count: 1
-  nickname: ""
 - name: "hazan's butter and sage pasta"
   comments:
   - date: "12/2/15"
     comment: "macaroni noodles, with a strip of bacon each and parmesan, salt/pepper added as well"
   tags:
-  - "dinner"
   - "pasta"
-  last_suggested_date: '2021-07-24'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "marcella hazan's chickpea soup"
   comments:
   - date: "11/28/15"
@@ -3295,11 +2631,8 @@
     comment: "maybe the greatest, simplest soup ever; fucking amazingly rich and delicious"
     url: "http://stylishcuisine.com/?p=87"
   tags:
-  - "dinner"
   - "soup"
-  last_suggested_date: '2020-09-26'
-  count: 8
-  nickname: ""
+  - "dinner"
 - name: "snickerdoodles"
   comments:
   - date: "11/28/15"
@@ -3309,20 +2642,14 @@
     url: "http://www.yummly.com/recipe/external/Snickerdoodles-Iii-Allrecipes"
   tags:
   - "dessert"
-  last_suggested_date: '2021-09-18'
-  count: 2
-  nickname: ""
 - name: "brussel sprout salad"
   comments:
   - date: "11/21/15"
     comment: ""
     url: "http://www.loveandlemons.com/2014/11/03/shredded-brussels-sprout-apple-salad/"
   tags:
-  - "dinner"
   - "salad"
-  last_suggested_date: '2021-06-19'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "mashed sweet potatoes"
   comments:
   - date: "11/21/15"
@@ -3330,20 +2657,14 @@
     url: "http://www.seriouseats.com/recipes/2014/11/the-best-mashed-sweet-potatoes-recipe.html"
   tags:
   - "dinner"
-  last_suggested_date: '2021-01-23'
-  count: 1
-  nickname: ""
 - name: "blueberry coffee cake"
   comments:
   - date: "11/15/15"
     comment: ""
     url: "http://www.kingarthurflour.com/recipes/blueberry-buckle-coffeecake-recipe"
   tags:
-  - "dessert"
   - "cake"
-  last_suggested_date: '2021-11-27'
-  count: 1
-  nickname: ""
+  - "dessert"
 - name: "roast pork loin with brussels sprouts"
   comments:
   - date: "9/27/15"
@@ -3352,11 +2673,8 @@
     comment: "delicious! and extremely easy"
     url: "http://www.marthastewart.com/852118/pork-roast-caramelized-parsnips"
   tags:
-  - "dinner"
   - "pork"
-  last_suggested_date: '2021-04-11'
-  count: 2
-  nickname: ""
+  - "dinner"
 - name: "peanut butter cookies"
   comments:
   - date: "8/17/15"
@@ -3368,11 +2686,8 @@
   - date: "5/12/13"
     comment: ""
   tags:
-  - "dessert"
   - "cookies"
-  last_suggested_date: '2022-01-03'
-  count: 3
-  nickname: "CkD3"
+  - "dessert"
 - name: "peach cobbler"
   comments:
   - date: "7/27/15"
@@ -3381,9 +2696,6 @@
     comment: "holy shit i just had a religious experience eating this. a rhubarb pie experience. it is how peaches deserve to be eaten."
   tags:
   - "dessert"
-  last_suggested_date: '2020-08-01'
-  count: 2
-  nickname: ""
 - name: "falafel"
   comments:
   - date: "7/16/15"
@@ -3395,9 +2707,6 @@
     url: "http://www.vegetariantimes.com/recipe/homemade-falafel/"
   tags:
   - "dinner"
-  last_suggested_date: '2021-06-19'
-  count: 3
-  nickname: ""
 - name: "coq au vin blanc"
   comments:
   - date: "7/9/15"
@@ -3405,9 +2714,6 @@
     url: "http://www.easy-french-food.com/coq-au-vin-recipe.html"
   tags:
   - "dinner"
-  last_suggested_date: '2021-05-15'
-  count: 1
-  nickname: ""
 - name: "fish burger"
   comments:
   - date: "6/15/15"
@@ -3415,11 +2721,8 @@
   - date: "5/4/15"
     comment: "in imitation of Hooked's: panko crumbs on tilapia filet, mayo sprinkled in dill on a toasted HEB bolillo; dotted with sweet chili sauce (rooster chili sauce + white sugar); delicious!"
   tags:
-  - "dinner"
   - "burger"
-  last_suggested_date: '2021-07-10'
-  count: 2
-  nickname: ""
+  - "dinner"
 - name: "pancakes"
   comments:
   - date: "6/13/15"
@@ -3430,11 +2733,8 @@
   - date: "12/9/13"
     comment: "pioneer woman says use cake flour--they end up very cakey, but just okay"
   tags:
-  - "breakfast"
   - "cake"
-  last_suggested_date: '2021-10-30'
-  count: 3
-  nickname: ""
+  - "breakfast"
 - name: "ham and mushroom cheese pizza"
   comments:
   - date: "6/11/15"
@@ -3443,9 +2743,6 @@
     comment: "made two doughs, resulting in tons of pizza; probably 4 servings each. it turned out so well! shit. pre-heat the cookie sheet."
   tags:
   - "dinner"
-  last_suggested_date: '2021-06-13'
-  count: 2
-  nickname: ""
 - name: "marcella hazan's tomato sauce with pasta and ground pork"
   comments:
   - date: "6/8/15"
@@ -3457,23 +2754,17 @@
   - date: "4/18/15"
     comment: "unbelievable; so simple! delicious, and the ground sausage was an awesome combo; this actually tasted like italian food--the first time I've ever cooked such a thing"
   tags:
-  - "dinner"
   - "pasta"
   - "pork"
-  last_suggested_date: '2020-11-07'
-  count: 4
-  nickname: ""
+  - "dinner"
 - name: "breaded chicken tacos"
   comments:
   - date: "5/26/15"
     comment: "one (cubed) chicken breast made enough for six tacos; lightly breaded in panko crumbs, served with refried black beans, fresh garden tomato, cheddar cheese, and avocado"
   tags:
+  - "chicken"
   - "dinner"
   - "tacos"
-  - "chicken"
-  last_suggested_date: '2020-11-14'
-  count: 1
-  nickname: ""
 - name: "pesto cheeseburgers"
   comments:
   - date: "5/19/15"
@@ -3481,39 +2772,27 @@
   - date: "3/29/15"
     comment: "pesto, parmesan cheese, burger, toasted bolillos, mayo = maybe the best burger I think I've ever had, definitely the best one I've ever made; let the pan get nice and hot, then put loosely balled burgers on (break up beef entirely before balling), then smash."
   tags:
-  - "dinner"
   - "burger"
-  last_suggested_date: '2021-06-05'
-  count: 2
-  nickname: ""
+  - "dinner"
 - name: "scrambled eggs cooked with yogurt"
   comments:
   - date: "5/16/15"
     comment: "n.b. not a good idea, with plain yogurt at least. the eggs just got really powdery, and that was no good"
   tags:
   - "breakfast"
-  last_suggested_date: '2021-07-31'
-  count: 1
-  nickname: ""
 - name: "roast chicken"
   comments:
   - date: "5/14/15"
     comment: "nothing simpler; half a stick of butter, rosemary, a lemon, some paprika maybe; 35 minutes at 450F"
   tags:
-  - "dinner"
   - "chicken"
-  last_suggested_date: '2021-05-22'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "peach crisp"
   comments:
   - date: "5/12/15"
     comment: "from Mom's cookbook; pretty good, but too liquidy and didn't end up crisp. delicious on yogurt though"
   tags:
   - "dessert"
-  last_suggested_date: '2021-09-25'
-  count: 1
-  nickname: ""
 - name: "fried catfish po boy"
   comments:
   - date: "4/20/15"
@@ -3526,9 +2805,6 @@
     comment: ""
   tags:
   - "dinner"
-  last_suggested_date: '2021-09-25'
-  count: 4
-  nickname: "CkS6"
 - name: "slow-cooked beef sandwiches"
   comments:
   - date: "3/11/15"
@@ -3537,13 +2813,10 @@
     comment: ""
     url: "http://eatathomecooks.com/2012/05/african-pulled-beef-sandwiches-in-the-slow-cooker-with-yogurt-mint-sauce.html"
   tags:
-  - "dinner"
-  - "sandwich"
-  - "slow-cooker"
   - "beef"
-  last_suggested_date: '2021-04-11'
-  count: 2
-  nickname: ""
+  - "sandwich"
+  - "dinner"
+  - "slow-cooker"
 - name: "cheesecake"
   comments:
   - date: "3/9/15"
@@ -3551,11 +2824,8 @@
   - date: "10/20/13"
     comment: ""
   tags:
-  - "dessert"
   - "cake"
-  last_suggested_date: '2021-11-06'
-  count: 2
-  nickname: ""
+  - "dessert"
 - name: "peanut butter oatmeal cookies"
   comments:
   - date: "2/16/15"
@@ -3567,11 +2837,8 @@
     comment: ""
     url: "http://www.browneyedbaker.com/2010/02/24/peanut-butter-oatmeal-chocolate-chip-cookies/"
   tags:
-  - "dessert"
   - "cookies"
-  last_suggested_date: '2022-01-02'
-  count: 3
-  nickname: "CkD13"
+  - "dessert"
 - name: "steak au poivre with roasted potatoes"
   comments:
   - date: "1/19/15"
@@ -3579,9 +2846,6 @@
     url: "http://www.foodnetwork.com/recipes/alton-brown/steak-au-poivre-recipe.html"
   tags:
   - "dinner"
-  last_suggested_date: '2020-12-05'
-  count: 1
-  nickname: ""
 - name: "chicken and peach burger"
   comments:
   - date: "1/13/15"
@@ -3599,33 +2863,24 @@
   - date: "3/18/13"
     comment: ""
   tags:
-  - "dinner"
-  - "burger"
   - "chicken"
-  last_suggested_date: '2021-05-29'
-  count: 7
-  nickname: "CkS2"
+  - "burger"
+  - "dinner"
 - name: "fried egg"
   comments:
   - date: "1/11/15"
     comment: "from america's test kitchen: some oil heat on low, then when pan uniformly hot: raise heat to med/high, add butter, egg immediately after (so butter doesn't burn), cook with pan covered for 1 minute, then remove from heat, and still covered: wait 1 minute"
   tags:
   - "breakfast"
-  last_suggested_date: '2021-11-20'
-  count: 1
-  nickname: ""
 - name: "garlic and togarashi oil, spicy miso paste; pork ramen"
   comments:
   - date: "1/10/15"
     comment: "holy shit, we just made amazing ramen; we used white ramen with bonito (and no red miso), also we just did normal eggs, but still we high-fived like four times while eating this because it was that good"
     url: "http://ladyandpups.com/2014/01/04/spicy-miso-ramen-express-eng/"
   tags:
-  - "dinner"
   - "soup"
   - "pork"
-  last_suggested_date: '2021-04-03'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "granola"
   comments:
   - date: "10/16/14"
@@ -3634,27 +2889,18 @@
     comment: ""
   tags:
   - "breakfast"
-  last_suggested_date: '2021-10-23'
-  count: 2
-  nickname: ""
 - name: "microwave peach crumble"
   comments:
   - date: "9/22/14"
     comment: "recipe: 1T brown sugar, 1T butter, 1.5T flour, 1.5T rolled oats, 2T peach preserves; mush all but preserves around in a bowl, then add preserves and microwave for 2 minutes"
   tags:
   - "dessert"
-  last_suggested_date: '2020-08-29'
-  count: 1
-  nickname: ""
 - name: "cardboard box muffins"
   comments:
   - date: "9/8/14"
     comment: ""
   tags:
   - "dessert"
-  last_suggested_date: '2021-11-06'
-  count: 1
-  nickname: ""
 - name: "shakshouka"
   comments:
   - date: "9/7/14"
@@ -3665,9 +2911,6 @@
     comment: "not mexican--w/e; don't overcook eggs! lots of paprika is key, all tomatoes and no sauce would be nice too"
   tags:
   - "dinner"
-  last_suggested_date: '2021-01-30'
-  count: 3
-  nickname: "CkM7"
 - name: "pecan ice cream"
   comments:
   - date: "9/7/14"
@@ -3676,9 +2919,6 @@
     comment: "fucking unbelievable with some maple syrup on top; as before: 3 parts nuts, 2 parts milk, 1 part sugar, 9 parts ice"
   tags:
   - "dessert"
-  last_suggested_date: '2021-09-25'
-  count: 2
-  nickname: ""
 - name: "slow-cooker chili"
   comments:
   - date: "8/29/14"
@@ -3688,49 +2928,34 @@
   tags:
   - "dinner"
   - "slow-cooker"
-  last_suggested_date: '2020-10-24'
-  count: 2
-  nickname: ""
 - name: "tuna pasta with garlic, spinach, parmesan"
   comments:
   - date: "8/11/14"
     comment: ""
   tags:
-  - "dinner"
   - "pasta"
-  last_suggested_date: '2020-09-26'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "chocolate chip cookie cake"
   comments:
   - date: "8/11/14"
     comment: "oh god so good"
   tags:
-  - "dessert"
   - "cake"
-  last_suggested_date: '2022-01-03'
-  count: 1
-  nickname: ""
+  - "dessert"
 - name: "chicken sandwiches with avocado, sundried tomatoes, peppers; side of fried okra"
   comments:
   - date: "8/6/14"
     comment: ""
   tags:
-  - "dinner"
   - "sandwich"
   - "chicken"
-  last_suggested_date: '2021-06-19'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "almond sausage couscous"
   comments:
   - date: "7/29/14"
     comment: "via vegie num num"
   tags:
   - "dinner"
-  last_suggested_date: '2021-06-13'
-  count: 1
-  nickname: ""
 - name: "tri-color quinoa with kidney beans"
   comments:
   - date: "7/22/14"
@@ -3739,9 +2964,6 @@
     comment: ""
   tags:
   - "dinner"
-  last_suggested_date: '2021-03-06'
-  count: 2
-  nickname: "CkSd3"
 - name: "pesto pasta"
   comments:
   - date: "7/17/14"
@@ -3755,20 +2977,14 @@
   - date: "5/14/13"
     comment: ""
   tags:
-  - "dinner"
   - "pasta"
-  last_suggested_date: '2021-03-20'
-  count: 5
-  nickname: "CkP2"
+  - "dinner"
 - name: "granola"
   comments:
   - date: "7/11/14"
     comment: ""
   tags:
   - "dessert"
-  last_suggested_date: '2021-10-23'
-  count: 1
-  nickname: ""
 - name: "iced coffee"
   comments:
   - date: "7/7/14"
@@ -3777,39 +2993,27 @@
     comment: "1:5 coffee:water ratio, 12 hours (grams), with nut milk bag"
   tags:
   - "drink"
-  last_suggested_date: '2021-07-31'
-  count: 2
-  nickname: ""
 - name: "slow-cooker beef chuck roast cubed, potatoes, baby carrots, onions, garlic, chicken broth"
   comments:
   - date: "7/7/14"
     comment: "from the slow-cooker recipe book; used 1.6 lbs. of meat and that was still plenty"
   tags:
+  - "beef"
+  - "chicken"
   - "dinner"
   - "slow-cooker"
-  - "chicken"
-  - "beef"
-  last_suggested_date: '2021-03-06'
-  count: 1
-  nickname: ""
 - name: "blat"
   comments:
   - date: "7/6/14"
     comment: "bacon lettuce avocado tomato"
   tags:
   - "dinner"
-  last_suggested_date: '2021-01-16'
-  count: 1
-  nickname: ""
 - name: "fig jam"
   comments:
   - date: "7/6/14"
     comment: ""
   tags:
   - "dessert"
-  last_suggested_date: '2021-09-18'
-  count: 1
-  nickname: ""
 - name: "green bean, pecan, sundried tomatoes, mushroom pasta"
   comments:
   - date: "7/2/14"
@@ -3819,49 +3023,34 @@
   - date: "2/26/13"
     comment: ""
   tags:
-  - "dinner"
   - "pasta"
-  last_suggested_date: '2021-09-18'
-  count: 3
-  nickname: "CkP1"
+  - "dinner"
 - name: "chocolate malt"
   comments:
   - date: "6/28/14"
     comment: ""
   tags:
   - "dessert"
-  last_suggested_date: '2020-08-15'
-  count: 1
-  nickname: ""
 - name: "chicken tacos with corn salsa"
   comments:
   - date: "6/23/14"
     comment: "talk about people doing jobs they hate, and dumb people who click Edit to copy/paste"
   tags:
+  - "chicken"
   - "dinner"
   - "tacos"
-  - "chicken"
-  last_suggested_date: '2021-04-24'
-  count: 1
-  nickname: ""
 - name: "chocolate cashew ice cream"
   comments:
   - date: "6/19/14"
     comment: "n.b. chocolate chips act as liquid and sugar, not as nuts (i.e. for ratios...)"
   tags:
   - "dessert"
-  last_suggested_date: '2021-11-27'
-  count: 1
-  nickname: ""
 - name: "cashew ice cream"
   comments:
   - date: "6/14/14"
     comment: "cashews, honey, milk, ice....DAMN it tastes good girl damn it tastes good"
   tags:
   - "dessert"
-  last_suggested_date: '2022-01-02'
-  count: 1
-  nickname: ""
 - name: "oven-roasted chicken"
   comments:
   - date: "6/9/14"
@@ -3869,30 +3058,21 @@
   - date: "8/3/13"
     comment: "surprisingly easy: rub butter and other stuff on it, and bake it for an hour"
   tags:
-  - "dinner"
   - "chicken"
-  last_suggested_date: '2021-02-06'
-  count: 2
-  nickname: "CkD5"
+  - "dinner"
 - name: "lemon rosemary shrub"
   comments:
   - date: "6/8/14"
     comment: "2 cups diced peeled lemons, 1 twig rosemary, 2 cups sugar; mix and shake and let sit unrefrigerated for 24 hours; then strain and add equal liquid of white wine vinegar; now let it sit as long as you can!"
   tags:
   - "drink"
-  last_suggested_date: '2020-08-22'
-  count: 1
-  nickname: "CkDr1"
 - name: "zucchini pasta"
   comments:
   - date: "5/29/14"
     comment: "shredded zucchini sauteed with one bell pepper, one serrano pepper, served with angel hair pasta and parmesan cheese...surprisingly delicious"
   tags:
-  - "dinner"
   - "pasta"
-  last_suggested_date: '2021-01-16'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "chicken katsu don"
   comments:
   - date: "5/24/14"
@@ -3901,38 +3081,26 @@
   - date: "3/1/14"
     comment: "pretty good! but maybe use miso without the seaweed"
   tags:
-  - "dinner"
   - "chicken"
-  last_suggested_date: '2021-01-30'
-  count: 2
-  nickname: "CkR5"
+  - "dinner"
 - name: "tequila mojito"
   comments:
   - date: "5/18/14"
     comment: "best drink I know how to make, no doubt: 1/4c tequila, 1/4c club soda, 1/2t sugar, 4 or 5 mint leaves, juice from 1/4 of a lime"
   tags:
   - "drink"
-  last_suggested_date: '2021-10-09'
-  count: 1
-  nickname: ""
 - name: "rib eye steak, mashed potatoes"
   comments:
   - date: "5/18/14"
     comment: ""
   tags:
   - "dinner"
-  last_suggested_date: '2021-01-23'
-  count: 1
-  nickname: ""
 - name: "oreo milkshake"
   comments:
   - date: "5/11/14"
     comment: "oreos, milk, blue bell vanilla ice cream"
   tags:
   - "dessert"
-  last_suggested_date: '2021-11-13'
-  count: 1
-  nickname: ""
 - name: "spaghetti and meatballs"
   comments:
   - date: "5/10/14"
@@ -3947,86 +3115,59 @@
     comment: ""
   tags:
   - "dinner"
-  last_suggested_date: '2021-10-09'
-  count: 5
-  nickname: "CkP3"
 - name: "shrub"
   comments:
   - date: "5/3/14"
     comment: "\"artisinal drinking vinegar\" from the farmer's market, plus seltzer water and water and some fresh lime juice...so goddamn good--imagine with alcohol!"
   tags:
   - "drink"
-  last_suggested_date: '2021-10-30'
-  count: 1
-  nickname: ""
 - name: "steak fajitas with onions, bell peppers, avocado, yogurt, beer"
   comments:
   - date: "4/22/14"
     comment: "ahh, gas grills make it so easy. grills and beer and summer too good"
   tags:
   - "dinner"
-  last_suggested_date: '2021-02-06'
-  count: 1
-  nickname: ""
 - name: "lamb curry"
   comments:
   - date: "3/3/14"
     comment: ""
   tags:
-  - "dinner"
-  - "curry"
   - "lamb"
-  last_suggested_date: '2020-10-24'
-  count: 1
-  nickname: ""
+  - "curry"
+  - "dinner"
 - name: "peanut butter cookies with marshmallow topping"
   comments:
   - date: "2/24/14"
     comment: "marshmallow is just egg whites and sugar, but the cooking part is a bitch and makes us miserable...cookies are just one egg, 1c peanut butter, 1c sugar, and they're damned delicious and simple"
   tags:
-  - "dessert"
   - "cookies"
-  last_suggested_date: '2022-01-02'
-  count: 1
-  nickname: ""
+  - "dessert"
 - name: "chicken waterzooi"
   comments:
   - date: "2/23/14"
     comment: "good! very simple, and tasty"
   tags:
-  - "dinner"
   - "chicken"
-  last_suggested_date: '2021-05-29'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "banana cream pie"
   comments:
   - date: "2/1/14"
     comment: "whipped cream + plain yogurt + 1.5 small mashed bananas + chocolate chips on base of baked graham cracker pie crust"
   tags:
-  - "dessert"
   - "pie"
-  last_suggested_date: '2021-10-23'
-  count: 1
-  nickname: ""
+  - "dessert"
 - name: "scallops, oyster mushrooms"
   comments:
   - date: "1/29/14"
     comment: "scallops via Julia Child cookbook, mushrooms via mushroom kit!"
   tags:
   - "dinner"
-  last_suggested_date: '2020-11-07'
-  count: 1
-  nickname: ""
 - name: "hummus, roasted veggies"
   comments:
   - date: "1/14/14"
     comment: ""
   tags:
   - "dinner"
-  last_suggested_date: '2020-11-28'
-  count: 1
-  nickname: ""
 - name: "slow-cooked bbq brisket"
   comments:
   - date: "1/3/14"
@@ -4034,97 +3175,67 @@
   tags:
   - "dinner"
   - "slow-cooker"
-  last_suggested_date: '2021-01-23'
-  count: 1
-  nickname: ""
 - name: "peanut butter chocolate ice cream"
   comments:
   - date: "1/3/14"
     comment: "in Jess's Vitamix"
   tags:
   - "dessert"
-  last_suggested_date: '2021-10-23'
-  count: 1
-  nickname: ""
 - name: "chicken tacos"
   comments:
   - date: "1/2/14"
     comment: ""
   tags:
+  - "chicken"
   - "dinner"
   - "tacos"
-  - "chicken"
-  last_suggested_date: '2021-03-20'
-  count: 1
-  nickname: ""
 - name: "peas and zucchini pasta"
   comments:
   - date: "1/1/14"
     comment: "too lemony"
   tags:
-  - "dinner"
   - "pasta"
-  last_suggested_date: '2021-07-03'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "eggnog"
   comments:
   - date: "12/24/13"
     comment: "Alton Brown's recipe"
   tags:
   - "dessert"
-  last_suggested_date: '2020-09-05'
-  count: 1
-  nickname: ""
 - name: "turkey blt with avocado sandwiches, french fries"
   comments:
   - date: "12/2/13"
     comment: ""
   tags:
-  - "dinner"
   - "sandwich"
-  last_suggested_date: '2021-05-01'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "chicken thighs, green beans with bacon, baked sweet potato"
   comments:
   - date: "11/23/13"
     comment: "somehow even better than yesterday"
   tags:
-  - "dinner"
   - "chicken"
   - "bacon"
-  last_suggested_date: '2021-03-06'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "ribeye steak, steamed kale, baked sweet potato"
   comments:
   - date: "11/22/13"
     comment: ""
   tags:
   - "dinner"
-  last_suggested_date: '2021-06-19'
-  count: 1
-  nickname: ""
 - name: "mulled spiced apple cider, pumpkin butter"
   comments:
   - date: "11/19/13"
     comment: ""
   tags:
   - "dessert"
-  last_suggested_date: '2022-01-02'
-  count: 1
-  nickname: ""
 - name: "baked tempeh sandwich with sundried tomato pesto, avocado, and spinach"
   comments:
   - date: "10/30/13"
     comment: "soooo filling and pretty good"
   tags:
-  - "dinner"
   - "sandwich"
-  last_suggested_date: '2020-11-14'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "oat flour pancakes"
   comments:
   - date: "10/28/13"
@@ -4135,11 +3246,8 @@
   - date: "8/4/13"
     comment: "Emre joins us, bringing blueberries"
   tags:
-  - "breakfast"
   - "cake"
-  last_suggested_date: '2021-11-27'
-  count: 3
-  nickname: "CkB1"
+  - "breakfast"
 - name: "french fries"
   comments:
   - date: "10/20/13"
@@ -4147,57 +3255,39 @@
     url: "http://thepioneerwoman.com/cooking/2012/01/perfect-french-fries/"
   tags:
   - "dinner"
-  last_suggested_date: '2021-05-08'
-  count: 1
-  nickname: "CkSd2"
 - name: "smoked chicken"
   comments:
   - date: "10/6/13"
     comment: "first smoking! 5 lb. chicken over 2 hrs--quicker than expected but turned out good"
   tags:
-  - "dinner"
   - "chicken"
-  last_suggested_date: '2021-06-26'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "chocolate bark"
   comments:
   - date: "10/5/13"
     comment: "god it's so easy...pepitas and sea salt, stirred in melted baking chocolate, then refrigerated"
   tags:
   - "dessert"
-  last_suggested_date: '2021-10-09'
-  count: 1
-  nickname: ""
 - name: "waffles"
   comments:
   - date: "10/4/13"
     comment: ""
   tags:
   - "breakfast"
-  last_suggested_date: '2021-11-20'
-  count: 1
-  nickname: ""
 - name: "omelettes"
   comments:
   - date: "9/4/13"
     comment: ""
   tags:
   - "dinner"
-  last_suggested_date: '2020-12-05'
-  count: 1
-  nickname: ""
 - name: "pasta with beef and sauteed veggies"
   comments:
   - date: "7/14/13"
     comment: ""
   tags:
-  - "dinner"
   - "pasta"
+  - "dinner"
   - "beef"
-  last_suggested_date: '2020-11-28'
-  count: 1
-  nickname: ""
 - name: "lentil curry"
   comments:
   - date: "5/5/13"
@@ -4206,20 +3296,14 @@
   - date: "3/26/13"
     comment: ""
   tags:
-  - "dinner"
   - "curry"
-  last_suggested_date: '2020-11-28'
-  count: 2
-  nickname: "CkR2"
+  - "dinner"
 - name: "ravioli with tomato-sauce and mushrooms"
   comments:
   - date: "4/15/13"
     comment: ""
   tags:
   - "dinner"
-  last_suggested_date: '2021-07-10'
-  count: 1
-  nickname: "CkSd1"
 - name: "portabella pesto mushroom burgers"
   comments:
   - date: "3/14/13"
@@ -4227,74 +3311,50 @@
   - date: "2/14/13"
     comment: ""
   tags:
-  - "dinner"
   - "burger"
-  last_suggested_date: '2020-12-05'
-  count: 2
-  nickname: "CkS1"
+  - "dinner"
 - name: "mushroom noodles"
   comments:
   - date: "3/7/13"
     comment: ""
   tags:
   - "dinner"
-  last_suggested_date: '2021-01-23'
-  count: 1
-  nickname: ""
 - name: "sausages with curry ketchup"
   comments:
   - date: "3/5/13"
     comment: ""
   tags:
-  - "dinner"
   - "curry"
-  last_suggested_date: '2021-04-11'
-  count: 1
-  nickname: "CkS5"
+  - "dinner"
 - name: "lentil spinach pecan feta carrot salad"
   comments:
   - date: "2/21/13"
     comment: ""
   tags:
-  - "dinner"
   - "salad"
-  last_suggested_date: '2021-04-24'
-  count: 1
-  nickname: ""
+  - "dinner"
 - name: "nachos with homemade salsa and guacamole, and \"corn mayonnaise,\" as jess calls it"
   comments:
   - date: "2/18/13"
     comment: ""
   tags:
   - "dinner"
-  last_suggested_date: '2021-05-22'
-  count: 1
-  nickname: ""
 - name: "mushroom, spinach, cheese quesadillas with sour cream and home-made salsa"
   comments:
   - date: "2/11/13"
     comment: ""
   tags:
   - "dinner"
-  last_suggested_date: '2021-07-10'
-  count: 1
-  nickname: ""
 - name: "spaghetti & meatballs"
   comments:
   - date: "2/5/13"
     comment: ""
   tags:
   - "dinner"
-  last_suggested_date: '2021-03-20'
-  count: 1
-  nickname: ""
 - name: "ham, pesto, cheese, salt/pepper angel hair pasta"
   comments:
   - date: "2/2/13"
     comment: ""
   tags:
-  - "dinner"
   - "pasta"
-  last_suggested_date: '2021-07-31'
-  count: 1
-  nickname: ""
+  - "dinner"

@@ -16,10 +16,10 @@ RECIPE_INTRO = """# TEMPLATE (DO NOT ERASE):
 #
 # Notes:
 # - Before adding a new item, check to make sure another item with the same name doesn't already exist.
+# - For new items, please include one tag from this list: ['drink', 'breakfast', 'dinner', 'dessert', 'bread']
+# - If your comment has no url, remove the relevant 'url:' line above entirely
 # - You should NOT edit any existing comment (only create new ones)
 # - You can ADD existing tags but do not remove any
-# - Please include one tag from this list: ['drink', 'breakfast', 'dinner', 'dessert', 'bread']
-# - If you add an item with no url, remove the relevant 'url:' line above entirely
 #
 """
 
@@ -32,11 +32,11 @@ def load_meals(infile):
             preserve_quotes=True)
 
     # add defaults
-    for row in data:
-        if 'last_suggested_date' not in row:
-            row['last_suggested_date'] = DEFAULT_LAST_DT
-        # if 'count' not in row:
-        #     row['count'] = 1
+    # for row in data:
+    #     # if 'last_suggested_date' not in row:
+    #     #     row['last_suggested_date'] = DEFAULT_LAST_DT
+    #     # if 'count' not in row:
+    #     #     row['count'] = 1
     return data
 
 def least_recent_meals(infile, outfile, n=5, date_key='last_suggested_date'):
@@ -44,18 +44,18 @@ def least_recent_meals(infile, outfile, n=5, date_key='last_suggested_date'):
     pick the five meals seen least recently
         then update the data to show that they have now been accessed
     """    
-    data = load_meals(infile)
-    data = sorted(data, key=lambda k: datetime.strptime(k[date_key], DATE_FORMAT))
+    items = load_meals(infile)
+    # data = sorted(data, key=lambda k: datetime.strptime(k[date_key], DATE_FORMAT))
 
     # find items with the smallest date, and pick random n of these
-    min_date = data[0][date_key]
-    items = [x for x in data if x[date_key] == min_date]
+    # min_date = data[0][date_key]
+    # items = [x for x in data if x[date_key] == min_date]
     random.shuffle(items)
     items = items[:n]
 
     # update date to today
-    for item in items:
-        item[date_key] = datetime.now().strftime(DATE_FORMAT)
+    # for item in items:
+    #     item[date_key] = datetime.now().strftime(DATE_FORMAT)
     write_to_yaml(data, outfile)
     return items
 
@@ -130,12 +130,12 @@ def make_items(matches, prev_items, subitem):
     if prev_items is None:
         lkp = {}
         nicknames = {}
-        last_suggested = {}
+        # last_suggested = {}
     else:
         # lkp = dict((item['name'], item) for item in prev_items)
         lkp = {}
         nicknames = dict((item.get('nickname', ''), item['name']) for item in prev_items)
-        last_suggested = dict((item['name'], item['last_suggested_date']) for item in prev_items)
+        # last_suggested = dict((item['name'], item['last_suggested_date']) for item in prev_items)
 
     # go through matches and convert to items
     for dtstr_of_comment, match in matches[::-1]:
@@ -180,15 +180,15 @@ def make_items(matches, prev_items, subitem):
 
         # add to lkp; update comments, urls, and count
         if name not in lkp:
-            if name in last_suggested:
-                dtstr = last_suggested[name]
-            else:
-                dtstr = DEFAULT_LAST_DT
+            # if name in last_suggested:
+            #     dtstr = last_suggested[name]
+            # else:
+            #     dtstr = DEFAULT_LAST_DT
             lkp[name] = {
                 'name': name,
                 'comments': [],
                 'tags': mark_subitem(subitem) + guess_type(name) + guess_meat(name),
-                'last_suggested_date': dtstr,
+                # 'last_suggested_date': dtstr,
                 # 'count': 0,
                 # 'nickname': nickname
                 }

@@ -6,17 +6,6 @@ layout: post
 
 {% assign popularcount = site.data.settings.popular_count %}
 {% assign populartag = 'popular' | split: ' ' %}
-{% assign thisweektag = 'this-week' | split: ' ' %}
-
-<!-- get largest last_suggested_date -->
-{% capture last_suggested_dates %}
-{% for item in site.data.recipes %}
-{% if item.last_suggested_date %}
-{{ item.last_suggested_date }}
-{% endif %}
-{% endfor %}
-{% endcapture %}
-{% assign max_date = last_suggested_dates | split:' ' | uniq | sort | last %}
 
 <!-- get unique tags -->
 {% capture all_tags %}
@@ -28,8 +17,7 @@ layout: post
 {% endif %}
 {% endfor %}
 {% endcapture %}
-{% assign tags = all_tags | split: ' ' | uniq | sort | concat: thisweektag | concat: populartag %}
-<!-- {% assign tags = site.data.recipes | map: 'tags' | uniq | sort | concat: thisweektag | concat: populartag %} -->
+{% assign tags = all_tags | split: ' ' | uniq | sort | concat: populartag %}
 
 <div class="everything">
     <div class="btn-menu">
@@ -48,13 +36,9 @@ layout: post
         <div class="media-item">
             <div class="item-head">
                 <span class="item-title">{{ item.name | capitalize }}</span>
-                <!-- {% if item.recipe_urls and item.recipe_urls != empty %}[{% for url in item.recipe_urls %}<a href="{{ url }}">recipe</a>{% unless forloop.last %}, {% endunless %}{% endfor %}]{% endif %} -->
 
                 {% capture urls %}{% if item.comments != empty %}{% for comment in item.comments %}{% if comment.url and comment.url != empty %}<a href="{{ comment.url }}">{{ forloop.index }}</a>::{% endif %}{% endfor %}{% endif %}{% endcapture %}
                 {% assign urls_array = urls | split: '::' | uniq %}
-                <!-- {% if urls_array and urls_array != empty %}
-                [{% for url in urls_array %}{{ url }}{% unless forloop.last %}, {% endunless %}{% endfor %}]
-                {% endif %} -->
             </div>
             <div class="item-opinion">
                 {% if item.tags %}
@@ -62,9 +46,7 @@ layout: post
                 {% if item.comments and item.comments.size > popularcount %}
                     {% assign curtagnames = curtagnames | concat: populartag %}
                 {% endif %}
-                {% if item.last_suggested_date and item.last_suggested_date == max_date %}
-                    {% assign curtagnames = curtagnames | concat: thisweektag %}
-                {% endif %}
+                
                 {% assign curtags = curtagnames | join:' btn-tag-' | prepend: 'btn-tag-' %}
                 <div class="tags {{ curtags }}">
                     <span class="item-label">tags:</span> 
