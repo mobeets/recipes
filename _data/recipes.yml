@@ -12,12 +12,6 @@
 # - Please add one tag from this list: ['drink', 'breakfast', 'dinner', 'dessert', 'bread']
 # - If an item has no url, remove the relevant 'url:' line above entirely
 #
-- name: "example chicken salad"
-  comments:
-  - date: "1/4/22"
-    comment: "your thoughts"
-    url: "https://www.food.com/recipe/traditional-mexican-wedding-cookies-162213"
-  tags: ["dinner"]
 - name: "fried chicken sandwiches"
   comments:
   - date: "1/2/22"

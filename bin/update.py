@@ -16,8 +16,10 @@ RECIPE_INTRO = """# TEMPLATE (DO NOT ERASE):
 #
 # Notes:
 # - Before adding a new item, check to make sure another item with the same name doesn't already exist.
+# - You should NOT edit any existing comment (only create new ones)
+# - You can ADD existing tags but do not remove any
 # - Please include one tag from this list: ['drink', 'breakfast', 'dinner', 'dessert', 'bread']
-# - If an item has no url, remove the relevant 'url:' line above entirely
+# - If you add an item with no url, remove the relevant 'url:' line above entirely
 #
 """
 
@@ -139,9 +141,11 @@ def make_items(matches, prev_items, subitem):
     for dtstr_of_comment, match in matches[::-1]:
         match, place = match
         if '#' in place:
-            url = place.split('#')[1].strip()
+            url = place.split(' # ')[1].strip()
             if 'http' not in url:
                 url = None
+            if url is not None and ' , ' in url:
+                url = url.split(' , ')[0]
         else:
             url = None
         # remove people, e.g., (JG)
@@ -244,11 +248,11 @@ def describe_changes(items, previtems):
                 if com not in oldval['comments']:
                     comstr = ' | '.join([y for x,y in com.items()])
                     msg = 'New comment in "{}": "{}"'.format(nm, comstr)
-                    cmsgs.append(msg)
+                    msgs.append(msg)
             for com in val['tags']:
                 if com not in oldval['tags']:
                     msg = 'New tag in "{}": "{}"'.format(nm, com)
-                    cmsgs.append(msg)
+                    msgs.append(msg)
     if msgs:
         msgs = ["Updates from lifelog (jay):"] + msgs
     return msgs
@@ -288,7 +292,8 @@ def look_for_new_items_in_previtems(items, previtems):
         if nm in nms:
             oldval = nms[nm]
             for com in val['comments']:
-                if com not in oldval['comments']:
+                # match comments by date
+                if com['date'] not in [c['date'] for c in oldval['comments']]:
                     oldval['comments'].append(com)
                     comstr = ' | '.join([y for x,y in com.items()])
                     msg = 'New comment in "{}": "{}"'.format(nm, comstr)
