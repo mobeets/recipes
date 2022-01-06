@@ -14,6 +14,18 @@
 # - You should NOT edit any existing comment (only create new ones)
 # - You can ADD existing tags but do not remove any
 #
+- name: "roasted cauliflower pasta & walnuts"
+  comments:
+  - date: "1/3/21"
+    comment: "easy, simple, surprisingly flavorful. roasted cauliflower in toaster oven (325F on air fry and just watch and then switch to bake if browning too much). used mini farfalle noodles, didn't have lemon, and used pecans instead of walnuts. used parm instead of pecorino and kinda eyeballed the parsley."
+    url: "https://www.feastingathome.com/roasted-cauliflower-pasta/"
+  tags: ["dinner", "pasta", "veggie"]
+- name: "white bean soup with bacon"
+  comments:
+  - date: "1/1/21"
+    comment: "basically the ham hock bean soup but with bacon. Best part is adding parmesan rind for the broth -- that's ESSENTIAL. I think could easily just add a hunk of parm (if you don't have just the rind)."
+    url: "https://themodernproper.com/white-bean-soup-with-bacon"
+  tags: ["dinner", "soup"]
 - name: "fried chicken sandwiches"
   comments:
   - date: "1/2/22"
@@ -840,6 +852,9 @@
   - "dessert"
 - name: "chicken pot pie"
   comments:
+  - date: "1/5/21"
+    comment: "New recipe. +2T flour to thicken it up faster. Only used top pie crust layer (didn't do bottom) -- used store bought Pillsbury dough. Didn't have celery and it was totally fine. 
+    url: "https://www.thewholesomedish.com/the-best-classic-chicken-pot-pie/#recipe"
   - date: "3/17/21"
     comment: "Jess makes the biscuit top recipe from one of her new cookbooks. Next time should just do a single serve, in the smaller rectangle pyrex. This time she used like 1.5 times the biscuit top and it was way too much. Also be warned, there's a lot of prep."
   - date: "12/20/20"
