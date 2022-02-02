@@ -14,6 +14,12 @@
 # - You should NOT edit any existing comment (only create new ones)
 # - You can ADD existing tags but do not remove any
 #
+- name: "chicken tortellini soup"
+  comments:
+  - date: "1/31/21"
+    comment: "good! very much chicken noodle soup just with tortellini. cut the chicken before cooking to speed it up and worked fine. also didn't do as many carrots as they called for and didn't have bell pepper"
+    url: "https://www.aspicyperspective.com/creamy-chicken-tortellini-soup/"
+  tags: ["dinner"]
 - name: "whole wheat pancakes"
   comments:
   - date: "1/14/21"
