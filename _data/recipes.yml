@@ -16,25 +16,25 @@
 #
 - name: "chicken tortellini soup"
   comments:
-  - date: "1/31/21"
+  - date: "1/31/22"
     comment: "good! very much chicken noodle soup just with tortellini. cut the chicken before cooking to speed it up and worked fine. also didn't do as many carrots as they called for and didn't have bell pepper"
     url: "https://www.aspicyperspective.com/creamy-chicken-tortellini-soup/"
   tags: ["dinner"]
 - name: "whole wheat pancakes"
   comments:
-  - date: "1/14/21"
+  - date: "1/14/22"
     comment: "good! added 1 extra tsp of sugar (total = 3 tsp for servings in recipe). used 1/4 cup to pour."
     url: "https://www.fifteenspatulas.com/whole-wheat-pancakes/"
   tags: ["breakfast"]
 - name: "roasted cauliflower pasta & walnuts"
   comments:
-  - date: "1/3/21"
+  - date: "1/3/22"
     comment: "easy, simple, surprisingly flavorful. roasted cauliflower in toaster oven (325F on air fry and just watch and then switch to bake if browning too much). used mini farfalle noodles, didn't have lemon, and used pecans instead of walnuts. used parm instead of pecorino and kinda eyeballed the parsley."
     url: "https://www.feastingathome.com/roasted-cauliflower-pasta/"
   tags: ["dinner", "pasta", "veggie"]
 - name: "white bean soup with bacon"
   comments:
-  - date: "1/1/21"
+  - date: "1/1/22"
     comment: "basically the ham hock bean soup but with bacon. Best part is adding parmesan rind for the broth -- that's ESSENTIAL. I think could easily just add a hunk of parm (if you don't have just the rind)."
     url: "https://themodernproper.com/white-bean-soup-with-bacon"
   tags: ["dinner", "soup"]
