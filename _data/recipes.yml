@@ -14,6 +14,12 @@
 # - You should NOT edit any existing comment (only create new ones)
 # - You can ADD existing tags but do not remove any
 #
+- name: "chana masala"
+  comments:
+  - date: "5/15/22"
+    comment: "Realy good! No real changes other than I didn't use the freshest herbs and skipped the chilis"
+    url: "https://minimalistbaker.com/easy-chana-masala/#wprm-recipe-container-35349"
+  tags: ["dinner"]
 - name: "chicken tortellini soup"
   comments:
   - date: "1/31/22"
@@ -2737,6 +2743,9 @@
   - date: "9/24/14"
     comment: "delicious! oil your hands to make the patties, fine if they be sticky"
     url: "http://www.vegetariantimes.com/recipe/homemade-falafel/"
+  - date: "6/5/14"
+    comment: "Really tasty. Doubled it and it made ~ 16 falafel. Enough for Jay and I for two nights. I added 1+ T flour, 1 egg, and panko. Made with side of roasted sweet potatoes with a Tahini sauce (Tahini, water, lemon juice, salt) and Tsaziki."
+    url: "https://minimalistbaker.com/easy-vegan-falafel/#wprm-recipe-container-35557"
   tags:
   - "dinner"
 - name: "coq au vin blanc"
