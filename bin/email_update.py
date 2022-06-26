@@ -7,7 +7,7 @@ from mako.lookup import TemplateLookup
 from send_email import send_email, DEFAULT_RECIPIENTS
 from update import least_recent_meals, load_recipes
 
-LIFELOG_FILE = '/Users/mobeets/Box Sync/Projects/Listed/Tracked/lifelog.txt'
+LIFELOG_FILE = '/Users/mobeets/Documents/Projects/Listed/Tracked/lifelog.txt'
 
 BASEDIR = os.path.dirname(os.path.abspath(os.path.join(inspect.stack()[0][1], '..')))
 DINNER_DATAFILE = os.path.join(BASEDIR, '_data', 'recipes.yml')

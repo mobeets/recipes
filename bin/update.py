@@ -49,7 +49,7 @@ def least_recent_meals(infile, outfile, n=5, date_key='last_suggested_date'):
     # update date to today
     # for item in items:
     #     item[date_key] = datetime.now().strftime(DATE_FORMAT)
-    write_to_yaml(data, outfile)
+    # write_to_yaml(data, outfile)
     return items
 
 def load_matches(infile, pattern):
@@ -341,7 +341,7 @@ def load_recipes(infile, outfile, prevfile=None):
     return msgs + msgs2
 
 if __name__ == '__main__':
-    infile = '/Users/mobeets/Box Sync/Projects/Listed/Tracked/lifelog.txt'
+    infile = '/Users/mobeets/Documents/Projects/Listed/Tracked/lifelog.txt'
     outfile = '/Users/mobeets/code/recipes/_data/recipes_tmp.yml'
     prevfile = '/Users/mobeets/code/recipes/_data/recipes.yml'
     msgs = load_recipes(infile, outfile, prevfile)
