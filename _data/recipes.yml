@@ -14,6 +14,112 @@
 # - Do NOT edit any existing comment (only create new ones)
 # - You can add new tags to existing items if you'd like
 #
+- name: "beef stew"
+  comments:
+  - date: "10/13/22"
+    comment: ""
+  - date: "1/1/21"
+    comment: "this recipe was delicious."
+    url: "https://thesaltymarshmallow.com/best-ever-instant-pot-beef-stew"
+  - date: "12/4/19"
+    comment: "could use more broth, fewer carrots."
+  - date: "7/23/19"
+    comment: "next time, let's add some potatoes. like a lot of them."
+  - date: "6/22/19"
+    comment: "freezer instant pot meal. Based on the side of the Instant pot, I'd say we could easily have doubled (though would need two storage bags instead of one). servings:5"
+  tags:
+  - "dinner"
+  - "beef"
+- name: "cast iron pizza"
+  comments:
+  - date: "10/5/22"
+    comment: ""
+  - date: "6/18/22"
+    comment: "with incredible sausage, and it was delicious!"
+  - date: "11/24/20"
+    comment: ""
+  - date: "11/1/20"
+    comment: ""
+  - date: "8/26/20"
+    comment: ""
+  - date: "7/29/20"
+    comment: ""
+  - date: "7/22/20"
+    comment: "recipe via Elaine, and it's delicious. used frozen pizza dough, thawed for 2 hours (3 hours would have been safer). a scoop of hazan sauce from the freezer. followed recipe except no fennel bulb. so tasty though! also made garlic knots, which baked about 2 minutes longer than the pizza. perfect template for a pizza though--it was great."
+    url: "https://www.bonappetit.com/recipe/cast-iron-pizza-with-fennel-and-sausage"
+  tags:
+  - "dinner"
+- name: "apple crumble"
+  comments:
+  - date: "9/25/22"
+    comment: "delicious! 3.25 lbs of apples, since it was already an insane amount of apples. stick with 1T of cinnamon and no more."
+    url: "https://cooking.nytimes.com/recipes/1018638-apple-crumble"
+  tags:
+  - "dessert"
+- name: "fried chicken sandwiches"
+  comments:
+  - date: "9/21/22"
+    comment: ""
+  - date: "1/30/22"
+    comment: ""
+  - date: "1/2/22"
+    comment: "Turned out great! We did half the cayenne, and I still think it was a bit too much? Not that it was spicy, it just wasn't the flavor I was looking for. Or maybe it was all the paprika. But still, super delicious. 1.5 lbs made 8 chickens. #foodlab"
+    url: "https://www.seriouseats.com/five-ingredient-fried-chicken-sandwich-recipe"
+  - date: "8/16/18"
+    comment: "fried as in the togarashi chicken; also pickles and mayo on brioche buns"
+  tags:
+  - "dinner"
+  - "chicken"
+  - "sandwich"
+- name: "tofu banh mi"
+  comments:
+  - date: "9/19/22"
+    comment: "super delicious"
+  - date: "4/18/22"
+    comment: "delicious"
+  tags:
+  - "dinner"
+- name: "thai beef with basil and rice"
+  comments:
+  - date: "9/15/22"
+    comment: ""
+  - date: "7/11/18"
+    comment: ""
+  - date: "4/28/18"
+    comment: ""
+  - date: "7/6/17"
+    comment: ""
+  - date: "2/6/17"
+    comment: "doubled it and it made 5 servings; need to make 1.25 cups rice though"
+  - date: "11/29/16"
+    comment: "maybe make 1.5x or 2x next time"
+    url: "http://www.bonappetit.com/recipe/thai-beef-with-basil"
+  tags:
+  - "dinner"
+  - "beef"
+- name: "chicken tikka masala"
+  comments:
+  - date: "9/13/22"
+    comment: ""
+  tags:
+  - "dinner"
+  - "chicken"
+- name: "prosciutto, goat cheese, arugula, fig jam sandwich"
+  comments:
+  - date: "8/31/22"
+    comment: ""
+  tags:
+  - "dinner"
+  - "sandwich"
+- name: "baked potatoes"
+  comments:
+  - date: "8/28/22"
+    comment: ""
+  - date: "2/22/21"
+    comment: ""
+    url: "https://www.gimmesomeoven.com/baked-potato/"
+  tags:
+  - "dinner"
 - name: "alabama white sauce chicken drumsticks"
   comments:
   - date: "8/23/22"
@@ -57,23 +163,6 @@
   tags:
   - "dessert"
   - "cookies"
-- name: "cast iron pizza"
-  comments:
-  - date: "6/18/22"
-    comment: "with incredible sausage, and it was delicious!"
-  - date: "11/24/20"
-    comment: ""
-  - date: "11/1/20"
-    comment: ""
-  - date: "8/26/20"
-    comment: ""
-  - date: "7/29/20"
-    comment: ""
-  - date: "7/22/20"
-    comment: "recipe via Elaine, and it's delicious. used frozen pizza dough, thawed for 2 hours (3 hours would have been safer). a scoop of hazan sauce from the freezer. followed recipe except no fennel bulb. so tasty though! also made garlic knots, which baked about 2 minutes longer than the pizza. perfect template for a pizza though--it was great."
-    url: "https://www.bonappetit.com/recipe/cast-iron-pizza-with-fennel-and-sausage"
-  tags:
-  - "dinner"
 - name: "banana blondies"
   comments:
   - date: "6/18/22"
@@ -173,12 +262,6 @@
     url: "http://www.browneyedbaker.com/2010/03/09/chewy-brownies/"
   tags:
   - "dessert"
-- name: "tofu banh mi"
-  comments:
-  - date: "4/18/22"
-    comment: "delicious"
-  tags:
-  - "dinner"
 - name: "meatball subs"
   comments:
   - date: "3/3/22"
@@ -255,21 +338,8 @@
     url: "https://www.aspicyperspective.com/creamy-chicken-tortellini-soup/"
   tags:
   - "dinner"
+  - "chicken"
   - "soup"
-  - "chicken"
-- name: "fried chicken sandwiches"
-  comments:
-  - date: "1/30/22"
-    comment: ""
-  - date: "1/2/22"
-    comment: "Turned out great! We did half the cayenne, and I still think it was a bit too much? Not that it was spicy, it just wasn't the flavor I was looking for. Or maybe it was all the paprika. But still, super delicious. 1.5 lbs made 8 chickens. #foodlab"
-    url: "https://www.seriouseats.com/five-ingredient-fried-chicken-sandwich-recipe"
-  - date: "8/16/18"
-    comment: "fried as in the togarashi chicken; also pickles and mayo on brioche buns"
-  tags:
-  - "dinner"
-  - "chicken"
-  - "sandwich"
 - name: "blondie"
   comments:
   - date: "1/29/22"
@@ -371,8 +441,8 @@
     url: "https://www.feastingathome.com/roasted-cauliflower-pasta/"
   tags:
   - "dinner"
-  - "veggie"
   - "pasta"
+  - "veggie"
 - name: "grilled cheese and tomato soup"
   comments:
   - date: "1/1/22"
@@ -387,8 +457,8 @@
     url: "https://themodernproper.com/white-bean-soup-with-bacon"
   tags:
   - "dinner"
-  - "soup"
   - "bacon"
+  - "soup"
 - name: "pork tenderloin"
   comments:
   - date: "12/29/21"
@@ -1156,13 +1226,6 @@
     url: "https://www.halfbakedharvest.com/gooey-chocolate-oatmeal-bars/"
   tags:
   - "dessert"
-- name: "baked potatoes"
-  comments:
-  - date: "2/22/21"
-    comment: ""
-    url: "https://www.gimmesomeoven.com/baked-potato/"
-  tags:
-  - "dinner"
 - name: "bean chili"
   comments:
   - date: "2/22/21"
@@ -1209,20 +1272,6 @@
   tags:
   - "dinner"
   - "slow-cooker"
-- name: "beef stew"
-  comments:
-  - date: "1/1/21"
-    comment: "this recipe was delicious."
-    url: "https://thesaltymarshmallow.com/best-ever-instant-pot-beef-stew"
-  - date: "12/4/19"
-    comment: "could use more broth, fewer carrots."
-  - date: "7/23/19"
-    comment: "next time, let's add some potatoes. like a lot of them."
-  - date: "6/22/19"
-    comment: "freezer instant pot meal. Based on the side of the Instant pot, I'd say we could easily have doubled (though would need two storage bags instead of one). servings:5"
-  tags:
-  - "dinner"
-  - "beef"
 - name: "pork carnitas tacos"
   comments:
   - date: "12/30/20"
@@ -1246,8 +1295,8 @@
     comment: "so good..."
   tags:
   - "dinner"
-  - "pork"
   - "tacos"
+  - "pork"
 - name: "bourbon cookies"
   comments:
   - date: "12/24/20"
@@ -2052,24 +2101,8 @@
   tags:
   - "dinner"
   - "chicken"
-  - "slow-cooker"
   - "soup"
-- name: "thai beef with basil and rice"
-  comments:
-  - date: "7/11/18"
-    comment: ""
-  - date: "4/28/18"
-    comment: ""
-  - date: "7/6/17"
-    comment: ""
-  - date: "2/6/17"
-    comment: "doubled it and it made 5 servings; need to make 1.25 cups rice though"
-  - date: "11/29/16"
-    comment: "maybe make 1.5x or 2x next time"
-    url: "http://www.bonappetit.com/recipe/thai-beef-with-basil"
-  tags:
-  - "dinner"
-  - "beef"
+  - "slow-cooker"
 - name: "chicken thighs"
   comments:
   - date: "7/10/18"
@@ -2134,8 +2167,8 @@
     comment: "highest taste-to-ease ratio ever!"
   tags:
   - "dinner"
-  - "salad"
   - "chicken"
+  - "salad"
 - name: "beef stroganoff"
   comments:
   - date: "4/22/18"
@@ -2264,8 +2297,8 @@
     comment: ""
   tags:
   - "dinner"
-  - "pasta"
   - "bacon"
+  - "pasta"
 - name: "tuna steaks with rice and asparagus"
   comments:
   - date: "8/26/17"
@@ -2409,8 +2442,8 @@
     comment: "second Blue Apron meal. Always use chicken breast with the skin still on! It's so much better this way. Lentil spice mix has thyme, bay leaf, mustard seeds, black pepper"
   tags:
   - "dinner"
-  - "salad"
   - "chicken"
+  - "salad"
 - name: "salmon chowder"
   comments:
   - date: "3/7/17"
@@ -2627,8 +2660,8 @@
     comment: "needs fewer peas, way more bacon (I'd suggest half a pound of bacon for a 1.5 times recipe.)"
   tags:
   - "dinner"
-  - "pasta"
   - "bacon"
+  - "pasta"
 - name: "chevre-stuffed chicken breast with lemon-butter sauce and pasta"
   comments:
   - date: "4/17/16"
@@ -2650,8 +2683,8 @@
     comment: ""
   tags:
   - "dinner"
-  - "pork"
   - "pasta"
+  - "pork"
 - name: "roast veggies, quinoa, yogurt"
   comments:
   - date: "4/13/16"
@@ -2728,8 +2761,8 @@
     comment: "chicken thighs and croutons...so good"
   tags:
   - "dinner"
-  - "salad"
   - "chicken"
+  - "salad"
 - name: "peanut butter oatmeal chocolate chip cookies"
   comments:
   - date: "2/21/16"
@@ -2924,8 +2957,8 @@
     comment: "unbelievable; so simple! delicious, and the ground sausage was an awesome combo; this actually tasted like italian food--the first time I've ever cooked such a thing"
   tags:
   - "dinner"
-  - "pork"
   - "pasta"
+  - "pork"
 - name: "breaded chicken tacos"
   comments:
   - date: "5/26/15"
@@ -2983,9 +3016,9 @@
     url: "http://eatathomecooks.com/2012/05/african-pulled-beef-sandwiches-in-the-slow-cooker-with-yogurt-mint-sauce.html"
   tags:
   - "dinner"
-  - "slow-cooker"
   - "beef"
   - "sandwich"
+  - "slow-cooker"
 - name: "cheesecake"
   comments:
   - date: "3/9/15"
@@ -3033,8 +3066,8 @@
     comment: ""
   tags:
   - "dinner"
-  - "burger"
   - "chicken"
+  - "burger"
 - name: "fried egg"
   comments:
   - date: "1/11/15"
@@ -3169,8 +3202,8 @@
   tags:
   - "dinner"
   - "chicken"
-  - "slow-cooker"
   - "beef"
+  - "slow-cooker"
 - name: "blat"
   comments:
   - date: "7/6/14"
@@ -3296,8 +3329,8 @@
     comment: ""
   tags:
   - "dinner"
-  - "lamb"
   - "curry"
+  - "lamb"
 - name: "peanut butter cookies with marshmallow topping"
   comments:
   - date: "2/24/14"
