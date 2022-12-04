@@ -79,6 +79,14 @@
     comment: ""
   tags:
   - "dinner"
+- name: "tomato glaze meatloaves with brown butter mashed potatoes"
+  comments:
+  - date: "11/30/22"
+    comment: "Delicious! Took about 1.5 hours to make. Used store bought breadcrumbs. Follow the recipe measurements and all the textures will be great."
+    url: "https://smittenkitchen.com/2017/02/tomato-glazed-meatloaves-with-brown-butter-mashed-potatoes/"
+  tags:
+  - "dinner"
+  - "beef"
 - name: "beef stew"
   comments:
   - date: "10/13/22"
@@ -135,6 +143,14 @@
   tags:
   - "sandwich"
   - "chicken"
+- name: "tofu banh mi"
+  comments:
+  - date: "9/19/22"
+    comment: "super delicious"
+    url: "https://www.loveandlemons.com/banh-mi/#wprm-recipe-container-45320"
+  - date: "4/18/22"
+    comment: "delicious"
+  tags:
   - "dinner"
 - name: "thai beef with basil and rice"
   comments:
