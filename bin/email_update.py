@@ -17,9 +17,10 @@ TMP_DINNER_FILE = os.path.join(BASEDIR, 'static', 'html', 'dinners_rendered.html
 
 # code to update dinner file
 MSG_B = 'cd ~/code/recipes'
+MSG_B1 = 'git pull'
 MSG_C = 'cp {} {}'.format(TMP_DINNER_DATAFILE, '_data/recipes.yml')
 MSG_D = 'git add .<br>git commit -m "data update"<br>git push<br>'
-UPDATE_CODE = '<br>'.join([MSG_B, MSG_C, MSG_D])
+UPDATE_CODE = '<br>'.join([MSG_B, MSG_B1, MSG_C, MSG_D])
 
 def render(items, msgs, update_code=UPDATE_CODE, makodir=BASEDIR, infile=DINNER_MAKOFILE):
     lookup = TemplateLookup(directories=[makodir])
