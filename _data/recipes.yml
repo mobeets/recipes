@@ -16,6 +16,8 @@
 #
 - name: "chocolate chip cookies"
   comments:
+  - date: "12/24/22"
+    comment: "for santa"
   - date: "12/17/22"
     comment: "chocolate chip blind taste-testing between hershey's special dark, tollhouse 53%, and ghiradelli 60%. in the blind test, I liked the hershey's most, tollhouse least. jess liked the tollhouse most, hershey's least. ghiradelli was a solid 2nd for both of us, but overall the less sweetness kinda meant the chocolate didn't stand out as much"
   - date: "6/16/21"
@@ -55,8 +57,8 @@
   - date: "5/15/13"
     comment: ""
   tags:
-  - "dessert"
   - "cookies"
+  - "dessert"
 - name: "mug brownie"
   comments:
   - date: "12/16/22"
@@ -241,9 +243,9 @@
   - date: "8/16/18"
     comment: "fried as in the togarashi chicken; also pickles and mayo on brioche buns"
   tags:
+  - "sandwich"
   - "chicken"
   - "dinner"
-  - "sandwich"
 - name: "thai beef with basil and rice"
   comments:
   - date: "9/15/22"
@@ -274,8 +276,8 @@
   - date: "8/31/22"
     comment: ""
   tags:
-  - "dinner"
   - "sandwich"
+  - "dinner"
 - name: "baked potatoes"
   comments:
   - date: "8/28/22"
@@ -308,8 +310,8 @@
     comment: "the cayenne is interesting. we didn't have orange or vanilla so we used 1t whiskey, and that tiny bit of liquid was CRITICAL for getting the batter to actually become batter. the cookies were larger than we normally make, which also made them amazing. would love to try without the cayenne, even though it was very interesting. overall, this was a very interesting/impressive cookie. baked for about 16 mins at 325F"
     url: "https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46507.pdf"
   tags:
-  - "dessert"
   - "cookies"
+  - "dessert"
 - name: "banana blondies"
   comments:
   - date: "6/18/22"
@@ -466,8 +468,8 @@
     comment: "good! very much chicken noodle soup just with tortellini. cut the chicken before cooking to speed it up and worked fine. also didn't do as many carrots as they called for and didn't have bell pepper"
     url: "https://www.aspicyperspective.com/creamy-chicken-tortellini-soup/"
   tags:
-  - "chicken"
   - "soup"
+  - "chicken"
   - "dinner"
 - name: "blondie"
   comments:
@@ -508,8 +510,8 @@
     url: "http://thepioneerwoman.com/cooking/pot-pie/"
   tags:
   - "pie"
-  - "dinner"
   - "chicken"
+  - "dinner"
 - name: "poached egg with hollandaise"
   comments:
   - date: "1/22/22"
@@ -521,8 +523,8 @@
   - date: "1/22/22"
     comment: "turned out great! cooked the chicken first (separately). took me a little over an hour start to finish for the whole meal. #foodlab"
   tags:
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "whole wheat pancakes"
   comments:
   - date: "1/14/22"
@@ -564,8 +566,8 @@
     url: "https://www.feastingathome.com/roasted-cauliflower-pasta/"
   tags:
   - "veggie"
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "grilled cheese and tomato soup"
   comments:
   - date: "1/1/22"
@@ -580,8 +582,8 @@
     url: "https://themodernproper.com/white-bean-soup-with-bacon"
   tags:
   - "bacon"
-  - "soup"
   - "dinner"
+  - "soup"
 - name: "pork tenderloin"
   comments:
   - date: "12/29/21"
@@ -622,8 +624,8 @@
     comment: "this was soooo good. jess says: added a little bit more green curry, about 1 oz extra of coconut milk (but only because we had extra), and chili flakes for garnish. also 24oz shrimp instead of 32oz."
     url: "https://www.onceuponachef.com/recipes/thai-shrimp-curry.html"
   tags:
-  - "dinner"
   - "curry"
+  - "dinner"
 - name: "hot chocolate"
   comments:
   - date: "12/5/21"
@@ -776,8 +778,8 @@
   - date: "9/21/15"
     comment: ""
   tags:
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "dutch apple pie"
   comments:
   - date: "10/21/21"
@@ -825,8 +827,8 @@
   - date: "2/4/13"
     comment: ""
   tags:
-  - "dinner"
   - "curry"
+  - "dinner"
 - name: "bbq chicken alfredo pizza"
   comments:
   - date: "10/4/21"
@@ -910,8 +912,8 @@
     comment: ""
     url: "https://cookieandkate.com/amazing-chocolate-chip-cookies/"
   tags:
-  - "dessert"
   - "cookies"
+  - "dessert"
 - name: "banana bread"
   comments:
   - date: "7/29/21"
@@ -1147,8 +1149,8 @@
   - date: "12/6/16"
     comment: "with mushrooms and chicken, using Mom's recipe, then just adding mushrooms and chicken (cooked separately, combined at the end)"
   tags:
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "rice pudding"
   comments:
   - date: "4/24/21"
@@ -1233,9 +1235,9 @@
     comment: "used 3 jalapenos and it is VERY spicy"
     url: "http://www.amateurgourmet.com/2010/04/bombay_chicken_curry.html"
   tags:
+  - "curry"
   - "chicken"
   - "dinner"
-  - "curry"
 - name: "pork chops"
   comments:
   - date: "3/24/21"
@@ -1291,8 +1293,8 @@
     comment: ""
     url: "https://sallysbakingaddiction.com/peanut-butter-oatmeal-chocolate-chip-cookies/#tasty-recipes-66885"
   tags:
-  - "dessert"
   - "cookies"
+  - "dessert"
 - name: "cheesy cuban chicken rice bake"
   comments:
   - date: "2/27/21"
@@ -1352,8 +1354,8 @@
     comment: "Jess says she did 1/2c milk, 1/2c white wine, 1.5 cans of 28oz crushed tomatoes, 2T tomato paste, and sage instead of parsley"
     url: "https://natashaskitchen.com/slow-cooker-bolognese-sauce-recipe/"
   tags:
-  - "slow-cooker"
   - "dinner"
+  - "slow-cooker"
 - name: "pork carnitas tacos"
   comments:
   - date: "12/30/20"
@@ -1388,8 +1390,8 @@
   - date: "12/23/16"
     comment: "they're basically like sugar cookies if you short on the bourbon, but they're still very good. we make a buttercream frosting for them"
   tags:
-  - "dessert"
   - "cookies"
+  - "dessert"
 - name: "storing sourdough dehydrated as chips"
   comments:
   - date: "12/6/20"
@@ -1429,8 +1431,8 @@
     comment: "I add about 1/2c of chocolate chips, and maybe 1/4c of walnuts. The batter couldn't really support all of it, but they did still turn out very good."
     url: "https://www.bonappetit.com/recipe/oatmeal-lace-cookies"
   tags:
-  - "dessert"
   - "cookies"
+  - "dessert"
 - name: "butternut squash chili"
   comments:
   - date: "11/15/20"
@@ -1456,8 +1458,8 @@
   - date: "3/15/19"
     comment: ""
   tags:
-  - "dessert"
   - "cookies"
+  - "dessert"
 - name: "blueberry tart"
   comments:
   - date: "10/18/20"
@@ -1586,8 +1588,8 @@
     comment: ""
     url: "http://www.foodnetwork.com/recipes/giada-de-laurentiis/baked-penne-with-roasted-vegetables-recipe.html"
   tags:
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "flourless chocolate cake"
   comments:
   - date: "8/30/20"
@@ -1656,8 +1658,8 @@
     comment: ""
     url: "https://gist.github.com/mobeets/a8b72bf10db9299a03c6b59856dc6f5a"
   tags:
-  - "dinner"
   - "curry"
+  - "dinner"
 - name: "chicken stock"
   comments:
   - date: "6/9/20"
@@ -1691,8 +1693,8 @@
     comment: "make with chicken thighs which we bake with some chili paste rubbed on, at 425F for about 25 minutes. also, only one small zucchini, and 1c of carrots. really delicious!"
     url: "https://www.seriouseats.com/recipes/2013/05/red-curry-with-shrimp-zucchini-and-carrot.html"
   tags:
-  - "dinner"
   - "curry"
+  - "dinner"
 - name: "yellow cake with chocolate icing"
   comments:
   - date: "5/16/20"
@@ -1726,8 +1728,8 @@
     comment: "pretty good flavor, and even better the next day"
     url: "https://www.bonappetit.com/recipe/bas-best-chocolate-chip-cookies/"
   tags:
-  - "dessert"
   - "cookies"
+  - "dessert"
 - name: "asparagus carbonara"
   comments:
   - date: "4/30/20"
@@ -1886,8 +1888,8 @@
     comment: "Jess made it. toppings: avocado, shredded cheese, tortilla chips. delicious. we used 2.5 lbs of chicken thighs but I think 3 lbs would be even better."
     url: "https://www.feastingathome.com/instant-pot-chicken-tortilla-soup/#tasty-recipes-20510"
   tags:
-  - "chicken"
   - "soup"
+  - "chicken"
   - "dinner"
 - name: "hazan's roasted chicken with lemons"
   comments:
@@ -2080,8 +2082,8 @@
   - date: "7/24/14"
     comment: "coconut milk, red onions, lentils, brown sugar, curry powder, chili powder, cayenne, paprika"
   tags:
-  - "dinner"
   - "curry"
+  - "dinner"
 - name: "baked potatoes and mac and cheese"
   comments:
   - date: "1/29/19"
@@ -2171,10 +2173,10 @@
     comment: "amazingly delicious, and so amazingly simple"
     url: "http://www.bakedbyrachel.com/slow-cooker-chicken-tortilla-soup/"
   tags:
-  - "slow-cooker"
-  - "chicken"
   - "soup"
+  - "chicken"
   - "dinner"
+  - "slow-cooker"
 - name: "chicken thighs"
   comments:
   - date: "7/10/18"
@@ -2197,9 +2199,9 @@
     comment: "nothing like tikka masala but fucking delicious"
     url: "http://www.thekitchn.com/recipe-slow-cooker-chicken-tikka-masala-recipes-from-the-kitchn-211284"
   tags:
-  - "slow-cooker"
   - "chicken"
   - "dinner"
+  - "slow-cooker"
 - name: "grilled chicken winglets"
   comments:
   - date: "6/17/18"
@@ -2238,9 +2240,9 @@
   - date: "2/19/13"
     comment: "highest taste-to-ease ratio ever!"
   tags:
-  - "salad"
-  - "dinner"
   - "chicken"
+  - "dinner"
+  - "salad"
 - name: "beef stroganoff"
   comments:
   - date: "4/22/18"
@@ -2324,16 +2326,16 @@
   - date: "6/16/16"
     comment: ""
   tags:
+  - "pasta"
   - "chicken"
   - "dinner"
-  - "pasta"
 - name: "peanut butter chocolate chip cookies"
   comments:
   - date: "10/9/17"
     comment: ""
   tags:
-  - "dessert"
   - "cookies"
+  - "dessert"
 - name: "tuna steaks with rice and broccoli"
   comments:
   - date: "9/25/17"
@@ -2361,16 +2363,16 @@
     comment: "super delicious, nice and crispy but also fluffy. recipe: 1/2c Coconut oil, 1/2c Butter, 1/2c Brown sugar, 1/2c Granulated sugar, 1/4c Milk, 1 Tbsp Vanilla extract, 2c Flour, 1 tsp Baking soda, 1 tsp Baking powder, 1/2 tsp Salt, 1c Chocolate chips"
     url: "https://snapguide.com/guides/make-cookies-when-you-have-no-eggs/"
   tags:
-  - "dessert"
   - "cookies"
+  - "dessert"
 - name: "butter sage pasta with bacon"
   comments:
   - date: "8/28/17"
     comment: ""
   tags:
+  - "pasta"
   - "bacon"
   - "dinner"
-  - "pasta"
 - name: "tuna steaks with rice and asparagus"
   comments:
   - date: "8/26/17"
@@ -2390,8 +2392,8 @@
   - date: "4/20/13"
     comment: ""
   tags:
-  - "dessert"
   - "cookies"
+  - "dessert"
 - name: "gyudon on rice with miso soup"
   comments:
   - date: "7/30/17"
@@ -2415,8 +2417,8 @@
   - date: "12/12/15"
     comment: ""
   tags:
-  - "dessert"
   - "cookies"
+  - "dessert"
 - name: "genoise cake"
   comments:
   - date: "5/21/17"
@@ -2474,8 +2476,8 @@
     comment: "slow-cook some pork shoulder using mom's recipe, then just add bbq sauce"
   tags:
   - "pork"
-  - "dinner"
   - "sandwich"
+  - "dinner"
 - name: "cherry and blueberry upside-down cake"
   comments:
   - date: "4/11/17"
@@ -2494,9 +2496,9 @@
   - date: "3/30/17"
     comment: "second Blue Apron meal. Always use chicken breast with the skin still on! It's so much better this way. Lentil spice mix has thyme, bay leaf, mustard seeds, black pepper"
   tags:
-  - "salad"
-  - "dinner"
   - "chicken"
+  - "dinner"
+  - "salad"
 - name: "salmon chowder"
   comments:
   - date: "3/7/17"
@@ -2547,8 +2549,8 @@
   - date: "9/1/13"
     comment: "but no foil! argh. will bake them tomorrow"
   tags:
-  - "dessert"
   - "cookies"
+  - "dessert"
 - name: "white bean, sausage and kale soup"
   comments:
   - date: "12/5/16"
@@ -2696,25 +2698,25 @@
   - date: "5/3/16"
     comment: ""
   tags:
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "hazan's pea, ricotta, and bacon pasta"
   comments:
   - date: "4/26/16"
     comment: "needs fewer peas, way more bacon (I'd suggest half a pound of bacon for a 1.5 times recipe.)"
   tags:
+  - "pasta"
   - "bacon"
   - "dinner"
-  - "pasta"
 - name: "chevre-stuffed chicken breast with lemon-butter sauce and pasta"
   comments:
   - date: "4/17/16"
     comment: ""
     url: "http://www.ostrommushrooms.com/recipes/sides/item/93-chevre-and-basil-filled-chicken-breasts"
   tags:
+  - "pasta"
   - "chicken"
   - "dinner"
-  - "pasta"
 - name: "dark chocolate sauce"
   comments:
   - date: "4/17/16"
@@ -2726,9 +2728,9 @@
   - date: "4/14/16"
     comment: ""
   tags:
+  - "pasta"
   - "pork"
   - "dinner"
-  - "pasta"
 - name: "roast veggies, quinoa, yogurt"
   comments:
   - date: "4/13/16"
@@ -2804,9 +2806,9 @@
   - date: "10/28/15"
     comment: "chicken thighs and croutons...so good"
   tags:
-  - "salad"
-  - "dinner"
   - "chicken"
+  - "dinner"
+  - "salad"
 - name: "peanut butter oatmeal chocolate chip cookies"
   comments:
   - date: "2/21/16"
@@ -2820,8 +2822,8 @@
   - date: "5/18/13"
     comment: ""
   tags:
-  - "dessert"
   - "cookies"
+  - "dessert"
 - name: "steak in wine, cream, and mushroom sauce; baked red potatoes; focaccia bread"
   comments:
   - date: "2/14/16"
@@ -2866,8 +2868,8 @@
   - date: "12/2/15"
     comment: "macaroni noodles, with a strip of bacon each and parmesan, salt/pepper added as well"
   tags:
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "marcella hazan's chickpea soup"
   comments:
   - date: "11/28/15"
@@ -2905,8 +2907,8 @@
     comment: ""
     url: "http://www.loveandlemons.com/2014/11/03/shredded-brussels-sprout-apple-salad/"
   tags:
-  - "salad"
   - "dinner"
+  - "salad"
 - name: "mashed sweet potatoes"
   comments:
   - date: "11/21/15"
@@ -2943,8 +2945,8 @@
   - date: "5/12/13"
     comment: ""
   tags:
-  - "dessert"
   - "cookies"
+  - "dessert"
 - name: "peach cobbler"
   comments:
   - date: "7/27/15"
@@ -3000,9 +3002,9 @@
   - date: "4/18/15"
     comment: "unbelievable; so simple! delicious, and the ground sausage was an awesome combo; this actually tasted like italian food--the first time I've ever cooked such a thing"
   tags:
+  - "pasta"
   - "pork"
   - "dinner"
-  - "pasta"
 - name: "breaded chicken tacos"
   comments:
   - date: "5/26/15"
@@ -3060,9 +3062,9 @@
     url: "http://eatathomecooks.com/2012/05/african-pulled-beef-sandwiches-in-the-slow-cooker-with-yogurt-mint-sauce.html"
   tags:
   - "beef"
-  - "slow-cooker"
-  - "dinner"
   - "sandwich"
+  - "dinner"
+  - "slow-cooker"
 - name: "cheesecake"
   comments:
   - date: "3/9/15"
@@ -3083,8 +3085,8 @@
     comment: ""
     url: "http://www.browneyedbaker.com/2010/02/24/peanut-butter-oatmeal-chocolate-chip-cookies/"
   tags:
-  - "dessert"
   - "cookies"
+  - "dessert"
 - name: "steak au poivre with roasted potatoes"
   comments:
   - date: "1/19/15"
@@ -3172,15 +3174,15 @@
   - date: "7/15/14"
     comment: ""
   tags:
-  - "slow-cooker"
   - "dinner"
+  - "slow-cooker"
 - name: "tuna pasta with garlic, spinach, parmesan"
   comments:
   - date: "8/11/14"
     comment: ""
   tags:
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "chocolate chip cookie cake"
   comments:
   - date: "8/11/14"
@@ -3193,9 +3195,9 @@
   - date: "8/6/14"
     comment: ""
   tags:
+  - "sandwich"
   - "chicken"
   - "dinner"
-  - "sandwich"
 - name: "almond sausage couscous"
   comments:
   - date: "7/29/14"
@@ -3223,8 +3225,8 @@
   - date: "5/14/13"
     comment: ""
   tags:
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "granola"
   comments:
   - date: "7/11/14"
@@ -3245,9 +3247,9 @@
     comment: "from the slow-cooker recipe book; used 1.6 lbs. of meat and that was still plenty"
   tags:
   - "beef"
-  - "slow-cooker"
   - "chicken"
   - "dinner"
+  - "slow-cooker"
 - name: "blat"
   comments:
   - date: "7/6/14"
@@ -3269,8 +3271,8 @@
   - date: "2/26/13"
     comment: ""
   tags:
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "chocolate malt"
   comments:
   - date: "6/28/14"
@@ -3317,8 +3319,8 @@
   - date: "5/29/14"
     comment: "shredded zucchini sauteed with one bell pepper, one serrano pepper, served with angel hair pasta and parmesan cheese...surprisingly delicious"
   tags:
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "chicken katsu don"
   comments:
   - date: "5/24/14"
@@ -3359,15 +3361,15 @@
     comment: ""
   tags:
   - "lamb"
-  - "dinner"
   - "curry"
+  - "dinner"
 - name: "peanut butter cookies with marshmallow topping"
   comments:
   - date: "2/24/14"
     comment: "marshmallow is just egg whites and sugar, but the cooking part is a bitch and makes us miserable...cookies are just one egg, 1c peanut butter, 1c sugar, and they're damned delicious and simple"
   tags:
-  - "dessert"
   - "cookies"
+  - "dessert"
 - name: "chicken waterzooi"
   comments:
   - date: "2/23/14"
@@ -3399,8 +3401,8 @@
   - date: "1/3/14"
     comment: "too easy, and just fine and delicious"
   tags:
-  - "slow-cooker"
   - "dinner"
+  - "slow-cooker"
 - name: "peanut butter chocolate ice cream"
   comments:
   - date: "1/3/14"
@@ -3420,8 +3422,8 @@
   - date: "1/1/14"
     comment: "too lemony"
   tags:
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "eggnog"
   comments:
   - date: "12/24/13"
@@ -3433,8 +3435,8 @@
   - date: "12/2/13"
     comment: ""
   tags:
-  - "dinner"
   - "sandwich"
+  - "dinner"
 - name: "chicken thighs, green beans with bacon, baked sweet potato"
   comments:
   - date: "11/23/13"
@@ -3460,8 +3462,8 @@
   - date: "10/30/13"
     comment: "soooo filling and pretty good"
   tags:
-  - "dinner"
   - "sandwich"
+  - "dinner"
 - name: "oat flour pancakes"
   comments:
   - date: "10/28/13"
@@ -3511,9 +3513,9 @@
   - date: "7/14/13"
     comment: ""
   tags:
+  - "pasta"
   - "beef"
   - "dinner"
-  - "pasta"
 - name: "lentil curry"
   comments:
   - date: "5/5/13"
@@ -3522,8 +3524,8 @@
   - date: "3/26/13"
     comment: ""
   tags:
-  - "dinner"
   - "curry"
+  - "dinner"
 - name: "ravioli with tomato-sauce and mushrooms"
   comments:
   - date: "4/15/13"
@@ -3550,15 +3552,15 @@
   - date: "3/5/13"
     comment: ""
   tags:
-  - "dinner"
   - "curry"
+  - "dinner"
 - name: "lentil spinach pecan feta carrot salad"
   comments:
   - date: "2/21/13"
     comment: ""
   tags:
-  - "salad"
   - "dinner"
+  - "salad"
 - name: "nachos with homemade salsa and guacamole, and \"corn mayonnaise,\" as jess calls it"
   comments:
   - date: "2/18/13"
@@ -3582,5 +3584,5 @@
   - date: "2/2/13"
     comment: ""
   tags:
-  - "dinner"
   - "pasta"
+  - "dinner"
