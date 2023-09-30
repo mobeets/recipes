@@ -14,6 +14,37 @@
 # - Do NOT edit any existing comment (only create new ones)
 # - You can add new tags to existing items if you'd like
 #
+- name: "cast iron pizza"
+  comments:
+  - date: "9/17/23"
+    comment: ""
+  - date: "7/3/23"
+    comment: ""
+  - date: "4/16/23"
+    comment: "white sauce with oyster mushrooms and sausage"
+  - date: "4/2/23"
+    comment: ""
+  - date: "2/13/23"
+    comment: ""
+  - date: "12/12/22"
+    comment: ""
+  - date: "10/5/22"
+    comment: ""
+  - date: "6/18/22"
+    comment: "with incredible sausage, and it was delicious!"
+  - date: "11/24/20"
+    comment: ""
+  - date: "11/1/20"
+    comment: ""
+  - date: "8/26/20"
+    comment: ""
+  - date: "7/29/20"
+    comment: ""
+  - date: "7/22/20"
+    comment: "recipe via Elaine, and it's delicious. used frozen pizza dough, thawed for 2 hours (3 hours would have been safer). a scoop of hazan sauce from the freezer. followed recipe except no fennel bulb. so tasty though! also made garlic knots, which baked about 2 minutes longer than the pizza. perfect template for a pizza though--it was great."
+    url: "https://www.bonappetit.com/recipe/cast-iron-pizza-with-fennel-and-sausage"
+  tags:
+  - "dinner"
 - name: "fried chicken sandwiches"
   comments:
   - date: "9/7/23"
@@ -36,9 +67,9 @@
   - date: "8/16/18"
     comment: "fried as in the togarashi chicken; also pickles and mayo on brioche buns"
   tags:
-  - "sandwich"
   - "dinner"
   - "chicken"
+  - "sandwich"
 - name: "ham and bean soup"
   comments:
   - date: "9/4/23"
@@ -114,8 +145,8 @@
   - date: "3/23/16"
     comment: "so good..."
   tags:
-  - "tacos"
   - "dinner"
+  - "tacos"
   - "pork"
 - name: "brownies"
   comments:
@@ -185,8 +216,8 @@
     comment: "chicken thighs and croutons...so good"
   tags:
   - "dinner"
-  - "salad"
   - "chicken"
+  - "salad"
 - name: "chipotle honey salmon bowl"
   comments:
   - date: "7/30/23"
@@ -233,35 +264,6 @@
   tags:
   - "dinner"
   - "pork"
-- name: "cast iron pizza"
-  comments:
-  - date: "7/3/23"
-    comment: ""
-  - date: "4/16/23"
-    comment: "white sauce with oyster mushrooms and sausage"
-  - date: "4/2/23"
-    comment: ""
-  - date: "2/13/23"
-    comment: ""
-  - date: "12/12/22"
-    comment: ""
-  - date: "10/5/22"
-    comment: ""
-  - date: "6/18/22"
-    comment: "with incredible sausage, and it was delicious!"
-  - date: "11/24/20"
-    comment: ""
-  - date: "11/1/20"
-    comment: ""
-  - date: "8/26/20"
-    comment: ""
-  - date: "7/29/20"
-    comment: ""
-  - date: "7/22/20"
-    comment: "recipe via Elaine, and it's delicious. used frozen pizza dough, thawed for 2 hours (3 hours would have been safer). a scoop of hazan sauce from the freezer. followed recipe except no fennel bulb. so tasty though! also made garlic knots, which baked about 2 minutes longer than the pizza. perfect template for a pizza though--it was great."
-    url: "https://www.bonappetit.com/recipe/cast-iron-pizza-with-fennel-and-sausage"
-  tags:
-  - "dinner"
 - name: "red beans and rice"
   comments:
   - date: "6/11/23"
@@ -484,8 +486,8 @@
     url: "http://thepioneerwoman.com/cooking/pot-pie/"
   tags:
   - "dinner"
-  - "pie"
   - "chicken"
+  - "pie"
 - name: "beef stew"
   comments:
   - date: "2/5/23"
@@ -684,8 +686,8 @@
   - date: "8/31/22"
     comment: ""
   tags:
-  - "sandwich"
   - "dinner"
+  - "sandwich"
 - name: "baked potatoes"
   comments:
   - date: "8/28/22"
@@ -909,9 +911,9 @@
     comment: "basically the ham hock bean soup but with bacon. Best part is adding parmesan rind for the broth -- that's ESSENTIAL. I think could easily just add a hunk of parm (if you don't have just the rind)."
     url: "https://themodernproper.com/white-bean-soup-with-bacon"
   tags:
-  - "bacon"
   - "dinner"
   - "soup"
+  - "bacon"
 - name: "butternut squash mushroom tart"
   comments:
   - date: "12/19/21"
@@ -1487,8 +1489,8 @@
     url: "http://www.amateurgourmet.com/2010/04/bombay_chicken_curry.html"
   tags:
   - "dinner"
-  - "curry"
   - "chicken"
+  - "curry"
 - name: "pork chops"
   comments:
   - date: "3/24/21"
@@ -2349,9 +2351,9 @@
     comment: "amazingly delicious, and so amazingly simple"
     url: "http://www.bakedbyrachel.com/slow-cooker-chicken-tortilla-soup/"
   tags:
-  - "slow-cooker"
   - "dinner"
   - "soup"
+  - "slow-cooker"
   - "chicken"
 - name: "chicken thighs"
   comments:
@@ -2376,8 +2378,8 @@
     url: "http://www.thekitchn.com/recipe-slow-cooker-chicken-tikka-masala-recipes-from-the-kitchn-211284"
   tags:
   - "dinner"
-  - "slow-cooker"
   - "chicken"
+  - "slow-cooker"
 - name: "grilled chicken winglets"
   comments:
   - date: "6/17/18"
@@ -2417,8 +2419,8 @@
     comment: "highest taste-to-ease ratio ever!"
   tags:
   - "dinner"
-  - "salad"
   - "chicken"
+  - "salad"
 - name: "beef stroganoff"
   comments:
   - date: "4/22/18"
@@ -2453,8 +2455,8 @@
     comment: ""
     url: "https://www.mynewroots.org/site/2011/07/raw-taco-fiesta-2/"
   tags:
-  - "tacos"
   - "dinner"
+  - "tacos"
 - name: "gyudon on rice"
   comments:
   - date: "2/15/18"
@@ -2502,8 +2504,8 @@
   - date: "6/16/16"
     comment: ""
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
   - "pasta"
 - name: "peanut butter chocolate chip cookies"
   comments:
@@ -2546,9 +2548,9 @@
   - date: "8/28/17"
     comment: ""
   tags:
-  - "bacon"
   - "dinner"
   - "pasta"
+  - "bacon"
 - name: "tuna steaks with rice and asparagus"
   comments:
   - date: "8/26/17"
@@ -2651,8 +2653,8 @@
   - date: "4/20/17"
     comment: "slow-cook some pork shoulder using mom's recipe, then just add bbq sauce"
   tags:
-  - "sandwich"
   - "dinner"
+  - "sandwich"
   - "pork"
 - name: "cherry and blueberry upside-down cake"
   comments:
@@ -2673,8 +2675,8 @@
     comment: "second Blue Apron meal. Always use chicken breast with the skin still on! It's so much better this way. Lentil spice mix has thyme, bay leaf, mustard seeds, black pepper"
   tags:
   - "dinner"
-  - "salad"
   - "chicken"
+  - "salad"
 - name: "salmon chowder"
   comments:
   - date: "3/7/17"
@@ -2840,8 +2842,8 @@
   - date: "6/23/16"
     comment: "Best (and most pizza-like) pizza we've ever made. Mel's kitchen dough (single serving) makes enough for one pie on the large silver tray; we use 1c of hazan's tomato sauce (one recipe makes ~3c), about 2c of three-cheese mexican shredded cheese, about 6oz mushrooms (sliced, placed both under and on top of cheese), a bit more than 1/2lb of bacon (6 strips of 11, where 11 was 1/2lb), and listen to yourself about how much cheese and not to Jess"
   tags:
-  - "bacon"
   - "dinner"
+  - "bacon"
 - name: "kettle popcorn"
   comments:
   - date: "6/18/16"
@@ -2881,17 +2883,17 @@
   - date: "4/26/16"
     comment: "needs fewer peas, way more bacon (I'd suggest half a pound of bacon for a 1.5 times recipe.)"
   tags:
-  - "bacon"
   - "dinner"
   - "pasta"
+  - "bacon"
 - name: "chevre-stuffed chicken breast with lemon-butter sauce and pasta"
   comments:
   - date: "4/17/16"
     comment: ""
     url: "http://www.ostrommushrooms.com/recipes/sides/item/93-chevre-and-basil-filled-chicken-breasts"
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
   - "pasta"
 - name: "dark chocolate sauce"
   comments:
@@ -2905,8 +2907,8 @@
     comment: ""
   tags:
   - "dinner"
-  - "pasta"
   - "pork"
+  - "pasta"
 - name: "roast veggies, quinoa, yogurt"
   comments:
   - date: "4/13/16"
@@ -3151,16 +3153,16 @@
     comment: "unbelievable; so simple! delicious, and the ground sausage was an awesome combo; this actually tasted like italian food--the first time I've ever cooked such a thing"
   tags:
   - "dinner"
-  - "pasta"
   - "pork"
+  - "pasta"
 - name: "breaded chicken tacos"
   comments:
   - date: "5/26/15"
     comment: "one (cubed) chicken breast made enough for six tacos; lightly breaded in panko crumbs, served with refried black beans, fresh garden tomato, cheddar cheese, and avocado"
   tags:
-  - "tacos"
   - "dinner"
   - "chicken"
+  - "tacos"
 - name: "pesto cheeseburgers"
   comments:
   - date: "5/19/15"
@@ -3209,8 +3211,8 @@
     comment: ""
     url: "http://eatathomecooks.com/2012/05/african-pulled-beef-sandwiches-in-the-slow-cooker-with-yogurt-mint-sauce.html"
   tags:
-  - "sandwich"
   - "dinner"
+  - "sandwich"
   - "slow-cooker"
   - "beef"
 - name: "cheesecake"
@@ -3343,9 +3345,9 @@
   - date: "8/6/14"
     comment: ""
   tags:
-  - "sandwich"
   - "dinner"
   - "chicken"
+  - "sandwich"
 - name: "almond sausage couscous"
   comments:
   - date: "7/29/14"
@@ -3395,8 +3397,8 @@
     comment: "from the slow-cooker recipe book; used 1.6 lbs. of meat and that was still plenty"
   tags:
   - "dinner"
-  - "slow-cooker"
   - "chicken"
+  - "slow-cooker"
   - "beef"
 - name: "blat"
   comments:
@@ -3432,9 +3434,9 @@
   - date: "6/23/14"
     comment: "talk about people doing jobs they hate, and dumb people who click Edit to copy/paste"
   tags:
-  - "tacos"
   - "dinner"
   - "chicken"
+  - "tacos"
 - name: "chocolate cashew ice cream"
   comments:
   - date: "6/19/14"
@@ -3562,9 +3564,9 @@
   - date: "1/2/14"
     comment: ""
   tags:
-  - "tacos"
   - "dinner"
   - "chicken"
+  - "tacos"
 - name: "peas and zucchini pasta"
   comments:
   - date: "1/1/14"
@@ -3583,16 +3585,16 @@
   - date: "12/2/13"
     comment: ""
   tags:
-  - "sandwich"
   - "dinner"
+  - "sandwich"
 - name: "chicken thighs, green beans with bacon, baked sweet potato"
   comments:
   - date: "11/23/13"
     comment: "somehow even better than yesterday"
   tags:
-  - "bacon"
   - "dinner"
   - "chicken"
+  - "bacon"
 - name: "rib eye steak, steamed kale, baked sweet potato"
   comments:
   - date: "11/22/13"
@@ -3616,8 +3618,8 @@
   - date: "10/30/13"
     comment: "soooo filling and pretty good"
   tags:
-  - "sandwich"
   - "dinner"
+  - "sandwich"
 - name: "oat flour pancakes"
   comments:
   - date: "10/28/13"
@@ -3668,8 +3670,8 @@
     comment: ""
   tags:
   - "dinner"
-  - "pasta"
   - "beef"
+  - "pasta"
 - name: "lentil curry"
   comments:
   - date: "5/5/13"
