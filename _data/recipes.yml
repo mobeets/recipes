@@ -14,6 +14,33 @@
 # - Do NOT edit any existing comment (only create new ones)
 # - You can add new tags to existing items if you'd like
 #
+- name: "pork sausage pasta bake"
+  comments:
+  - date: "5/18/24"
+    comment: ""
+  tags:
+  - "pork"
+  - "pasta"
+  - "dinner"
+- name: "salmon crunch bowl"
+  comments:
+  - date: "5/11/24"
+    comment: ""
+  - date: "3/30/24"
+    comment: ""
+  - date: "1/6/24"
+    comment: ""
+  - date: "11/26/23"
+    comment: ""
+  - date: "8/31/23"
+    comment: ""
+  - date: "7/7/23"
+    comment: ""
+  - date: "5/8/23"
+    comment: "Maybe the best salmon has ever tasted to me."
+    url: "https://cupofjo.com/2023/03/29/salmon-tempura-crunch-bowls/"
+  tags:
+  - "dinner"
 - name: "applewood chicken sandwiches"
   comments:
   - date: "5/1/24"
@@ -23,9 +50,9 @@
   - date: "2/28/24"
     comment: "so good: bacon, provolone (should be smoked gouda but whatever), grilled apples, and maple sauce (mayo, maple syrup, dijon mustard)"
   tags:
+  - "sandwich"
   - "chicken"
   - "dinner"
-  - "sandwich"
 - name: "pulled pork sandwiches"
   comments:
   - date: "4/18/24"
@@ -35,8 +62,8 @@
     comment: "slow-cook some pork shoulder using mom's recipe, then just add bbq sauce"
   tags:
   - "pork"
-  - "dinner"
   - "sandwich"
+  - "dinner"
 - name: "vegetarian lasagna"
   comments:
   - date: "4/7/24"
@@ -87,23 +114,6 @@
     comment: "Laura Olin's mother's recipe (via email newsletter): \"Torte: 5 oz butter, 6 Tbsp sugar, 1 egg, 1 cup flour, 1 tsp baking powder; Topping: 2 cups blueberries (can use other berries too), 6 Tbsp sugar; Preheat oven to 400 F. Beat butter and sugar, add egg, add baking powder and flour; Grease pie pan and spread mixture onto the bottom, spreading all the way to the sides. Spread blueberries on top of the mixture and sprinkle with sugar. Bake at 400F for about 30 minutes, checking now and then so that the sides don't burn.\""
   tags:
   - "dessert"
-- name: "salmon crunch bowl"
-  comments:
-  - date: "3/30/24"
-    comment: ""
-  - date: "1/6/24"
-    comment: ""
-  - date: "11/26/23"
-    comment: ""
-  - date: "8/31/23"
-    comment: ""
-  - date: "7/7/23"
-    comment: ""
-  - date: "5/8/23"
-    comment: "Maybe the best salmon has ever tasted to me."
-    url: "https://cupofjo.com/2023/03/29/salmon-tempura-crunch-bowls/"
-  tags:
-  - "dinner"
 - name: "fried chicken sandwiches"
   comments:
   - date: "3/18/24"
@@ -134,9 +144,9 @@
   - date: "8/16/18"
     comment: "fried as in the togarashi chicken; also pickles and mayo on brioche buns"
   tags:
+  - "sandwich"
   - "chicken"
   - "dinner"
-  - "sandwich"
 - name: "chocolate cake"
   comments:
   - date: "3/17/24"
@@ -190,9 +200,9 @@
     comment: ""
     url: "http://thepioneerwoman.com/cooking/pot-pie/"
   tags:
+  - "pie"
   - "chicken"
   - "dinner"
-  - "pie"
 - name: "patty melt"
   comments:
   - date: "2/10/24"
@@ -234,8 +244,8 @@
     comment: "in a store-bought, unbaked graham cracker crust. served with whipped cream on top, which is essential. everyone but robin LOVED it with a passion"
     url: "https://www.thepioneerwoman.com/food-cooking/recipes/a11850/chocolate-pie/"
   tags:
-  - "dinner"
   - "pie"
+  - "dinner"
 - name: "meatball soup"
   comments:
   - date: "1/28/24"
@@ -267,8 +277,8 @@
   - date: "10/14/15"
     comment: "delicious--Mom's recipe"
   tags:
-  - "dinner"
   - "soup"
+  - "dinner"
 - name: "creamy tortellini soup"
   comments:
   - date: "1/18/24"
@@ -283,8 +293,8 @@
     comment: "delicious, and everyone loved it. only made one serving and this fed us all for two nights. jess says she only used maybe 1/2 lb of sausage."
     url: "https://damndelicious.net/2019/01/30/creamy-tortellini-soup/"
   tags:
-  - "dinner"
   - "soup"
+  - "dinner"
 - name: "chocolate chip snickerdoodle cake"
   comments:
   - date: "1/13/24"
@@ -311,8 +321,8 @@
   - date: "6/3/18"
     comment: "ham was smoked ham hock from Whole Foods for $10, and also some dried (navy?) beans that Cindy sent us."
   tags:
-  - "dinner"
   - "soup"
+  - "dinner"
 - name: "shakshouka"
   comments:
   - date: "12/30/23"
@@ -449,8 +459,8 @@
     comment: ""
   tags:
   - "dessert"
-  - "dinner"
   - "pie"
+  - "dinner"
 - name: "cast iron pizza"
   comments:
   - date: "11/20/23"
@@ -508,8 +518,8 @@
     comment: ""
     url: "https://natashaskitchen.com/creamy-shrimp-pasta-recipe/"
   tags:
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "steel cut oats"
   comments:
   - date: "11/6/23"
@@ -567,16 +577,16 @@
     comment: ""
     url: "https://thesaltymarshmallow.com/creamy-italian-sausage-pasta/"
   tags:
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "lentil soup"
   comments:
   - date: "10/24/23"
     comment: ""
     url: "https://cookieandkate.com/best-lentil-soup-recipe/"
   tags:
-  - "dinner"
   - "soup"
+  - "dinner"
 - name: "apple pie"
   comments:
   - date: "10/15/23"
@@ -607,8 +617,8 @@
     comment: "with frozen pie dough in shell"
     url: "https://www.allrecipes.com/recipe/23439/perfect-pumpkin-pie/"
   tags:
-  - "dinner"
   - "pie"
+  - "dinner"
 - name: "yellow cake with chocolate sour cream frosting"
   comments:
   - date: "9/3/23"
@@ -656,9 +666,9 @@
   - date: "3/23/16"
     comment: "so good..."
   tags:
+  - "tacos"
   - "pork"
   - "dinner"
-  - "tacos"
 - name: "brownies"
   comments:
   - date: "8/15/23"
@@ -726,9 +736,9 @@
   - date: "10/28/15"
     comment: "chicken thighs and croutons...so good"
   tags:
+  - "salad"
   - "chicken"
   - "dinner"
-  - "salad"
 - name: "chipotle honey salmon bowl"
   comments:
   - date: "7/30/23"
@@ -894,8 +904,8 @@
     comment: "delicious"
     url: "https://sugargeekshow.com/recipe/double-chocolate-chip-cookies/"
   tags:
-  - "dessert"
   - "cookies"
+  - "dessert"
 - name: "flour tortillas"
   comments:
   - date: "2/5/23"
@@ -916,8 +926,8 @@
   - date: "5/12/13"
     comment: ""
   tags:
-  - "dessert"
   - "cookies"
+  - "dessert"
 - name: "chocolate chip cookies"
   comments:
   - date: "12/24/22"
@@ -961,8 +971,8 @@
   - date: "5/15/13"
     comment: ""
   tags:
-  - "dessert"
   - "cookies"
+  - "dessert"
 - name: "beef short ribs"
   comments:
   - date: "12/7/22"
@@ -1048,8 +1058,8 @@
   - date: "8/31/22"
     comment: ""
   tags:
-  - "dinner"
   - "sandwich"
+  - "dinner"
 - name: "baked potatoes"
   comments:
   - date: "8/28/22"
@@ -1082,8 +1092,8 @@
     comment: "the cayenne is interesting. we didn't have orange or vanilla so we used 1t whiskey, and that tiny bit of liquid was CRITICAL for getting the batter to actually become batter. the cookies were larger than we normally make, which also made them amazing. would love to try without the cayenne, even though it was very interesting. overall, this was a very interesting/impressive cookie. baked for about 16 mins at 325F"
     url: "https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46507.pdf"
   tags:
-  - "dessert"
   - "cookies"
+  - "dessert"
 - name: "sour cream chicken enchiladas"
   comments:
   - date: "6/6/22"
@@ -1175,9 +1185,9 @@
     comment: "good! very much chicken noodle soup just with tortellini. cut the chicken before cooking to speed it up and worked fine. also didn't do as many carrots as they called for and didn't have bell pepper"
     url: "https://www.aspicyperspective.com/creamy-chicken-tortellini-soup/"
   tags:
+  - "soup"
   - "chicken"
   - "dinner"
-  - "soup"
 - name: "blondie"
   comments:
   - date: "1/29/22"
@@ -1195,8 +1205,8 @@
   - date: "1/22/22"
     comment: "turned out great! cooked the chicken first (separately). took me a little over an hour start to finish for the whole meal. #foodlab"
   tags:
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "whole wheat pancakes"
   comments:
   - date: "1/14/22"
@@ -1237,16 +1247,16 @@
     comment: "easy, simple, surprisingly flavorful. roasted cauliflower in toaster oven (325F on air fry and just watch and then switch to bake if browning too much). used mini farfalle noodles, didn't have lemon, and used pecans instead of walnuts. used parm instead of pecorino and kinda eyeballed the parsley."
     url: "https://www.feastingathome.com/roasted-cauliflower-pasta/"
   tags:
-  - "dinner"
-  - "pasta"
   - "veggie"
+  - "pasta"
+  - "dinner"
 - name: "grilled cheese and tomato soup"
   comments:
   - date: "1/1/22"
     comment: "Made for lunch using kenji's recipe. The soup was pretty good--way better than a can for sure. The sandwich wasn't worth the extra work I don't think, but the parmesan added to the outside and grilled again was a nice touch actually. #foodlab"
   tags:
-  - "dinner"
   - "soup"
+  - "dinner"
 - name: "white bean soup with bacon"
   comments:
   - date: "1/1/22"
@@ -1254,8 +1264,8 @@
     url: "https://themodernproper.com/white-bean-soup-with-bacon"
   tags:
   - "bacon"
-  - "dinner"
   - "soup"
+  - "dinner"
 - name: "butternut squash mushroom tart"
   comments:
   - date: "12/19/21"
@@ -1307,8 +1317,8 @@
   - date: "11/21/21"
     comment: "to make fast food style burgers, flatten four 0.25lb patties with a rolling pin between two sheets of seran wrap. then cooked on skillet at 375F, flattening with spatula constantly. 5 mins a side. Cheese on after flipping."
   tags:
-  - "dinner"
   - "burger"
+  - "dinner"
 - name: "apple crisp"
   comments:
   - date: "11/7/21"
@@ -1388,8 +1398,8 @@
   - date: "9/21/15"
     comment: ""
   tags:
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "bbq chicken alfredo pizza"
   comments:
   - date: "10/4/21"
@@ -1403,8 +1413,8 @@
     comment: "best one of these so far! [n.b. may be the wrong date.]"
     url: "https://www.halfbakedharvest.com/one-pot-hamburger-helper/"
   tags:
-  - "dinner"
   - "burger"
+  - "dinner"
 - name: "lasagna"
   comments:
   - date: "9/9/21"
@@ -1447,8 +1457,8 @@
     comment: ""
     url: "https://cookieandkate.com/amazing-chocolate-chip-cookies/"
   tags:
-  - "dessert"
   - "cookies"
+  - "dessert"
 - name: "banana bread"
   comments:
   - date: "7/29/21"
@@ -1495,8 +1505,8 @@
   - date: "6/3/20"
     comment: "about 5 minutes to warm the grill up (on high), then grill the burgers about 6 minutes on each side, with the lid partially closed (held up by a rock), and then adding cheese after that with the lid open. turned out perfectly!"
   tags:
-  - "dinner"
   - "burger"
+  - "dinner"
 - name: "chicken fingers"
   comments:
   - date: "5/17/21"
@@ -1684,8 +1694,8 @@
   - date: "12/6/16"
     comment: "with mushrooms and chicken, using Mom's recipe, then just adding mushrooms and chicken (cooked separately, combined at the end)"
   tags:
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "rice pudding"
   comments:
   - date: "4/24/21"
@@ -1733,8 +1743,8 @@
     comment: "used 3 jalapenos and it is VERY spicy"
     url: "http://www.amateurgourmet.com/2010/04/bombay_chicken_curry.html"
   tags:
-  - "chicken"
   - "curry"
+  - "chicken"
   - "dinner"
 - name: "pork chops"
   comments:
@@ -1791,8 +1801,8 @@
     comment: ""
     url: "https://sallysbakingaddiction.com/peanut-butter-oatmeal-chocolate-chip-cookies/#tasty-recipes-66885"
   tags:
-  - "dessert"
   - "cookies"
+  - "dessert"
 - name: "cheesy cuban chicken rice bake"
   comments:
   - date: "2/27/21"
@@ -1863,8 +1873,8 @@
   - date: "12/23/16"
     comment: "they're basically like sugar cookies if you short on the bourbon, but they're still very good. we make a buttercream frosting for them"
   tags:
-  - "dessert"
   - "cookies"
+  - "dessert"
 - name: "storing sourdough dehydrated as chips"
   comments:
   - date: "12/6/20"
@@ -1894,8 +1904,8 @@
     comment: "I add about 1/2c of chocolate chips, and maybe 1/4c of walnuts. The batter couldn't really support all of it, but they did still turn out very good."
     url: "https://www.bonappetit.com/recipe/oatmeal-lace-cookies"
   tags:
-  - "dessert"
   - "cookies"
+  - "dessert"
 - name: "butternut squash chili"
   comments:
   - date: "11/15/20"
@@ -1921,8 +1931,8 @@
   - date: "3/15/19"
     comment: ""
   tags:
-  - "dessert"
   - "cookies"
+  - "dessert"
 - name: "hot buttered rum"
   comments:
   - date: "10/17/20"
@@ -2037,8 +2047,8 @@
     comment: ""
     url: "http://www.foodnetwork.com/recipes/giada-de-laurentiis/baked-penne-with-roasted-vegetables-recipe.html"
   tags:
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "flourless chocolate cake"
   comments:
   - date: "8/30/20"
@@ -2169,8 +2179,8 @@
     comment: "pretty good flavor, and even better the next day"
     url: "https://www.bonappetit.com/recipe/bas-best-chocolate-chip-cookies/"
   tags:
-  - "dessert"
   - "cookies"
+  - "dessert"
 - name: "asparagus carbonara"
   comments:
   - date: "4/30/20"
@@ -2300,17 +2310,17 @@
   - date: "12/8/15"
     comment: "incredible: garlic, olive oil, cannelini beans, chicken broth...and that's it, plus salt and pepper and we add cheese as well"
   tags:
-  - "dinner"
   - "soup"
+  - "dinner"
 - name: "instant pot chicken tortilla soup"
   comments:
   - date: "2/9/20"
     comment: "Jess made it. toppings: avocado, shredded cheese, tortilla chips. delicious. we used 2.5 lbs of chicken thighs but I think 3 lbs would be even better."
     url: "https://www.feastingathome.com/instant-pot-chicken-tortilla-soup/#tasty-recipes-20510"
   tags:
+  - "soup"
   - "chicken"
   - "dinner"
-  - "soup"
 - name: "hazan's roasted chicken with lemons"
   comments:
   - date: "2/2/20"
@@ -2485,8 +2495,8 @@
     comment: "shiitake mushroom burger, baked sweet potato fries; first Blue Apron meal, and it's delicious: the miso mayo is key"
     url: "https://www.blueapron.com/recipes/hoisin-shiitake-burgers-with-miso-mayonnaise-roasted-sweet-potato-wedges"
   tags:
-  - "dinner"
   - "burger"
+  - "dinner"
 - name: "chicken enchiladas"
   comments:
   - date: "1/4/19"
@@ -2552,9 +2562,9 @@
     url: "http://www.bakedbyrachel.com/slow-cooker-chicken-tortilla-soup/"
   tags:
   - "chicken"
+  - "soup"
   - "slow-cooker"
   - "dinner"
-  - "soup"
 - name: "chicken thighs"
   comments:
   - date: "7/10/18"
@@ -2618,9 +2628,9 @@
   - date: "2/19/13"
     comment: "highest taste-to-ease ratio ever!"
   tags:
+  - "salad"
   - "chicken"
   - "dinner"
-  - "salad"
 - name: "beef stroganoff"
   comments:
   - date: "4/22/18"
@@ -2655,8 +2665,8 @@
     comment: ""
     url: "https://www.mynewroots.org/site/2011/07/raw-taco-fiesta-2/"
   tags:
-  - "dinner"
   - "tacos"
+  - "dinner"
 - name: "gyudon on rice"
   comments:
   - date: "2/15/18"
@@ -2704,16 +2714,16 @@
   - date: "6/16/16"
     comment: ""
   tags:
+  - "pasta"
   - "chicken"
   - "dinner"
-  - "pasta"
 - name: "peanut butter chocolate chip cookies"
   comments:
   - date: "10/9/17"
     comment: ""
   tags:
-  - "dessert"
   - "cookies"
+  - "dessert"
 - name: "tuna steaks with rice and broccoli"
   comments:
   - date: "9/25/17"
@@ -2731,8 +2741,8 @@
     comment: "I baked them a few nights ago, and that took forever, but the soup turned out really good actually; Jess loved it"
     url: "http://www.foodnetwork.com/recipes/food-network-kitchens/butternut-squash-soup-recipe1.html"
   tags:
-  - "dinner"
   - "soup"
+  - "dinner"
 - name: "chocolate chip cookies without eggs"
   comments:
   - date: "9/10/17"
@@ -2741,16 +2751,16 @@
     comment: "super delicious, nice and crispy but also fluffy. recipe: 1/2c Coconut oil, 1/2c Butter, 1/2c Brown sugar, 1/2c Granulated sugar, 1/4c Milk, 1 Tbsp Vanilla extract, 2c Flour, 1 tsp Baking soda, 1 tsp Baking powder, 1/2 tsp Salt, 1c Chocolate chips"
     url: "https://snapguide.com/guides/make-cookies-when-you-have-no-eggs/"
   tags:
-  - "dessert"
   - "cookies"
+  - "dessert"
 - name: "butter sage pasta with bacon"
   comments:
   - date: "8/28/17"
     comment: ""
   tags:
   - "bacon"
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "tuna steaks with rice and asparagus"
   comments:
   - date: "8/26/17"
@@ -2770,8 +2780,8 @@
   - date: "4/20/13"
     comment: ""
   tags:
-  - "dessert"
   - "cookies"
+  - "dessert"
 - name: "gyudon on rice with miso soup"
   comments:
   - date: "7/30/17"
@@ -2780,8 +2790,8 @@
     other_urls:
     - "http://www.hikarimiso.com/recipes/miso_soup/basic_miso/"
   tags:
-  - "dinner"
   - "soup"
+  - "dinner"
 - name: "fruit pizza"
   comments:
   - date: "7/4/17"
@@ -2795,8 +2805,8 @@
   - date: "12/12/15"
     comment: ""
   tags:
-  - "dessert"
   - "cookies"
+  - "dessert"
 - name: "genoise cake"
   comments:
   - date: "5/21/17"
@@ -2821,8 +2831,8 @@
   - date: "8/24/14"
     comment: "with spinach, green onions, pork, fried egg, fish sauce, tamarind paste, chili flakes"
   tags:
-  - "dinner"
   - "soup"
+  - "dinner"
 - name: "julia childs's almond cake"
   comments:
   - date: "5/13/17"
@@ -2846,8 +2856,8 @@
     comment: "soooo good"
     url: "http://www.bonappetit.com/recipe/tom-kha-gai-chicken-coconut-soup"
   tags:
-  - "dinner"
   - "soup"
+  - "dinner"
 - name: "cherry and blueberry upside-down cake"
   comments:
   - date: "4/11/17"
@@ -2866,9 +2876,9 @@
   - date: "3/30/17"
     comment: "second Blue Apron meal. Always use chicken breast with the skin still on! It's so much better this way. Lentil spice mix has thyme, bay leaf, mustard seeds, black pepper"
   tags:
+  - "salad"
   - "chicken"
   - "dinner"
-  - "salad"
 - name: "salmon chowder"
   comments:
   - date: "3/7/17"
@@ -2919,16 +2929,16 @@
   - date: "9/1/13"
     comment: "but no foil! argh. will bake them tomorrow"
   tags:
-  - "dessert"
   - "cookies"
+  - "dessert"
 - name: "white bean, sausage and kale soup"
   comments:
   - date: "12/5/16"
     comment: ""
     url: "http://www.bonappetit.com/columns/cooking-without-recipes/article/easy-sausage-white-bean-kale-dinner"
   tags:
-  - "dinner"
   - "soup"
+  - "dinner"
 - name: "hazan's chickpea soup"
   comments:
   - date: "11/9/16"
@@ -2936,8 +2946,8 @@
   - date: "4/18/16"
     comment: ""
   tags:
-  - "dinner"
   - "soup"
+  - "dinner"
 - name: "poptarts"
   comments:
   - date: "10/27/16"
@@ -3003,8 +3013,8 @@
   - date: "2/13/15"
     comment: ""
   tags:
-  - "dinner"
   - "soup"
+  - "dinner"
 - name: "red chili bean and sweet potato burritos"
   comments:
   - date: "7/27/16"
@@ -3055,8 +3065,8 @@
   - date: "5/18/16"
     comment: "It's okay."
   tags:
-  - "dinner"
   - "soup"
+  - "dinner"
 - name: "chevre and honey nests"
   comments:
   - date: "5/10/16"
@@ -3068,25 +3078,25 @@
   - date: "5/3/16"
     comment: ""
   tags:
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "hazan's pea, ricotta, and bacon pasta"
   comments:
   - date: "4/26/16"
     comment: "needs fewer peas, way more bacon (I'd suggest half a pound of bacon for a 1.5 times recipe.)"
   tags:
   - "bacon"
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "chevre-stuffed chicken breast with lemon-butter sauce and pasta"
   comments:
   - date: "4/17/16"
     comment: ""
     url: "http://www.ostrommushrooms.com/recipes/sides/item/93-chevre-and-basil-filled-chicken-breasts"
   tags:
+  - "pasta"
   - "chicken"
   - "dinner"
-  - "pasta"
 - name: "dark chocolate sauce"
   comments:
   - date: "4/17/16"
@@ -3099,8 +3109,8 @@
     comment: ""
   tags:
   - "pork"
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "roast veggies, quinoa, yogurt"
   comments:
   - date: "4/13/16"
@@ -3124,8 +3134,8 @@
   - date: "8/27/13"
     comment: ""
   tags:
-  - "dinner"
   - "burger"
+  - "dinner"
 - name: "turkey chili and cornbread"
   comments:
   - date: "4/11/16"
@@ -3145,8 +3155,8 @@
   - date: "1/24/16"
     comment: ""
   tags:
-  - "dinner"
   - "soup"
+  - "dinner"
 - name: "cinnamon rolls"
   comments:
   - date: "3/12/16"
@@ -3177,8 +3187,8 @@
   - date: "5/18/13"
     comment: ""
   tags:
-  - "dessert"
   - "cookies"
+  - "dessert"
 - name: "steak in wine, cream, and mushroom sauce; baked red potatoes; focaccia bread"
   comments:
   - date: "2/14/16"
@@ -3190,8 +3200,8 @@
   - date: "1/31/16"
     comment: ""
   tags:
-  - "dinner"
   - "soup"
+  - "dinner"
 - name: "gnocchi with vodka sauce"
   comments:
   - date: "1/20/16"
@@ -3210,8 +3220,8 @@
   - date: "1/4/16"
     comment: "without carrots, with crostini; I cook because Jess is sick."
   tags:
-  - "dinner"
   - "soup"
+  - "dinner"
 - name: "salmon with kale and red potatoes"
   comments:
   - date: "12/30/15"
@@ -3223,8 +3233,8 @@
   - date: "12/2/15"
     comment: "macaroni noodles, with a strip of bacon each and parmesan, salt/pepper added as well"
   tags:
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "marcella hazan's chickpea soup"
   comments:
   - date: "11/28/15"
@@ -3245,8 +3255,8 @@
     comment: "maybe the greatest, simplest soup ever; fucking amazingly rich and delicious"
     url: "http://stylishcuisine.com/?p=87"
   tags:
-  - "dinner"
   - "soup"
+  - "dinner"
 - name: "snickerdoodles"
   comments:
   - date: "11/28/15"
@@ -3262,8 +3272,8 @@
     comment: ""
     url: "http://www.loveandlemons.com/2014/11/03/shredded-brussels-sprout-apple-salad/"
   tags:
-  - "dinner"
   - "salad"
+  - "dinner"
 - name: "mashed sweet potatoes"
   comments:
   - date: "11/21/15"
@@ -3311,8 +3321,8 @@
   - date: "5/4/15"
     comment: "in imitation of Hooked's: panko crumbs on tilapia filet, mayo sprinkled in dill on a toasted HEB bolillo; dotted with sweet chili sauce (rooster chili sauce + white sugar); delicious!"
   tags:
-  - "dinner"
   - "burger"
+  - "dinner"
 - name: "pancakes"
   comments:
   - date: "6/13/15"
@@ -3345,16 +3355,16 @@
     comment: "unbelievable; so simple! delicious, and the ground sausage was an awesome combo; this actually tasted like italian food--the first time I've ever cooked such a thing"
   tags:
   - "pork"
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "breaded chicken tacos"
   comments:
   - date: "5/26/15"
     comment: "one (cubed) chicken breast made enough for six tacos; lightly breaded in panko crumbs, served with refried black beans, fresh garden tomato, cheddar cheese, and avocado"
   tags:
+  - "tacos"
   - "chicken"
   - "dinner"
-  - "tacos"
 - name: "pesto cheeseburgers"
   comments:
   - date: "5/19/15"
@@ -3362,8 +3372,8 @@
   - date: "3/29/15"
     comment: "pesto, parmesan cheese, burger, toasted bolillos, mayo = maybe the best burger I think I've ever had, definitely the best one I've ever made; let the pan get nice and hot, then put loosely balled burgers on (break up beef entirely before balling), then smash."
   tags:
-  - "dinner"
   - "burger"
+  - "dinner"
 - name: "scrambled eggs cooked with yogurt"
   comments:
   - date: "5/16/15"
@@ -3403,10 +3413,10 @@
     comment: ""
     url: "http://eatathomecooks.com/2012/05/african-pulled-beef-sandwiches-in-the-slow-cooker-with-yogurt-mint-sauce.html"
   tags:
+  - "sandwich"
   - "beef"
   - "slow-cooker"
   - "dinner"
-  - "sandwich"
 - name: "cheesecake"
   comments:
   - date: "3/9/15"
@@ -3427,8 +3437,8 @@
     comment: ""
     url: "http://www.browneyedbaker.com/2010/02/24/peanut-butter-oatmeal-chocolate-chip-cookies/"
   tags:
-  - "dessert"
   - "cookies"
+  - "dessert"
 - name: "steak au poivre with roasted potatoes"
   comments:
   - date: "1/19/15"
@@ -3453,9 +3463,9 @@
   - date: "3/18/13"
     comment: ""
   tags:
+  - "burger"
   - "chicken"
   - "dinner"
-  - "burger"
 - name: "fried egg"
   comments:
   - date: "1/11/15"
@@ -3469,8 +3479,8 @@
     url: "http://ladyandpups.com/2014/01/04/spicy-miso-ramen-express-eng/"
   tags:
   - "pork"
-  - "dinner"
   - "soup"
+  - "dinner"
 - name: "granola"
   comments:
   - date: "10/16/14"
@@ -3513,8 +3523,8 @@
   - date: "8/11/14"
     comment: ""
   tags:
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "chocolate chip cookie cake"
   comments:
   - date: "8/11/14"
@@ -3527,9 +3537,9 @@
   - date: "8/6/14"
     comment: ""
   tags:
+  - "sandwich"
   - "chicken"
   - "dinner"
-  - "sandwich"
 - name: "almond sausage couscous"
   comments:
   - date: "7/29/14"
@@ -3557,8 +3567,8 @@
   - date: "5/14/13"
     comment: ""
   tags:
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "granola"
   comments:
   - date: "7/11/14"
@@ -3579,9 +3589,9 @@
     comment: "from the slow-cooker recipe book; used 1.6 lbs. of meat and that was still plenty"
   tags:
   - "chicken"
+  - "beef"
   - "slow-cooker"
   - "dinner"
-  - "beef"
 - name: "blat"
   comments:
   - date: "7/6/14"
@@ -3603,8 +3613,8 @@
   - date: "2/26/13"
     comment: ""
   tags:
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "chocolate malt"
   comments:
   - date: "6/28/14"
@@ -3616,9 +3626,9 @@
   - date: "6/23/14"
     comment: "talk about people doing jobs they hate, and dumb people who click Edit to copy/paste"
   tags:
+  - "tacos"
   - "chicken"
   - "dinner"
-  - "tacos"
 - name: "chocolate cashew ice cream"
   comments:
   - date: "6/19/14"
@@ -3651,8 +3661,8 @@
   - date: "5/29/14"
     comment: "shredded zucchini sauteed with one bell pepper, one serrano pepper, served with angel hair pasta and parmesan cheese...surprisingly delicious"
   tags:
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "chicken katsu don"
   comments:
   - date: "5/24/14"
@@ -3692,16 +3702,16 @@
   - date: "3/3/14"
     comment: ""
   tags:
+  - "lamb"
   - "curry"
   - "dinner"
-  - "lamb"
 - name: "peanut butter cookies with marshmallow topping"
   comments:
   - date: "2/24/14"
     comment: "marshmallow is just egg whites and sugar, but the cooking part is a bitch and makes us miserable...cookies are just one egg, 1c peanut butter, 1c sugar, and they're damned delicious and simple"
   tags:
-  - "dessert"
   - "cookies"
+  - "dessert"
 - name: "chicken waterzooi"
   comments:
   - date: "2/23/14"
@@ -3746,16 +3756,16 @@
   - date: "1/2/14"
     comment: ""
   tags:
+  - "tacos"
   - "chicken"
   - "dinner"
-  - "tacos"
 - name: "peas and zucchini pasta"
   comments:
   - date: "1/1/14"
     comment: "too lemony"
   tags:
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "eggnog"
   comments:
   - date: "12/24/13"
@@ -3767,15 +3777,15 @@
   - date: "12/2/13"
     comment: ""
   tags:
-  - "dinner"
   - "sandwich"
+  - "dinner"
 - name: "chicken thighs, green beans with bacon, baked sweet potato"
   comments:
   - date: "11/23/13"
     comment: "somehow even better than yesterday"
   tags:
-  - "chicken"
   - "bacon"
+  - "chicken"
   - "dinner"
 - name: "rib eye steak, steamed kale, baked sweet potato"
   comments:
@@ -3800,8 +3810,8 @@
   - date: "10/30/13"
     comment: "soooo filling and pretty good"
   tags:
-  - "dinner"
   - "sandwich"
+  - "dinner"
 - name: "oat flour pancakes"
   comments:
   - date: "10/28/13"
@@ -3852,8 +3862,8 @@
     comment: ""
   tags:
   - "beef"
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "lentil curry"
   comments:
   - date: "5/5/13"
@@ -3877,8 +3887,8 @@
   - date: "2/14/13"
     comment: ""
   tags:
-  - "dinner"
   - "burger"
+  - "dinner"
 - name: "mushroom noodles"
   comments:
   - date: "3/7/13"
@@ -3897,8 +3907,8 @@
   - date: "2/21/13"
     comment: ""
   tags:
-  - "dinner"
   - "salad"
+  - "dinner"
 - name: "nachos with homemade salsa and guacamole, and \"corn mayonnaise,\" as jess calls it"
   comments:
   - date: "2/18/13"
@@ -3922,5 +3932,5 @@
   - date: "2/2/13"
     comment: ""
   tags:
-  - "dinner"
   - "pasta"
+  - "dinner"
