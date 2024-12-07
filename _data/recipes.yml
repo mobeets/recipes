@@ -14,10 +14,57 @@
 # - Do NOT edit any existing comment (only create new ones)
 # - You can add new tags to existing items if you'd like
 #
+- name: "hazan's all'amatriciana sauce"
+  comments:
+  - date: "11/30/24"
+    comment: ""
+  - date: "4/21/20"
+    comment: ""
+  - date: "1/19/20"
+    comment: "two cans of marzano whole tomatoes, 4 oz prosicutto, 6 oz bacon, servings:8"
+  - date: "6/25/18"
+    comment: "doubled recipe using 1 lb of ground pork total, and 1/2T of red chili flakes"
+  - date: "1/21/18"
+    comment: ""
+  - date: "6/20/17"
+    comment: ""
+  - date: "3/9/17"
+    comment: "we make a double recipe, and it's a good amount"
+  - date: "8/26/16"
+    comment: "this time with bucatini, but Jess, please don't cook the whole pound of pasta...Though we should definitely make double the sauce next time"
+  - date: "8/14/16"
+    comment: "we cook 10oz. bacon (from bacon butt bits), add a diced medium onion, then a full large can of whole plum tomatoes (no oil, no butter), and then chili flakes; delicious!"
+  tags:
+  - "dinner"
+- name: "salmon crunch bowl"
+  comments:
+  - date: "11/25/24"
+    comment: ""
+  - date: "10/9/24"
+    comment: ""
+  - date: "8/27/24"
+    comment: ""
+  - date: "5/11/24"
+    comment: ""
+  - date: "3/30/24"
+    comment: ""
+  - date: "1/6/24"
+    comment: ""
+  - date: "11/26/23"
+    comment: ""
+  - date: "8/31/23"
+    comment: ""
+  - date: "7/7/23"
+    comment: ""
+  - date: "5/8/23"
+    comment: "Maybe the best salmon has ever tasted to me."
+    url: "https://cupofjo.com/2023/03/29/salmon-tempura-crunch-bowls/"
+  tags:
+  - "dinner"
 - name: "chicken pot pie"
   comments:
   - date: "11/21/24"
-    comment: ""
+    comment: "we freeze half of it. to bake from frozen, expect a much longer cook time, and you'll need to cover the edge of the crust with foil"
   - date: "3/5/24"
     comment: ""
   - date: "10/14/23"
@@ -79,8 +126,8 @@
   - date: "6/22/19"
     comment: "freezer instant pot meal. Based on the side of the Instant pot, I'd say we could easily have doubled (though would need two storage bags instead of one). servings:5"
   tags:
-  - "beef"
   - "dinner"
+  - "beef"
 - name: "applewood chicken sandwiches"
   comments:
   - date: "11/7/24"
@@ -94,9 +141,9 @@
   - date: "2/28/24"
     comment: "so good: bacon, provolone (should be smoked gouda but whatever), grilled apples, and maple sauce (mayo, maple syrup, dijon mustard)"
   tags:
-  - "sandwich"
   - "chicken"
   - "dinner"
+  - "sandwich"
 - name: "creamy tortellini soup"
   comments:
   - date: "11/3/24"
@@ -208,8 +255,8 @@
   - date: "3/23/16"
     comment: "so good..."
   tags:
-  - "pork"
   - "dinner"
+  - "pork"
   - "tacos"
 - name: "burgers on the grill"
   comments:
@@ -246,29 +293,6 @@
     comment: "with homemade focaccia"
   - date: "3/8/19"
     comment: ""
-  tags:
-  - "dinner"
-- name: "salmon crunch bowl"
-  comments:
-  - date: "10/9/24"
-    comment: ""
-  - date: "8/27/24"
-    comment: ""
-  - date: "5/11/24"
-    comment: ""
-  - date: "3/30/24"
-    comment: ""
-  - date: "1/6/24"
-    comment: ""
-  - date: "11/26/23"
-    comment: ""
-  - date: "8/31/23"
-    comment: ""
-  - date: "7/7/23"
-    comment: ""
-  - date: "5/8/23"
-    comment: "Maybe the best salmon has ever tasted to me."
-    url: "https://cupofjo.com/2023/03/29/salmon-tempura-crunch-bowls/"
   tags:
   - "dinner"
 - name: "blueberry pie"
@@ -366,8 +390,8 @@
   - date: "12/6/16"
     comment: "with mushrooms and chicken, using Mom's recipe, then just adding mushrooms and chicken (cooked separately, combined at the end)"
   tags:
-  - "pasta"
   - "dinner"
+  - "pasta"
 - name: "tahini brownies"
   comments:
   - date: "7/28/24"
@@ -392,8 +416,8 @@
   - date: "7/14/24"
     comment: "first time using my new grill! jess did the marinade"
   tags:
-  - "beef"
   - "dinner"
+  - "beef"
 - name: "creamy shrimp pasta"
   comments:
   - date: "6/12/24"
@@ -403,8 +427,8 @@
     comment: ""
     url: "https://natashaskitchen.com/creamy-shrimp-pasta-recipe/"
   tags:
-  - "pasta"
   - "dinner"
+  - "pasta"
 - name: "pulled pork sandwiches"
   comments:
   - date: "6/4/24"
@@ -415,17 +439,17 @@
   - date: "4/20/17"
     comment: "slow-cook some pork shoulder using mom's recipe, then just add bbq sauce"
   tags:
+  - "dinner"
   - "sandwich"
   - "pork"
-  - "dinner"
 - name: "pork sausage pasta bake"
   comments:
   - date: "5/18/24"
     comment: ""
   tags:
-  - "pasta"
-  - "pork"
   - "dinner"
+  - "pork"
+  - "pasta"
 - name: "vegetarian lasagna"
   comments:
   - date: "4/7/24"
@@ -484,9 +508,9 @@
   - date: "8/16/18"
     comment: "fried as in the togarashi chicken; also pickles and mayo on brioche buns"
   tags:
-  - "sandwich"
   - "chicken"
   - "dinner"
+  - "sandwich"
 - name: "chocolate cake"
   comments:
   - date: "3/17/24"
@@ -741,8 +765,8 @@
   - date: "11/11/13"
     comment: ""
   tags:
-  - "dessert"
   - "dinner"
+  - "dessert"
   - "pie"
 - name: "tofu banh mi"
   comments:
@@ -819,8 +843,8 @@
     comment: ""
     url: "https://thesaltymarshmallow.com/creamy-italian-sausage-pasta/"
   tags:
-  - "pasta"
   - "dinner"
+  - "pasta"
 - name: "lentil soup"
   comments:
   - date: "10/24/23"
@@ -921,8 +945,8 @@
     comment: ""
     url: "https://bestrecipebox.com/oven-roast-pork-loin-roast/"
   tags:
-  - "pork"
   - "dinner"
+  - "pork"
 - name: "red beans and rice"
   comments:
   - date: "6/11/23"
@@ -1128,16 +1152,16 @@
     comment: "I did the same ingredients but just with two short ribs totaling 1.2 lbs. It was unbelievable. Dried them off with paper towels before seasoning, and put them in the small orange dutch oven. But if there'd been more I might have needed a bigger pot. Anyway, also added four carrots to the sauce in with the meat. Cooked about 2.5 hours exactly and all the juices were mostly gone. One of the best meals we've made. Served with mashed sweet potatoes and sourdough toast."
     url: "https://thestayathomechef.com/classic-braised-beef-short-ribs/"
   tags:
-  - "beef"
   - "dinner"
+  - "beef"
 - name: "tomato glaze meatloaves with brown butter mashed potatoes"
   comments:
   - date: "11/30/22"
     comment: "Delicious! Took about 1.5 hours to make. Used store bought breadcrumbs. Follow the recipe measurements and all the textures will be great."
     url: "https://smittenkitchen.com/2017/02/tomato-glazed-meatloaves-with-brown-butter-mashed-potatoes/"
   tags:
-  - "beef"
   - "dinner"
+  - "beef"
 - name: "baked ziti"
   comments:
   - date: "11/18/22"
@@ -1181,8 +1205,8 @@
     comment: "maybe make 1.5x or 2x next time"
     url: "http://www.bonappetit.com/recipe/thai-beef-with-basil"
   tags:
-  - "beef"
   - "dinner"
+  - "beef"
 - name: "chicken tikka masala"
   comments:
   - date: "9/13/22"
@@ -1195,8 +1219,8 @@
   - date: "8/31/22"
     comment: ""
   tags:
-  - "sandwich"
   - "dinner"
+  - "sandwich"
 - name: "baked potatoes"
   comments:
   - date: "8/28/22"
@@ -1342,16 +1366,16 @@
   - date: "1/22/22"
     comment: "turned out great! cooked the chicken first (separately). took me a little over an hour start to finish for the whole meal. #foodlab"
   tags:
-  - "pasta"
   - "dinner"
+  - "pasta"
 - name: "whole wheat pancakes"
   comments:
   - date: "1/14/22"
     comment: "good! added 1 extra tsp of sugar (total = 3 tsp for servings in recipe). used 1/4 cup to pour."
     url: "https://www.fifteenspatulas.com/whole-wheat-pancakes/"
   tags:
-  - "cake"
   - "breakfast"
+  - "cake"
 - name: "ribeye steak"
   comments:
   - date: "1/13/22"
@@ -1384,8 +1408,8 @@
     comment: "easy, simple, surprisingly flavorful. roasted cauliflower in toaster oven (325F on air fry and just watch and then switch to bake if browning too much). used mini farfalle noodles, didn't have lemon, and used pecans instead of walnuts. used parm instead of pecorino and kinda eyeballed the parsley."
     url: "https://www.feastingathome.com/roasted-cauliflower-pasta/"
   tags:
-  - "pasta"
   - "veggie"
+  - "pasta"
   - "dinner"
 - name: "grilled cheese and tomato soup"
   comments:
@@ -1475,8 +1499,8 @@
   - date: "11/5/21"
     comment: ""
   tags:
-  - "dessert"
   - "snack"
+  - "dessert"
 - name: "turkey chili"
   comments:
   - date: "11/4/21"
@@ -1535,8 +1559,8 @@
   - date: "9/21/15"
     comment: ""
   tags:
-  - "pasta"
   - "dinner"
+  - "pasta"
 - name: "bbq chicken alfredo pizza"
   comments:
   - date: "10/4/21"
@@ -1774,8 +1798,8 @@
     comment: "I skip the tabasco and sugar, and instead add cocoa, and cook for about 5 hours on low"
     url: "http://www.food.com/recipe/the-best-bowl-of-chili-ive-ever-had-178865"
   tags:
-  - "beef"
   - "dinner"
+  - "beef"
 - name: "filet mignon"
   comments:
   - date: "5/5/21"
@@ -1852,8 +1876,8 @@
     comment: "Delicious! 1-inch thick, cooked at 400F for 10 mins or so, after a 30 min salt brine and then searing in an oven-hot cast iron."
     url: "http://www.thekitchn.com/how-to-cook-perfect-pork-chops-in-the-oven-cooking-lessons-from-the-kitchn-194257"
   tags:
-  - "pork"
   - "dinner"
+  - "pork"
 - name: "tahini cinnamon rolls"
   comments:
   - date: "3/21/21"
@@ -1934,8 +1958,8 @@
     comment: "sooo delicious. aka german pancakes aka \"big puffy pancake\"."
     url: "https://themodernproper.com/dutch-baby-pancake"
   tags:
-  - "cake"
   - "breakfast"
+  - "cake"
 - name: "sourdough biscuits"
   comments:
   - date: "1/10/21"
@@ -1949,8 +1973,8 @@
     comment: "we accidentally make the entire batter to be left overnight. turns out it was...totally fine? but obviously not ideal, because the salt didn't let the yeast thrive. anyway, we did 1c flour, 1c milk, 1/2c starter, 2 eggs, 1/2t salt, 1t baking soda, 1T sugar. added blueberries (and be generous with these because they're the best part)."
     url: "https://cooking.nytimes.com/recipes/1018663-cast-iron-sourdough-pancakes"
   tags:
-  - "cake"
   - "breakfast"
+  - "cake"
 - name: "slow-cooker bolognese"
   comments:
   - date: "1/8/21"
@@ -2071,8 +2095,8 @@
     comment: "a little too salty and too much sage, but super flavorful. I also add chili flakes, and use garlic powder instead of garlic. used 8oz sausage so recipe split in half."
     url: "https://www.marthastewart.com/341904/simple-homemade-sausage-patties"
   tags:
-  - "pork"
   - "dinner"
+  - "pork"
 - name: "beer [tasting]"
   comments:
   - date: "9/27/20"
@@ -2131,8 +2155,8 @@
     comment: ""
     url: "http://www.foodnetwork.com/recipes/giada-de-laurentiis/baked-penne-with-roasted-vegetables-recipe.html"
   tags:
-  - "pasta"
   - "dinner"
+  - "pasta"
 - name: "flourless chocolate cake"
   comments:
   - date: "8/30/20"
@@ -2252,26 +2276,6 @@
     url: "https://cooking.nytimes.com/recipes/1017998-springtime-spaghetti-carbonara"
   tags:
   - "dinner"
-- name: "hazan's all'amatriciana sauce"
-  comments:
-  - date: "4/21/20"
-    comment: ""
-  - date: "1/19/20"
-    comment: "two cans of marzano whole tomatoes, 4 oz prosicutto, 6 oz bacon, servings:8"
-  - date: "6/25/18"
-    comment: "doubled recipe using 1 lb of ground pork total, and 1/2T of red chili flakes"
-  - date: "1/21/18"
-    comment: ""
-  - date: "6/20/17"
-    comment: ""
-  - date: "3/9/17"
-    comment: "we make a double recipe, and it's a good amount"
-  - date: "8/26/16"
-    comment: "this time with bucatini, but Jess, please don't cook the whole pound of pasta...Though we should definitely make double the sauce next time"
-  - date: "8/14/16"
-    comment: "we cook 10oz. bacon (from bacon butt bits), add a diced medium onion, then a full large can of whole plum tomatoes (no oil, no butter), and then chili flakes; delicious!"
-  tags:
-  - "dinner"
 - name: "sourdough pancakes"
   comments:
   - date: "4/10/20"
@@ -2284,8 +2288,8 @@
   - date: "7/26/14"
     comment: "did about 1c flour 1/2c milk 1/8c starter, left overnight on microwave; then 1/2t salt 1/2t baking soda 1 T oil 1 T sugar 1 egg and then milk to make right thickness, blended; it was rubbery dough and kinda rubbery pancake but that's a negative word because they were pretty tasty"
   tags:
-  - "cake"
   - "breakfast"
+  - "cake"
 - name: "bagels"
   comments:
   - date: "4/9/20"
@@ -2347,8 +2351,8 @@
     comment: "These were delicious and amazing. St Louis style, 3 lbs. @$5/lb."
     url: "http://www.marthastewart.com/318389/oven-roasted-ribs-with-barbecue-sauce"
   tags:
-  - "pork"
   - "dinner"
+  - "pork"
 - name: "hazan's bean soup"
   comments:
   - date: "2/13/20"
@@ -2409,8 +2413,8 @@
   - date: "7/6/19"
     comment: "freezer instant pot meal. really tasty, though a bit watery. Took nearly thirty minutes to get to pressure, plus 45+10 for cook+vent time, so make sure to account for that when you start. servings:8"
   tags:
-  - "beef"
   - "dinner"
+  - "beef"
 - name: "kladdkaka swedish chocolate cake"
   comments:
   - date: "12/9/19"
@@ -2437,8 +2441,8 @@
   - date: "10/29/19"
     comment: "blue apron meal"
   tags:
-  - "pork"
   - "dinner"
+  - "pork"
 - name: "two-tier chocolate cake"
   comments:
   - date: "10/27/19"
@@ -2621,8 +2625,8 @@
   tags:
   - "chicken"
   - "dinner"
-  - "slow-cooker"
   - "soup"
+  - "slow-cooker"
 - name: "chicken thighs"
   comments:
   - date: "7/10/18"
@@ -2701,8 +2705,8 @@
     comment: "we use 2 lbs. ground beef, and 20oz mushrooms; made about 8 servings"
     url: "http://www.bonappetit.com/recipe/adams-beef-stroganoff"
   tags:
-  - "beef"
   - "dinner"
+  - "beef"
 - name: "raw tacos with cashews and walnuts"
   comments:
   - date: "4/15/18"
@@ -2761,8 +2765,8 @@
     comment: "very dense, but fun; we follow the comments; then put the remaining batter in muffin tins at 375F for 15-20 mins or so"
     url: "http://allrecipes.com/recipe/17036/pumpkin-pancakes/"
   tags:
-  - "cake"
   - "breakfast"
+  - "cake"
 - name: "chevre-stuffed chicken breast with mushroom-butter sauce and pasta"
   comments:
   - date: "11/7/17"
@@ -2772,9 +2776,9 @@
   - date: "6/16/16"
     comment: ""
   tags:
-  - "pasta"
   - "chicken"
   - "dinner"
+  - "pasta"
 - name: "peanut butter chocolate chip cookies"
   comments:
   - date: "10/9/17"
@@ -2816,9 +2820,9 @@
   - date: "8/28/17"
     comment: ""
   tags:
-  - "pasta"
   - "bacon"
   - "dinner"
+  - "pasta"
 - name: "tuna steaks with rice and asparagus"
   comments:
   - date: "8/26/17"
@@ -2880,8 +2884,8 @@
     comment: ""
     url: "http://www.thekitchn.com/recipe-lamb-korma-recipes-from-the-kitchn-196350"
   tags:
-  - "lamb"
   - "dinner"
+  - "lamb"
 - name: "ramen"
   comments:
   - date: "5/14/17"
@@ -3136,25 +3140,25 @@
   - date: "5/3/16"
     comment: ""
   tags:
-  - "pasta"
   - "dinner"
+  - "pasta"
 - name: "hazan's pea, ricotta, and bacon pasta"
   comments:
   - date: "4/26/16"
     comment: "needs fewer peas, way more bacon (I'd suggest half a pound of bacon for a 1.5 times recipe.)"
   tags:
-  - "pasta"
   - "bacon"
   - "dinner"
+  - "pasta"
 - name: "chevre-stuffed chicken breast with lemon-butter sauce and pasta"
   comments:
   - date: "4/17/16"
     comment: ""
     url: "http://www.ostrommushrooms.com/recipes/sides/item/93-chevre-and-basil-filled-chicken-breasts"
   tags:
-  - "pasta"
   - "chicken"
   - "dinner"
+  - "pasta"
 - name: "dark chocolate sauce"
   comments:
   - date: "4/17/16"
@@ -3166,9 +3170,9 @@
   - date: "4/14/16"
     comment: ""
   tags:
-  - "pasta"
-  - "pork"
   - "dinner"
+  - "pork"
+  - "pasta"
 - name: "roast veggies, quinoa, yogurt"
   comments:
   - date: "4/13/16"
@@ -3291,8 +3295,8 @@
   - date: "12/2/15"
     comment: "macaroni noodles, with a strip of bacon each and parmesan, salt/pepper added as well"
   tags:
-  - "pasta"
   - "dinner"
+  - "pasta"
 - name: "marcella hazan's chickpea soup"
   comments:
   - date: "11/28/15"
@@ -3355,8 +3359,8 @@
     comment: "delicious! and extremely easy"
     url: "http://www.marthastewart.com/852118/pork-roast-caramelized-parsnips"
   tags:
-  - "pork"
   - "dinner"
+  - "pork"
 - name: "peach cobbler"
   comments:
   - date: "7/27/15"
@@ -3391,8 +3395,8 @@
   - date: "12/9/13"
     comment: "pioneer woman says use cake flour--they end up very cakey, but just okay"
   tags:
-  - "cake"
   - "breakfast"
+  - "cake"
 - name: "ham and mushroom cheese pizza"
   comments:
   - date: "6/11/15"
@@ -3412,9 +3416,9 @@
   - date: "4/18/15"
     comment: "unbelievable; so simple! delicious, and the ground sausage was an awesome combo; this actually tasted like italian food--the first time I've ever cooked such a thing"
   tags:
-  - "pasta"
-  - "pork"
   - "dinner"
+  - "pork"
+  - "pasta"
 - name: "breaded chicken tacos"
   comments:
   - date: "5/26/15"
@@ -3471,9 +3475,9 @@
     comment: ""
     url: "http://eatathomecooks.com/2012/05/african-pulled-beef-sandwiches-in-the-slow-cooker-with-yogurt-mint-sauce.html"
   tags:
+  - "dinner"
   - "sandwich"
   - "beef"
-  - "dinner"
   - "slow-cooker"
 - name: "cheesecake"
   comments:
@@ -3536,9 +3540,9 @@
     comment: "holy shit, we just made amazing ramen; we used white ramen with bonito (and no red miso), also we just did normal eggs, but still we high-fived like four times while eating this because it was that good"
     url: "http://ladyandpups.com/2014/01/04/spicy-miso-ramen-express-eng/"
   tags:
-  - "pork"
   - "dinner"
   - "soup"
+  - "pork"
 - name: "granola"
   comments:
   - date: "10/16/14"
@@ -3581,8 +3585,8 @@
   - date: "8/11/14"
     comment: ""
   tags:
-  - "pasta"
   - "dinner"
+  - "pasta"
 - name: "chocolate chip cookie cake"
   comments:
   - date: "8/11/14"
@@ -3595,9 +3599,9 @@
   - date: "8/6/14"
     comment: ""
   tags:
-  - "sandwich"
   - "chicken"
   - "dinner"
+  - "sandwich"
 - name: "almond sausage couscous"
   comments:
   - date: "7/29/14"
@@ -3625,8 +3629,8 @@
   - date: "5/14/13"
     comment: ""
   tags:
-  - "pasta"
   - "dinner"
+  - "pasta"
 - name: "granola"
   comments:
   - date: "7/11/14"
@@ -3646,9 +3650,9 @@
   - date: "7/7/14"
     comment: "from the slow-cooker recipe book; used 1.6 lbs. of meat and that was still plenty"
   tags:
-  - "beef"
   - "chicken"
   - "dinner"
+  - "beef"
   - "slow-cooker"
 - name: "blat"
   comments:
@@ -3671,8 +3675,8 @@
   - date: "2/26/13"
     comment: ""
   tags:
-  - "pasta"
   - "dinner"
+  - "pasta"
 - name: "chocolate malt"
   comments:
   - date: "6/28/14"
@@ -3719,8 +3723,8 @@
   - date: "5/29/14"
     comment: "shredded zucchini sauteed with one bell pepper, one serrano pepper, served with angel hair pasta and parmesan cheese...surprisingly delicious"
   tags:
-  - "pasta"
   - "dinner"
+  - "pasta"
 - name: "chicken katsu don"
   comments:
   - date: "5/24/14"
@@ -3760,8 +3764,8 @@
   - date: "3/3/14"
     comment: ""
   tags:
-  - "lamb"
   - "dinner"
+  - "lamb"
   - "curry"
 - name: "peanut butter cookies with marshmallow topping"
   comments:
@@ -3822,8 +3826,8 @@
   - date: "1/1/14"
     comment: "too lemony"
   tags:
-  - "pasta"
   - "dinner"
+  - "pasta"
 - name: "eggnog"
   comments:
   - date: "12/24/13"
@@ -3835,16 +3839,16 @@
   - date: "12/2/13"
     comment: ""
   tags:
-  - "sandwich"
   - "dinner"
+  - "sandwich"
 - name: "chicken thighs, green beans with bacon, baked sweet potato"
   comments:
   - date: "11/23/13"
     comment: "somehow even better than yesterday"
   tags:
-  - "bacon"
   - "chicken"
   - "dinner"
+  - "bacon"
 - name: "rib eye steak, steamed kale, baked sweet potato"
   comments:
   - date: "11/22/13"
@@ -3868,8 +3872,8 @@
   - date: "10/30/13"
     comment: "soooo filling and pretty good"
   tags:
-  - "sandwich"
   - "dinner"
+  - "sandwich"
 - name: "oat flour pancakes"
   comments:
   - date: "10/28/13"
@@ -3880,8 +3884,8 @@
   - date: "8/4/13"
     comment: "Emre joins us, bringing blueberries"
   tags:
-  - "cake"
   - "breakfast"
+  - "cake"
 - name: "french fries"
   comments:
   - date: "10/20/13"
@@ -3919,9 +3923,9 @@
   - date: "7/14/13"
     comment: ""
   tags:
-  - "pasta"
-  - "beef"
   - "dinner"
+  - "beef"
+  - "pasta"
 - name: "lentil curry"
   comments:
   - date: "5/5/13"
@@ -3990,5 +3994,5 @@
   - date: "2/2/13"
     comment: ""
   tags:
-  - "pasta"
   - "dinner"
+  - "pasta"
