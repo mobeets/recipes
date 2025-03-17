@@ -14,6 +14,110 @@
 # - Do NOT edit any existing comment (only create new ones)
 # - You can add new tags to existing items if you'd like
 #
+- name: "cast iron pizza"
+  comments:
+  - date: "3/12/25"
+    comment: ""
+  - date: "1/20/25"
+    comment: ""
+  - date: "1/4/25"
+    comment: "jess says she doubled it, and for the flour she did did 550 (275*2)"
+    url: "https://sugarspunrun.com/the-best-pizza-dough-recipe/comment-page-273/"
+  - date: "8/14/24"
+    comment: ""
+  - date: "11/20/23"
+    comment: ""
+  - date: "9/17/23"
+    comment: ""
+  - date: "7/3/23"
+    comment: ""
+  - date: "4/16/23"
+    comment: "white sauce with oyster mushrooms and sausage"
+  - date: "4/2/23"
+    comment: ""
+  - date: "2/13/23"
+    comment: ""
+  - date: "12/12/22"
+    comment: ""
+  - date: "10/5/22"
+    comment: ""
+  - date: "6/18/22"
+    comment: "with incredible sausage, and it was delicious!"
+  - date: "11/24/20"
+    comment: ""
+  - date: "11/1/20"
+    comment: ""
+  - date: "8/26/20"
+    comment: ""
+  - date: "7/29/20"
+    comment: ""
+  - date: "7/22/20"
+    comment: "recipe via Elaine, and it's delicious. used frozen pizza dough, thawed for 2 hours (3 hours would have been safer). a scoop of hazan sauce from the freezer. followed recipe except no fennel bulb. so tasty though! also made garlic knots, which baked about 2 minutes longer than the pizza. perfect template for a pizza though--it was great."
+    url: "https://www.bonappetit.com/recipe/cast-iron-pizza-with-fennel-and-sausage"
+  tags:
+  - "dinner"
+- name: "salmon crunch bowl"
+  comments:
+  - date: "3/8/25"
+    comment: ""
+  - date: "2/1/25"
+    comment: ""
+  - date: "11/25/24"
+    comment: ""
+  - date: "10/9/24"
+    comment: ""
+  - date: "8/27/24"
+    comment: ""
+  - date: "5/11/24"
+    comment: ""
+  - date: "3/30/24"
+    comment: ""
+  - date: "1/6/24"
+    comment: ""
+  - date: "11/26/23"
+    comment: ""
+  - date: "8/31/23"
+    comment: ""
+  - date: "7/7/23"
+    comment: ""
+  - date: "5/8/23"
+    comment: "Maybe the best salmon has ever tasted to me."
+    url: "https://cupofjo.com/2023/03/29/salmon-tempura-crunch-bowls/"
+  tags:
+  - "dinner"
+- name: "burgers on the grill"
+  comments:
+  - date: "3/6/25"
+    comment: ""
+  - date: "12/31/24"
+    comment: ""
+  - date: "10/22/24"
+    comment: ""
+  - date: "9/13/24"
+    comment: ""
+  - date: "8/11/24"
+    comment: ""
+  - date: "7/21/24"
+    comment: ""
+  - date: "7/20/24"
+    comment: ""
+  - date: "5/20/21"
+    comment: ""
+  - date: "4/4/21"
+    comment: ""
+  - date: "9/25/20"
+    comment: "okay, we've found the secret that levels up our burgers: mayo + ketchup (a good squirt, think like the amount of siracha when you add to mayo) + chopped up bread and butter pickles"
+  - date: "9/9/20"
+    comment: ""
+  - date: "8/24/20"
+    comment: ""
+  - date: "7/1/20"
+    comment: "they lit on fire. I think this was both because the flames were too high for too long, and I had too many burgers (9) and all 80/20. so probably get less fatty ones and don't cook so many at the same time."
+  - date: "6/3/20"
+    comment: "about 5 minutes to warm the grill up (on high), then grill the burgers about 6 minutes on each side, with the lid partially closed (held up by a rock), and then adding cheese after that with the lid open. turned out perfectly!"
+  tags:
+  - "burger"
+  - "dinner"
 - name: "pork carnitas tacos"
   comments:
   - date: "3/2/25"
@@ -54,8 +158,8 @@
   - date: "3/23/16"
     comment: "so good..."
   tags:
-  - "tacos"
   - "pork"
+  - "tacos"
   - "dinner"
 - name: "lemon chicken with potatoes and chickpeas"
   comments:
@@ -118,8 +222,8 @@
   - date: "8/16/18"
     comment: "fried as in the togarashi chicken; also pickles and mayo on brioche buns"
   tags:
-  - "sandwich"
   - "chicken"
+  - "sandwich"
   - "dinner"
 - name: "hazan's bolognese"
   comments:
@@ -154,35 +258,8 @@
   - date: "4/20/17"
     comment: "slow-cook some pork shoulder using mom's recipe, then just add bbq sauce"
   tags:
-  - "sandwich"
   - "pork"
-  - "dinner"
-- name: "salmon crunch bowl"
-  comments:
-  - date: "2/1/25"
-    comment: ""
-  - date: "11/25/24"
-    comment: ""
-  - date: "10/9/24"
-    comment: ""
-  - date: "8/27/24"
-    comment: ""
-  - date: "5/11/24"
-    comment: ""
-  - date: "3/30/24"
-    comment: ""
-  - date: "1/6/24"
-    comment: ""
-  - date: "11/26/23"
-    comment: ""
-  - date: "8/31/23"
-    comment: ""
-  - date: "7/7/23"
-    comment: ""
-  - date: "5/8/23"
-    comment: "Maybe the best salmon has ever tasted to me."
-    url: "https://cupofjo.com/2023/03/29/salmon-tempura-crunch-bowls/"
-  tags:
+  - "sandwich"
   - "dinner"
 - name: "chocolate pie"
   comments:
@@ -218,46 +295,6 @@
     url: "https://damndelicious.net/2019/01/30/creamy-tortellini-soup/"
   tags:
   - "soup"
-  - "dinner"
-- name: "cast iron pizza"
-  comments:
-  - date: "1/20/25"
-    comment: ""
-  - date: "1/4/25"
-    comment: "jess says she doubled it, and for the flour she did did 550 (275*2)"
-    url: "https://sugarspunrun.com/the-best-pizza-dough-recipe/comment-page-273/"
-  - date: "8/14/24"
-    comment: ""
-  - date: "11/20/23"
-    comment: ""
-  - date: "9/17/23"
-    comment: ""
-  - date: "7/3/23"
-    comment: ""
-  - date: "4/16/23"
-    comment: "white sauce with oyster mushrooms and sausage"
-  - date: "4/2/23"
-    comment: ""
-  - date: "2/13/23"
-    comment: ""
-  - date: "12/12/22"
-    comment: ""
-  - date: "10/5/22"
-    comment: ""
-  - date: "6/18/22"
-    comment: "with incredible sausage, and it was delicious!"
-  - date: "11/24/20"
-    comment: ""
-  - date: "11/1/20"
-    comment: ""
-  - date: "8/26/20"
-    comment: ""
-  - date: "7/29/20"
-    comment: ""
-  - date: "7/22/20"
-    comment: "recipe via Elaine, and it's delicious. used frozen pizza dough, thawed for 2 hours (3 hours would have been safer). a scoop of hazan sauce from the freezer. followed recipe except no fennel bulb. so tasty though! also made garlic knots, which baked about 2 minutes longer than the pizza. perfect template for a pizza though--it was great."
-    url: "https://www.bonappetit.com/recipe/cast-iron-pizza-with-fennel-and-sausage"
-  tags:
   - "dinner"
 - name: "mexican rice"
   comments:
@@ -310,37 +347,6 @@
     url: "https://sallysbakingaddiction.com/banana-muffins/"
   tags:
   - "dessert"
-- name: "burgers on the grill"
-  comments:
-  - date: "12/31/24"
-    comment: ""
-  - date: "10/22/24"
-    comment: ""
-  - date: "9/13/24"
-    comment: ""
-  - date: "8/11/24"
-    comment: ""
-  - date: "7/21/24"
-    comment: ""
-  - date: "7/20/24"
-    comment: ""
-  - date: "5/20/21"
-    comment: ""
-  - date: "4/4/21"
-    comment: ""
-  - date: "9/25/20"
-    comment: "okay, we've found the secret that levels up our burgers: mayo + ketchup (a good squirt, think like the amount of siracha when you add to mayo) + chopped up bread and butter pickles"
-  - date: "9/9/20"
-    comment: ""
-  - date: "8/24/20"
-    comment: ""
-  - date: "7/1/20"
-    comment: "they lit on fire. I think this was both because the flames were too high for too long, and I had too many burgers (9) and all 80/20. so probably get less fatty ones and don't cook so many at the same time."
-  - date: "6/3/20"
-    comment: "about 5 minutes to warm the grill up (on high), then grill the burgers about 6 minutes on each side, with the lid partially closed (held up by a rock), and then adding cheese after that with the lid open. turned out perfectly!"
-  tags:
-  - "burger"
-  - "dinner"
 - name: "eggnog"
   comments:
   - date: "12/24/24"
@@ -474,8 +480,8 @@
   - date: "2/28/24"
     comment: "so good: bacon, provolone (should be smoked gouda but whatever), grilled apples, and maple sauce (mayo, maple syrup, dijon mustard)"
   tags:
-  - "sandwich"
   - "chicken"
+  - "sandwich"
   - "dinner"
 - name: "brownies"
   comments:
@@ -637,8 +643,8 @@
   - date: "5/18/24"
     comment: ""
   tags:
-  - "pasta"
   - "pork"
+  - "pasta"
   - "dinner"
 - name: "vegetarian lasagna"
   comments:
@@ -1062,8 +1068,8 @@
     comment: "chicken thighs and croutons...so good"
   tags:
   - "chicken"
-  - "dinner"
   - "salad"
+  - "dinner"
 - name: "chipotle honey salmon bowl"
   comments:
   - date: "7/30/23"
@@ -1307,8 +1313,8 @@
     comment: "Delicious! Took about 1.5 hours to make. Used store bought breadcrumbs. Follow the recipe measurements and all the textures will be great."
     url: "https://smittenkitchen.com/2017/02/tomato-glazed-meatloaves-with-brown-butter-mashed-potatoes/"
   tags:
-  - "beef"
   - "dinner"
+  - "beef"
 - name: "baked ziti"
   comments:
   - date: "11/18/22"
@@ -1555,9 +1561,9 @@
     comment: "easy, simple, surprisingly flavorful. roasted cauliflower in toaster oven (325F on air fry and just watch and then switch to bake if browning too much). used mini farfalle noodles, didn't have lemon, and used pecans instead of walnuts. used parm instead of pecorino and kinda eyeballed the parsley."
     url: "https://www.feastingathome.com/roasted-cauliflower-pasta/"
   tags:
+  - "veggie"
   - "pasta"
   - "dinner"
-  - "veggie"
 - name: "grilled cheese and tomato soup"
   comments:
   - date: "1/1/22"
@@ -2733,8 +2739,8 @@
     comment: "amazingly delicious, and so amazingly simple"
     url: "http://www.bakedbyrachel.com/slow-cooker-chicken-tortilla-soup/"
   tags:
-  - "slow-cooker"
   - "chicken"
+  - "slow-cooker"
   - "soup"
   - "dinner"
 - name: "chicken thighs"
@@ -2801,8 +2807,8 @@
     comment: "highest taste-to-ease ratio ever!"
   tags:
   - "chicken"
-  - "dinner"
   - "salad"
+  - "dinner"
 - name: "beef stroganoff"
   comments:
   - date: "4/22/18"
@@ -2886,8 +2892,8 @@
   - date: "6/16/16"
     comment: ""
   tags:
-  - "pasta"
   - "chicken"
+  - "pasta"
   - "dinner"
 - name: "peanut butter chocolate chip cookies"
   comments:
@@ -2930,8 +2936,8 @@
   - date: "8/28/17"
     comment: ""
   tags:
-  - "pasta"
   - "bacon"
+  - "pasta"
   - "dinner"
 - name: "tuna steaks with rice and asparagus"
   comments:
@@ -3049,8 +3055,8 @@
     comment: "second Blue Apron meal. Always use chicken breast with the skin still on! It's so much better this way. Lentil spice mix has thyme, bay leaf, mustard seeds, black pepper"
   tags:
   - "chicken"
-  - "dinner"
   - "salad"
+  - "dinner"
 - name: "salmon chowder"
   comments:
   - date: "3/7/17"
@@ -3257,8 +3263,8 @@
   - date: "4/26/16"
     comment: "needs fewer peas, way more bacon (I'd suggest half a pound of bacon for a 1.5 times recipe.)"
   tags:
-  - "pasta"
   - "bacon"
+  - "pasta"
   - "dinner"
 - name: "chevre-stuffed chicken breast with lemon-butter sauce and pasta"
   comments:
@@ -3266,8 +3272,8 @@
     comment: ""
     url: "http://www.ostrommushrooms.com/recipes/sides/item/93-chevre-and-basil-filled-chicken-breasts"
   tags:
-  - "pasta"
   - "chicken"
+  - "pasta"
   - "dinner"
 - name: "dark chocolate sauce"
   comments:
@@ -3280,8 +3286,8 @@
   - date: "4/14/16"
     comment: ""
   tags:
-  - "pasta"
   - "pork"
+  - "pasta"
   - "dinner"
 - name: "roast veggies, quinoa, yogurt"
   comments:
@@ -3444,8 +3450,8 @@
     comment: ""
     url: "http://www.loveandlemons.com/2014/11/03/shredded-brussels-sprout-apple-salad/"
   tags:
-  - "dinner"
   - "salad"
+  - "dinner"
 - name: "mashed sweet potatoes"
   comments:
   - date: "11/21/15"
@@ -3526,16 +3532,16 @@
   - date: "4/18/15"
     comment: "unbelievable; so simple! delicious, and the ground sausage was an awesome combo; this actually tasted like italian food--the first time I've ever cooked such a thing"
   tags:
-  - "pasta"
   - "pork"
+  - "pasta"
   - "dinner"
 - name: "breaded chicken tacos"
   comments:
   - date: "5/26/15"
     comment: "one (cubed) chicken breast made enough for six tacos; lightly breaded in panko crumbs, served with refried black beans, fresh garden tomato, cheddar cheese, and avocado"
   tags:
-  - "tacos"
   - "chicken"
+  - "tacos"
   - "dinner"
 - name: "pesto cheeseburgers"
   comments:
@@ -3585,9 +3591,9 @@
     comment: ""
     url: "http://eatathomecooks.com/2012/05/african-pulled-beef-sandwiches-in-the-slow-cooker-with-yogurt-mint-sauce.html"
   tags:
-  - "sandwich"
-  - "beef"
   - "slow-cooker"
+  - "beef"
+  - "sandwich"
   - "dinner"
 - name: "cheesecake"
   comments:
@@ -3635,8 +3641,8 @@
   - date: "3/18/13"
     comment: ""
   tags:
-  - "burger"
   - "chicken"
+  - "burger"
   - "dinner"
 - name: "fried egg"
   comments:
@@ -3709,8 +3715,8 @@
   - date: "8/6/14"
     comment: ""
   tags:
-  - "sandwich"
   - "chicken"
+  - "sandwich"
   - "dinner"
 - name: "almond sausage couscous"
   comments:
@@ -3760,9 +3766,9 @@
   - date: "7/7/14"
     comment: "from the slow-cooker recipe book; used 1.6 lbs. of meat and that was still plenty"
   tags:
-  - "beef"
   - "chicken"
   - "slow-cooker"
+  - "beef"
   - "dinner"
 - name: "blat"
   comments:
@@ -3798,8 +3804,8 @@
   - date: "6/23/14"
     comment: "talk about people doing jobs they hate, and dumb people who click Edit to copy/paste"
   tags:
-  - "tacos"
   - "chicken"
+  - "tacos"
   - "dinner"
 - name: "chocolate cashew ice cream"
   comments:
@@ -3874,8 +3880,8 @@
   - date: "3/3/14"
     comment: ""
   tags:
-  - "lamb"
   - "curry"
+  - "lamb"
   - "dinner"
 - name: "peanut butter cookies with marshmallow topping"
   comments:
@@ -3928,8 +3934,8 @@
   - date: "1/2/14"
     comment: ""
   tags:
-  - "tacos"
   - "chicken"
+  - "tacos"
   - "dinner"
 - name: "peas and zucchini pasta"
   comments:
@@ -3950,8 +3956,8 @@
   - date: "11/23/13"
     comment: "somehow even better than yesterday"
   tags:
-  - "chicken"
   - "bacon"
+  - "chicken"
   - "dinner"
 - name: "rib eye steak, steamed kale, baked sweet potato"
   comments:
@@ -4027,8 +4033,8 @@
   - date: "7/14/13"
     comment: ""
   tags:
-  - "pasta"
   - "beef"
+  - "pasta"
   - "dinner"
 - name: "lentil curry"
   comments:
@@ -4073,8 +4079,8 @@
   - date: "2/21/13"
     comment: ""
   tags:
-  - "dinner"
   - "salad"
+  - "dinner"
 - name: "nachos with homemade salsa and guacamole, and \"corn mayonnaise,\" as jess calls it"
   comments:
   - date: "2/18/13"
