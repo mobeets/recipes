@@ -14,6 +14,54 @@
 # - Do NOT edit any existing comment (only create new ones)
 # - You can add new tags to existing items if you'd like
 #
+- name: "pulled pork sandwiches"
+  comments:
+  - date: "3/26/25"
+    comment: ""
+  - date: "2/5/25"
+    comment: ""
+  - date: "6/4/24"
+    comment: ""
+  - date: "4/18/24"
+    comment: "made in instant pot"
+    url: "https://thesaltymarshmallow.com/instant-pot-pulled-pork/"
+  - date: "4/20/17"
+    comment: "slow-cook some pork shoulder using mom's recipe, then just add bbq sauce"
+  tags:
+  - "pork"
+  - "sandwich"
+  - "dinner"
+- name: "salmon crunch bowl"
+  comments:
+  - date: "3/25/25"
+    comment: ""
+  - date: "3/8/25"
+    comment: ""
+  - date: "2/1/25"
+    comment: ""
+  - date: "11/25/24"
+    comment: ""
+  - date: "10/9/24"
+    comment: ""
+  - date: "8/27/24"
+    comment: ""
+  - date: "5/11/24"
+    comment: ""
+  - date: "3/30/24"
+    comment: ""
+  - date: "1/6/24"
+    comment: ""
+  - date: "11/26/23"
+    comment: ""
+  - date: "8/31/23"
+    comment: ""
+  - date: "7/7/23"
+    comment: ""
+  - date: "5/8/23"
+    comment: "Maybe the best salmon has ever tasted to me."
+    url: "https://cupofjo.com/2023/03/29/salmon-tempura-crunch-bowls/"
+  tags:
+  - "dinner"
 - name: "cast iron pizza"
   comments:
   - date: "3/12/25"
@@ -56,35 +104,6 @@
     url: "https://www.bonappetit.com/recipe/cast-iron-pizza-with-fennel-and-sausage"
   tags:
   - "dinner"
-- name: "salmon crunch bowl"
-  comments:
-  - date: "3/8/25"
-    comment: ""
-  - date: "2/1/25"
-    comment: ""
-  - date: "11/25/24"
-    comment: ""
-  - date: "10/9/24"
-    comment: ""
-  - date: "8/27/24"
-    comment: ""
-  - date: "5/11/24"
-    comment: ""
-  - date: "3/30/24"
-    comment: ""
-  - date: "1/6/24"
-    comment: ""
-  - date: "11/26/23"
-    comment: ""
-  - date: "8/31/23"
-    comment: ""
-  - date: "7/7/23"
-    comment: ""
-  - date: "5/8/23"
-    comment: "Maybe the best salmon has ever tasted to me."
-    url: "https://cupofjo.com/2023/03/29/salmon-tempura-crunch-bowls/"
-  tags:
-  - "dinner"
 - name: "burgers on the grill"
   comments:
   - date: "3/6/25"
@@ -112,7 +131,7 @@
   - date: "8/24/20"
     comment: ""
   - date: "7/1/20"
-    comment: "they lit on fire. I think this was both because the flames were too high for too long, and I had too many burgers (9) and all 80/20. so probably get less fatty ones and don't cook so many at the same time."
+    comment: "they lit on fire. I think this was both because the flames were too high for too long, and I had too many burgers (nine) and all 80/20. so probably get less fatty ones and don't cook so many at the same time."
   - date: "6/3/20"
     comment: "about 5 minutes to warm the grill up (on high), then grill the burgers about 6 minutes on each side, with the lid partially closed (held up by a rock), and then adding cheese after that with the lid open. turned out perfectly!"
   tags:
@@ -245,21 +264,6 @@
     comment: "first time using my new grill! jess did the marinade"
   tags:
   - "beef"
-  - "dinner"
-- name: "pulled pork sandwiches"
-  comments:
-  - date: "2/5/25"
-    comment: ""
-  - date: "6/4/24"
-    comment: ""
-  - date: "4/18/24"
-    comment: "made in instant pot"
-    url: "https://thesaltymarshmallow.com/instant-pot-pulled-pork/"
-  - date: "4/20/17"
-    comment: "slow-cook some pork shoulder using mom's recipe, then just add bbq sauce"
-  tags:
-  - "pork"
-  - "sandwich"
   - "dinner"
 - name: "chocolate pie"
   comments:
@@ -397,8 +401,8 @@
     comment: "basically the ham hock bean soup but with bacon. Best part is adding parmesan rind for the broth -- that's ESSENTIAL. I think could easily just add a hunk of parm (if you don't have just the rind)."
     url: "https://themodernproper.com/white-bean-soup-with-bacon"
   tags:
-  - "bacon"
   - "soup"
+  - "bacon"
   - "dinner"
 - name: "chicken pot pie"
   comments:
@@ -1313,8 +1317,8 @@
     comment: "Delicious! Took about 1.5 hours to make. Used store bought breadcrumbs. Follow the recipe measurements and all the textures will be great."
     url: "https://smittenkitchen.com/2017/02/tomato-glazed-meatloaves-with-brown-butter-mashed-potatoes/"
   tags:
-  - "dinner"
   - "beef"
+  - "dinner"
 - name: "baked ziti"
   comments:
   - date: "11/18/22"
@@ -1561,9 +1565,9 @@
     comment: "easy, simple, surprisingly flavorful. roasted cauliflower in toaster oven (325F on air fry and just watch and then switch to bake if browning too much). used mini farfalle noodles, didn't have lemon, and used pecans instead of walnuts. used parm instead of pecorino and kinda eyeballed the parsley."
     url: "https://www.feastingathome.com/roasted-cauliflower-pasta/"
   tags:
-  - "veggie"
-  - "pasta"
   - "dinner"
+  - "pasta"
+  - "veggie"
 - name: "grilled cheese and tomato soup"
   comments:
   - date: "1/1/22"
@@ -3592,8 +3596,8 @@
     url: "http://eatathomecooks.com/2012/05/african-pulled-beef-sandwiches-in-the-slow-cooker-with-yogurt-mint-sauce.html"
   tags:
   - "slow-cooker"
-  - "beef"
   - "sandwich"
+  - "beef"
   - "dinner"
 - name: "cheesecake"
   comments:
@@ -3641,8 +3645,8 @@
   - date: "3/18/13"
     comment: ""
   tags:
-  - "chicken"
   - "burger"
+  - "chicken"
   - "dinner"
 - name: "fried egg"
   comments:
@@ -3880,8 +3884,8 @@
   - date: "3/3/14"
     comment: ""
   tags:
-  - "curry"
   - "lamb"
+  - "curry"
   - "dinner"
 - name: "peanut butter cookies with marshmallow topping"
   comments:
@@ -3956,8 +3960,8 @@
   - date: "11/23/13"
     comment: "somehow even better than yesterday"
   tags:
-  - "bacon"
   - "chicken"
+  - "bacon"
   - "dinner"
 - name: "rib eye steak, steamed kale, baked sweet potato"
   comments:
