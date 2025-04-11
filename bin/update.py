@@ -23,7 +23,8 @@ RECIPE_INTRO = """# TEMPLATE (DO NOT ERASE):
 #
 """
 
-DATE_FORMAT = '%-m/%-d/%y'
+# DATE_FORMAT = '%-m/%-d/%y'
+DATE_FORMAT = '%m/%d/%y'
 DEFAULT_LAST_DT = '2016-01-01' # default
 
 def load_meals(infile):
@@ -32,25 +33,16 @@ def load_meals(infile):
             preserve_quotes=True)
     return data
 
-def least_recent_meals(infile, outfile, n=5, date_key='last_suggested_date'):
+def least_recent_meals(infile='_data/recipes.yml', dinnerfile='bin/dinners.txt', outfile='', n=5, date_key='last_suggested_date'):
     """
-    pick the five meals seen least recently
-        then update the data to show that they have now been accessed
+    pick the meals in our list that have been seen least recently
     """    
     items = load_meals(infile)
     # data = sorted(data, key=lambda k: datetime.strptime(k[date_key], DATE_FORMAT))
-
-    # find items with the smallest date, and pick random n of these
-    # min_date = data[0][date_key]
-    # items = [x for x in data if x[date_key] == min_date]
-    random.shuffle(items)
-    items = items[:n]
-
-    # update date to today
-    # for item in items:
-    #     item[date_key] = datetime.now().strftime(DATE_FORMAT)
-    # write_to_yaml(data, outfile)
-    return items
+    items = sorted(items, key=lambda k: datetime.strptime(k.get('comments', [{'date': '1/1/00'}])[0]['date'], DATE_FORMAT))
+    dinners = [x.strip() for x in open(dinnerfile).readlines()]
+    matches = [item for item in items if item['name'].lower() in dinners]
+    return matches
 
 def load_matches(infile, pattern):
     ptn = re.compile(pattern)
