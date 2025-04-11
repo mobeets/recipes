@@ -105,6 +105,19 @@ def find_dates(infile, matches):
             next_match = matches.pop()
     return new_matches
 
+def extract_tags(comment):
+    """
+    comment = "this is a test #test #cat do you get it?"
+    cleaned, tags = extract_tags(comment)
+    print(cleaned)  # Output: "this is a test do you get it?"
+    print(tags)     # Output: ["test", "cat"]
+    """
+    # Find all tags starting with #
+    tags = re.findall(r'#(\w+)', comment)
+    # Remove all tags from the comment
+    cleaned_comment = re.sub(r'#\w+\s*', '', comment).strip()
+    return cleaned_comment, tags
+
 def make_items(matches, prev_items, subitem):
     """
     note: if prev_items are provided,
@@ -187,6 +200,9 @@ def make_items(matches, prev_items, subitem):
                 }
         if len(pieces) > 1:
             comment = pieces[1].replace('\n', '').strip()
+            comment, tags = extract_tags(comment)
+            if len(tags) > 0:
+                lkp[name]['tags'] = list(set(lkp[name]['tags'] + tags))
         else:
             comment = ''
         if dtstr_of_comment not in [x['date'] for x in lkp[name]['comments']]:
