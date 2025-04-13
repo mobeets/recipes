@@ -1,6 +1,6 @@
 var DEFAULT_YEAR = 'all';
 var DEFAULT_LIST = 'all';
-var DEFAULT_TAG = '';
+var DEFAULT_TAG = [];
 var DEFAULT_LOC = '';
 
 var year = 'all'; // '2016';
@@ -25,7 +25,7 @@ function init() {
 
 function makeUpdateUrl(list, year, tag, loc) {
     url = "#year=" + year + "&list=" + list;
-    if (tag.length > 0) url = url + "&tag=" + tag;
+    if (tag.length > 0) url = url + "&tag=" + tag.join(','); // Join array with commas
     if (loc.length > 0) url = url + "&loc=" + loc;
     return url;
 }
@@ -33,7 +33,7 @@ function makeUpdateUrl(list, year, tag, loc) {
 function clear_filters() {
     year = DEFAULT_YEAR;
     list = DEFAULT_LIST;
-    tag = DEFAULT_TAG;
+    tag = []; // Reset to empty array
     loc = DEFAULT_LOC;
     query = '';
     window.location.href = makeUpdateUrl(list, year, tag, loc);
@@ -43,14 +43,22 @@ function clear_filters() {
 }
 
 function update_tag() {
-    lasttag = $(this).data('tag');
-    if (lasttag == tag) {
-        tag = '';
+    var clickedTag = $(this).data('tag');
+    var tagIndex = tag.indexOf(clickedTag);
+    
+    if (tagIndex === -1) {
+        // Add tag if not already selected
+        tag.push(clickedTag);
+        $(this).addClass('btn-active').removeClass('btn-inactive');
     } else {
-        tag = lasttag;
+        // Remove tag if already selected
+        tag.splice(tagIndex, 1);
+        $(this).addClass('btn-inactive').removeClass('btn-active');
     }
+    
     window.location.href = makeUpdateUrl(list, year, tag, loc);
     update(list, year, tag, loc, query);
+    return false;
 }
 
 function update_list() {

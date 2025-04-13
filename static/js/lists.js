@@ -18,20 +18,42 @@ function set_default() {
     year = set_default_item(lochash, 'year', year);
     list = set_default_item(lochash, 'list', list);
     loc = set_default_item(lochash, 'loc', loc);
-    tag = set_default_item(lochash, 'tag', tag);
+    tag = set_default_item(lochash, 'tag', '').split(',').filter(Boolean);
     query = '';
 }
 
 function update_btn_item(name, cur) {
-    $('.btn-' + name).removeClass('btn-active');
-    $('.btn-' + name).addClass('btn-inactive');
-    $('.btn-' + name + '[data-' + name + '="' + cur + '"]').removeClass('btn-inactive');
-    $('.btn-' + name + '[data-' + name + '="' + cur + '"]').addClass('btn-active');
+    if (name === 'tag' && Array.isArray(cur)) {
+        // Reset all tag buttons to inactive first
+        $('.btn-' + name).removeClass('btn-active').addClass('btn-inactive');
+        // Then set active state for each selected tag
+        cur.forEach(function(tagValue) {
+            $('.btn-' + name + '[data-' + name + '="' + tagValue + '"]')
+                .removeClass('btn-inactive')
+                .addClass('btn-active');
+        });
+    } else {
+        // Handle non-array cases (year, list, loc) as before
+        $('.btn-' + name).removeClass('btn-active');
+        $('.btn-' + name).addClass('btn-inactive');
+        $('.btn-' + name + '[data-' + name + '="' + cur + '"]').removeClass('btn-inactive');
+        $('.btn-' + name + '[data-' + name + '="' + cur + '"]').addClass('btn-active');
+    }
 }
 
-function hide_items_not_matching_attr(name, cur) {
-    if (cur.length > 0) {
-        $('.media-item').not(':has(.btn-tag-' + cur + ')').hide();
+function hide_items_not_matching_attr(name, values) {
+    if (name === 'tag' && values.length > 0) {
+        $('.media-item').each(function() {
+            var item = $(this);
+            var hasAllTags = values.every(function(tagValue) {
+                return item.find('.btn-tag-' + tagValue).length > 0;
+            });
+            if (!hasAllTags) {
+                item.hide();
+            }
+        });
+    } else if (values.length > 0 && !Array.isArray(values)) {
+        $('.media-item').not(':has(.btn-' + name + '-' + values + ')').hide();
     }
 }
 
@@ -54,7 +76,7 @@ function show_filter_status() {
     list_str = list === 'all' ? 'all entries' : list;
     year_str = year === 'all' ? '' : ' in ' + year;
     if (tag.length > 0) {
-        comment += 'tagged "' + tag + '"';
+        comment += 'tagged "' + tag.join('" AND "') + '"';
     }
     if (loc.length > 0) {
         comment += 'at "' + loc + '"';
