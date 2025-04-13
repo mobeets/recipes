@@ -202,6 +202,7 @@ def make_items(matches, prev_items, subitem):
             comment = pieces[1].replace('\n', '').strip()
             comment, tags = extract_tags(comment)
             if len(tags) > 0:
+                print(name, tags, comment)
                 lkp[name]['tags'] = list(set(lkp[name]['tags'] + tags))
         else:
             comment = ''
