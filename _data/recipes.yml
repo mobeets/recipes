@@ -14,6 +14,87 @@
 # - Do NOT edit any existing comment (only create new ones)
 # - You can add new tags to existing items if you'd like
 #
+- name: "kenji's weeknight chili"
+  comments:
+  - date: "12/2/25"
+    comment: ""
+  - date: "10/19/25"
+    comment: ""
+  - date: "10/9/23"
+    comment: ""
+  - date: "5/29/23"
+    comment: "use a food processor for the onions. trader joe's chili powder is probably too hot because this was SPICY"
+  - date: "3/3/23"
+    comment: "Unbelievable. Jess said she used nearly two of the dried chilis, and also chicken bone broth."
+  - date: "1/12/23"
+    comment: ""
+  - date: "11/11/22"
+    comment: "with browned butter skillet corn bread"
+  - date: "1/16/22"
+    comment: "Prepped as many things as possible beforehand, which was critical. It was a lot of prep, but in the end I did all the cooking (including some cornbread on the side) within 30 minutes. It turned out great!"
+  tags:
+  - "staple"
+  - "dinner"
+  - "foodlab"
+- name: "chicken pot pie"
+  comments:
+  - date: "11/30/25"
+    comment: ""
+  - date: "11/21/24"
+    comment: "we freeze half of it. to bake from frozen, expect a much longer cook time, and you'll need to cover the edge of the crust with foil"
+  - date: "3/5/24"
+    comment: ""
+  - date: "10/14/23"
+    comment: ""
+  - date: "2/17/23"
+    comment: "we doubled the recipe, using a pie dish and the 9x9"
+  - date: "1/27/22"
+    comment: ""
+  - date: "3/17/21"
+    comment: "Jess makes the biscuit top recipe from one of her new cookbooks. Next time should just do a single serve, in the smaller rectangle pyrex. This time she used like 1.5 times the biscuit top and it was way too much. Also be warned, there's a lot of prep."
+  - date: "1/5/21"
+    comment: "New recipe. +2T flour to thicken it up faster. Only used top pie crust layer (didn't do bottom) -- used store bought Pillsbury dough. Didn't have celery and it was totally fine."
+    url: "https://www.thewholesomedish.com/the-best-classic-chicken-pot-pie/#recipe"
+  - date: "12/20/20"
+    comment: ""
+  - date: "9/17/20"
+    comment: ""
+  - date: "3/19/20"
+    comment: ""
+  - date: "3/8/20"
+    comment: ""
+  - date: "5/13/19"
+    comment: ""
+  - date: "12/9/18"
+    comment: "use 2.5 lbs. chicken (makes about 4 cups), and make it in the biggest rectangle pyrex. the dough was tricky to roll because it was so brittle, so it ended up going on in small pieces. servings:9"
+  - date: "6/14/18"
+    comment: "use only 1.5c broth, and then between 1/4-1/2c cream, so it barely takes any time to thicken. made a simple crust that took no time at all to bake--just covered with foil for first 15 minutes of baking, then took it off for about 12 more minutes, at 375F."
+    url: "https://www.allrecipes.com/recipe/18427/easy-pie-crust/"
+  - date: "1/3/18"
+    comment: "just the crust top (not bottom), in the 2.2qt rectangular pyrex"
+  - date: "1/14/17"
+    comment: "used corn starch to thicken at the end; baked in 9\" square pan; to measure chicken we just diced breasts and filled up a little over 3 cups, then pan-fried it"
+  - date: "10/26/16"
+    comment: ""
+    url: "http://thepioneerwoman.com/cooking/pot-pie/"
+  tags:
+  - "chicken"
+  - "dinner"
+  - "pie"
+- name: "chocolate chip banana muffins"
+  comments:
+  - date: "11/28/25"
+    comment: ""
+  tags:
+  - "dessert"
+- name: "crumpets"
+  comments:
+  - date: "11/28/25"
+    comment: "need more than one big ring! but man so delicious"
+  - date: "9/20/25"
+    comment: "need rings! fun to pop the bubbles though"
+  tags:
+  - "bread"
 - name: "chicken teriyaki with rice"
   comments:
   - date: "11/19/25"
@@ -21,8 +102,8 @@
   - date: "8/5/25"
     comment: ""
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
 - name: "hazan's pasta carbonara"
   comments:
   - date: "11/17/25"
@@ -66,9 +147,9 @@
   - date: "9/21/15"
     comment: ""
   tags:
-  - "dinner"
-  - "staple"
   - "pasta"
+  - "staple"
+  - "dinner"
 - name: "dutch apple pie"
   comments:
   - date: "11/16/25"
@@ -135,18 +216,18 @@
   - date: "8/16/18"
     comment: "fried as in the togarashi chicken; also pickles and mayo on brioche buns"
   tags:
-  - "dinner"
   - "staple"
-  - "foodlab"
   - "sandwich"
+  - "dinner"
+  - "foodlab"
   - "chicken"
 - name: "fried chicken thighs"
   comments:
   - date: "10/29/25"
     comment: "chicken thighs sliced, laid in panko and parmesan, and pan fried in oil. so delicious! served with smushed crispy mini potatoes, and green beans"
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
 - name: "pulled pork sandwiches"
   comments:
   - date: "10/27/25"
@@ -165,30 +246,10 @@
   - date: "4/20/17"
     comment: "slow-cook some pork shoulder using mom's recipe, then just add bbq sauce"
   tags:
-  - "dinner"
   - "staple"
+  - "dinner"
   - "pork"
   - "sandwich"
-- name: "kenji's weeknight chili"
-  comments:
-  - date: "10/19/25"
-    comment: ""
-  - date: "10/9/23"
-    comment: ""
-  - date: "5/29/23"
-    comment: "use a food processor for the onions. trader joe's chili powder is probably too hot because this was SPICY"
-  - date: "3/3/23"
-    comment: "Unbelievable. Jess said she used nearly two of the dried chilis, and also chicken bone broth."
-  - date: "1/12/23"
-    comment: ""
-  - date: "11/11/22"
-    comment: "with browned butter skillet corn bread"
-  - date: "1/16/22"
-    comment: "Prepped as many things as possible beforehand, which was critical. It was a lot of prep, but in the end I did all the cooking (including some cornbread on the side) within 30 minutes. It turned out great!"
-  tags:
-  - "foodlab"
-  - "dinner"
-  - "staple"
 - name: "pumpkin pie"
   comments:
   - date: "10/19/25"
@@ -205,8 +266,8 @@
     comment: ""
   tags:
   - "dessert"
-  - "dinner"
   - "pie"
+  - "dinner"
 - name: "beef short ribs"
   comments:
   - date: "10/16/25"
@@ -227,8 +288,8 @@
     comment: "I did the same ingredients but just with two short ribs totaling 1.2 lbs. It was unbelievable. Dried them off with paper towels before seasoning, and put them in the small orange dutch oven. But if there'd been more I might have needed a bigger pot. Anyway, also added four carrots to the sauce in with the meat. Cooked about 2.5 hours exactly and all the juices were mostly gone. One of the best meals we've made. Served with mashed sweet potatoes and sourdough toast."
     url: "https://thestayathomechef.com/classic-braised-beef-short-ribs/"
   tags:
-  - "dinner"
   - "staple"
+  - "dinner"
   - "beef"
 - name: "lasagna"
   comments:
@@ -324,8 +385,8 @@
     comment: "Maybe the best salmon has ever tasted to me."
     url: "https://cupofjo.com/2023/03/29/salmon-tempura-crunch-bowls/"
   tags:
-  - "dinner"
   - "staple"
+  - "dinner"
 - name: "beef bulgogi bowl"
   comments:
   - date: "9/30/25"
@@ -359,12 +420,6 @@
   tags:
   - "dessert"
   - "cake"
-- name: "crumpets"
-  comments:
-  - date: "9/20/25"
-    comment: "need rings! fun to pop the bubbles though"
-  tags:
-  - "bread"
 - name: "chocolate cake"
   comments:
   - date: "9/17/25"
@@ -403,9 +458,9 @@
   - date: "2/23/20"
     comment: "delicious. I double recipe (with 1.5 lbs ground beef, and 1 of the big cans of plum tomatoes), but it only looks like about 6 servings."
   tags:
-  - "popular"
-  - "dinner"
   - "staple"
+  - "dinner"
+  - "popular"
 - name: "banana pudding with nilla wafers"
   comments:
   - date: "8/8/25"
@@ -424,8 +479,8 @@
   - date: "7/14/24"
     comment: "first time using my new grill! jess did the marinade"
   tags:
-  - "dinner"
   - "staple"
+  - "dinner"
   - "beef"
 - name: "chocolate chip snickerdoodle cake"
   comments:
@@ -466,8 +521,8 @@
   - date: "6/22/19"
     comment: "freezer instant pot meal. Based on the side of the Instant pot, I'd say we could easily have doubled (though would need two storage bags instead of one). servings:5"
   tags:
-  - "dinner"
   - "staple"
+  - "dinner"
   - "beef"
 - name: "steel cut oats"
   comments:
@@ -575,9 +630,9 @@
   - date: "6/3/20"
     comment: "about 5 minutes to warm the grill up (on high), then grill the burgers about 6 minutes on each side, with the lid partially closed (held up by a rock), and then adding cheese after that with the lid open. turned out perfectly!"
   tags:
-  - "dinner"
   - "burger"
   - "staple"
+  - "dinner"
 - name: "hazan's all'amatriciana sauce"
   comments:
   - date: "7/4/25"
@@ -607,8 +662,8 @@
   - date: "8/14/16"
     comment: "we cook 10oz. bacon (from bacon butt bits), add a diced medium onion, then a full large can of whole plum tomatoes (no oil, no butter), and then chili flakes; delicious!"
   tags:
-  - "dinner"
   - "staple"
+  - "dinner"
 - name: "peach upside down cake"
   comments:
   - date: "6/30/25"
@@ -659,8 +714,8 @@
     comment: "recipe via Elaine, and it's delicious. used frozen pizza dough, thawed for 2 hours (3 hours would have been safer). a scoop of hazan sauce from the freezer. followed recipe except no fennel bulb. so tasty though! also made garlic knots, which baked about 2 minutes longer than the pizza. perfect template for a pizza though--it was great."
     url: "https://www.bonappetit.com/recipe/cast-iron-pizza-with-fennel-and-sausage"
   tags:
-  - "dinner"
   - "staple"
+  - "dinner"
 - name: "alfredo pasta"
   comments:
   - date: "6/4/25"
@@ -686,9 +741,9 @@
   - date: "12/6/16"
     comment: "with mushrooms and chicken, using Mom's recipe, then just adding mushrooms and chicken (cooked separately, combined at the end)"
   tags:
-  - "dinner"
-  - "staple"
   - "pasta"
+  - "staple"
+  - "dinner"
 - name: "sheet pan sausage, brussels, and gnocchi"
   comments:
   - date: "6/1/25"
@@ -754,8 +809,8 @@
   - date: "3/23/16"
     comment: "so good..."
   tags:
-  - "dinner"
   - "staple"
+  - "dinner"
   - "pork"
   - "tacos"
 - name: "grilled cheese and tomato soup"
@@ -766,8 +821,8 @@
     comment: "Made for lunch using kenji's recipe. The soup was pretty good--way better than a can for sure. The sandwich wasn't worth the extra work I don't think, but the parmesan added to the outside and grilled again was a nice touch actually."
   tags:
   - "dinner"
-  - "foodlab"
   - "soup"
+  - "foodlab"
 - name: "ribeye steak"
   comments:
   - date: "4/20/25"
@@ -793,8 +848,8 @@
   - date: "4/7/16"
     comment: ""
   tags:
-  - "dinner"
   - "staple"
+  - "dinner"
 - name: "chocolate pie"
   comments:
   - date: "4/7/25"
@@ -817,8 +872,8 @@
     comment: "cut the potatoes about 2x as thin as what the recipe says bc they take a while to cook. Did put the chicken back in and to convection for last 10 mins."
     url: "https://smittenkitchen.com/2024/09/lemon-chicken-with-potatoes-and-chickpeas/"
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
 - name: "chicken parmesan"
   comments:
   - date: "2/19/25"
@@ -834,8 +889,8 @@
     comment: "this was so delicious! used about 2 lbs chicken breast. the pangrattato was critical. served on angel hair."
     url: "https://cupofjo.com/2017/09/easiest-skillet-chicken-parmesan/"
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
 - name: "creamy tortellini soup"
   comments:
   - date: "1/21/25"
@@ -857,9 +912,9 @@
     comment: "delicious, and everyone loved it. only made one serving and this fed us all for two nights. jess says she only used maybe 1/2 lb of sausage."
     url: "https://damndelicious.net/2019/01/30/creamy-tortellini-soup/"
   tags:
-  - "popular"
-  - "dinner"
   - "staple"
+  - "dinner"
+  - "popular"
   - "soup"
 - name: "mexican rice"
   comments:
@@ -874,16 +929,16 @@
     comment: "makes 16 regular muffins"
     url: "https://sallysbakingaddiction.com/bakery-style-chocolate-chip-muffins/"
   tags:
-  - "breakfast"
   - "dessert"
+  - "breakfast"
 - name: "biscuits"
   comments:
   - date: "1/11/25"
     comment: "makes 6 biscuits"
     url: "https://sugarspunrun.com/easy-homemade-biscuits/"
   tags:
-  - "breakfast"
   - "bread"
+  - "breakfast"
 - name: "fast pizza dough"
   comments:
   - date: "1/5/25"
@@ -897,8 +952,8 @@
     comment: "r&j approved. used all purpose + 1 frozen banana because didn't have enough apple sauce"
     url: "https://sallysbakingaddiction.com/applesauce-muffins/"
   tags:
-  - "breakfast"
   - "dessert"
+  - "breakfast"
 - name: "black-eyed peas"
   comments:
   - date: "1/1/25"
@@ -914,9 +969,9 @@
     comment: ""
     url: "https://sallysbakingaddiction.com/banana-muffins/"
   tags:
-  - "breakfast"
   - "dessert"
   - "popular"
+  - "breakfast"
 - name: "eggnog"
   comments:
   - date: "12/24/24"
@@ -932,8 +987,8 @@
     comment: ""
     url: "https://smittenkitchen.com/2020/12/brussels-sprout-and-bacon-frittata/"
   tags:
-  - "bacon"
   - "dinner"
+  - "bacon"
 - name: "white bean soup with bacon"
   comments:
   - date: "12/9/24"
@@ -943,53 +998,10 @@
     comment: "basically the ham hock bean soup but with bacon. Best part is adding parmesan rind for the broth -- that's ESSENTIAL. I think could easily just add a hunk of parm (if you don't have just the rind)."
     url: "https://themodernproper.com/white-bean-soup-with-bacon"
   tags:
-  - "bacon"
-  - "dinner"
   - "staple"
-  - "soup"
-- name: "chicken pot pie"
-  comments:
-  - date: "11/21/24"
-    comment: "we freeze half of it. to bake from frozen, expect a much longer cook time, and you'll need to cover the edge of the crust with foil"
-  - date: "3/5/24"
-    comment: ""
-  - date: "10/14/23"
-    comment: ""
-  - date: "2/17/23"
-    comment: "we doubled the recipe, using a pie dish and the 9x9"
-  - date: "1/27/22"
-    comment: ""
-  - date: "3/17/21"
-    comment: "Jess makes the biscuit top recipe from one of her new cookbooks. Next time should just do a single serve, in the smaller rectangle pyrex. This time she used like 1.5 times the biscuit top and it was way too much. Also be warned, there's a lot of prep."
-  - date: "1/5/21"
-    comment: "New recipe. +2T flour to thicken it up faster. Only used top pie crust layer (didn't do bottom) -- used store bought Pillsbury dough. Didn't have celery and it was totally fine."
-    url: "https://www.thewholesomedish.com/the-best-classic-chicken-pot-pie/#recipe"
-  - date: "12/20/20"
-    comment: ""
-  - date: "9/17/20"
-    comment: ""
-  - date: "3/19/20"
-    comment: ""
-  - date: "3/8/20"
-    comment: ""
-  - date: "5/13/19"
-    comment: ""
-  - date: "12/9/18"
-    comment: "use 2.5 lbs. chicken (makes about 4 cups), and make it in the biggest rectangle pyrex. the dough was tricky to roll because it was so brittle, so it ended up going on in small pieces. servings:9"
-  - date: "6/14/18"
-    comment: "use only 1.5c broth, and then between 1/4-1/2c cream, so it barely takes any time to thicken. made a simple crust that took no time at all to bake--just covered with foil for first 15 minutes of baking, then took it off for about 12 more minutes, at 375F."
-    url: "https://www.allrecipes.com/recipe/18427/easy-pie-crust/"
-  - date: "1/3/18"
-    comment: "just the crust top (not bottom), in the 2.2qt rectangular pyrex"
-  - date: "1/14/17"
-    comment: "used corn starch to thicken at the end; baked in 9\" square pan; to measure chicken we just diced breasts and filled up a little over 3 cups, then pan-fried it"
-  - date: "10/26/16"
-    comment: ""
-    url: "http://thepioneerwoman.com/cooking/pot-pie/"
-  tags:
-  - "chicken"
   - "dinner"
-  - "pie"
+  - "soup"
+  - "bacon"
 - name: "applewood chicken sandwiches"
   comments:
   - date: "11/7/24"
@@ -1003,9 +1015,9 @@
   - date: "2/28/24"
     comment: "so good: bacon, provolone (should be smoked gouda but whatever), grilled apples, and maple sauce (mayo, maple syrup, dijon mustard)"
   tags:
-  - "chicken"
-  - "dinner"
   - "staple"
+  - "dinner"
+  - "chicken"
   - "sandwich"
 - name: "bolognese"
   comments:
@@ -1052,8 +1064,8 @@
   - date: "6/11/20"
     comment: "brined in 1/4c salt + 4c water for 30 minutes, then dried off and seasoned in pepper and paprika (no salt). then grilled (high heat) for about 6 minutes each side. a little overcooked (want to go to 160F) so maybe watch it next time."
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
 - name: "tahini brownies"
   comments:
   - date: "7/28/24"
@@ -1082,16 +1094,16 @@
     comment: ""
     url: "https://natashaskitchen.com/creamy-shrimp-pasta-recipe/"
   tags:
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "pork sausage pasta bake"
   comments:
   - date: "5/18/24"
     comment: ""
   tags:
+  - "pasta"
   - "dinner"
   - "pork"
-  - "pasta"
 - name: "vegetarian lasagna"
   comments:
   - date: "4/7/24"
@@ -1151,8 +1163,8 @@
     comment: "delicious! used sriracha instead of tonkatsu sauce"
     url: "https://www.blueapron.com/recipes/togarashi-popcorn-chicken-with-sweet-chili-cabbage-slaw"
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
 - name: "meatball soup"
   comments:
   - date: "1/28/24"
@@ -1285,8 +1297,8 @@
   - date: "12/7/23"
     comment: "food lab recipe. tasty, but cooked super fast so some got overcooked."
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
 - name: "mac and cheese"
   comments:
   - date: "12/3/23"
@@ -1376,8 +1388,8 @@
     comment: ""
     url: "https://thesaltymarshmallow.com/creamy-italian-sausage-pasta/"
   tags:
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "lentil soup"
   comments:
   - date: "10/24/23"
@@ -1431,8 +1443,8 @@
   - date: "10/28/15"
     comment: "chicken thighs and croutons...so good"
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
   - "salad"
 - name: "chipotle honey salmon bowl"
   comments:
@@ -1486,8 +1498,8 @@
     comment: ""
     url: "http://www.seriouseats.com/recipes/2017/05/new-orleans-style-red-beans-rice-recipe.html"
   tags:
-  - "dinner"
   - "staple"
+  - "dinner"
 - name: "mug brownie"
   comments:
   - date: "6/9/23"
@@ -1711,8 +1723,8 @@
   - date: "9/13/22"
     comment: ""
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
 - name: "prosciutto, goat cheese, arugula, fig jam sandwich"
   comments:
   - date: "8/31/22"
@@ -1728,15 +1740,15 @@
     comment: ""
     url: "https://www.gimmesomeoven.com/baked-potato/"
   tags:
-  - "dinner"
   - "staple"
+  - "dinner"
 - name: "alabama white sauce chicken drumsticks"
   comments:
   - date: "8/23/22"
     comment: "the skin ended up too soggy, but jess later used the meat to make some absolutely killer chicken quesadillas"
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
 - name: "chocolate revel bars"
   comments:
   - date: "8/13/22"
@@ -1765,8 +1777,8 @@
     comment: "doubled it, trader joes salsa verde (2 jars), 3 cups of shredded chicken, 1 bag of shredded cheese (2 cups), corn tortillas, made 15 enchiladas, delicious"
     url: "https://www.inspiredtaste.net/11767/salsa-verde-chicken-enchiladas"
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
 - name: "falafel"
   comments:
   - date: "6/5/22"
@@ -1846,8 +1858,8 @@
     comment: "good! very much chicken noodle soup just with tortellini. cut the chicken before cooking to speed it up and worked fine. also didn't do as many carrots as they called for and didn't have bell pepper"
     url: "https://www.aspicyperspective.com/creamy-chicken-tortellini-soup/"
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
   - "soup"
 - name: "blondie"
   comments:
@@ -1860,24 +1872,24 @@
   - date: "1/22/22"
     comment: "5 minutes overcooked the poached eggs, big time. but the fine strainer (the cocktail one) worked pretty good, for the first egg anyway. for the hollandaise, I used one egg yolk, about 1-2T of butter, and a sliver's worth of lemon juice. Should've really made sure the butter was up to 180F like Kenji's recipe said before putting in the food processor."
   tags:
-  - "breakfast"
   - "foodlab"
+  - "breakfast"
 - name: "vodka pasta sauce"
   comments:
   - date: "1/22/22"
     comment: "turned out great! cooked the chicken first (separately). took me a little over an hour start to finish for the whole meal."
   tags:
+  - "pasta"
   - "dinner"
   - "foodlab"
-  - "pasta"
 - name: "whole wheat pancakes"
   comments:
   - date: "1/14/22"
     comment: "good! added 1 extra tsp of sugar (total = 3 tsp for servings in recipe). used 1/4 cup to pour."
     url: "https://www.fifteenspatulas.com/whole-wheat-pancakes/"
   tags:
-  - "breakfast"
   - "cake"
+  - "breakfast"
 - name: "lava cake"
   comments:
   - date: "1/8/22"
@@ -1904,9 +1916,9 @@
     comment: "easy, simple, surprisingly flavorful. roasted cauliflower in toaster oven (325F on air fry and just watch and then switch to bake if browning too much). used mini farfalle noodles, didn't have lemon, and used pecans instead of walnuts. used parm instead of pecorino and kinda eyeballed the parsley."
     url: "https://www.feastingathome.com/roasted-cauliflower-pasta/"
   tags:
+  - "pasta"
   - "dinner"
   - "veggie"
-  - "pasta"
 - name: "butternut squash mushroom tart"
   comments:
   - date: "12/19/21"
@@ -1972,8 +1984,8 @@
   - date: "11/5/21"
     comment: ""
   tags:
-  - "dessert"
   - "snack"
+  - "dessert"
 - name: "turkey chili"
   comments:
   - date: "11/4/21"
@@ -1998,8 +2010,8 @@
   - date: "10/4/21"
     comment: "with mozzarella on top."
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
 - name: "hamburger helper"
   comments:
   - date: "9/30/21"
@@ -2015,8 +2027,8 @@
   - date: "7/19/21"
     comment: ""
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
 - name: "vegan chocolate chip cookies"
   comments:
   - date: "8/20/21"
@@ -2043,8 +2055,8 @@
   - date: "7/27/21"
     comment: ""
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
 - name: "rhubarb pie"
   comments:
   - date: "6/7/21"
@@ -2059,8 +2071,8 @@
   - date: "5/17/21"
     comment: "these were delicious. baked in oven from I think the Food 52 cook book. Worked great! Used 3 lbs of chicken breast, took like 20 minutes just to bread it all, and used three pyrex dishes. Next time, should cut them long ways (feels like sideways) because then there's fewer to bread, and those tasted better for some reason."
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
 - name: "sourdough bread"
   comments:
   - date: "5/14/21"
@@ -2234,8 +2246,8 @@
   - date: "4/19/21"
     comment: "about 4 lbs of bone-in, skin-on thighs, brined in salt (1/4c salt + 4c water, in each of two different containers), baked in bbq for about 45 mins at 375F (flipped halfway through and added more sauce). the sauce didn't really stick. also, should have ended with the skin up so it could've gotten more crispy."
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
 - name: "meatballs"
   comments:
   - date: "4/11/21"
@@ -2269,8 +2281,8 @@
     comment: "used 3 jalapenos and it is VERY spicy"
     url: "http://www.amateurgourmet.com/2010/04/bombay_chicken_curry.html"
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
   - "curry"
 - name: "pork chops"
   comments:
@@ -2335,8 +2347,8 @@
     comment: "kinda weird. the boys didn't like it. tasted almost like enchiladas in a weird way."
     url: "https://www.halfbakedharvest.com/one-skillet-cheesy-cuban-chicken-rice-bake/"
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
 - name: "chocolate oatmeal bars"
   comments:
   - date: "2/24/21"
@@ -2363,8 +2375,8 @@
     comment: "sooo delicious. aka german pancakes aka \"big puffy pancake\"."
     url: "https://themodernproper.com/dutch-baby-pancake"
   tags:
-  - "breakfast"
   - "cake"
+  - "breakfast"
 - name: "sourdough biscuits"
   comments:
   - date: "1/10/21"
@@ -2378,8 +2390,8 @@
     comment: "we accidentally make the entire batter to be left overnight. turns out it was...totally fine? but obviously not ideal, because the salt didn't let the yeast thrive. anyway, we did 1c flour, 1c milk, 1/2c starter, 2 eggs, 1/2t salt, 1t baking soda, 1T sugar. added blueberries (and be generous with these because they're the best part)."
     url: "https://cooking.nytimes.com/recipes/1018663-cast-iron-sourdough-pancakes"
   tags:
-  - "breakfast"
   - "cake"
+  - "breakfast"
 - name: "slow-cooker bolognese"
   comments:
   - date: "1/8/21"
@@ -2388,8 +2400,8 @@
     comment: "Jess says she did 1/2c milk, 1/2c white wine, 1.5 cans of 28oz crushed tomatoes, 2T tomato paste, and sage instead of parsley"
     url: "https://natashaskitchen.com/slow-cooker-bolognese-sauce-recipe/"
   tags:
-  - "dinner"
   - "slow-cooker"
+  - "dinner"
 - name: "bourbon cookies"
   comments:
   - date: "12/24/20"
@@ -2471,8 +2483,8 @@
     comment: "No mozzarella, added 1/4-1/2 c ricotta. Also needed to add prob about 1/2-1c of extra water."
     url: "https://www.thechunkychef.com/one-pot-chicken-parmesan-pasta/"
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
 - name: "sausage squash bake"
   comments:
   - date: "10/15/20"
@@ -2545,8 +2557,8 @@
     comment: ""
     url: "http://www.foodnetwork.com/recipes/giada-de-laurentiis/baked-penne-with-roasted-vegetables-recipe.html"
   tags:
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "flourless chocolate cake"
   comments:
   - date: "8/30/20"
@@ -2603,8 +2615,8 @@
     comment: "made 13c of broth. bonus: also made enough chicken (from the wings) for a few servings of chicken salad"
     url: "https://www.bonappetit.com/recipe/instant-pot-chicken-stock"
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
 - name: "blueberry shrub"
   comments:
   - date: "6/3/20"
@@ -2678,8 +2690,8 @@
   - date: "7/26/14"
     comment: "did about 1c flour 1/2c milk 1/8c starter, left overnight on microwave; then 1/2t salt 1/2t baking soda 1 T oil 1 T sugar 1 egg and then milk to make right thickness, blended; it was rubbery dough and kinda rubbery pancake but that's a negative word because they were pretty tasty"
   tags:
-  - "breakfast"
   - "cake"
+  - "breakfast"
 - name: "naan"
   comments:
   - date: "4/7/20"
@@ -2763,16 +2775,16 @@
     comment: "Jess made it. toppings: avocado, shredded cheese, tortilla chips. delicious. we used 2.5 lbs of chicken thighs but I think 3 lbs would be even better."
     url: "https://www.feastingathome.com/instant-pot-chicken-tortilla-soup/#tasty-recipes-20510"
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
   - "soup"
 - name: "hazan's roasted chicken with lemons"
   comments:
   - date: "2/2/20"
     comment: "unbelievable how good and tender it was. cooked until right at 165F. we had a 5.5 lb chicken, which was huge, so it cooked for a while. but really just amazing, and fun with it just being the lemons and salt and pepper!"
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
 - name: "chocolate cake with pb icing"
   comments:
   - date: "2/2/20"
@@ -2811,8 +2823,8 @@
   - date: "7/3/19"
     comment: "freezer instant pot meal. we eat with rice and naan. it's very tasty! very spicy but it was enjoyable. servings:6"
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
 - name: "pork ragu"
   comments:
   - date: "10/29/19"
@@ -2843,8 +2855,8 @@
     comment: ""
     url: "https://damndelicious.net/2016/09/24/sheet-pan-bruschetta-chicken/print/"
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
 - name: "fried rice"
   comments:
   - date: "8/27/19"
@@ -2861,8 +2873,8 @@
   - date: "7/11/19"
     comment: "freezer instant pot meal; really tasty! we have with tortillas, shredded cheddar cheese, sour cream, and valentina"
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
 - name: "oat balls"
   comments:
   - date: "6/28/19"
@@ -2932,8 +2944,8 @@
     comment: "these were amazing. used tomatillo salsa verde from other recipe. cooked 1 lb. chicken in big red cast iron as instructed, for only about 15 minutes at boiling. microwaved corn tortillas instead of frying because the first one stuck the pot. wrapped each tortilla with shredded chicken, a spoonful of salsa, and shredded monterrey jack cheese. covered the tops in salsa, more cheese, and about 6oz of sour cream."
     url: "https://cooking.nytimes.com/recipes/1018153-chicken-enchiladas-with-salsa-verde"
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
 - name: "butter chicken"
   comments:
   - date: "9/7/18"
@@ -2947,8 +2959,8 @@
     comment: "we don't puree, and we broil the chicken cut in slices but never chop it further"
     url: "http://www.bonappetit.com/recipe/butter-chicken"
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
 - name: "goulash"
   comments:
   - date: "9/5/18"
@@ -2973,9 +2985,9 @@
     comment: "amazingly delicious, and so amazingly simple"
     url: "http://www.bakedbyrachel.com/slow-cooker-chicken-tortilla-soup/"
   tags:
-  - "chicken"
-  - "dinner"
   - "slow-cooker"
+  - "dinner"
+  - "chicken"
   - "soup"
 - name: "chicken thighs"
   comments:
@@ -2989,8 +3001,8 @@
     comment: "Harrison's recipe, and this shit is GOOD and (critically:) simple"
     url: "http://www.bonappetit.com/recipe/perfect-pan-roasted-chicken-thighs"
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
 - name: "slow-cooker chicken tikka masala"
   comments:
   - date: "7/6/18"
@@ -2999,16 +3011,16 @@
     comment: "nothing like tikka masala but fucking delicious"
     url: "http://www.thekitchn.com/recipe-slow-cooker-chicken-tikka-masala-recipes-from-the-kitchn-211284"
   tags:
-  - "chicken"
-  - "dinner"
   - "slow-cooker"
+  - "dinner"
+  - "chicken"
 - name: "grilled chicken winglets"
   comments:
   - date: "6/17/18"
     comment: "lit about 25-30 briquettes by piling up in pyramid, covering in lighter fluid, then burning. It was just barely enough coal to cook all the chicken, and it took a while. But other than that, it went well!"
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
 - name: "chicken katsudon"
   comments:
   - date: "5/22/18"
@@ -3019,8 +3031,8 @@
     comment: "I would triple the sauce for two servings. Don't be afraid to let the onions cook forever because they are delicious...also, do try adding the chicken to the broth. And make sure you use panko along with a flour-egg dip."
     url: "http://www.seriouseats.com/recipes/2017/04/katsudon-japanese-leftover-cutlet-rice-egg-bowl-recipe.html"
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
 - name: "chicken salad with grapes, pecans"
   comments:
   - date: "5/21/18"
@@ -3040,8 +3052,8 @@
   - date: "2/19/13"
     comment: "highest taste-to-ease ratio ever!"
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
   - "salad"
 - name: "beef stroganoff"
   comments:
@@ -3107,16 +3119,16 @@
     comment: "bake in oven at 375F on convection, starting skin side down for 15, then flipping and cooking 15 more, coating skin with sauce, then cooking 15 more or so. they were oiled, and sitting on an oiled rack over a cookie tray"
     url: "http://www.foodnetwork.com/recipes/jeff-mauro/grilled-chicken-with-alabama-white-bbq-sauce-2810701"
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
 - name: "pumpkin pancakes, pumpkin muffins"
   comments:
   - date: "11/19/17"
     comment: "very dense, but fun; we follow the comments; then put the remaining batter in muffin tins at 375F for 15-20 mins or so"
     url: "http://allrecipes.com/recipe/17036/pumpkin-pancakes/"
   tags:
-  - "breakfast"
   - "cake"
+  - "breakfast"
 - name: "chevre-stuffed chicken breast with mushroom-butter sauce and pasta"
   comments:
   - date: "11/7/17"
@@ -3126,9 +3138,9 @@
   - date: "6/16/16"
     comment: ""
   tags:
-  - "chicken"
-  - "dinner"
   - "pasta"
+  - "dinner"
+  - "chicken"
 - name: "peanut butter chocolate chip cookies"
   comments:
   - date: "10/9/17"
@@ -3170,9 +3182,9 @@
   - date: "8/28/17"
     comment: ""
   tags:
-  - "bacon"
-  - "dinner"
   - "pasta"
+  - "dinner"
+  - "bacon"
 - name: "tuna steaks with rice and asparagus"
   comments:
   - date: "8/26/17"
@@ -3234,8 +3246,8 @@
     comment: ""
     url: "http://www.thekitchn.com/recipe-lamb-korma-recipes-from-the-kitchn-196350"
   tags:
-  - "dinner"
   - "lamb"
+  - "dinner"
 - name: "ramen"
   comments:
   - date: "5/14/17"
@@ -3288,8 +3300,8 @@
   - date: "3/30/17"
     comment: "second Blue Apron meal. Always use chicken breast with the skin still on! It's so much better this way. Lentil spice mix has thyme, bay leaf, mustard seeds, black pepper"
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
   - "salad"
 - name: "salmon chowder"
   comments:
@@ -3456,8 +3468,8 @@
   - date: "6/23/16"
     comment: "Best (and most pizza-like) pizza we've ever made. Mel's kitchen dough (single serving) makes enough for one pie on the large silver tray; we use 1c of hazan's tomato sauce (one recipe makes ~3c), about 2c of three-cheese mexican shredded cheese, about 6oz mushrooms (sliced, placed both under and on top of cheese), a bit more than 1/2lb of bacon (6 strips of 11, where 11 was 1/2lb), and listen to yourself about how much cheese and not to Jess"
   tags:
-  - "bacon"
   - "dinner"
+  - "bacon"
 - name: "kettle popcorn"
   comments:
   - date: "6/18/16"
@@ -3490,25 +3502,25 @@
   - date: "5/3/16"
     comment: ""
   tags:
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "hazan's pea, ricotta, and bacon pasta"
   comments:
   - date: "4/26/16"
     comment: "needs fewer peas, way more bacon (I'd suggest half a pound of bacon for a 1.5 times recipe.)"
   tags:
-  - "bacon"
-  - "dinner"
   - "pasta"
+  - "dinner"
+  - "bacon"
 - name: "chevre-stuffed chicken breast with lemon-butter sauce and pasta"
   comments:
   - date: "4/17/16"
     comment: ""
     url: "http://www.ostrommushrooms.com/recipes/sides/item/93-chevre-and-basil-filled-chicken-breasts"
   tags:
-  - "chicken"
-  - "dinner"
   - "pasta"
+  - "dinner"
+  - "chicken"
 - name: "dark chocolate sauce"
   comments:
   - date: "4/17/16"
@@ -3520,9 +3532,9 @@
   - date: "4/14/16"
     comment: ""
   tags:
+  - "pasta"
   - "dinner"
   - "pork"
-  - "pasta"
 - name: "roast veggies, quinoa, yogurt"
   comments:
   - date: "4/13/16"
@@ -3645,8 +3657,8 @@
   - date: "12/2/15"
     comment: "macaroni noodles, with a strip of bacon each and parmesan, salt/pepper added as well"
   tags:
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "marcella hazan's chickpea soup"
   comments:
   - date: "11/28/15"
@@ -3745,8 +3757,8 @@
   - date: "12/9/13"
     comment: "pioneer woman says use cake flour--they end up very cakey, but just okay"
   tags:
-  - "breakfast"
   - "cake"
+  - "breakfast"
 - name: "ham and mushroom cheese pizza"
   comments:
   - date: "6/11/15"
@@ -3766,16 +3778,16 @@
   - date: "4/18/15"
     comment: "unbelievable; so simple! delicious, and the ground sausage was an awesome combo; this actually tasted like italian food--the first time I've ever cooked such a thing"
   tags:
+  - "pasta"
   - "dinner"
   - "pork"
-  - "pasta"
 - name: "breaded chicken tacos"
   comments:
   - date: "5/26/15"
     comment: "one (cubed) chicken breast made enough for six tacos; lightly breaded in panko crumbs, served with refried black beans, fresh garden tomato, cheddar cheese, and avocado"
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
   - "tacos"
 - name: "pesto cheeseburgers"
   comments:
@@ -3797,8 +3809,8 @@
   - date: "5/14/15"
     comment: "nothing simpler; half a stick of butter, rosemary, a lemon, some paprika maybe; 35 minutes at 450F"
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
 - name: "peach crisp"
   comments:
   - date: "5/12/15"
@@ -3825,8 +3837,8 @@
     comment: ""
     url: "http://eatathomecooks.com/2012/05/african-pulled-beef-sandwiches-in-the-slow-cooker-with-yogurt-mint-sauce.html"
   tags:
-  - "dinner"
   - "slow-cooker"
+  - "dinner"
   - "sandwich"
   - "beef"
 - name: "cheesecake"
@@ -3928,15 +3940,15 @@
   - date: "7/15/14"
     comment: ""
   tags:
-  - "dinner"
   - "slow-cooker"
+  - "dinner"
 - name: "tuna pasta with garlic, spinach, parmesan"
   comments:
   - date: "8/11/14"
     comment: ""
   tags:
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "chocolate chip cookie cake"
   comments:
   - date: "8/11/14"
@@ -3949,8 +3961,8 @@
   - date: "8/6/14"
     comment: ""
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
   - "sandwich"
 - name: "almond sausage couscous"
   comments:
@@ -3979,8 +3991,8 @@
   - date: "5/14/13"
     comment: ""
   tags:
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "granola"
   comments:
   - date: "7/11/14"
@@ -4000,9 +4012,9 @@
   - date: "7/7/14"
     comment: "from the slow-cooker recipe book; used 1.6 lbs. of meat and that was still plenty"
   tags:
-  - "chicken"
-  - "dinner"
   - "slow-cooker"
+  - "dinner"
+  - "chicken"
   - "beef"
 - name: "blat"
   comments:
@@ -4025,8 +4037,8 @@
   - date: "2/26/13"
     comment: ""
   tags:
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "chocolate malt"
   comments:
   - date: "6/28/14"
@@ -4038,8 +4050,8 @@
   - date: "6/23/14"
     comment: "talk about people doing jobs they hate, and dumb people who click Edit to copy/paste"
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
   - "tacos"
 - name: "chocolate cashew ice cream"
   comments:
@@ -4060,8 +4072,8 @@
   - date: "8/3/13"
     comment: "surprisingly easy: rub butter and other stuff on it, and bake it for an hour"
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
 - name: "lemon rosemary shrub"
   comments:
   - date: "6/8/14"
@@ -4073,8 +4085,8 @@
   - date: "5/29/14"
     comment: "shredded zucchini sauteed with one bell pepper, one serrano pepper, served with angel hair pasta and parmesan cheese...surprisingly delicious"
   tags:
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "chicken katsu don"
   comments:
   - date: "5/24/14"
@@ -4083,8 +4095,8 @@
   - date: "3/1/14"
     comment: "pretty good! but maybe use miso without the seaweed"
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
 - name: "tequila mojito"
   comments:
   - date: "5/18/14"
@@ -4120,9 +4132,9 @@
   - date: "3/3/14"
     comment: ""
   tags:
+  - "lamb"
   - "dinner"
   - "curry"
-  - "lamb"
 - name: "peanut butter cookies with marshmallow topping"
   comments:
   - date: "2/24/14"
@@ -4135,8 +4147,8 @@
   - date: "2/23/14"
     comment: "good! very simple, and tasty"
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
 - name: "banana cream pie"
   comments:
   - date: "2/1/14"
@@ -4161,8 +4173,8 @@
   - date: "1/3/14"
     comment: "too easy, and just fine and delicious"
   tags:
-  - "dinner"
   - "slow-cooker"
+  - "dinner"
 - name: "peanut butter chocolate ice cream"
   comments:
   - date: "1/3/14"
@@ -4174,16 +4186,16 @@
   - date: "1/2/14"
     comment: ""
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
   - "tacos"
 - name: "peas and zucchini pasta"
   comments:
   - date: "1/1/14"
     comment: "too lemony"
   tags:
-  - "dinner"
   - "pasta"
+  - "dinner"
 - name: "turkey blt with avocado sandwiches, french fries"
   comments:
   - date: "12/2/13"
@@ -4196,9 +4208,9 @@
   - date: "11/23/13"
     comment: "somehow even better than yesterday"
   tags:
+  - "dinner"
   - "chicken"
   - "bacon"
-  - "dinner"
 - name: "ribeye steak, steamed kale, baked sweet potato"
   comments:
   - date: "11/22/13"
@@ -4234,8 +4246,8 @@
   - date: "8/4/13"
     comment: "Emre joins us, bringing blueberries"
   tags:
-  - "breakfast"
   - "cake"
+  - "breakfast"
 - name: "french fries"
   comments:
   - date: "10/20/13"
@@ -4248,8 +4260,8 @@
   - date: "10/6/13"
     comment: "first smoking! 5 lb. chicken over 2 hrs--quicker than expected but turned out good"
   tags:
-  - "chicken"
   - "dinner"
+  - "chicken"
 - name: "chocolate bark"
   comments:
   - date: "10/5/13"
@@ -4273,9 +4285,9 @@
   - date: "7/14/13"
     comment: ""
   tags:
+  - "pasta"
   - "dinner"
   - "beef"
-  - "pasta"
 - name: "lentil curry"
   comments:
   - date: "5/5/13"
@@ -4344,5 +4356,5 @@
   - date: "2/2/13"
     comment: ""
   tags:
-  - "dinner"
   - "pasta"
+  - "dinner"
